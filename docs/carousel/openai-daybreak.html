@@ -17,8 +17,9 @@
   }
   .container { max-width: 540px; width: 100%; }
 
+  /* ─── Slide ─── */
   .slide {
-    width: 540px; height: 675px; /* = 1080x1350 at 0.5x scale */
+    width: 540px; height: 675px;
     border-radius: 24px;
     margin-bottom: 2rem;
     position: relative; overflow: hidden;
@@ -28,183 +29,190 @@
     break-inside: avoid;
   }
 
-  /* Background image & gradient as actual elements (not ::before) */
+  /* Background layer — gradient + image overlay */
   .slide-bg {
     position: absolute; inset: 0; z-index: 0;
-    background: linear-gradient(145deg, #0a1628, #1a2744);
+    background: linear-gradient(145deg, #0a1628, #1c2d4a);
   }
   .slide-bg img {
-    width: 100%; height: 100%; object-fit: cover; opacity: 0.10;
+    width: 100%; height: 100%; object-fit: cover; opacity: 0.12;
   }
   .slide > * { position: relative; z-index: 1; }
 
-  /* Cover — top left, huge font */
-  .slide-cover { padding: 3.5rem 2.5rem; display: flex; flex-direction: column; }
+  /* ─── Cover (kiri atas, font besar) ─── */
+  .slide-cover {
+    padding: 3rem 2.25rem;
+    display: flex; flex-direction: column;
+  }
   .cover-badge {
     display: inline-flex; align-items: center;
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.12);
-    padding: 0.4rem 1.15rem; border-radius: 100px;
-    margin-bottom: 1.5rem; width: fit-content;
+    background: rgba(255,255,255,0.07);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.1);
+    padding: 0.35rem 1rem; border-radius: 100px;
+    margin-bottom: 1.25rem; width: fit-content;
   }
   .cover-badge span {
-    font-size: 0.7rem; font-weight: 600;
-    color: rgba(255,255,255,0.6);
-    text-transform: uppercase; letter-spacing: 0.04em;
+    font-size: 0.65rem; font-weight: 600;
+    color: rgba(255,255,255,0.5);
+    text-transform: uppercase; letter-spacing: 0.05em;
   }
   .cover-title {
-    font-size: 3rem; font-weight: 900; line-height: 1.05;
+    font-size: 2.5rem; font-weight: 900; line-height: 1.08;
     letter-spacing: -0.025em;
-    text-shadow: 0 2px 30px rgba(0,0,0,0.4);
+    text-shadow: 0 2px 25px rgba(0,0,0,0.5);
     margin-bottom: 0.75rem;
     max-width: 90%;
   }
   .cover-highlight { color: #f0b429; }
   .cover-sub {
-    font-size: 1.125rem; font-weight: 500;
-    color: rgba(255,255,255,0.55);
+    font-size: 1rem; font-weight: 500;
+    color: rgba(255,255,255,0.5);
     line-height: 1.4; max-width: 85%;
   }
   .cover-source {
-    font-size: 0.8rem; color: rgba(255,255,255,0.4);
+    font-size: 0.75rem; color: rgba(255,255,255,0.3);
     margin-top: auto;
   }
 
-  /* Content slides */
+  /* ─── Content Slides ─── */
   .slide-content {
-    padding: 2.5rem; display: flex; flex-direction: column;
-    justify-content: center; gap: 0.5rem;
+    padding: 2.25rem 2.25rem;
+    display: flex; flex-direction: column;
+    justify-content: center;
   }
   .slide-tag {
     display: inline-flex; align-items: center;
-    background: rgba(240,180,41,0.15);
-    border: 1px solid rgba(240,180,41,0.3);
-    padding: 0.3rem 1rem; border-radius: 100px;
-    font-size: 0.65rem; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 0.04em; color: #f0b429;
-    width: fit-content; margin-bottom: 0.5rem;
+    background: rgba(240,180,41,0.12);
+    border: 1px solid rgba(240,180,41,0.2);
+    padding: 0.25rem 0.9rem; border-radius: 100px;
+    font-size: 0.6rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em; color: #f0b429;
+    width: fit-content; margin-bottom: 0.75rem;
   }
   .slide-heading {
-    font-size: 1.75rem; font-weight: 800; line-height: 1.25;
-    letter-spacing: -0.01em; margin-bottom: 0.5rem;
+    font-size: 1.5rem; font-weight: 800; line-height: 1.2;
+    letter-spacing: -0.01em; margin-bottom: 0.6rem;
   }
   .slide-body {
-    font-size: 1rem; line-height: 1.65;
-    color: rgba(255,255,255,0.8); font-weight: 400;
+    font-size: 0.875rem; line-height: 1.65;
+    color: rgba(255,255,255,0.8);
   }
-  .slide-body p { margin-bottom: 0.6rem; }
+  .slide-body p { margin-bottom: 0.5rem; }
+
+  /* Bullet list — elegant checkmarks */
   .bullet-list {
     list-style: none; padding: 0;
-    margin-top: 0.4rem;
+    margin-top: 0.5rem;
+    display: flex; flex-direction: column; gap: 0.5rem;
   }
   .bullet-list li {
-    display: flex; align-items: flex-start; gap: 0.75rem;
-    font-size: 0.9rem; line-height: 1.5;
+    display: flex; align-items: flex-start; gap: 0.65rem;
+    font-size: 0.8125rem; line-height: 1.5;
     color: rgba(255,255,255,0.85);
-    padding: 0.4rem 0;
-    border-bottom: 1px solid rgba(255,255,255,0.05);
   }
-  .bullet-list li:last-child { border-bottom: none; }
   .bullet-list li .check {
     display: inline-flex; align-items: center; justify-content: center;
-    min-width: 22px; height: 22px;
+    min-width: 20px; height: 20px;
     background: #f0b429; color: #0a1628;
-    border-radius: 50%; font-size: 0.7rem; font-weight: 900;
-    flex-shrink: 0; margin-top: 0.15rem;
+    border-radius: 50%;
+    font-size: 0.6rem; font-weight: 900;
+    flex-shrink: 0; margin-top: 0.2rem;
   }
 
-  /* CTA */
+  /* ─── CTA ─── */
   .slide-cta {
     display: flex; flex-direction: column;
     justify-content: center; align-items: center;
-    text-align: center; padding: 3rem;
+    text-align: center; padding: 2.5rem;
   }
-  .cta-icon { font-size: 3rem; margin-bottom: 1rem; }
+  .cta-icon { font-size: 2.5rem; margin-bottom: 0.75rem; }
   .cta-title {
-    font-size: 2rem; font-weight: 900; line-height: 1.2;
-    margin-bottom: 0.75rem;
+    font-size: 1.75rem; font-weight: 900; line-height: 1.2;
+    margin-bottom: 0.5rem;
   }
   .cta-sub {
-    font-size: 1rem; color: rgba(255,255,255,0.6);
-    margin-bottom: 2rem; line-height: 1.6; max-width: 400px;
+    font-size: 0.875rem; color: rgba(255,255,255,0.55);
+    margin-bottom: 1.5rem; line-height: 1.6; max-width: 380px;
   }
   .cta-btn {
     display: inline-block;
     background: #f0b429;
-    color: #0a1628; font-weight: 800; font-size: 1rem;
-    padding: 1rem 2.5rem; border-radius: 14px;
-    box-shadow: 0 8px 30px rgba(240,180,41,0.3);
+    color: #0a1628; font-weight: 800; font-size: 0.875rem;
+    padding: 0.875rem 2.25rem; border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(240,180,41,0.25);
   }
 
-  /* Counter & Branding */
+  /* ─── Counter & Branding ─── */
   .slide-counter {
-    position: absolute; top: 1.25rem; right: 1.25rem;
-    font-size: 0.75rem; font-weight: 600;
-    color: rgba(255,255,255,0.3);
-    background: rgba(0,0,0,0.25); padding: 0.2rem 0.7rem;
+    position: absolute; top: 1.125rem; right: 1.125rem;
+    font-size: 0.7rem; font-weight: 600;
+    color: rgba(255,255,255,0.25);
+    background: rgba(0,0,0,0.2); padding: 0.15rem 0.65rem;
     border-radius: 100px;
   }
   .branding {
-    position: absolute; bottom: 1.25rem; left: 2.5rem;
-    font-size: 0.65rem; font-weight: 600;
-    color: rgba(255,255,255,0.15);
+    position: absolute; bottom: 1.125rem; left: 2.25rem;
+    font-size: 0.6rem; font-weight: 600;
+    color: rgba(255,255,255,0.12);
     letter-spacing: 0.05em;
-    display: flex; align-items: center; gap: 0.375rem;
+    display: flex; align-items: center; gap: 0.35rem;
   }
   .branding .dot {
-    width: 6px; height: 6px;
+    width: 5px; height: 5px;
     background: #f0b429; border-radius: 50%;
   }
 
-  /* Tier cards */
-  .tier-list { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.5rem; }
+  /* ─── Tier Cards ─── */
+  .tier-list { display: flex; flex-direction: column; gap: 0.4rem; margin-top: 0.5rem; }
   .tier-row {
-    display: flex; align-items: center; gap: 0.75rem;
-    background: rgba(255,255,255,0.04);
+    display: flex; align-items: center; gap: 0.65rem;
+    background: rgba(255,255,255,0.03);
     border: 1px solid rgba(255,255,255,0.06);
-    border-radius: 10px; padding: 0.6rem 1rem;
+    border-radius: 8px; padding: 0.5rem 0.875rem;
   }
   .tier-badge {
-    font-size: 0.6rem; font-weight: 800; text-transform: uppercase;
-    padding: 0.15rem 0.5rem; border-radius: 6px;
+    font-size: 0.55rem; font-weight: 800; text-transform: uppercase;
+    padding: 0.125rem 0.45rem; border-radius: 5px;
     background: rgba(240,180,41,0.15); color: #f0b429;
-    min-width: 52px; text-align: center;
+    min-width: 48px; text-align: center;
   }
-  .tier-badge.t1 { background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.5); }
-  .tier-badge.t3 { background: rgba(59,130,246,0.15); color: #3b82f6; }
-  .tier-label { font-size: 0.75rem; color: rgba(255,255,255,0.7); line-height: 1.3; }
+  .tier-badge.t1 { background: rgba(255,255,255,0.06); color: rgba(255,255,255,0.45); }
+  .tier-badge.t3 { background: rgba(59,130,246,0.12); color: #60a5fa; }
+  .tier-label { font-size: 0.7rem; color: rgba(255,255,255,0.65); line-height: 1.3; }
 
-  /* Partner chips */
-  .chip-cloud { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem; justify-content: center; }
+  /* ─── Partner Chips ─── */
+  .chip-cloud { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.5rem; justify-content: center; }
   .chip {
-    font-size: 0.65rem; font-weight: 600;
-    padding: 0.3rem 0.7rem;
-    background: rgba(255,255,255,0.06);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 8px; color: rgba(255,255,255,0.7);
+    font-size: 0.6rem; font-weight: 600;
+    padding: 0.25rem 0.6rem;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.07);
+    border-radius: 6px; color: rgba(255,255,255,0.65);
   }
 
-  /* Toolbar */
+  /* ─── Toolbar ─── */
   .toolbar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; justify-content: center; }
   .toolbar button {
-    display: inline-flex; align-items: center; gap: 0.4rem;
-    padding: 0.7rem 1.25rem; border-radius: 12px;
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    padding: 0.6rem 1.125rem; border-radius: 10px;
     border: none; font-family: 'Inter', sans-serif;
-    font-size: 0.8125rem; font-weight: 600; cursor: pointer;
+    font-size: 0.75rem; font-weight: 600; cursor: pointer;
     transition: 0.15s;
   }
-  .btn-gold { background: #f0b429; color: #0a1628; }
-  .btn-gold:hover { transform: translateY(-1px); box-shadow: 0 4px 20px rgba(240,180,41,0.3); }
+  .btn-primary { background: #f0b429; color: #0a1628; }
+  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 4px 15px rgba(240,180,41,0.3); }
   .btn-ghost { background: #1a212b; color: #8895aa; border: 1px solid #262f3d; }
   .btn-ghost:hover { background: #262f3d; }
 
+  /* ─── Instructions ─── */
   .instructions {
     background: #1a212b; border: 1px solid #262f3d;
-    border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
-    color: #8895aa; font-size: 0.8125rem; line-height: 1.6;
+    border-radius: 12px; padding: 1.125rem; margin-bottom: 1rem;
+    color: #8895aa; font-size: 0.75rem; line-height: 1.6;
   }
-  .instructions h3 { color: #e8edf5; font-size: 0.95rem; font-weight: 700; margin-bottom: 0.5rem; }
-  .instructions ol { padding-left: 1.2rem; }
+  .instructions h3 { color: #e8edf5; font-size: 0.875rem; font-weight: 700; margin-bottom: 0.4rem; }
+  .instructions ol { padding-left: 1.125rem; }
   .instructions li { margin-bottom: 0.2rem; }
 
   @media print {
@@ -221,34 +229,34 @@
 
   <!-- Toolbar -->
   <div class="toolbar">
-    <button class="btn-gold" onclick="downloadAllSlides()">📥 Download All PNGs</button>
-    <button class="btn-ghost" onclick="window.scrollTo({top:0,behavior:'smooth'})">↩️ Top</button>
+    <button class="btn-primary" onclick="downloadAllSlides()">📥 Download All PNGs</button>
+    <button class="btn-ghost" onclick="window.scrollTo({top:0,behavior:'smooth'})">↩️ Atas</button>
   </div>
 
   <!-- Instructions -->
   <div class="instructions">
     <h3>📸 Cara Download</h3>
     <ol>
-      <li>Klik <strong>"Download All PNGs"</strong> — semua slide terdownload otomatis (html2canvas)</li>
-      <li>Atau <strong>klik kanan</strong> tiap slide → "Save image as PNG" (paling reliable)</li>
-      <li>Upload semua PNG ke Instagram sebagai <strong>Carousel</strong></li>
+      <li>Klik <strong>"Download All PNGs"</strong> — semua slide otomatis ke-download</li>
+      <li>Atau <strong>klik kanan</strong> tiap slide → "Save image as PNG"</li>
+      <li>Upload ke Instagram sebagai <strong>Carousel</strong></li>
     </ol>
-    <p style="margin-top:0.4rem; color:#5a677c;">580×725px di layar · 1080×1350px asli · 9 slide</p>
+    <p style="margin-top:0.35rem; color:#5a677c;">1080×1350px · 9 slide · Format PNG</p>
   </div>
 
   <!-- 1/9 ─── COVER ─── -->
-  <div class="slide slide-cover" id="slide-1">
+  <div class="slide slide-cover" id="slide-01">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">1/9</span>
     <div class="cover-badge"><span>OpenAI</span></div>
     <h1 class="cover-title">OpenAI Luncurkan <span class="cover-highlight">Daybreak</span></h1>
-    <p class="cover-sub">Inisiatif Keamanan Siber Yang Menempatkan AI di Pusat Deteksi &amp; Perbaikan Kerentanan</p>
+    <p class="cover-sub">Inisiatif keamanan siber yang menempatkan AI di pusat deteksi &amp; perbaikan kerentanan</p>
     <div class="cover-source">MarkTechPost · 11 Mei 2026</div>
     <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 2/9 ─── INTRO ─── -->
-  <div class="slide slide-content" id="slide-2">
+  <div class="slide slide-content" id="slide-02">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">2/9</span>
     <span class="slide-tag">Latar Belakang</span>
@@ -261,13 +269,13 @@
   </div>
 
   <!-- 3/9 ─── KEMAMPUAN ─── -->
-  <div class="slide slide-content" id="slide-3">
+  <div class="slide slide-content" id="slide-03">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">3/9</span>
     <span class="slide-tag">Kemampuan</span>
-    <h2 class="slide-heading">Apa yang Bisa Dilakukan Daybreak?</h2>
+    <h2 class="slide-heading">Apa yang Bisa Dilakukan?</h2>
     <div class="slide-body">
-      <p>Codex Security mampu melakukan berbagai tugas keamanan secara otomatis:</p>
+      <p>Codex Security mampu mengotomatiskan berbagai tugas keamanan:</p>
       <ul class="bullet-list">
         <li><span class="check">✓</span><span><strong>Review kode</strong> — menganalisis codebase untuk celah keamanan</span></li>
         <li><span class="check">✓</span><span><strong>Threat modeling</strong> — memetakan jalur serangan spesifik</span></li>
@@ -279,30 +287,30 @@
   </div>
 
   <!-- 4/9 ─── CODEX ─── -->
-  <div class="slide slide-content" id="slide-4">
+  <div class="slide slide-content" id="slide-04">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">4/9</span>
     <span class="slide-tag">Codex Security</span>
     <h2 class="slide-heading">Bukan Produk Baru</h2>
     <div class="slide-body">
-      <p>Codex Security sudah diluncurkan <strong>Maret 2026</strong> sebagai agen keamanan. Daybreak memperluas scope-nya:</p>
+      <p>Codex Security sudah diluncurkan <strong>Maret 2026</strong>. Daybreak memperluas cakupannya:</p>
       <ul class="bullet-list">
-        <li><span class="check">✓</span><span>Dari <strong>alat coding</strong> menjadi <strong>platform enterprise</strong></span></li>
-        <li><span class="check">✓</span><span>Patches melalui <strong>review manusia</strong> — bukan autonomous</span></li>
-        <li><span class="check">✓</span><span>Hasil audit dikirim ke sistem keamanan yang ada</span></li>
+        <li><span class="check">✓</span><span>Dari alat coding menjadi <strong>platform enterprise</strong></span></li>
+        <li><span class="check">✓</span><span>Patches tetap melalui <strong>review manusia</strong></span></li>
+        <li><span class="check">✓</span><span>Hasil audit terintegrasi dengan sistem keamanan yang ada</span></li>
       </ul>
     </div>
     <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
   </div>
 
-  <!-- 5/9 ─── ACCESS TIERS ─── -->
-  <div class="slide slide-content" id="slide-5">
+  <!-- 5/9 ─── TIERS ─── -->
+  <div class="slide slide-content" id="slide-05">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">5/9</span>
     <span class="slide-tag">Trusted Access</span>
     <h2 class="slide-heading">Tiga Tingkat Akses</h2>
     <div class="slide-body">
-      <p style="margin-bottom:0.75rem;">Daybreak menggunakan kerangka <strong>Trusted Access for Cyber</strong> — akses bertingkat:</p>
+      <p style="margin-bottom:0.5rem;">Daybreak menggunakan kerangka <strong>Trusted Access for Cyber</strong>:</p>
       <div class="tier-list">
         <div class="tier-row">
           <span class="tier-badge t1">General</span>
@@ -322,13 +330,13 @@
   </div>
 
   <!-- 6/9 ─── PARTNERS ─── -->
-  <div class="slide slide-content" id="slide-6">
+  <div class="slide slide-content" id="slide-06">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">6/9</span>
     <span class="slide-tag">Ecosystem</span>
-    <h2 class="slide-heading">20+ Mitra Keamanan</h2>
+    <h2 class="slide-heading">20+ Mitra Keamanan Global</h2>
     <div class="slide-body">
-      <p style="margin-bottom:0.5rem;">Didukung mitra dari seluruh lapisan keamanan siber:</p>
+      <p style="margin-bottom:0.35rem;">Didukung mitra dari seluruh lapisan keamanan siber:</p>
       <div class="chip-cloud">
         <span class="chip">Cloudflare</span><span class="chip">Cisco</span>
         <span class="chip">CrowdStrike</span><span class="chip">Palo Alto</span>
@@ -345,7 +353,7 @@
   </div>
 
   <!-- 7/9 ─── COMPETITION ─── -->
-  <div class="slide slide-content" id="slide-7">
+  <div class="slide slide-content" id="slide-07">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">7/9</span>
     <span class="slide-tag">Kompetisi</span>
@@ -355,43 +363,44 @@
       <ul class="bullet-list">
         <li><span class="check">⚔</span><span><strong>Project Glasswing</strong> — inisiatif keamanan Anthropic</span></li>
         <li><span class="check">⚔</span><span><strong>Claude Mythos</strong> — model AI fokus keamanan</span></li>
-        <li><span class="check">⚔</span><span><strong>Mozilla</strong> temukan 271 kerentanan di Firefox pakai Claude Mythos</span></li>
+        <li><span class="check">⚔</span><span><strong>Mozilla</strong> temukan 271 kerentanan pakai Claude Mythos</span></li>
       </ul>
-      <p style="margin-top:0.5rem; color:rgba(255,255,255,0.4); font-size:0.85rem;">Persaingan AI keamanan siber semakin memanas!</p>
+      <p style="margin-top:0.5rem; color:rgba(255,255,255,0.35); font-size:0.75rem;">Persaingan AI keamanan siber semakin memanas.</p>
     </div>
     <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 8/9 ─── DUAL-USE ─── -->
-  <div class="slide slide-content" id="slide-8">
+  <div class="slide slide-content" id="slide-08">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">8/9</span>
     <span class="slide-tag">Dual-Use Risk</span>
     <h2 class="slide-heading">Pedang Bermata Dua</h2>
     <div class="slide-body">
+      <p>Kemampuan AI untuk keamanan juga bisa disalahgunakan:</p>
       <ul class="bullet-list">
         <li><span class="check">!</span><span>Riset kerentanan otomatis bisa dipakai <strong>attacker</strong></span></li>
         <li><span class="check">!</span><span>Pengembangan malware dan exploit creation</span></li>
         <li><span class="check">!</span><span>OpenAI menerapkan <strong>akses tiered</strong> sebagai mitigasi</span></li>
       </ul>
-      <p style="margin-top:0.75rem; color:#f0b429; font-size:0.85rem; font-weight:600;">Keamanan dan bahaya — dua sisi koin yang sama.</p>
+      <p style="margin-top:0.5rem; color:#f0b429; font-size:0.75rem; font-weight:700;">Keamanan dan bahaya — dua sisi koin yang sama.</p>
     </div>
     <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 9/9 ─── CTA ─── -->
-  <div class="slide slide-cta" id="slide-9">
+  <div class="slide slide-cta" id="slide-09">
     <div class="slide-bg"><img src="https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-10.png" alt="" crossorigin="anonymous" /></div>
     <span class="slide-counter">9/9</span>
     <div class="cta-icon">🛡️</div>
     <h2 class="cta-title">AI Mengubah Keamanan Siber</h2>
     <p class="cta-sub">
-      Daybreak belum sepenuhnya publik.<br />
-      Pantau terus perkembangan AI terkini!<br /><br />
+      Daybreak belum sepenuhnya publik.<br>
+      Pantau terus perkembangan AI terkini!<br><br>
       Follow <strong>@arief.drip</strong> untuk update setiap hari.
     </p>
     <span class="cta-btn">Ikuti @arief.drip</span>
-    <div class="branding" style="left:50%; transform:translateX(-50%); bottom:1.5rem;">
+    <div class="branding" style="left:50%; transform:translateX(-50%); bottom:1.25rem;">
       <span class="dot"></span> AI VIRAL NEWS
     </div>
   </div>
@@ -399,75 +408,48 @@
 </div>
 
 <script>
-// html2canvas-based download — improved version
-function downloadSlide(slideEl, filename) {
-  // Temporarily remove border-radius for clean capture
-  slideEl.style.borderRadius = '0';
-  
-  return html2canvas(slideEl, {
-    scale: 3,
-    useCORS: true,
-    allowTaint: true,
-    backgroundColor: '#0a1628',
-    logging: false,
-    width: 580,
-    height: 725,
+function downloadSlide(el, filename) {
+  el.style.borderRadius = '0';
+  return html2canvas(el, {
+    scale: 3, useCORS: true, allowTaint: true,
+    backgroundColor: '#0a1628', logging: false,
+    width: 540, height: 675,
   }).then(canvas => {
-    slideEl.style.borderRadius = '24px';
-    // Create 1080x1350 output canvas
-    const outCanvas = document.createElement('canvas');
-    outCanvas.width = 1080;
-    outCanvas.height = 1350;
-    const ctx = outCanvas.getContext('2d');
+    el.style.borderRadius = '24px';
+    const out = document.createElement('canvas');
+    out.width = 1080; out.height = 1350;
+    const ctx = out.getContext('2d');
     ctx.imageSmoothingQuality = 'high';
     ctx.drawImage(canvas, 0, 0, 1080, 1350);
-    
-    const link = document.createElement('a');
-    link.download = filename;
-    link.href = outCanvas.toDataURL('image/png');
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  }).catch(err => {
-    slideEl.style.borderRadius = '24px';
-    console.error('html2canvas error:', err);
-    alert('Gagal capture slide. Coba klik kanan → Save image as PNG.');
+    const a = document.createElement('a');
+    a.download = filename;
+    a.href = out.toDataURL('image/png');
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }).catch(e => {
+    el.style.borderRadius = '24px';
+    alert('Gagal capture. Coba klik kanan → Save image as PNG.');
   });
 }
 
 async function downloadAllSlides() {
-  const slides = document.querySelectorAll('.slide');
-  const total = slides.length;
-  
-  // Check if html2canvas is loaded
   if (typeof html2canvas === 'undefined') {
-    alert('Library html2canvas belum siap. Tunggu sebentar atau klik kanan tiap slide.');
+    alert('Library html2canvas belum siap. Coba refresh page.');
     return;
   }
-  
-  for (let i = 0; i < total; i++) {
-    const num = i + 1;
-    const slide = slides[i];
-    
-    slide.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  const slides = document.querySelectorAll('.slide');
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
     await new Promise(r => setTimeout(r, 300));
-    
-    try {
-      await downloadSlide(slide, `carousel-${String(num).padStart(2, '0')}.png`);
-      await new Promise(r => setTimeout(r, 200));
-    } catch (e) {
-      console.error('Slide', num, 'error:', e);
-    }
+    await downloadSlide(slides[i], `slide-${String(i+1).padStart(2,'0')}.png`);
+    await new Promise(r => setTimeout(r, 200));
   }
-  
-  alert(`✅ ${total} PNG selesai di-download!`);
+  alert(`✅ ${slides.length} PNG selesai!`);
 }
 
-// Keyboard shortcut: D = download all
-document.addEventListener('keydown', (e) => {
-  if ((e.key === 'd' || e.key === 'D') && !e.ctrlKey && !e.metaKey) {
-    downloadAllSlides();
-  }
+document.addEventListener('keydown', e => {
+  if ((e.key === 'd' || e.key === 'D') && !e.ctrlKey && !e.metaKey) downloadAllSlides();
 });
 </script>
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
