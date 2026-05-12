@@ -1,133 +1,568 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI Viral News</title>
+  <link rel="alternate" type="application/rss+xml" title="AI Viral News RSS" href="feed.xml" />
   <style>
+    /* ─── Reset & Variables ─────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --bg: #0d1117;
-      --card: #161b22;
-      --border: #30363d;
-      --text: #e6edf3;
-      --text-muted: #8b949e;
-      --accent: #58a6ff;
-      --green: #3fb950;
-      --orange: #d29922;
+      --bg: #0b0e14;
+      --surface: #12171f;
+      --surface2: #1a212b;
+      --border: #262f3d;
+      --border-hover: #3a4659;
+      --text: #e8edf5;
+      --text-dim: #8895aa;
+      --text-muted: #5a677c;
+      --accent: #6c8cff;
+      --accent-glow: rgba(108, 140, 255, 0.15);
+      --green: #34d399;
+      --orange: #fbbf24;
+      --red: #f87171;
+      --purple: #a78bfa;
+      --radius: 12px;
+      --radius-sm: 8px;
+      --shadow: 0 1px 3px rgba(0,0,0,0.4), 0 1px 2px rgba(0,0,0,0.3);
     }
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
-      padding: 2rem 1rem;
+      min-height: 100vh;
     }
-    .container { max-width: 720px; margin: 0 auto; }
 
+    /* ─── Header ────────────────────────────────────────────────────── */
     header {
-      text-align: center;
-      padding: 3rem 0;
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(11, 14, 20, 0.85);
+      backdrop-filter: blur(20px) saturate(1.4);
+      -webkit-backdrop-filter: blur(20px) saturate(1.4);
       border-bottom: 1px solid var(--border);
-      margin-bottom: 2rem;
+      padding: 0 1.5rem;
     }
-    h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: -0.02em; }
-    h1 span { background: linear-gradient(135deg, var(--accent), #a371f7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-    .subtitle { color: var(--text-muted); margin-top: 0.5rem; font-size: 1.1rem; }
-    .badge { display: inline-block; margin-top: 1rem; }
-    .badge a {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      background: #238636; color: #fff; padding: 0.5rem 1rem;
-      border-radius: 6px; text-decoration: none; font-size: 0.875rem;
-      font-weight: 600;
+    .header-inner {
+      max-width: 960px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 64px; gap: 1rem;
     }
-    .badge a:hover { background: #2ea043; }
+    .logo {
+      display: flex; align-items: center; gap: 0.75rem;
+      font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em;
+      text-decoration: none; color: var(--text);
+      white-space: nowrap;
+    }
+    .logo-icon {
+      width: 36px; height: 36px;
+      background: linear-gradient(135deg, var(--accent), var(--purple));
+      border-radius: var(--radius-sm);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.125rem;
+    }
+    .logo span { background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .header-actions { display: flex; align-items: center; gap: 0.5rem; }
+    .header-actions a {
+      color: var(--text-dim); text-decoration: none; font-size: 0.8125rem;
+      padding: 0.375rem 0.75rem; border-radius: var(--radius-sm);
+      transition: 0.15s; border: 1px solid transparent;
+    }
+    .header-actions a:hover { color: var(--text); background: var(--surface2); border-color: var(--border); }
+    .rss-badge {
+      display: inline-flex; align-items: center; gap: 0.375rem;
+      background: #f26522; color: #fff !important; border: none !important;
+      font-weight: 600; padding: 0.375rem 0.875rem !important;
+    }
+    .rss-badge:hover { background: #d95b1f !important; }
 
-    .section { margin-bottom: 2.5rem; }
-    .section h2 {
-      font-size: 1.25rem; font-weight: 700;
-      padding-bottom: 0.75rem;
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 1rem;
-      display: flex; align-items: center; gap: 0.5rem;
+    /* ─── Controls ──────────────────────────────────────────────────── */
+    .controls {
+      max-width: 960px; margin: 0 auto; padding: 1.25rem 1.5rem 0;
+      display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center;
+    }
+    .search-wrap {
+      flex: 1; min-width: 200px; position: relative;
+    }
+    .search-wrap input {
+      width: 100%; padding: 0.625rem 1rem 0.625rem 2.5rem;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); color: var(--text);
+      font-size: 0.875rem; outline: none; transition: 0.15s;
+    }
+    .search-wrap input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
+    .search-wrap input::placeholder { color: var(--text-muted); }
+    .search-icon {
+      position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%);
+      color: var(--text-muted); font-size: 1rem; pointer-events: none;
+    }
+    .filters {
+      display: flex; flex-wrap: wrap; gap: 0.5rem;
+    }
+    .filter-btn {
+      padding: 0.5rem 1rem; border-radius: 100px;
+      border: 1px solid var(--border); background: transparent;
+      color: var(--text-dim); font-size: 0.8125rem; font-weight: 500;
+      cursor: pointer; transition: 0.15s; white-space: nowrap;
+    }
+    .filter-btn:hover { border-color: var(--border-hover); color: var(--text); }
+    .filter-btn.active {
+      background: var(--accent); color: #fff; border-color: var(--accent);
+      box-shadow: 0 0 20px var(--accent-glow);
+    }
+    .stats {
+      color: var(--text-muted); font-size: 0.8125rem;
+      margin-left: auto; white-space: nowrap;
     }
 
+    /* ─── Feed Grid ─────────────────────────────────────────────────── */
+    .feed {
+      max-width: 960px; margin: 0 auto; padding: 1.25rem 1.5rem 3rem;
+      display: flex; flex-direction: column; gap: 0.75rem;
+    }
+
+    /* ─── Card ──────────────────────────────────────────────────────── */
     .card {
-      background: var(--card);
+      background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 1.25rem;
-      margin-bottom: 0.75rem;
-      transition: border-color 0.15s;
+      border-radius: var(--radius);
+      padding: 1.25rem 1.5rem;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+      cursor: pointer; position: relative; overflow: hidden;
     }
-    .card:hover { border-color: var(--accent); }
-    .card h3 { font-size: 1rem; margin-bottom: 0.35rem; }
-    .card h3 a { color: var(--accent); text-decoration: none; }
-    .card h3 a:hover { text-decoration: underline; }
-    .card p { color: var(--text-muted); font-size: 0.875rem; }
-    .card-meta {
-      display: flex; gap: 1rem; margin-top: 0.5rem;
-      font-size: 0.8rem; color: var(--text-muted);
+    .card::before {
+      content: ''; position: absolute; inset: 0;
+      background: linear-gradient(135deg, transparent 60%, var(--accent-glow));
+      opacity: 0; transition: 0.3s;
     }
-    .card-meta .tag {
-      display: inline-block; padding: 0.15rem 0.5rem;
-      border-radius: 4px; font-size: 0.75rem; font-weight: 600;
+    .card:hover {
+      border-color: var(--border-hover);
+      transform: translateY(-1px);
+      box-shadow: var(--shadow);
     }
-    .tag-reddit { background: #1a1a2e; color: #ff4500; }
-    .tag-rss { background: #1a2e1a; color: #4caf50; }
-    .tag-twitter { background: #1a2e3e; color: #1da1f2; }
+    .card:hover::before { opacity: 1; }
+    .card:active { transform: translateY(0); }
 
-    .footer {
-      text-align: center; padding: 2rem 0;
-      color: var(--text-muted); font-size: 0.875rem;
-      border-top: 1px solid var(--border);
+    .card-header {
+      display: flex; align-items: flex-start; gap: 0.75rem;
+      margin-bottom: 0.5rem; position: relative; z-index: 1;
     }
-    .footer a { color: var(--accent); }
+    .card-source-tag {
+      display: inline-flex; align-items: center; gap: 0.375rem;
+      padding: 0.125rem 0.625rem; border-radius: 100px;
+      font-size: 0.6875rem; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 0.03em; flex-shrink: 0; margin-top: 0.125rem;
+    }
+    .tag-Reddit { background: rgba(255,69,0,0.15); color: #ff6b35; }
+    .tag-Hacker { background: rgba(255,102,0,0.15); color: #ff6600; }
+    .tag-TechCrunch { background: rgba(0,255,128,0.12); color: #0cf; }
+    .tag-VentureBeat { background: rgba(102,51,255,0.15); color: #b386ff; }
+    .tag-MIT { background: rgba(255,200,0,0.12); color: #ffd700; }
+    .tag-HuggingFace { background: rgba(255,200,0,0.12); color: #ffd21e; }
+    .tag-Import { background: rgba(0,200,255,0.12); color: #00c8ff; }
+    .tag-MarkTechPost { background: rgba(255,100,100,0.12); color: #ff7878; }
+    .tag-Ars { background: rgba(200,200,200,0.12); color: #ccc; }
+    .tag-default { background: rgba(108,140,255,0.12); color: var(--accent); }
+
+    .card-title {
+      font-size: 1rem; font-weight: 600; line-height: 1.45;
+      flex: 1; min-width: 0;
+    }
+    .card-title a {
+      color: var(--text); text-decoration: none;
+      transition: 0.15s; position: relative; z-index: 2;
+    }
+    .card-title a:hover { color: var(--accent); }
+
+    .card-desc {
+      color: var(--text-dim); font-size: 0.8125rem; line-height: 1.6;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      overflow: hidden; position: relative; z-index: 1; margin-top: 0.25rem;
+    }
+
+    .card-footer {
+      display: flex; align-items: center; gap: 1rem;
+      margin-top: 0.75rem; font-size: 0.75rem; color: var(--text-muted);
+      position: relative; z-index: 1; flex-wrap: wrap;
+    }
+    .card-footer .engagement {
+      display: flex; align-items: center; gap: 0.25rem;
+      font-weight: 500; color: var(--text-dim);
+    }
+    .card-footer .time {
+      display: flex; align-items: center; gap: 0.25rem;
+    }
+    .card-footer .source-name {
+      margin-left: auto; color: var(--text-muted);
+      font-size: 0.6875rem;
+    }
+
+    /* ─── Empty / Loading ───────────────────────────────────────────── */
+    .empty-state {
+      text-align: center; padding: 4rem 1.5rem; color: var(--text-muted);
+    }
+    .empty-state .icon { font-size: 3rem; margin-bottom: 1rem; }
+    .empty-state h3 { color: var(--text-dim); margin-bottom: 0.5rem; }
+    .spinner {
+      display: inline-block; width: 24px; height: 24px;
+      border: 2px solid var(--border); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin 0.8s linear infinite;
+      margin: 2rem auto;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ─── Footer ────────────────────────────────────────────────────── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 2rem 1.5rem; text-align: center;
+      color: var(--text-muted); font-size: 0.8125rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ─── Toast ─────────────────────────────────────────────────────── */
+    .toast {
+      position: fixed; bottom: 1.5rem; right: 1.5rem; z-index: 100;
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); padding: 0.75rem 1.25rem;
+      font-size: 0.8125rem; color: var(--text-dim);
+      box-shadow: var(--shadow); opacity: 0; transform: translateY(10px);
+      transition: 0.3s cubic-bezier(0.4,0,0.2,1); pointer-events: none;
+    }
+    .toast.show { opacity: 1; transform: translateY(0); }
+
+    /* ─── Responsive ────────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      .header-inner { height: 56px; }
+      .logo { font-size: 1rem; }
+      .header-actions a:not(.rss-badge) { display: none; }
+      .controls { padding: 1rem 1rem 0; }
+      .feed { padding: 1rem 1rem 2rem; }
+      .card { padding: 1rem 1.125rem; }
+      .card-header { flex-direction: column; gap: 0.375rem; }
+      .card-source-tag { align-self: flex-start; }
+      .stats { display: none; }
+    }
   </style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>🤖 <span>AI Viral News</span></h1>
-      <p class="subtitle">Curated viral AI news from Reddit & tech blogs — updated every 4 hours</p>
-      <div class="badge">
-        <a href="feed.xml">📡 Subscribe to RSS Feed</a>
-      </div>
-    </header>
 
-    <div class="section">
-      <h2>📋 About</h2>
-      <div class="card">
-        <p>AI Viral News aggregates the hottest AI discussions from Reddit (r/artificial, r/MachineLearning, r/LocalLLaMA, etc.) and top AI/tech blogs, filtered by keywords and engagement.</p>
-        <div class="card-meta" style="margin-top: 0.75rem;">
-          <span>🔄 Updated every 4 hours</span>
-          <span>📊 Min. 100 upvotes (Reddit)</span>
-          <span>🔎 AI + ML keyword filtered</span>
-        </div>
+  <!-- ─── Header ─────────────────────────────────────────────────────── -->
+  <header>
+    <div class="header-inner">
+      <a href="/ai-viral-news/" class="logo">
+        <div class="logo-icon">🤖</div>
+        <span>AI Viral News</span>
+      </a>
+      <div class="header-actions">
+        <a href="#" onclick="window.open('','_self')?.scrollTo({top:0,behavior:'smooth'})">Refresh</a>
+        <a href="feed.xml" target="_blank" class="rss-badge">📡 RSS</a>
       </div>
     </div>
+  </header>
 
-    <div class="section">
-      <h2 id="sources">📡 Sources</h2>
-      <div class="card"><h3>🤖 Reddit</h3><p>r/artificial · r/MachineLearning · r/LocalLLaMA · r/singularity · r/OpenAI · r/StableDiffusion · r/technology</p></div>
-      <div class="card"><h3>📰 Blogs</h3><p>TechCrunch AI · The Verge AI · Ars Technica · VentureBeat AI · MIT Tech Review AI · HuggingFace Blog</p></div>
+  <!-- ─── Controls ──────────────────────────────────────────────────── -->
+  <div class="controls">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search" placeholder="Search AI news..." oninput="render()" />
     </div>
+    <div class="filters" id="filters"></div>
+    <div class="stats" id="stats"></div>
+  </div>
 
-    <div class="section">
-      <h2>📥 Subscribe</h2>
-      <div class="card">
-        <p>Add this URL to your favorite RSS reader (Feedly, Inoreader, etc.):</p>
-        <code style="display:block; margin-top:0.5rem; padding:0.75rem; background:#0d1117; border:1px solid var(--border); border-radius:6px; word-break:break-all;">
-          https://arief-drip.github.io/ai-viral-news/feed.xml
-        </code>
-        <p style="margin-top:0.5rem;">Also available in <a href="feed.json" style="color:var(--accent);">JSON format</a>.</p>
-      </div>
-    </div>
-
-    <div class="footer">
-      <p>Built with ❤️ by <a href="https://github.com/arief-drip">arief-drip</a></p>
-      <p><a href="https://github.com/arief-drip/ai-viral-news">GitHub Repository</a></p>
+  <!-- ─── Feed ──────────────────────────────────────────────────────── -->
+  <div class="feed" id="feed">
+    <div class="empty-state">
+      <div class="icon">🤖</div>
+      <div class="spinner"></div>
+      <h3>Loading AI news...</h3>
     </div>
   </div>
+
+  <!-- ─── Footer ────────────────────────────────────────────────────── -->
+  <footer>
+    <p>Curated AI news from top sources &bull; Updated every 4 hours</p>
+    <p style="margin-top: 0.25rem">
+      <a href="feed.xml">RSS Feed</a> &bull;
+      <a href="feed.json">JSON</a> &bull;
+      <a href="https://github.com/arief-drip/ai-viral-news" target="_blank">GitHub</a>
+    </p>
+  </footer>
+
+  <!-- ─── Toast ──────────────────────────────────────────────────────── -->
+  <div class="toast" id="toast"></div>
+
+  <script>
+    // ─── State ──────────────────────────────────────────────────────────
+    let allEntries = [];
+    let activeFilter = 'all';
+    const CACHE_KEY = 'ai-viral-news-cache';
+    const CACHE_TTL = 10 * 60 * 1000; // 10 min
+
+    // ─── Helpers ─────────────────────────────────────────────────────────
+    function timeAgo(date) {
+      const sec = Math.floor((Date.now() - date) / 1000);
+      if (sec < 60) return 'just now';
+      const min = Math.floor(sec / 60);
+      if (min < 60) return min + 'm ago';
+      const hr = Math.floor(min / 60);
+      if (hr < 24) return hr + 'h ago';
+      const day = Math.floor(hr / 24);
+      if (day < 30) return day + 'd ago';
+      return Math.floor(day / 30) + 'mo ago';
+    }
+
+    function getSourceTag(source) {
+      const tag = document.createElement('span');
+      tag.className = 'card-source-tag';
+      // Determine tag class from source name
+      let cls = 'tag-default';
+      const s = (source || '').toLowerCase();
+      if (s.includes('reddit')) cls = 'tag-Reddit';
+      else if (s.includes('hacker') || s.includes('hn')) cls = 'tag-Hacker';
+      else if (s.includes('techcrunch')) cls = 'tag-TechCrunch';
+      else if (s.includes('venturebeat')) cls = 'tag-VentureBeat';
+      else if (s.includes('mit') || s.includes('technology review')) cls = 'tag-MIT';
+      else if (s.includes('hugging')) cls = 'tag-HuggingFace';
+      else if (s.includes('import')) cls = 'tag-Import';
+      else if (s.includes('marktechpost')) cls = 'tag-MarkTechPost';
+      else if (s.includes('ars')) cls = 'tag-Ars';
+      tag.className = 'card-source-tag ' + cls;
+      tag.textContent = source;
+      return tag;
+    }
+
+    function getShortSource(source) {
+      if (!source) return '?';
+      if (source.length > 16) return source.slice(0, 14) + '…';
+      return source;
+    }
+
+    // ─── Fetch Data ──────────────────────────────────────────────────────
+    async function fetchFeed() {
+      // Try cache first
+      try {
+        const cached = localStorage.getItem(CACHE_KEY);
+        if (cached) {
+          const { data, ts } = JSON.parse(cached);
+          if (Date.now() - ts < CACHE_TTL) {
+            return data;
+          }
+        }
+      } catch(_) {}
+
+      try {
+        // Try JSON first (faster), fall back to RSS XML
+        const resp = await fetch('feed.json?' + Date.now(), { cache: 'no-store' });
+        if (resp.ok) {
+          const data = await resp.json();
+          try { localStorage.setItem(CACHE_KEY, JSON.stringify({ data, ts: Date.now() })); } catch(_) {}
+          return data;
+        }
+      } catch(_) {}
+
+      // Fallback: parse RSS XML
+      try {
+        const resp = await fetch('feed.xml?' + Date.now());
+        const xml = await resp.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(xml, 'text/xml');
+        const items = doc.querySelectorAll('item');
+        const entries = [];
+        items.forEach(item => {
+          const title = item.querySelector('title')?.textContent || '';
+          const link = item.querySelector('link')?.textContent || '';
+          const desc = item.querySelector('description')?.textContent || '';
+          const pubDate = item.querySelector('pubDate')?.textContent || '';
+          const category = item.querySelector('category')?.textContent || '';
+          entries.push({
+            title: title.replace(/^\[[^\]]+\]\s*/, ''),
+            icon: title.match(/^\[([^\]]+)\]/)?.[1] || '🤖',
+            link,
+            description: desc.replace(/<[^>]+>/g, '').trim(),
+            source: category || 'Unknown',
+            published: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+          });
+        });
+        return entries;
+      } catch(e) {
+        console.error('Failed to load feed:', e);
+        return [];
+      }
+    }
+
+    // ─── Extract unique icons from titles ───────────────────────────────
+    function getIcon(entry) {
+      // We stored icon in the JSON data
+      return entry.icon || '🤖';
+    }
+
+    // ─── Render ──────────────────────────────────────────────────────────
+    function render() {
+      const feed = document.getElementById('feed');
+      const searchVal = document.getElementById('search').value.toLowerCase().trim();
+
+      let filtered = allEntries;
+
+      // Filter by source
+      if (activeFilter !== 'all') {
+        filtered = filtered.filter(e => {
+          const src = (e.source || e.platform || '').toLowerCase();
+          return src.includes(activeFilter.toLowerCase());
+        });
+      }
+
+      // Filter by search
+      if (searchVal) {
+        filtered = filtered.filter(e =>
+          (e.title || '').toLowerCase().includes(searchVal) ||
+          (e.description || '').toLowerCase().includes(searchVal)
+        );
+      }
+
+      // Update stats
+      document.getElementById('stats').textContent = `${filtered.length} of ${allEntries.length} stories`;
+
+      if (filtered.length === 0) {
+        feed.innerHTML = `
+          <div class="empty-state">
+            <div class="icon">🔍</div>
+            <h3>No stories found</h3>
+            <p>Try a different search or filter</p>
+          </div>`;
+        return;
+      }
+
+      feed.innerHTML = '';
+      filtered.forEach((entry, i) => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.style.animationDelay = (i * 15) + 'ms';
+
+        const pubDate = entry.published ? new Date(entry.published) : new Date();
+        const source = entry.source || entry.platform || 'Unknown';
+
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-source-tag ${getTagClass(source)}">
+              ${getIcon(entry)} ${getShortSource(source)}
+            </span>
+            <div class="card-title">
+              <a href="${escapeHtml(entry.link)}" target="_blank" rel="noopener">
+                ${escapeHtml(entry.title)}
+              </a>
+            </div>
+          </div>
+          <div class="card-desc">${escapeHtml(entry.description || '').slice(0, 300)}</div>
+          <div class="card-footer">
+            <span class="engagement">${entry.engagement || '📡'}</span>
+            <span class="time">🕐 ${timeAgo(pubDate)}</span>
+            <span class="source-name">↗ ${getShortSource(source)}</span>
+          </div>
+        `;
+
+        // Click on card = open link
+        card.addEventListener('click', (e) => {
+          if (e.target.tagName !== 'A') {
+            const link = card.querySelector('a');
+            if (link) window.open(link.href, '_blank');
+          }
+        });
+
+        feed.appendChild(card);
+      });
+    }
+
+    function escapeHtml(text) {
+      const d = document.createElement('div');
+      d.textContent = text;
+      return d.innerHTML;
+    }
+
+    function getTagClass(source) {
+      const s = (source || '').toLowerCase();
+      if (s.includes('reddit')) return 'tag-Reddit';
+      if (s.includes('hacker')) return 'tag-Hacker';
+      if (s.includes('techcrunch')) return 'tag-TechCrunch';
+      if (s.includes('venturebeat')) return 'tag-VentureBeat';
+      if (s.includes('mit') || s.includes('technology review')) return 'tag-MIT';
+      if (s.includes('hugging')) return 'tag-HuggingFace';
+      if (s.includes('import')) return 'tag-Import';
+      if (s.includes('marktechpost')) return 'tag-MarkTechPost';
+      if (s.includes('ars')) return 'tag-Ars';
+      return 'tag-default';
+    }
+
+    // ─── Build Filters ──────────────────────────────────────────────────
+    function buildFilters() {
+      const container = document.getElementById('filters');
+      const sources = new Set();
+      allEntries.forEach(e => {
+        const src = e.source || e.platform || 'Unknown';
+        sources.add(src);
+      });
+
+      const sortedSources = ['all', ...Array.from(sources).sort()];
+
+      container.innerHTML = '';
+      sortedSources.forEach(src => {
+        const btn = document.createElement('button');
+        btn.className = 'filter-btn' + (src === activeFilter ? ' active' : '');
+        btn.textContent = src === 'all' ? '🔥 All' : src;
+        btn.onclick = () => {
+          activeFilter = src;
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          render();
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    // ─── Toast ──────────────────────────────────────────────────────────
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      clearTimeout(t._hide);
+      t._hide = setTimeout(() => t.classList.remove('show'), 3000);
+    }
+
+    // ─── Init ───────────────────────────────────────────────────────────
+    async function init() {
+      const data = await fetchFeed();
+      if (data && data.length > 0) {
+        allEntries = data;
+      } else {
+        document.getElementById('feed').innerHTML = `
+          <div class="empty-state">
+            <div class="icon">😕</div>
+            <h3>Couldn't load feed</h3>
+            <p>Check back later or <a href="feed.xml" style="color:var(--accent)">open the RSS feed directly</a></p>
+          </div>`;
+        return;
+      }
+
+      buildFilters();
+      render();
+      showToast(`Loaded ${allEntries.length} stories ✨`);
+    }
+
+    // ─── Auto-refresh every 10 min ──────────────────────────────────────
+    setInterval(async () => {
+      const data = await fetchFeed();
+      if (data && data.length > 0) {
+        allEntries = data;
+        buildFilters();
+        render();
+      }
+    }, 10 * 60 * 1000);
+
+    // ─── Start ──────────────────────────────────────────────────────────
+    init();
+  </script>
 </body>
 </html>
