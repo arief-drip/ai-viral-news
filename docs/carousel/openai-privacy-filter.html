@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Filter Data Pribadi — OpenAI Privacy Filter</title>
+
+<!-- Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      fontFamily: { inter: ['Inter', 'sans-serif'] },
+    }
+  }
+}
+</script>
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0a0a0a;
+  display: flex; flex-direction: column; align-items: center;
+  padding: 2rem 1rem;
+  font-family: 'Inter', sans-serif;
+}
+.carousel-container {
+  display: flex; flex-direction: column; align-items: center; gap: 1.5rem;
+  max-width: 600px;
+}
+.slide {
+  position: relative;
+  width: 540px;
+  height: 675px;
+  border-radius: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #fff;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+/* Print */
+@media print {
+  body { padding: 0; background: #fff; }
+  .carousel-container { gap: 0; }
+  .slide { box-shadow: none; border: 1px solid #333; page-break-after: always; break-inside: avoid; }
+  .instructions { display: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="carousel-container">
+
+  <!-- SLIDE 1: COVER — Azure Harmony -->
+  <div class="slide flex flex-col justify-start px-8 pt-10 pb-6 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-20">
+    </div>
+    <!-- Decorative elements -->
+    <div class="absolute -top-16 -right-16 w-48 h-48 rounded-full opacity-15" style="background: #F0A135;"></div>
+    <div class="absolute top-1/3 -left-10 w-32 h-32 rounded-lg opacity-10" style="background: #79C4C1; transform: rotate(20deg);"></div>
+    <div class="absolute bottom-24 right-8 w-20 h-1 opacity-25" style="background: #F0A135;"></div>
+    
+    <!-- Content -->
+    <div class="relative z-10 mb-auto">
+      <span class="inline-block text-[0.6rem] font-semibold uppercase tracking-widest px-3 py-1.5 border rounded mb-4" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">
+        🔒 OPENAI — PRIVACY FILTER
+      </span>
+    </div>
+    
+    <div class="relative z-10">
+      <div class="text-5xl font-black leading-[1.05] mb-3">
+        AI Filter<br>
+        <span style="color: #F0A135;">Data Pribadi</span>
+      </div>
+      <div class="text-sm opacity-60 max-w-[85%] leading-relaxed">
+        OpenAI rilis PII detector open-source. Deteksi nama, alamat, email dalam sekali proses.
+      </div>
+    </div>
+    
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 2: APA ITU — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <!-- Decorative -->
+    <div class="absolute top-10 -right-8 w-24 h-24 rounded-full opacity-12" style="background: #79C4C1;"></div>
+    <div class="absolute bottom-16 -left-6 w-16 h-16 rounded-lg opacity-15" style="background: #F0A135; transform: rotate(45deg);"></div>
+    <div class="absolute top-1/2 left-1/3 w-12 h-0.5 opacity-20" style="background: #F0A135; transform: rotate(-45deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">2/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">Apa Ini?</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">Pendeteksi Data Pribadi</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>OpenAI <strong>Privacy Filter</strong> adalah model open-source (Apache 2.0) yang mendeteksi informasi pribadi (PII) dalam teks.</p>
+      <p class="pt-1">Bisa deteksi <strong>8 kategori</strong> dalam sekali proses:</p>
+      <ul class="space-y-1.5 mt-2">
+        <li class="flex items-start gap-2 text-xs">
+          <span class="text-gold font-bold shrink-0 mt-0.5" style="color: #F0A135;">▸</span>
+          <span>private_person, private_address, private_email, private_phone</span>
+        </li>
+        <li class="flex items-start gap-2 text-xs">
+          <span class="text-gold font-bold shrink-0 mt-0.5" style="color: #F0A135;">▸</span>
+          <span>private_url, private_date, account_number, secret</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 3: MODEL — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -bottom-10 -right-10 w-36 h-36 rounded-full opacity-12" style="background: #F0A135;"></div>
+    <div class="absolute top-16 left-6 w-20 h-20 rounded-lg opacity-8" style="background: #79C4C1; transform: rotate(30deg);"></div>
+    <div class="absolute bottom-32 right-12 w-8 h-8 rounded-full opacity-15" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">3/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">Spesifikasi</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">Model 1.5B Parameter</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Privacy Filter punya <strong>1.5 miliar parameter</strong> — tapi cuma 50 juta yang aktif per forward pass (Mixture of Experts).</p>
+      <p class="pt-1">Konteknya <strong>128.000 token</strong> — bisa proses dokumen panjang dalam sekali jalan.</p>
+      <p class="pt-1">Sudah capai <strong>state-of-the-art</strong> di benchmark PII-Masking-300k.</p>
+    </div>
+    <!-- Stat boxes -->
+    <div class="relative z-10 flex gap-3 mt-4">
+      <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background: rgba(240, 180, 41, 0.12); border: 1px solid rgba(240, 180, 41, 0.2);">
+        <div class="text-xl font-black" style="color: #F0A135;">1.5B</div>
+        <div class="text-[0.6rem] opacity-60 mt-0.5">Parameter</div>
+      </div>
+      <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background: rgba(121, 196, 193, 0.12); border: 1px solid rgba(121, 196, 193, 0.2);">
+        <div class="text-xl font-black" style="color: #79C4C1;">50M</div>
+        <div class="text-[0.6rem] opacity-60 mt-0.5">Aktif per pass</div>
+      </div>
+      <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background: rgba(240, 180, 41, 0.12); border: 1px solid rgba(240, 180, 41, 0.2);">
+        <div class="text-xl font-black" style="color: #F0A135;">128K</div>
+        <div class="text-[0.6rem] opacity-60 mt-0.5">Token konteks</div>
+      </div>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 4: APP 1 — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -top-8 -left-8 w-32 h-32 rounded-full opacity-10" style="background: #79C4C1;"></div>
+    <div class="absolute bottom-20 -right-8 w-28 h-28 rounded-xl opacity-10" style="background: #F0A135; transform: rotate(-15deg);"></div>
+    <div class="absolute top-1/3 right-10 w-16 h-0.5 opacity-15" style="background: #79C4C1;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">4/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">App #1</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">📄 Document Privacy Explorer</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Drop file PDF/DOCX — semua PII ter-highlight otomatis per kategori.</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #F0A135; color: #0F1B2E;">1</span>
+          <span>Forward pass tunggal 128k token — tanpa chunking</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #79C4C1; color: #0F1B2E;">2</span>
+          <span>Filter sidebar per kategori + dashboard summary</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #F0A135; color: #0F1B2E;">3</span>
+          <span>Tampilan dokumen seperti reader normal, bukan form</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 5: APP 2 — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute top-8 -right-10 w-28 h-28 rounded-full opacity-12" style="background: #F0A135;"></div>
+    <div class="absolute -bottom-6 left-10 w-36 h-20 rounded-xl opacity-8" style="background: #79C4C1; transform: rotate(-10deg);"></div>
+    <div class="absolute top-2/3 right-8 w-6 h-6 rounded-full opacity-20" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">5/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">App #2</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">🖼️ Image Anonymizer</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Upload screenshot — PII langsung di-blur dengan <strong>black bars</strong> otomatis.</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #79C4C1; color: #0F1B2E;">◆</span>
+          <span>OCR (Tesseract) → Privacy Filter → pixel boxes</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #F0A135; color: #0F1B2E;">◆</span>
+          <span>Toggle bars on/off, drag reposition, draw manual</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #79C4C1; color: #0F1B2E;">◆</span>
+          <span>Canvas editor + PNG export client-side</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 6: APP 3 — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -top-10 left-4 w-24 h-24 rounded-full opacity-12" style="background: #F0A135;"></div>
+    <div class="absolute bottom-12 -right-8 w-20 h-20 rounded-xl opacity-10" style="background: #79C4C1; transform: rotate(25deg);"></div>
+    <div class="absolute top-1/2 left-8 w-10 h-0.5 opacity-15" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">6/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">App #3</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">📋 SmartRedact Paste</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Seperti Pastebin tapi dengan <strong>redaksi PII otomatis</strong>. Dapatkan 2 URL:</p>
+      <div class="flex gap-3 mt-3">
+        <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background: rgba(240, 180, 41, 0.1); border: 1px solid rgba(240, 180, 41, 0.15);">
+          <div class="text-xs font-bold" style="color: #F0A135;">🔓 PUBLIC</div>
+          <div class="text-[0.55rem] opacity-60 mt-1">Redacted<br>&lt;EMAIL&gt; &lt;PHONE&gt;</div>
+        </div>
+        <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background: rgba(121, 196, 193, 0.1); border: 1px solid rgba(121, 196, 193, 0.15);">
+          <div class="text-xs font-bold" style="color: #79C4C1;">🔐 PRIVATE</div>
+          <div class="text-[0.55rem] opacity-60 mt-1">Token-gated<br>Original + spans</div>
+        </div>
+      </div>
+      <p class="text-xs opacity-70 pt-1">Multilingual — Spanyol, Prancis, Mandarin, Hindi, dan lainnya.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 7: GRADIO SERVER — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -bottom-8 -left-8 w-40 h-40 rounded-full opacity-10" style="background: #79C4C1;"></div>
+    <div class="absolute top-12 right-4 w-24 h-16 rounded-xl opacity-10" style="background: #F0A135; transform: rotate(12deg);"></div>
+    <div class="absolute bottom-1/3 right-10 w-3 h-3 rounded-full opacity-25" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">7/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">Teknologi</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">⚡ gradio.Server</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Semua 3 app dibangun di atas <strong>gradio.Server</strong> — backend yang menggabungkan:</p>
+      <ul class="space-y-1.5 mt-2">
+        <li class="flex items-start gap-2 text-xs">
+          <span class="font-bold shrink-0" style="color: #F0A135;">✓</span>
+          <span>Custom HTML/JS frontend + Gradio queue</span>
+        </li>
+        <li class="flex items-start gap-2 text-xs">
+          <span class="font-bold shrink-0" style="color: #F0A135;">✓</span>
+          <span>ZeroGPU allocation via @spaces.GPU</span>
+        </li>
+        <li class="flex items-start gap-2 text-xs">
+          <span class="font-bold shrink-0" style="color: #F0A135;">✓</span>
+          <span>gradio_client SDK — akses dari Python/browser</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 8: ARSITEKTUR — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -top-8 -right-8 w-20 h-20 rounded-full opacity-15" style="background: #F0A135;"></div>
+    <div class="absolute bottom-16 left-6 w-14 h-14 rounded-lg opacity-12" style="background: #79C4C1; transform: rotate(-20deg);"></div>
+    <div class="absolute top-2/3 right-6 w-24 h-0.5 opacity-15" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">8/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">Arsitektur</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">🗄️ Satu Proses, Dua Dunia</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80">
+      <p class="mb-2">Semua app punya pola yang sama:</p>
+      <div class="rounded-xl px-4 py-3 mb-2" style="background: rgba(240, 180, 41, 0.08); border-left: 3px solid #F0A135;">
+        <p class="text-xs font-bold" style="color: #F0A135;">@server.api</p>
+        <p class="text-xs opacity-70">Model call → Gradio queue → ZeroGPU</p>
+      </div>
+      <div class="rounded-xl px-4 py-3" style="background: rgba(121, 196, 193, 0.08); border-left: 3px solid #79C4C1;">
+        <p class="text-xs font-bold" style="color: #79C4C1;">@server.get / @server.post</p>
+        <p class="text-xs opacity-70">FastAPI routes — HTML, file lookup, cheap reads</p>
+      </div>
+      <p class="text-xs opacity-60 mt-2">Satu endpoint, dua SDK (browser + Python), zero duplicated code.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 9: DAMPAK — Azure Harmony -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-8">
+    </div>
+    <div class="absolute -bottom-6 -right-4 w-32 h-32 rounded-full opacity-12" style="background: #F0A135;"></div>
+    <div class="absolute top-16 -left-6 w-20 h-20 rounded-xl opacity-10" style="background: #79C4C1; transform: rotate(35deg);"></div>
+    <div class="absolute bottom-1/2 left-1/4 w-2 h-2 rounded-full opacity-30" style="background: #F0A135;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">9/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color: rgba(240, 180, 41, 0.3); color: #F0A135;">Dampak</span>
+    <h2 class="relative z-10 text-2xl font-extrabold leading-tight mb-3">🌍 Privasi untuk Semua</h2>
+    <div class="relative z-10 text-sm leading-relaxed opacity-80 space-y-2">
+      <p>Open-source (Apache 2.0) artinya <strong>siapa pun</strong> bisa deploy sendiri:</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #F0A135; color: #0F1B2E;">✓</span>
+          <span>Startup bisa filter data pengguna otomatis</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #79C4C1; color: #0F1B2E;">✓</span>
+          <span>Jurnalis bisa share dokumen tanpa bocorin sumber</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-xs">
+          <span class="w-5 h-5 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-0.5" style="background: #F0A135; color: #0F1B2E;">✓</span>
+          <span>Developer integrate lewat 1 baris kode Python</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- SLIDE 10: CTA — Azure Harmony -->
+  <div class="slide flex flex-col justify-center items-center text-center px-8 py-10 font-inter" style="background: linear-gradient(145deg, #0F1B2E, #1A3554);">
+    <div class="absolute inset-0 z-0">
+      <img src="openai-privacy-filter-img1.jpg" alt="" class="w-full h-full object-cover opacity-10">
+    </div>
+    <div class="absolute -top-12 -left-12 w-44 h-44 rounded-full opacity-12" style="background: #79C4C1;"></div>
+    <div class="absolute -bottom-8 -right-8 w-36 h-36 rounded-full opacity-15" style="background: #F0A135;"></div>
+    <div class="absolute top-1/3 -right-4 w-5 h-5 rounded-full opacity-20" style="background: #F0A135;"></div>
+    <div class="absolute bottom-1/4 left-6 w-12 h-12 rounded-lg opacity-8" style="background: #79C4C1; transform: rotate(45deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">10/10</span>
+    
+    <div class="relative z-10 text-4xl mb-4">🔒</div>
+    <h2 class="relative z-10 text-3xl font-black leading-tight mb-2">AI untuk Privasi</h2>
+    <p class="relative z-10 text-sm opacity-60 max-w-[80%] mb-6">Dapatkan update AI & tech setiap hari — curated untuk Indonesia</p>
+    <span class="relative z-10 inline-block text-lg font-extrabold px-6 py-3 rounded-xl shadow-lg" style="background: #F0A135; color: #0F1B2E; box-shadow: 0 8px 30px rgba(240, 180, 41, 0.35);">
+      Ikuti @arief.drip
+    </span>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full inline-block" style="background: #F0A135;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+</div>
+
+<!-- Instructions -->
+<div class="instructions max-w-[540px] mt-8 p-5 rounded-xl" style="background: #1a1a1a; color: #ccc; font-size: 0.85rem; line-height: 1.6;">
+  <h3 class="text-sm font-bold mb-3" style="color: #F0A135;">📥 Download Carousel (3 Cara)</h3>
+  <ol class="pl-4 space-y-1.5 text-xs opacity-80">
+    <li><strong>Klik kanan slide → "Save as PNG"</strong> — termudah, selalu work</li>
+    <li><strong>Tombol "Download All"</strong> di bawah — html2canvas batch</li>
+    <li><strong>Playwright capture</strong> — <code class="px-1 py-0.5 rounded text-[0.7rem]" style="background: #333;">python scripts/carousel-capture.py</code></li>
+  </ol>
+  <button id="downloadAll" class="mt-3 px-5 py-2.5 rounded-lg font-bold text-sm border-none cursor-pointer" style="background: #F0A135; color: #0F1B2E; font-family: 'Inter', sans-serif;">
+    📥 Download All PNGs
+  </button>
+  <div id="progress" class="mt-2 text-xs" style="color: #F0A135;"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script>
+document.getElementById('downloadAll').addEventListener('click', async () => {
+  const slides = document.querySelectorAll('.slide');
+  const progress = document.getElementById('progress');
+  for (let i = 0; i < slides.length; i++) {
+    progress.textContent = `Processing slide ${i+1}/${slides.length}...`;
+    try {
+      const canvas = await html2canvas(slides[i], {
+        scale: 3, useCORS: true, allowTaint: true,
+        backgroundColor: '#0F1B2E', logging: false,
+        width: 540, height: 675,
+      });
+      const out = document.createElement('canvas');
+      out.width = 1080; out.height = 1350;
+      const ctx = out.getContext('2d');
+      ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(canvas, 0, 0, 1080, 1350);
+      const link = document.createElement('a');
+      link.download = `carousel-${String(i+1).padStart(2,'0')}.png`;
+      link.href = out.toDataURL('image/png');
+      link.click();
+    } catch(e) {
+      progress.textContent = `Error on slide ${i+1}: ${e.message}`;
+    }
+  }
+  progress.textContent = '✅ All done!';
+});
+</script>
+
+</body>
+</html>
