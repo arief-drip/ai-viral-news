@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -16,6 +17,7 @@
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   }
   .container { max-width: 580px; width: 100%; }
+
   .slide {
     width: 100%; aspect-ratio: 1080/1350;
     border-radius: 24px;
@@ -38,44 +40,53 @@
   }
   .slide > * { position: relative; z-index: 1; }
 
-  /* Cover */
+  /* Cover - top left, huge font */
   .slide-cover {
-    justify-content: flex-end; padding: 3rem 2.5rem;
+    justify-content: flex-start;
+    padding: 3.5rem 2.5rem;
     text-align: left;
   }
   .slide-cover::before { opacity: 0.15; }
   .cover-badge {
-    display: inline-flex; align-items: center; gap: 0.5rem;
+    display: inline-flex; align-items: center;
     background: rgba(255,255,255,0.08);
     backdrop-filter: blur(12px);
     border: 1px solid rgba(255,255,255,0.12);
-    padding: 0.4rem 1rem; border-radius: 100px;
-    margin-bottom: 1.25rem; width: fit-content;
+    padding: 0.4rem 1.15rem; border-radius: 100px;
+    margin-bottom: 1.5rem; width: fit-content;
   }
-  .cover-badge img { height: 18px; }
-  .cover-badge span { font-size: 0.7rem; font-weight: 600; color: rgba(255,255,255,0.6); text-transform: uppercase; letter-spacing: 0.04em; }
+  .cover-badge span {
+    font-size: 0.7rem; font-weight: 600;
+    color: rgba(255,255,255,0.6);
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
   .cover-title {
-    font-size: 2.5rem; font-weight: 900; line-height: 1.1;
-    letter-spacing: -0.02em;
+    font-size: 3rem; font-weight: 900; line-height: 1.05;
+    letter-spacing: -0.025em;
     text-shadow: 0 2px 30px rgba(0,0,0,0.4);
     margin-bottom: 1rem;
+    max-width: 90%;
   }
-  .cover-highlight {
-    color: #f0b429;
+  .cover-highlight { color: #f0b429; }
+  .cover-sub {
+    font-size: 1.125rem; font-weight: 500;
+    color: rgba(255,255,255,0.55);
+    line-height: 1.4; max-width: 85%;
   }
   .cover-source {
-    font-size: 0.8rem; color: rgba(255,255,255,0.5);
+    font-size: 0.8rem; color: rgba(255,255,255,0.4);
+    margin-top: auto;
   }
 
   /* Content */
   .slide-content {
     padding: 2.5rem; justify-content: center;
-    gap: 0.75rem;
+    gap: 0.5rem;
   }
   .slide-tag {
     display: inline-flex; align-items: center;
     background: rgba(240,180,41,0.15);
-    border: 1px solid rgba(240,180,41,0.25);
+    border: 1px solid rgba(240,180,41,0.3);
     padding: 0.3rem 1rem; border-radius: 100px;
     font-size: 0.65rem; font-weight: 700; text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -84,7 +95,7 @@
   }
   .slide-heading {
     font-size: 1.75rem; font-weight: 800; line-height: 1.2;
-    letter-spacing: -0.01em; margin-bottom: 0.75rem;
+    letter-spacing: -0.01em; margin-bottom: 0.5rem;
   }
   .slide-body {
     font-size: 1rem; line-height: 1.6;
@@ -95,7 +106,7 @@
   .bullet-list {
     list-style: none; padding: 0;
     display: flex; flex-direction: column; gap: 0.6rem;
-    margin-top: 0.5rem;
+    margin-top: 0.4rem;
   }
   .bullet-list li {
     display: flex; align-items: flex-start; gap: 0.75rem;
@@ -103,7 +114,7 @@
     color: rgba(255,255,255,0.85);
   }
   .bullet-list li::before {
-    content: 'âœ“';
+    content: '✓';
     display: inline-flex; align-items: center; justify-content: center;
     min-width: 22px; height: 22px;
     background: #f0b429; color: #0a1628;
@@ -134,7 +145,6 @@
     box-shadow: 0 8px 30px rgba(240,180,41,0.3);
   }
 
-  /* Counter */
   .slide-counter {
     position: absolute; top: 1.25rem; right: 1.25rem;
     font-size: 0.75rem; font-weight: 600;
@@ -142,8 +152,6 @@
     background: rgba(0,0,0,0.25); padding: 0.2rem 0.7rem;
     border-radius: 100px; backdrop-filter: blur(8px);
   }
-
-  /* Branding */
   .branding {
     position: absolute; bottom: 1.25rem; left: 2.5rem;
     font-size: 0.65rem; font-weight: 600;
@@ -159,7 +167,7 @@
   /* Tier cards */
   .tier-grid {
     display: flex; flex-direction: column; gap: 0.5rem;
-    margin-top: 0.75rem;
+    margin-top: 0.5rem;
   }
   .tier-item {
     display: flex; align-items: center; gap: 0.75rem;
@@ -180,7 +188,7 @@
   /* Partner cloud */
   .partner-cloud {
     display: flex; flex-wrap: wrap; gap: 0.4rem;
-    margin-top: 0.75rem; justify-content: center;
+    margin-top: 0.5rem; justify-content: center;
   }
   .partner-chip {
     font-size: 0.65rem; font-weight: 600;
@@ -190,15 +198,53 @@
     border-radius: 8px; color: rgba(255,255,255,0.7);
   }
 
-  /* Instructions */
+  /* Toolbar */
+  .toolbar {
+    display: flex; flex-wrap: wrap; gap: 0.5rem;
+    margin-bottom: 1.5rem; justify-content: center;
+  }
+  .toolbar button {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.7rem 1.25rem; border-radius: 12px;
+    border: none; font-family: 'Inter', sans-serif;
+    font-size: 0.8125rem; font-weight: 600; cursor: pointer;
+    transition: 0.15s;
+  }
+  .btn-download-all {
+    background: #f0b429; color: #0a1628;
+  }
+  .btn-download-all:hover { transform: translateY(-1px); box-shadow: 0 4px 20px rgba(240,180,41,0.3); }
+  .btn-reset {
+    background: #1a212b; color: #8895aa;
+    border: 1px solid #262f3d;
+  }
+  .btn-reset:hover { background: #262f3d; }
+
+  /* Progress */
+  .progress-wrap {
+    display: none; margin-bottom: 1rem;
+    background: #1a212b; border-radius: 12px;
+    padding: 1rem; text-align: center;
+  }
+  .progress-wrap.active { display: block; }
+  .progress-bar {
+    width: 100%; height: 6px;
+    background: #262f3d; border-radius: 3px;
+    overflow: hidden; margin-top: 0.5rem;
+  }
+  .progress-fill {
+    height: 100%; width: 0%;
+    background: #f0b429;
+    border-radius: 3px; transition: width 0.3s;
+  }
+  .progress-text { font-size: 0.8125rem; color: #8895aa; }
+
   .instructions {
     background: #1a212b; border: 1px solid #262f3d;
-    border-radius: 12px; padding: 1.25rem; margin-bottom: 2rem;
+    border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem;
     color: #8895aa; font-size: 0.8125rem; line-height: 1.6;
   }
-  .instructions h3 {
-    color: #e8edf5; font-size: 0.95rem; font-weight: 700; margin-bottom: 0.5rem;
-  }
+  .instructions h3 { color: #e8edf5; font-size: 0.95rem; font-weight: 700; margin-bottom: 0.5rem; }
   .instructions ol { padding-left: 1.2rem; }
   .instructions li { margin-bottom: 0.2rem; }
 
@@ -206,7 +252,7 @@
     body { background: #fff; padding: 0; }
     .container { max-width: 100%; }
     .slide { border-radius: 0; box-shadow: none; margin: 0; page-break-after: always; }
-    .instructions { display: none; }
+    .toolbar, .instructions, .progress-wrap { display: none !important; }
   }
 </style>
 </head>
@@ -214,96 +260,103 @@
 
 <div class="container">
 
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <button class="btn-download-all" onclick="downloadAllSlides()">📥 Download All PNGs</button>
+    <button class="btn-reset" onclick="resetCarousel()">↩️ Reset</button>
+  </div>
+
+  <!-- Progress -->
+  <div class="progress-wrap" id="progressWrap">
+    <div class="progress-text" id="progressText">Processing...</div>
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+  </div>
+
+  <!-- Instructions -->
   <div class="instructions">
-    <h3>📸 Cara Simpan Tiap Slide</h3>
+    <h3>📸 Cara Download</h3>
     <ol>
-      <li><strong>Klik kanan</strong> pada slide → <strong>"Save image as PNG"</strong> / "Save as Picture"</li>
-      <li>Atau: buka DevTools (F12) → pilih slide → screenshot</li>
-      <li>Upload semua slide ke Instagram sebagai <strong>Carousel</strong></li>
+      <li>Klik <strong>"Download All PNGs"</strong> — semua slide terdownload otomatis</li>
+      <li>Atau <strong>klik kanan</strong> tiap slide → "Save image as PNG"</li>
+      <li>Upload semua PNG ke Instagram sebagai <strong>Carousel</strong></li>
     </ol>
-    <p style="margin-top:0.4rem; color:#5a677c;">Ukuran: 1080Ã—1350px — 9 slide</p>
+    <p style="margin-top:0.4rem; color:#5a677c;">1080×1350px · 9 slide · Format PNG</p>
   </div>
 
   <!-- 1/9 ─── COVER ─── -->
-  <div class="slide slide-cover">
+  <div class="slide slide-cover" id="slide-1">
     <span class="slide-counter">1/9</span>
-    <div class="cover-badge">
-      <span>OpenAI</span>
-    </div>
-    <h1 class="cover-title">
-      OpenAI Luncurkan <span class="cover-highlight">Daybreak</span>
-    </h1>
-    <p style="font-size:1.125rem; color:rgba(255,255,255,0.6); font-weight:500; line-height:1.4; margin-bottom:1.5rem;">
-      Inisiatif Keamanan Siber Yang Menempatkan AI di Pusat Deteksi &amp; Perbaikan Kerentanan
-    </p>
-    <div class="cover-source">MarkTechPost &bull; 11 Mei 2026</div>
+    <div class="cover-badge"><span>OpenAI</span></div>
+    <h1 class="cover-title">OpenAI Luncurkan <span class="cover-highlight">Daybreak</span></h1>
+    <p class="cover-sub">Inisiatif Keamanan Siber Yang Menempatkan AI di Pusat Deteksi &amp; Perbaikan Kerentanan</p>
+    <div class="cover-source">MarkTechPost · 11 Mei 2026</div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 2/9 ─── INTRO ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-2">
     <span class="slide-counter">2/9</span>
     <span class="slide-tag">Latar Belakang</span>
     <h2 class="slide-heading">Apa Itu Daybreak?</h2>
     <div class="slide-body">
-      <p>OpenAI baru saja meluncurkan <strong>Daybreak</strong>, sebuah inisiatif keamanan siber yang menggabungkan model AI frontier dengan <strong>Codex Security</strong> — agen keamanan berbasis AI milik OpenAI.</p>
-      <p>Tujuannya: mengubah pendekatan keamanan perangkat lunak dari reaktif menjadi <strong>proaktif</strong> — mendeteksi dan memperbaiki kerentanan sejak awal siklus pengembangan.</p>
+      <p>OpenAI meluncurkan <strong>Daybreak</strong>, inisiatif keamanan siber yang menggabungkan model AI frontier dengan <strong>Codex Security</strong> — agen keamanan berbasis AI.</p>
+      <p>Tujuannya: mengubah keamanan perangkat lunak dari <strong>reaktif</strong> menjadi <strong>proaktif</strong> — mendeteksi dan memperbaiki kerentanan sejak awal pengembangan.</p>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 3/9 ─── KEMAMPUAN ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-3">
     <span class="slide-counter">3/9</span>
     <span class="slide-tag">Kemampuan Utama</span>
     <h2 class="slide-heading">Apa yang Bisa Dilakukan Daybreak?</h2>
     <div class="slide-body">
       <p>Codex Security mampu melakukan berbagai tugas keamanan secara otomatis:</p>
       <ul class="bullet-list">
-        <li><strong>Review kode</strong> — menganalisis seluruh codebase untuk menemukan celah keamanan</li>
+        <li><strong>Review kode</strong> — menganalisis codebase untuk menemukan celah keamanan</li>
         <li><strong>Threat modeling</strong> — memetakan jalur serangan spesifik berdasarkan kode aktual</li>
-        <li><strong>Validasi patch</strong> — menghasilkan dan memverifikasi perbaikan di lingkungan terisolasi</li>
-        <li><strong>Analisis dependensi</strong> — memeriksa rantai pasok perangkat lunak (third-party packages)</li>
+        <li><strong>Validasi patch</strong> — menghasilkan &amp; memverifikasi perbaikan di lingkungan terisolasi</li>
+        <li><strong>Analisis dependensi</strong> — memeriksa rantai pasok perangkat lunak</li>
       </ul>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 4/9 ─── CODEX SECURITY ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-4">
     <span class="slide-counter">4/9</span>
     <span class="slide-tag">Codex Security</span>
-    <h2 class="slide-heading">Bukan Produk Baru, Tapi Kini Diperluas</h2>
+    <h2 class="slide-heading">Bukan Produk Baru, Kini Diperluas</h2>
     <div class="slide-body">
-      <p>Codex Security sebenarnya sudah diluncurkan pada <strong>Maret 2026</strong> sebagai agen keamanan aplikasi OpenAI. Daybreak memperluas scope-nya secara signifikan:</p>
+      <p>Codex Security sudah diluncurkan <strong>Maret 2026</strong> sebagai agen keamanan aplikasi. Daybreak memperluas scope-nya:</p>
       <ul class="bullet-list">
-        <li>Dari <strong>alat coding</strong> developer menjadi <strong>platform keamanan enterprise</strong></li>
-        <li>Patches tetap melalui <strong>review manusia</strong> — bukan autonomous remediation</li>
-        <li>Hasil audit dikirim ke sistem keamanan yang sudah ada untuk dilacak</li>
+        <li>Dari <strong>alat coding</strong> menjadi <strong>platform keamanan enterprise</strong></li>
+        <li>Patches melalui <strong>review manusia</strong> — bukan autonomous</li>
+        <li>Hasil audit dikirim ke sistem keamanan yang sudah ada</li>
       </ul>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 5/9 ─── ACCESS TIERS ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-5">
     <span class="slide-counter">5/9</span>
     <span class="slide-tag">Trusted Access</span>
-    <h2 class="slide-heading">Tiga Tingkat Akses</h2>
+    <h2 class="slide-heading">Tiga Tingkat Akses Keamanan</h2>
     <div class="slide-body">
-      <p>Daybreak menggunakan kerangka <strong>Trusted Access for Cyber</strong> — akses bertingkat berdasarkan verifikasi pengguna:</p>
+      <p>Daybreak menggunakan kerangka <strong>Trusted Access for Cyber</strong> — akses bertingkat:</p>
       <div class="tier-grid">
         <div class="tier-item">
           <span class="tier-level general">General</span>
-          <span class="tier-desc">GPT-5.5 standar. Untuk penggunaan umum tanpa izin keamanan khusus</span>
+          <span class="tier-desc">GPT-5.5 standar tanpa izin khusus</span>
         </div>
         <div class="tier-item">
-          <span class="tier-level" style="color:#f0b429;background:rgba(240,180,41,0.15);">Verified</span>
-          <span class="tier-desc">Code review aman, triage kerentanan, analisis malware, validasi patch</span>
+          <span class="tier-level">Verified</span>
+          <span class="tier-desc">Code review, triage kerentanan, malware analysis</span>
         </div>
         <div class="tier-item">
           <span class="tier-level preview">Preview</span>
-          <span class="tier-desc">Red teaming, penetration testing, validasi dalam alur kerja resmi</span>
+          <span class="tier-desc">Red teaming, penetration testing</span>
         </div>
       </div>
     </div>
@@ -311,12 +364,12 @@
   </div>
 
   <!-- 6/9 ─── PARTNERS ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-6">
     <span class="slide-counter">6/9</span>
     <span class="slide-tag">Ecosystem</span>
-    <h2 class="slide-heading">Mitra Strategis Dari Seluruh Industri</h2>
+    <h2 class="slide-heading">20+ Mitra Keamanan Global</h2>
     <div class="slide-body">
-      <p>Daybreak didukung oleh jaringan mitra keamanan terbesar:</p>
+      <p>Daybreak didukung mitra dari seluruh lapisan keamanan siber:</p>
       <div class="partner-cloud">
         <span class="partner-chip">Cloudflare</span>
         <span class="partner-chip">Cisco</span>
@@ -331,72 +384,139 @@
         <span class="partner-chip">Rapid7</span>
         <span class="partner-chip">Tenable</span>
         <span class="partner-chip">Trail of Bits</span>
-        <span class="partner-chip">SpecterOps</span>
         <span class="partner-chip">SentinelOne</span>
         <span class="partner-chip">Okta</span>
         <span class="partner-chip">Netskope</span>
         <span class="partner-chip">Snyk</span>
-        <span class="partner-chip">Socket</span>
         <span class="partner-chip">Semgrep</span>
       </div>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
-  <!-- 7/9 ─── PERBANDINGAN ─── -->
-  <div class="slide slide-content">
+  <!-- 7/9 ─── COMPETITION ─── -->
+  <div class="slide slide-content" id="slide-7">
     <span class="slide-counter">7/9</span>
     <span class="slide-tag">Persaingan</span>
-    <h2 class="slide-heading">Daybreak vs. Kompetitor</h2>
+    <h2 class="slide-heading">Berlawanan Dengan Anthropic</h2>
     <div class="slide-body">
-      <p>Peluncuran Daybreak terjadi sekitar sebulan setelah:</p>
+      <p>Daybreak hadir sebulan setelah inisiatif serupa dari kompetitor:</p>
       <ul class="bullet-list">
-        <li><strong>Anthropic Project Glasswing</strong> &mdash; inisiatif keamanan siber berbasis Claude</li>
-        <li><strong>Claude Mythos</strong> &mdash; model AI fokus keamanan dari Anthropic</li>
-        <li><strong>Mozilla</strong> berhasil menemukan <strong>271 kerentanan</strong> di Firefox menggunakan Claude Mythos</li>
+        <li><strong>Project Glasswing</strong> — inisiatif keamanan siber Anthropic</li>
+        <li><strong>Claude Mythos</strong> — model AI fokus keamanan</li>
+        <li><strong>Mozilla</strong> temukan <strong>271 kerentanan</strong> di Firefox pakai Claude Mythos</li>
       </ul>
       <p style="margin-top:0.75rem; color:rgba(255,255,255,0.5); font-size:0.85rem;">
-        Persaingan AI keamanan siber semakin memanas &mdash; baik OpenAI maupun Anthropic berlomba melindungi infrastruktur digital.
+        Persaingan AI keamanan siber semakin memanas!
       </p>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 8/9 ─── DUAL-USE ─── -->
-  <div class="slide slide-content">
+  <div class="slide slide-content" id="slide-8">
     <span class="slide-counter">8/9</span>
     <span class="slide-tag">Dual-Use Risk</span>
     <h2 class="slide-heading">Pedang Bermata Dua</h2>
     <div class="slide-body">
-      <p>Peneliti dan badan pemerintah menyoroti risiko penggunaan ganda (dual-use):</p>
+      <p>Kemampuan AI untuk keamanan juga bisa disalahgunakan:</p>
       <ul class="bullet-list">
-        <li>Kemampuan yang sama yang membantu <strong>defender</strong> juga bisa membantu <strong>attacker</strong></li>
-        <li>Termasuk: riset kerentanan otomatis, pengembangan malware, dan pembuatan exploit</li>
-        <li>OpenAI membahas risiko ini secara eksplisit &mdash; akses tiered adalah salah satu jawabannya</li>
+        <li>Riset kerentanan otomatis bisa dipakai <strong>attacker</strong></li>
+        <li>Pengembangan malware dan exploit creation</li>
+        <li>OpenAI menerapkan <strong>akses tiered</strong> sebagai mitigasi</li>
       </ul>
       <p style="margin-top:0.75rem; color:#f0b429; font-size:0.85rem; font-weight:600;">
-        Keamanan dan bahaya adalah dua sisi koin yang sama &mdash; OpenAI memilih transparansi.
+        Keamanan dan bahaya — dua sisi koin yang sama.
       </p>
     </div>
     <div class="branding"><span class="logo-dot"></span> AI VIRAL NEWS</div>
   </div>
 
   <!-- 9/9 ─── CTA ─── -->
-  <div class="slide slide-cta">
+  <div class="slide slide-cta" id="slide-9">
     <span class="slide-counter">9/9</span>
     <div class="cta-icon">🛡️</div>
-    <h2 class="cta-title">AI Sedang Mengubah Keamanan Siber</h2>
+    <h2 class="cta-title">AI Mengubah Keamanan Siber</h2>
     <p class="cta-sub">
-      Daybreak belum sepenuhnya publik. Organisasi bisa request vulnerability scan sekarang.<br>
-      Pantau terus perkembangan AI terkini!
+      Daybreak belum sepenuhnya publik.<br>
+      Pantau terus perkembangan AI terkini!<br><br>
+      Follow <strong>@arief.drip</strong> untuk update setiap hari.
     </p>
-    <span class="cta-btn">Ikuti â‡’ @ainews</span>
+    <span class="cta-btn">Ikuti @arief.drip</span>
     <div class="branding" style="left:50%; transform:translateX(-50%); bottom:1.5rem;">
       <span class="logo-dot"></span> AI VIRAL NEWS
     </div>
   </div>
 
 </div>
+
+<script>
+  function downloadSlide(slideEl, filename) {
+    return html2canvas(slideEl, {
+      scale: 2,
+      useCORS: true,
+      allowTaint: false,
+      backgroundColor: null,
+      logging: false,
+      width: 1080,
+      height: 1350,
+    }).then(canvas => {
+      const link = document.createElement('a');
+      link.download = filename;
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    });
+  }
+
+  async function downloadAllSlides() {
+    const slides = document.querySelectorAll('.slide');
+    const total = slides.length;
+    const wrap = document.getElementById('progressWrap');
+    const fill = document.getElementById('progressFill');
+    const text = document.getElementById('progressText');
+
+    wrap.classList.add('active');
+    fill.style.width = '0%';
+    text.textContent = 'Preparing...';
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    await new Promise(r => setTimeout(r, 500));
+
+    for (let i = 0; i < total; i++) {
+      const slide = slides[i];
+      const num = i + 1;
+      text.textContent = `Downloading slide ${num}/${total}...`;
+      fill.style.width = `${((i) / total) * 100}%`;
+
+      slide.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      await new Promise(r => setTimeout(r, 400));
+
+      try {
+        await downloadSlide(slide, `carousel-${String(num).padStart(2, '0')}.png`);
+        await new Promise(r => setTimeout(r, 300));
+      } catch (e) {
+        console.error('Slide', num, 'error:', e);
+        text.textContent = `Error on slide ${num}`;
+        return;
+      }
+    }
+
+    fill.style.width = '100%';
+    text.textContent = `✅ Done! ${total} PNGs downloaded.`;
+    setTimeout(() => wrap.classList.remove('active'), 3000);
+  }
+
+  function resetCarousel() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    document.getElementById('progressWrap').classList.remove('active');
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if ((e.key === 'd' || e.key === 'D') && !e.ctrlKey && !e.metaKey) {
+      downloadAllSlides();
+    }
+  });
+</script>
 
 </body>
 </html>
