@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jasa AC Balikpapan — Service & Pasang AC Profesional</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { inter: ['Inter', 'sans-serif'] },
+          colors: {
+            navy: { 900: '#0F1B2E', 800: '#1A2744', 700: '#1A3554' },
+            gold: { 400: '#F0A135', 500: '#D4892A' },
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family: 'Inter', sans-serif; }
+    .hero-glow { position: absolute; width: 300px; height: 300px; border-radius: 50%; filter: blur(100px); opacity: 0.15; pointer-events: none; }
+  </style>
+</head>
+<body class="bg-navy-900 text-white font-inter">
+
+  <!-- NAV -->
+  <nav class="fixed top-0 w-full z-50 bg-navy-900/80 backdrop-blur-lg border-b border-white/5">
+    <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div class="flex items-center gap-2">
+        <div class="w-8 h-8 rounded-lg bg-gold-400 flex items-center justify-center text-navy-900 font-black text-sm">AC</div>
+        <span class="font-bold text-sm tracking-tight">JASA AC BALIKPAPAN</span>
+      </div>
+      <div class="hidden md:flex items-center gap-8 text-sm text-white/60">
+        <a href="#layanan" class="hover:text-gold-400 transition">Layanan</a>
+        <a href="#tentang" class="hover:text-gold-400 transition">Tentang</a>
+        <a href="#kontak" class="hover:text-gold-400 transition">Kontak</a>
+      </div>
+      <a href="#kontak" class="bg-gold-400 text-navy-900 px-5 py-2 rounded-lg text-sm font-bold hover:bg-gold-500 transition shadow-lg shadow-gold-400/20">
+        📞 Hubungi
+      </a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="min-h-screen flex items-center relative overflow-hidden pt-16">
+    <div class="hero-glow bg-gold-400 -top-20 -right-20"></div>
+    <div class="hero-glow bg-blue-400 -bottom-20 -left-20"></div>
+    
+    <div class="max-w-6xl mx-auto px-6 py-20 w-full">
+      <div class="max-w-2xl">
+        <div class="inline-flex items-center gap-2 bg-white/5 border border-white/10 rounded-full px-4 py-1.5 text-xs text-gold-400 font-medium mb-6">
+          <span class="w-2 h-2 rounded-full bg-gold-400 animate-pulse"></span>
+          SIAP SERVICE 24 JAM
+        </div>
+        
+        <h1 class="text-5xl md:text-7xl font-black leading-[1.05] mb-4">
+          AC Bermasalah?<br>
+          <span class="text-gold-400">Kami Siap</span> Bantu!
+        </h1>
+        
+        <p class="text-lg text-white/50 leading-relaxed max-w-lg mb-8">
+          Layanan service, cuci, pasang, dan bongkar AC profesional di seluruh Balikpapan. Teknisi berpengalaman, harga transparan, bergaransi.
+        </p>
+        
+        <div class="flex flex-wrap gap-3">
+          <a href="#kontak" class="bg-gold-400 text-navy-900 px-7 py-3.5 rounded-xl text-base font-bold hover:bg-gold-500 transition shadow-xl shadow-gold-400/25 flex items-center gap-2">
+            📞 Hubungi Sekarang
+          </a>
+          <a href="#layanan" class="border border-white/20 text-white/80 px-7 py-3.5 rounded-xl text-base font-medium hover:border-white/40 transition">
+            Lihat Layanan ↓
+          </a>
+        </div>
+
+        <!-- Stats -->
+        <div class="grid grid-cols-3 gap-6 mt-12 pt-8 border-t border-white/5">
+          <div>
+            <div class="text-2xl font-black text-gold-400">50+</div>
+            <div class="text-xs text-white/40 mt-1">Pelanggan Puas</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-gold-400">5+</div>
+            <div class="text-xs text-white/40 mt-1">Tahun Pengalaman</div>
+          </div>
+          <div>
+            <div class="text-2xl font-black text-gold-400">100%</div>
+            <div class="text-xs text-white/40 mt-1">Garansi Servis</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LAYANAN -->
+  <section id="layanan" class="py-24 relative">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <span class="text-xs font-semibold uppercase tracking-widest text-gold-400">Layanan</span>
+        <h2 class="text-3xl md:text-5xl font-black mt-2">Semua Kebutuhan AC</h2>
+        <p class="text-white/40 mt-3 max-w-md mx-auto">Dari rumah sampai kantor — kami tangani semua jenis dan merek AC.</p>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-6">
+        <!-- Card 1 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">🧼</div>
+          <h3 class="text-xl font-bold mb-2">Cuci AC</h3>
+          <p class="text-sm text-white/40 leading-relaxed">Bersihkan AC dari debu dan kotoran. Hasil lebih dingin, hemat listrik, dan umur AC lebih panjang.</p>
+          <p class="text-xs text-gold-400 mt-4 font-semibold">Mulai dari Rp 50K</p>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">🔧</div>
+          <h3 class="text-xl font-bold mb-2">Service & Perbaikan</h3>
+          <p class="text-sm text-white/40 leading-relaxed">AC bocor, tidak dingin, bunyi berisik? Teknisi kami datang, diagnosa, dan perbaiki di tempat.</p>
+          <p class="text-xs text-gold-400 mt-4 font-semibold">Garansi 1 Bulan</p>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">⚡</div>
+          <h3 class="text-xl font-bold mb-2">Pasang AC Baru</h3>
+          <p class="text-sm text-white/40 leading-relaxed">Instalasi AC baru profesional. Termasuk pemasangan bracket, pipa, dan kelistrikan. Rapi & aman.</p>
+          <p class="text-xs text-gold-400 mt-4 font-semibold">Bebas Biaya Konsultasi</p>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">🔄</div>
+          <h3 class="text-xl font-bold mb-2">Bongkar Pasang</h3>
+          <p class="text-sm text-white/40 leading-relaxed">Pindah AC dari rumah lama ke baru. Dibongkar rapi, dipasang kembali, ditest — jamin berfungsi.</p>
+        </div>
+
+        <!-- Card 5 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">🧊</div>
+          <h3 class="text-xl font-bold mb-2">Isi Freon & Tambah Freon</h3>
+          <p class="text-sm text-white/40 leading-relaxed">AC kurang dingin? Mungkin freon habis. Cek dan isi ulang freon dengan harga bersahabat.</p>
+        </div>
+
+        <!-- Card 6 -->
+        <div class="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:border-gold-400/20 transition group">
+          <div class="w-12 h-12 rounded-xl bg-gold-400/10 flex items-center justify-center text-xl mb-5 group-hover:bg-gold-400/20 transition">🛒</div>
+          <h3 class="text-xl font-bold mb-2">Jual AC Baru & Bekas</h3>
+          <p class="text-sm text-white/40 leading-relaxed">Butuh AC baru atau second dengan harga miring? Kami punya stok berbagai merek dan ukuran.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MENGAPA KAMI -->
+  <section id="tentang" class="py-24 bg-black/20">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="text-center mb-16">
+        <span class="text-xs font-semibold uppercase tracking-widest text-gold-400">Mengapa Kami</span>
+        <h2 class="text-3xl md:text-5xl font-black mt-2">Kenapa Pilih Kami?</h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div class="flex gap-4">
+          <div class="w-10 h-10 rounded-lg bg-gold-400/10 flex items-center justify-center shrink-0 mt-1 text-lg">✓</div>
+          <div>
+            <h4 class="font-bold mb-1">Teknisi Profesional</h4>
+            <p class="text-sm text-white/40">Berpengalaman menangani berbagai merk AC — Daikin, Panasonic, Sharp, LG, Samsung, dan lainnya.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="w-10 h-10 rounded-lg bg-gold-400/10 flex items-center justify-center shrink-0 mt-1 text-lg">✓</div>
+          <div>
+            <h4 class="font-bold mb-1">Harga Transparan</h4>
+            <p class="text-sm text-white/40">Tidak ada biaya tersembunyi. Konsultasi gratis, diagnosa jelas, harga disepakati sebelum kerja.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="w-10 h-10 rounded-lg bg-gold-400/10 flex items-center justify-center shrink-0 mt-1 text-lg">✓</div>
+          <div>
+            <h4 class="font-bold mb-1">Cepat & Tepat Waktu</h4>
+            <p class="text-sm text-white/40">Teknisi datang sesuai janji. Rata-rata sampai lokasi dalam 60 menit untuk area Balikpapan.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="w-10 h-10 rounded-lg bg-gold-400/10 flex items-center justify-center shrink-0 mt-1 text-lg">✓</div>
+          <div>
+            <h4 class="font-bold mb-1">Bergaransi</h4>
+            <p class="text-sm text-white/40">Setiap service dan instalasi kami beri garansi. Kalau ada masalah dalam periode garansi, kami kembali gratis.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA / KONTAK -->
+  <section id="kontak" class="py-24 relative overflow-hidden">
+    <div class="hero-glow bg-gold-400 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"></div>
+    <div class="max-w-6xl mx-auto px-6 text-center relative">
+      <div class="max-w-lg mx-auto">
+        <div class="text-4xl mb-6">📞</div>
+        <h2 class="text-3xl md:text-5xl font-black mb-3">Butuh Bantuan AC?</h2>
+        <p class="text-white/40 text-lg mb-8">Hubungi kami sekarang! Teknisi siap datang ke lokasi Anda di seluruh Balikpapan.</p>
+        
+        <div class="flex flex-col items-center gap-4">
+          <a href="https://wa.me/6281234567890" target="_blank" class="bg-green-500 text-white px-8 py-4 rounded-xl text-lg font-bold hover:bg-green-600 transition shadow-xl shadow-green-500/25 inline-flex items-center gap-3 w-full max-w-sm justify-center">
+            <span>💬</span> Chat WhatsApp
+          </a>
+          <a href="tel:081234567890" class="border border-white/20 text-white/80 px-8 py-4 rounded-xl text-lg font-medium hover:border-white/40 transition inline-flex items-center gap-3 w-full max-w-sm justify-center">
+            <span>📱</span> 0812-3456-7890
+          </a>
+        </div>
+
+        <div class="mt-8 text-xs text-white/30">
+          <p>Jl. Contoh No. 123, Balikpapan · Buka Senin-Sabtu 08:00-20:00</p>
+          <p class="mt-1">Melayani: Balikpapan Utara, Selatan, Barat, Timur, Tengah, Kota</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ILUSTRASI KEUNTUNGAN -->
+  <section class="py-16 bg-white/[0.02] border-t border-white/5">
+    <div class="max-w-6xl mx-auto px-6">
+      <div class="max-w-2xl mx-auto">
+        <h3 class="text-xl font-bold mb-4 text-center">✨ Dengan Website Sendiri, Kamu Bisa:</h3>
+        <div class="grid gap-3">
+          <div class="bg-white/[0.03] border border-white/5 rounded-xl px-5 py-4 flex items-start gap-3">
+            <span class="text-gold-400 shrink-0 mt-0.5">📱</span>
+            <div>
+              <p class="font-semibold text-sm">Ditemukan di Google 24 jam</p>
+              <p class="text-xs text-white/40">Pelanggan cari "tukang AC Balikpapan" — websitemu muncul pertama</p>
+            </div>
+          </div>
+          <div class="bg-white/[0.03] border border-white/5 rounded-xl px-5 py-4 flex items-start gap-3">
+            <span class="text-gold-400 shrink-0 mt-0.5">💼</span>
+            <div>
+              <p class="font-semibold text-sm">Kesan Profesional & Terpercaya</p>
+              <p class="text-xs text-white/40">Website bikin bisnis kecil keliatan besar. Pelanggan lebih percaya.</p>
+            </div>
+          </div>
+          <div class="bg-white/[0.03] border border-white/5 rounded-xl px-5 py-4 flex items-start gap-3">
+            <span class="text-gold-400 shrink-0 mt-0.5">📲</span>
+            <div>
+              <p class="font-semibold text-sm">Auto Dapat Order dari WA</p>
+              <p class="text-xs text-white/40">Tinggal masukin nomor WA — pelanggan klik langsung chat.</p>
+            </div>
+          </div>
+        </div>
+        <p class="text-center text-xs text-white/30 mt-6">Halaman ini contoh — punya sendiri mulai dari Rp 200K/bulan ✨</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="border-t border-white/5 py-8">
+    <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-2 text-sm text-white/30">
+        <div class="w-6 h-6 rounded-md bg-gold-400 flex items-center justify-center text-navy-900 font-black text-[10px]">AC</div>
+        JASA AC BALIKPAPAN
+      </div>
+      <p class="text-xs text-white/20">© 2026 — Contoh Landing Page untuk Jasa AC Balikpapan</p>
+    </div>
+  </footer>
+
+</body>
+</html>
