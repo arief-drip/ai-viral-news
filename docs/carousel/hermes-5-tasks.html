@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>5 Tugas AI Agent — Hermes vs OpenClaw</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: { fontFamily: { inter: ['Inter', 'sans-serif'] } } } }
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#0a0a0a; display:flex; flex-direction:column; align-items:center; padding:2rem 1rem; font-family:'Inter',sans-serif; }
+.carousel-container { display:flex; flex-direction:column; align-items:center; gap:1.5rem; max-width:600px; }
+.slide { position:relative; width:540px; height:675px; border-radius:32px; overflow:hidden; flex-shrink:0; color:#fff; box-shadow:0 20px 60px rgba(0,0,0,0.5); }
+@media print { body { padding:0; background:#fff; } .carousel-container { gap:0; } .slide { box-shadow:none; border:1px solid #333; page-break-after:always; } .instructions { display:none; } }
+</style>
+</head>
+<body>
+<div class="carousel-container">
+
+  <!-- S1: COVER — Copenhagen Chill -->
+  <div class="slide flex flex-col justify-start px-8 pt-10 pb-6 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute inset-0 z-0">
+      <img src="hermes-5-tasks-img1.jpg" alt="" class="w-full h-full object-cover opacity-10">
+    </div>
+    <div class="absolute -top-16 -right-16 w-48 h-48 rounded-full opacity-15" style="background:#FA6900;"></div>
+    <div class="absolute bottom-32 -left-10 w-28 h-28 rounded-lg opacity-10" style="background:#69D2E7; transform:rotate(20deg);"></div>
+    <div class="absolute top-1/3 right-4 w-16 h-0.5 opacity-20" style="background:#FA6900;"></div>
+    
+    <div class="relative z-10">
+      <span class="inline-block text-[0.6rem] font-semibold uppercase tracking-widest px-3 py-1.5 border rounded mb-4" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">
+        ⚡ MINDSTUDIO — HERMES AGENT
+      </span>
+    </div>
+    <div class="relative z-10 mt-0">
+      <div class="font-black leading-[1.05] mb-3">
+        <span class="text-8xl">5 Tugas</span><br>
+        <span class="text-6xl" style="color:#FA6900;">AI Agent</span>
+      </div>
+      <div class="text-lg opacity-60 max-w-[85%] leading-relaxed">
+        Hermes vs OpenClaw — 5 tugas nyata dengan output spesifik. Dari scraping sampai cron job otomatis.
+      </div>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S2: OVERVIEW -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -top-8 -right-8 w-28 h-28 rounded-full opacity-15" style="background:#69D2E7;"></div>
+    <div class="absolute bottom-20 -left-6 w-20 h-20 rounded-xl opacity-12" style="background:#FA6900; transform:rotate(-15deg);"></div>
+    <div class="absolute top-1/2 left-1/3 w-14 h-0.5 opacity-15" style="background:#69D2E7;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">2/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Overview</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">🏆 5 Tugas Nyata</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-3">
+      <p>MindStudio demo Hermes Agent vs OpenClaw dalam <strong>5 tugas otonom</strong> — semuanya dari satu agent di CPU $0.24/jam.</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">1.</span><span>Content Gap Analysis — YouTube + industri</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#69D2E7;">2.</span><span>Cron Scheduling — recurring mingguan</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">3.</span><span>Lead Generation — pitch angle + legal caveats</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#69D2E7;">4.</span><span>Price Monitoring — supercar mispriced £50k</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">5.</span><span>Content Ideation — Kimi K2 swarm story</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S3: CONTENT GAP -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -bottom-10 -right-10 w-36 h-36 rounded-full opacity-12" style="background:#FA6900;"></div>
+    <div class="absolute top-12 left-4 w-24 h-16 rounded-xl opacity-10" style="background:#69D2E7; transform:rotate(25deg);"></div>
+    <div class="absolute top-2/3 right-8 w-4 h-4 rounded-full opacity-20" style="background:#FA6900;"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">3/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Tugas #1</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">📊 Content Gap Analysis</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p><strong>Prompt:</strong> "Scrape AI Grid YouTube, bandingkan dengan industri, cari gap-nya."</p>
+      <div class="rounded-xl px-4 py-3 mt-2" style="background:rgba(105,210,231,0.08); border-left:3px solid #69D2E7;">
+        <p class="text-lg opacity-90"><strong>Hasil:</strong> 4/5 video soal OpenAI minggu itu. Nol coverage Claude Mythos, Anthropic-Amazon deal, Google Cloud Next. Gap analysis langsung jadi.</p>
+      </div>
+      <p class="pt-1">Bandingkan daftar video vs live picture industri — deteksi delta-nya. Pekerjaan riset yang butuh 1 jam analyst, selesai dalam menit.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S4: CRON -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -top-6 -left-6 w-32 h-32 rounded-full opacity-12" style="background:#69D2E7;"></div>
+    <div class="absolute bottom-16 -right-8 w-24 h-24 rounded-xl opacity-10" style="background:#FA6900; transform:rotate(30deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">4/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Tugas #2</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">⏰ Cron Scheduling</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p><strong>Prompt:</strong> "Bikin ini recurring tiap Minggu jam 9 malam UK."</p>
+      <div class="rounded-xl px-4 py-3 mt-2" style="background:rgba(105,210,231,0.08); border-left:3px solid #69D2E7;">
+        <p class="text-lg opacity-90">Hermes langsung <strong>set up cron job</strong>. Flag caveat timezone, konfirmasi jadwal. Selesai.</p>
+      </div>
+      <p class="pt-1">Perbedaan antara tool yang dipakai sekali vs <strong>sistem yang jalan terus</strong>. Scrape → schedule → deliver ke Telegram/Discord/Slack setiap minggu tanpa disentuh.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S5: LEAD GEN -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute top-6 -right-10 w-20 h-20 rounded-full opacity-15" style="background:#FA6900;"></div>
+    <div class="absolute -bottom-4 left-8 w-32 h-16 rounded-xl opacity-10" style="background:#69D2E7; transform:rotate(-8deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">5/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Tugas #3</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">🎯 Lead Generation</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p><strong>Prompt:</strong> "Cari plumbing business NW London tanpa website, kasi 3 qualified leads."</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="w-4 h-4 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-1" style="background:#FA6900;color:#0D3345;">✓</span>
+          <span>Sub-agents per area — scrape + filter</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="w-4 h-4 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-1" style="background:#69D2E7;color:#0D3345;">✓</span>
+          <span>Bukan cuma nama — ada <strong>pitch angle spesifik</strong></span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="w-4 h-4 rounded-full flex items-center justify-center text-[0.5rem] font-bold shrink-0 mt-1" style="background:#FA6900;color:#0D3345;">✓</span>
+          <span><strong>Legal caveats</strong> — outreach rules + checklist verifikasi (gak diminta!)</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S6: PRICE MONITORING -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -top-8 left-6 w-28 h-28 rounded-full opacity-12" style="background:#69D2E7;"></div>
+    <div class="absolute bottom-12 -right-6 w-22 h-22 rounded-xl opacity-10" style="background:#FA6900; transform:rotate(-20deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">6/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Tugas #4</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">💰 Price Monitoring</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p><strong>Prompt:</strong> "Monitor supercar £60k-£150k, kasih tahu kalau ada yang underpriced."</p>
+      <div class="rounded-xl px-4 py-3 mt-2" style="background:rgba(105,210,231,0.08); border-left:3px solid #69D2E7;">
+        <p class="text-lg opacity-90"><strong>Temuan:</strong> Mobil di Autotrader listing £125k — comparable £180k. "Mispriced by £30k-50k. Inspect immediately."</p>
+      </div>
+      <p class="pt-1">Sub-agents parallel: ada yang cari Lamborghini, ada McLaren. Auto-setup <strong>daily cron monitoring</strong>. Berlaku untuk real estate, elektronik, domain — apa pun dengan data harga publik.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S7: CONTENT IDEATION -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -bottom-6 -left-8 w-36 h-36 rounded-full opacity-12" style="background:#FA6900;"></div>
+    <div class="absolute top-8 right-4 w-20 h-16 rounded-xl opacity-10" style="background:#69D2E7; transform:rotate(15deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">7/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Tugas #5</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">💡 Content Ideation</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p><strong>Prompt:</strong> "Riset AI terkini, kasi 3 ide konten yang overlooked."</p>
+      <ul class="space-y-1.5 mt-2">
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">1.</span><span>Kimi K2: 300-agent swarm di 4 H100 GPU — "execution substrate, bukan better model" 🔥</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#69D2E7;">2.</span><span>Paper WorldCoin Altman: data melawan UBI</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">3.</span><span>12 AI safety defenses — semua berhasil ditembus</span>
+        </li>
+      </ul>
+      <p class="pt-1">Bukan dari training data — dari <strong>live scraping</strong>. Ide spesifik, tercatat, langsung action.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S8: KENAPA HERMES -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -top-10 -right-6 w-24 h-24 rounded-full opacity-15" style="background:#69D2E7;"></div>
+    <div class="absolute bottom-20 left-4 w-18 h-18 rounded-xl opacity-12" style="background:#FA6900; transform:rotate(-25deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">8/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Perbandingan</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">⚔️ Hermes vs OpenClaw</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p>Bedanya bukan LLM-nya — tapi <strong>tool layer</strong>. Hermes ship dengan autonomous agents, email, web skills built-in. OpenClaw butuh install + config komponen terpisah.</p>
+      <div class="flex gap-3 mt-3">
+        <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background:rgba(250,105,0,0.1); border:1px solid rgba(250,105,0,0.15);">
+          <div class="text-sm font-bold" style="color:#FA6900;">✅ Hermes</div>
+          <div class="text-[0.6rem] opacity-70">Tools built-in<br>Cron otomatis</div>
+        </div>
+        <div class="flex-1 rounded-xl px-3 py-2.5 text-center" style="background:rgba(105,210,231,0.1); border:1px solid rgba(105,210,231,0.15);">
+          <div class="text-sm font-bold" style="color:#69D2E7;">⚠️ OpenClaw</div>
+          <div class="text-[0.6rem] opacity-70">Config manual<br>Setup terpisah</div>
+        </div>
+      </div>
+      <p class="pt-1">Promptnya <strong>conversational</strong>: "scrape this", "find leads", "message me". Tanpa prompt engineering rumit.</p>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S9: INFRASTRUKTUR -->
+  <div class="slide flex flex-col justify-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -bottom-8 -right-4 w-28 h-28 rounded-full opacity-12" style="background:#FA6900;"></div>
+    <div class="absolute top-14 -left-4 w-20 h-20 rounded-xl opacity-10" style="background:#69D2E7; transform:rotate(35deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">9/10</span>
+    <span class="relative z-10 text-[0.6rem] font-semibold uppercase tracking-widest px-2 py-1 border rounded mb-4 self-start" style="border-color:rgba(250,105,0,0.3);color:#FA6900;">Infrastruktur</span>
+    <h2 class="relative z-10 text-4xl font-extrabold leading-tight mb-4">⚡ $0.24/jam di CPU</h2>
+    <div class="relative z-10 text-lg leading-relaxed opacity-80 space-y-2">
+      <p>Semua demo jalan di <strong>CPU instance $0.24/jam</strong> dengan $9 di akun. Barrier untuk persistent agent benar-benar rendah.</p>
+      <ul class="space-y-2 mt-2">
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">▸</span>
+          <span>Inference: OpenRouter / OpenAI / $20/month subscription</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#69D2E7;">▸</span>
+          <span>Output: Telegram, Discord, Slack — cron + notifikasi</span>
+        </li>
+        <li class="flex items-start gap-2.5 text-lg">
+          <span class="font-bold shrink-0" style="color:#FA6900;">▸</span>
+          <span>Agent yang schedule + bisa kirim pesan = sistem yang beneran dipakai</span>
+        </li>
+      </ul>
+    </div>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+  <!-- S10: CTA -->
+  <div class="slide flex flex-col justify-center items-center text-center px-8 py-10 font-inter" style="background:linear-gradient(145deg,#0D3345,#1B5568);">
+    <div class="absolute -top-12 -right-12 w-40 h-40 rounded-full opacity-12" style="background:#69D2E7;"></div>
+    <div class="absolute -bottom-6 -left-8 w-32 h-32 rounded-full opacity-15" style="background:#FA6900;"></div>
+    <div class="absolute top-1/3 -right-2 w-4 h-4 rounded-full opacity-20" style="background:#69D2E7;"></div>
+    <div class="absolute bottom-1/4 left-4 w-10 h-10 rounded-lg opacity-10" style="background:#FA6900; transform:rotate(35deg);"></div>
+    
+    <span class="relative z-10 text-xs font-semibold opacity-40 absolute top-5 right-6">10/10</span>
+    <div class="relative z-10 text-4xl mb-4">⚡</div>
+    <h2 class="relative z-10 text-4xl font-black leading-tight mb-2">Agent Masa Depan</h2>
+    <p class="relative z-10 text-lg opacity-60 max-w-[80%] mb-6">Dapatkan update AI, tools, dan insight setiap hari — curated untuk Indonesia</p>
+    <span class="relative z-10 inline-block text-lg font-extrabold px-6 py-3 rounded-xl shadow-lg" style="background:#FA6900;color:#0D3345;box-shadow:0 8px 30px rgba(250,105,0,0.35);">
+      Ikuti @arief.drip
+    </span>
+    <div class="absolute bottom-5 left-8 z-10 flex items-center gap-2 text-[0.6rem] font-semibold tracking-widest opacity-50 uppercase">
+      <span class="w-1.5 h-1.5 rounded-full" style="background:#FA6900;"></span>
+      AI VIRAL NEWS
+    </div>
+  </div>
+
+</div>
+
+<!-- Instructions -->
+<div class="instructions max-w-[540px] mt-8 p-5 rounded-xl" style="background:#1a1a1a;color:#ccc;font-size:0.85rem;line-height:1.6;">
+  <h3 class="text-sm font-bold mb-3" style="color:#FA6900;">📥 Download Carousel (3 Cara)</h3>
+  <ol class="pl-4 space-y-1.5 text-xs opacity-80">
+    <li><strong>Klik kanan slide → "Save as PNG"</strong> — termudah</li>
+    <li><strong>Tombol "Download All"</strong> — html2canvas batch</li>
+    <li><strong>Playwright capture</strong> — <code class="px-1 py-0.5 rounded text-[0.7rem]" style="background:#333;">python scripts/carousel-capture.py</code></li>
+  </ol>
+  <button id="downloadAll" class="mt-3 px-5 py-2.5 rounded-lg font-bold text-sm border-none cursor-pointer" style="background:#FA6900;color:#0D3345;font-family:'Inter',sans-serif;">
+    📥 Download All PNGs
+  </button>
+  <div id="progress" class="mt-2 text-xs" style="color:#FA6900;"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script>
+document.getElementById('downloadAll').addEventListener('click', async () => {
+  const slides = document.querySelectorAll('.slide');
+  const progress = document.getElementById('progress');
+  for (let i = 0; i < slides.length; i++) {
+    progress.textContent = `Processing slide ${i+1}/${slides.length}...`;
+    try {
+      const canvas = await html2canvas(slides[i], {
+        scale: 3, useCORS: true, allowTaint: true,
+        backgroundColor: '#0D3345', logging: false,
+        width: 540, height: 675,
+      });
+      const out = document.createElement('canvas');
+      out.width = 1080; out.height = 1350;
+      const ctx = out.getContext('2d');
+      ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(canvas, 0, 0, 1080, 1350);
+      const link = document.createElement('a');
+      link.download = `carousel-${String(i+1).padStart(2,'0')}.png`;
+      link.href = out.toDataURL('image/png');
+      link.click();
+    } catch(e) {
+      progress.textContent = `Error on slide ${i+1}: ${e.message}`;
+    }
+  }
+  progress.textContent = '✅ All done!';
+});
+</script>
+</body>
+</html>
