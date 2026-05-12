@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Bantu Lacak Penyebab Bangun Malam</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #0a0a0a;
+  display: flex; flex-direction: column; align-items: center;
+  padding: 2rem 1rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.carousel-container {
+  display: flex; flex-direction: column; align-items: center; gap: 1.5rem;
+  max-width: 600px;
+}
+
+.slide {
+  position: relative;
+  width: 540px;
+  height: 675px;
+  border-radius: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+
+.slide-bg {
+  position: absolute; inset: 0; z-index: 0;
+}
+
+.slide-bg img {
+  width: 100%; height: 100%; object-fit: cover;
+}
+
+/* Cover slide */
+.slide-cover {
+  justify-content: flex-start;
+  padding: 2.5rem 2rem;
+}
+
+.slide-cover .source-badge {
+  display: inline-block;
+  background: rgba(240, 180, 41, 0.2);
+  color: #f0b429;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  margin-bottom: auto;
+}
+
+.slide-cover .cover-title {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.slide-cover .cover-title .accent {
+  color: #f0b429;
+}
+
+.slide-cover .cover-sub {
+  font-size: 0.85rem;
+  font-weight: 400;
+  opacity: 0.7;
+  line-height: 1.4;
+  max-width: 90%;
+}
+
+/* Content slide */
+.slide-content {
+  justify-content: center;
+  padding: 2.5rem 2rem;
+}
+
+.slide-counter {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  opacity: 0.4;
+  letter-spacing: 0.05em;
+}
+
+.slide-tag {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f0b429;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid rgba(240, 180, 41, 0.3);
+  border-radius: 3px;
+  margin-bottom: 0.75rem;
+  align-self: flex-start;
+}
+
+.slide-heading {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
+
+.slide-body {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+
+.slide-body p {
+  margin-bottom: 0.6rem;
+}
+
+/* Bullet list */
+.bullet-list {
+  list-style: none;
+  margin-top: 0.5rem;
+}
+
+.bullet-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.bullet-list .check {
+  color: #f0b429;
+  font-weight: 700;
+  flex-shrink: 0;
+  font-size: 0.85rem;
+  margin-top: 0.1rem;
+}
+
+/* Branding */
+.branding {
+  position: absolute;
+  bottom: 1rem;
+  left: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  opacity: 0.5;
+  text-transform: uppercase;
+}
+
+.branding .dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #f0b429;
+  display: inline-block;
+}
+
+/* Image slide */
+.slide-image {
+  padding: 2.5rem 2rem;
+}
+
+.slide-image .img-frame {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 0.75rem;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.slide-image .img-frame img {
+  width: 100%;
+  display: block;
+}
+
+/* CTA slide */
+.slide-cta {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2.5rem 2rem;
+}
+
+.slide-cta .cta-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.slide-cta .cta-heading {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+.slide-cta .cta-body {
+  font-size: 0.875rem;
+  opacity: 0.7;
+  margin-bottom: 1.5rem;
+  max-width: 80%;
+}
+
+.slide-cta .cta-btn {
+  display: inline-block;
+  background: #f0b429;
+  color: #0a1628;
+  font-size: 1rem;
+  font-weight: 800;
+  padding: 0.8rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(240, 180, 41, 0.3);
+}
+
+/* Highlight box */
+.highlight-box {
+  background: rgba(240, 180, 41, 0.08);
+  border-left: 3px solid #f0b429;
+  padding: 0.8rem 1rem;
+  border-radius: 4px;
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+/* Instructions */
+.instructions {
+  max-width: 540px;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #1a1a1a;
+  border-radius: 12px;
+  color: #ccc;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.instructions h3 {
+  color: #f0b429;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+}
+
+.instructions ol {
+  padding-left: 1.2rem;
+}
+
+.instructions ol li { margin-bottom: 0.5rem; }
+.instructions code {
+  background: #333;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+}
+
+/* Print */
+@media print {
+  body { padding: 0; background: #fff; }
+  .carousel-container { gap: 0; }
+  .slide {
+    box-shadow: none;
+    border: 1px solid #333;
+    page-break-after: always;
+    break-inside: avoid;
+  }
+  .instructions { display: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="carousel-container">
+
+  <!-- SLIDE 1: COVER -->
+  <div class="slide slide-cover" id="slide-01">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.1;">
+    </div>
+    <div class="source-badge">🛠️ MARTIN.SH — PERSONAL PROJECT</div>
+    <div class="cover-title">
+      AI Bantu Saya<br>
+      Lacak <span class="accent">Apa yang</span><br>
+      <span class="accent">Membangunkan</span> Tidur
+    </div>
+    <div class="cover-sub">Seorang engineer bangun sleep tracker berbasis AI. Dari 0 ke tool fungsional dalam 8 jam.</div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 2: BACKGROUND -->
+  <div class="slide slide-content" id="slide-02">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">2/10</span>
+    <span class="slide-tag">Latar Belakang</span>
+    <h2 class="slide-heading">Tinggal di Kota Bising</h2>
+    <div class="slide-body">
+      <p>Martin sering terbangun jam 3 pagi tanpa tahu penyebabnya. Kadang tidak sadar, tapi smartwatch-nya menunjukkan ada yang menariknya keluar dari tidur nyenyak.</p>
+      <p>Tanpa tahu penyebab, perbaikan hanya tebakan mahal. "Was it inside? Outside? A neighbor? A truck?"</p>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 3: SETUP -->
+  <div class="slide slide-content" id="slide-03">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">3/10</span>
+    <span class="slide-tag">Infrastruktur</span>
+    <h2 class="slide-heading">Smart Home Sudah Siap</h2>
+    <div class="slide-body">
+      <p>Martin sudah punya Home Assistant dengan sensor:</p>
+      <ul class="bullet-list">
+        <li><span class="check">✓</span><span>Motion &amp; pintu — deteksi aktivitas</span></li>
+        <li><span class="check">✓</span><span>Suhu, kelembaban, CO₂, kualitas udara</span></li>
+        <li><span class="check">✓</span><span>Tinggal tambah audio + data tidur</span></li>
+      </ul>
+      <p style="margin-top: 0.5rem;">Data tidur dari Garmin watch — cukup akurat untuk deteksi kebangkitan.</p>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 4: SOLUTION -->
+  <div class="slide slide-content" id="slide-04">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">4/10</span>
+    <span class="slide-tag">Solusi</span>
+    <h2 class="slide-heading">Raspberry Pi + Mikrofon</h2>
+    <div class="slide-body">
+      <p>Raspberry Pi dengan USB microphone mendeteksi suara keras dan merekam klip pendek dengan konteks sebelum &amp; sesudah.</p>
+      <ul class="bullet-list">
+        <li><span class="check">◆</span><span>Pi terintegrasi dengan Home Assistant</span></li>
+        <li><span class="check">◆</span><span>Hanya aktif saat di rumah &amp; tidur</span></li>
+        <li><span class="check">◆</span><span>Di luar kondisi itu: mati total</span></li>
+      </ul>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 5: WEB APP -->
+  <div class="slide slide-image" id="slide-05">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">5/10</span>
+    <span class="slide-tag">Visualisasi</span>
+    <h2 class="slide-heading">Timeline Tidur Interaktif</h2>
+    <div class="slide-body" style="margin-bottom: 0.5rem;">
+      Seperti editor musik: sleep stages, heart rate, sensor events, noise clips.
+    </div>
+    <div class="img-frame">
+      <img src="ai-sleep-tracker-app.jpg" alt="Sleep tracker timeline app screenshot">
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 6: AI ROLE -->
+  <div class="slide slide-content" id="slide-06">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">6/10</span>
+    <span class="slide-tag">AI Coding</span>
+    <h2 class="slide-heading">8 Jam Build dengan AI</h2>
+    <div class="slide-body">
+      <p>"Yang dulu terlalu berat untuk payoff, sekarang bisa weekend." — Martin</p>
+      <p>AI coding agent punya SSH ke Raspberry Pi, test langsung: minta Martin teriak, jatuhkan barang, atau nyalakan keran. Iterasi jadi cepat &amp; seru.</p>
+      <div class="highlight-box">
+        "AI is what made it realistic for me to build this in a weekend."
+      </div>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 7: PATTERNS -->
+  <div class="slide slide-content" id="slide-07">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">7/10</span>
+    <span class="slide-tag">Temuan</span>
+    <h2 class="slide-heading">Pola yang Terungkap</h2>
+    <div class="slide-body">
+      <p>Dengan data nyata, pola langsung terlihat:</p>
+      <ul class="bullet-list">
+        <li><span class="check">▸</span><span>🏍️ Motor/moped lewat tengah malam</span></li>
+        <li><span class="check">▸</span><span>🗑️ Truk sampah pagi buta</span></li>
+        <li><span class="check">▸</span><span>🚪 Pintu dibanting tetangga</span></li>
+        <li><span class="check">▸</span><span>🔊 Tetangga atas — suara berat</span></li>
+      </ul>
+      <p style="margin-top: 0.4rem;">Tidak lagi menebak. Bisa bertindak dengan percaya diri.</p>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 8: RESULTS -->
+  <div class="slide slide-content" id="slide-08">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">8/10</span>
+    <span class="slide-tag">Hasil</span>
+    <h2 class="slide-heading">Tidur Lebih Nyenyak</h2>
+    <div class="slide-body">
+      <p>Martin pasang insulasi jendela &amp; pintu. Perbedaan terasa — pagi lebih segar, data Garmin juga membaik.</p>
+      <div class="highlight-box">
+        Plot twist: Setelah insulasi rapat, CO₂ jadi masalah baru. "Now I have to figure out a smart way to reduce CO₂ levels.."
+      </div>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 9: CONCLUSION -->
+  <div class="slide slide-content" id="slide-09">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.08;">
+    </div>
+    <span class="slide-counter">9/10</span>
+    <span class="slide-tag">Kesimpulan</span>
+    <h2 class="slide-heading">Pelajaran Berharga</h2>
+    <div class="slide-body">
+      <p>"AI tidak menyelesaikan masalah saya — AI menurunkan biaya membangun alat yang membiarkan saya menyelesaikan masalah saya sendiri."</p>
+      <p style="margin-top: 0.5rem;">Banyak masalah kecil yang dulu "sayang dibuat" sekarang jadi "boleh dicoba." Itulah yang berubah.</p>
+      <div class="highlight-box">
+        Ada kategori masalah personal yang dengan AI, proyek sederhana jadi mungkin dalam satu weekend.
+      </div>
+    </div>
+    <div class="branding"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+  <!-- SLIDE 10: CTA -->
+  <div class="slide slide-cta" id="slide-10">
+    <div class="slide-bg" style="background: linear-gradient(145deg, #0a1628, #1a2744);">
+      <img src="ai-sleep-tracker-bg.jpg" alt="" crossorigin="anonymous" style="opacity: 0.12;">
+    </div>
+    <span class="slide-counter">10/10</span>
+    <div class="cta-icon">🤖</div>
+    <div class="cta-heading">Dapatkan Update AI</div>
+    <div class="cta-body">Setiap hari — curated AI news, tools, dan insight untuk Indonesia</div>
+    <span class="cta-btn">Ikuti @arief.drip</span>
+    <div class="branding" style="left: 2rem;"><span class="dot"></span> AI VIRAL NEWS</div>
+  </div>
+
+</div>
+
+<!-- Instructions -->
+<div class="instructions">
+  <h3>📥 Download Carousel (3 Cara)</h3>
+  <ol>
+    <li><strong>Klik kanan slide → "Save as PNG"</strong> — termudah, selalu work</li>
+    <li><strong>Download All PNGs</strong> (tombol di bawah) — html2canvas batch</li>
+    <li><strong>Playwright capture</strong> — jalankan <code>python scripts/carousel-capture.py</code></li>
+  </ol>
+  <button id="downloadAll" style="
+    margin-top: 1rem;
+    background: #f0b429;
+    color: #0a1628;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+  ">📥 Download All PNGs</button>
+  <div id="progress" style="margin-top: 0.5rem; font-size: 0.8rem; color: #f0b429;"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script>
+document.getElementById('downloadAll').addEventListener('click', async () => {
+  const slides = document.querySelectorAll('.slide');
+  const progress = document.getElementById('progress');
+  for (let i = 0; i < slides.length; i++) {
+    progress.textContent = `Processing slide ${i+1}/${slides.length}...`;
+    try {
+      const canvas = await html2canvas(slides[i], {
+        scale: 3,
+        useCORS: true,
+        allowTaint: true,
+        backgroundColor: '#0a1628',
+        logging: false,
+        width: 540,
+        height: 675,
+      });
+      const out = document.createElement('canvas');
+      out.width = 1080;
+      out.height = 1350;
+      const ctx = out.getContext('2d');
+      ctx.imageSmoothingQuality = 'high';
+      ctx.drawImage(canvas, 0, 0, 1080, 1350);
+      const link = document.createElement('a');
+      link.download = `carousel-${String(i+1).padStart(2,'0')}.png`;
+      link.href = out.toDataURL('image/png');
+      link.click();
+    } catch(e) {
+      progress.textContent = `Error on slide ${i+1}: ${e.message}`;
+    }
+  }
+  progress.textContent = '✅ All done!';
+});
+</script>
+
+</body>
+</html>
