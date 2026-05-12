@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+    "description": "\n                        Workers are using an internal AI tool to automate non-essential tasks.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "source_link": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-12T13:33:05+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Dessn raises $6M for its production focused design tool",
+    "description": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. ",
+    "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "source_link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-12T13:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "source_link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-12T11:30:00+00:00"
+  },
+  {
+    "id": "hn-48106114",
+    "title": "Unitree GD01: China's $537k rideable transformer robot is now in production",
+    "description": "Unitree GD01: China's $537k rideable transformer robot is now in production",
+    "link": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
+    "source_link": "https://news.ycombinator.com/item?id=48106114",
+    "engagement": "\ud83d\udc4d 66",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-12T09:49:26+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
     "description": "<p>OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/openai-intro...",
@@ -11,7 +55,7 @@
     "published": "2026-05-12T05:47:54+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
     "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -27,13 +71,13 @@
     "description": "Claude Platform on AWS",
     "link": "https://claude.com/blog/claude-platform-on-aws",
     "source_link": "https://news.ycombinator.com/item?id=48103042",
-    "engagement": "\ud83d\udc4d 142",
+    "engagement": "\ud83d\udc4d 177",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-12T01:24:29+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
     "description": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
     "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
@@ -44,7 +88,7 @@
     "published": "2026-05-12T00:09:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
     "description": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
     "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
@@ -60,7 +104,7 @@
     "description": "I let AI build a tool to help me figure out what was waking me up at night",
     "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
     "source_link": "https://news.ycombinator.com/item?id=48100662",
-    "engagement": "\ud83d\udc4d 181",
+    "engagement": "\ud83d\udc4d 222",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-11T21:04:10+00:00"
@@ -71,14 +115,14 @@
     "description": "If AI writes your code, why use Python?",
     "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
     "source_link": "https://news.ycombinator.com/item?id=48100433",
-    "engagement": "\ud83d\udc4d 500",
+    "engagement": "\ud83d\udc4d 651",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-11T20:45:55+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+    "id": "rss-Ars Technica AI-1",
+    "title": "Data center guzzled 30 million gallons of water, and nobody noticed for months",
     "description": "\n                        Can AI save us from the AI industry\u2019s endless thirst for water? Outlook not so good.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
     "source_link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
@@ -121,7 +165,7 @@
     "published": "2026-05-11T17:35:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Digg tries again, this time as an AI news aggregator",
     "description": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\" ",
     "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
@@ -148,13 +192,13 @@
     "description": "Google says criminal hackers used AI to find a major software flaw",
     "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
     "source_link": "https://news.ycombinator.com/item?id=48094641",
-    "engagement": "\ud83d\udc4d 184",
+    "engagement": "\ud83d\udc4d 211",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-11T13:20:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
     "description": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
     "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
@@ -220,7 +264,7 @@
     "published": "2026-05-10T23:56:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
     "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
     "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
@@ -229,17 +273,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-10T20:40:41+00:00"
-  },
-  {
-    "id": "hn-48085685",
-    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "description": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-    "source_link": "https://news.ycombinator.com/item?id=48085685",
-    "engagement": "\ud83d\udc4d 240",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-10T17:05:05+00:00"
   },
   {
     "id": "rss-MarkTechPost-6",
@@ -251,28 +284,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-10T16:20:53+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Voice AI in India is hard \u2014 Wispr Flow is betting on it anyway",
-    "description": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "source_link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-10T02:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source_link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-09T21:45:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
