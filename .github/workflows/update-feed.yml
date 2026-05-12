@@ -1,0 +1,33 @@
+name: Update AI Viral News Feed
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # every 4 hours
+  workflow_dispatch:       # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install dependencies
+        run: pip install feedgen requests pyyaml
+      
+      - name: Run aggregator
+        run: python scripts/update_feed.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "ai-viral-news-bot"
+          git config user.email "bot@localhost"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "auto: update feed $(date -u '+%Y-%m-%d %H:%M UTC')" && git push)

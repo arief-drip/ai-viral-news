@@ -1,0 +1,71 @@
+# ============================================
+# AI Viral News — Configuration
+# ============================================
+
+# --- Reddit ---
+reddit:
+  subreddits:
+    - artificial
+    - MachineLearning
+    - LocalLLaMA
+    - singularity
+    - OpenAI
+    - StableDiffusion
+    - technology
+  min_upvotes: 100
+  time_filter: "day"  # hour, day, week, month, year, all
+  sort: "hot"          # hot, new, top
+
+# --- Keywords (case-insensitive) ---
+keywords:
+  - ai
+  - artificial intelligence
+  - machine learning
+  - llm
+  - gpt
+  - openai
+  - claude
+  - gemini
+  - llama
+  - deep learning
+  - neural network
+  - deepseek
+  - mistral
+  - langchain
+  - rag
+  - transformer
+  - diffusion
+  - chatgpt
+  - copilot
+  - agi
+  - gen ai
+  - generative ai
+
+# --- RSS Sources (tech/AI blogs) ---
+rss_sources:
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: Ars Technica AI
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+  - name: MIT Tech Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed/
+  - name: HuggingFace Blog
+    url: https://huggingface.co/blog/feed.xml
+  - name: MarkTechPost
+    url: https://www.marktechpost.com/feed/
+  - name: Import AI (Jack Clark)
+    url: https://jack-clark.net/feed/
+
+# --- RSS Feed Output ---
+output:
+  title: "AI Viral News"
+  description: "Curated viral AI news from Reddit + blogs — updated every 4 hours"
+  link: "https://arief-drip.github.io/ai-viral-news/"
+  feed_path: "docs/feed.xml"
+  max_entries: 60
+
+# --- Script Settings ---
+script:
+  python_venv: "venv/bin/python"
