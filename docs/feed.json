@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
+    "description": "<p>In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...",
+    "link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
+    "source_link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-12T21:55:57+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "\u201cWill I be OK?\u201d Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
     "description": "\n                        Teen trusted ChatGPT to help him \u201csafely\u201d experiment with drugs, logs show.\n                    ",
@@ -13,7 +24,7 @@
   {
     "id": "rss-TechCrunch AI-0",
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "description": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder. ",
+    "description": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
     "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "source_link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -27,7 +38,7 @@
     "description": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "link": "https://github.com/cactus-compute/needle",
     "source_link": "https://news.ycombinator.com/item?id=48111896",
-    "engagement": "\ud83d\udc4d 129",
+    "engagement": "\ud83d\udc4d 176",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-12T18:03:11+00:00"
@@ -38,7 +49,7 @@
     "description": "Reimagining the mouse pointer for the AI era",
     "link": "https://deepmind.google/blog/ai-pointer/",
     "source_link": "https://news.ycombinator.com/item?id=48111581",
-    "engagement": "\ud83d\udc4d 69",
+    "engagement": "\ud83d\udc4d 85",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-12T17:40:13+00:00"
@@ -154,7 +165,7 @@
     "published": "2026-05-12T13:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
     "description": "<p>OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/openai-intro...",
     "link": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
@@ -165,7 +176,7 @@
     "published": "2026-05-12T05:47:54+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Understanding LLM Distillation Techniques\u00a0",
     "description": "<p>Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful \u201cteacher\u201d models to help train smaller or more efficient \u201cstudent\u201d models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/\">...",
     "link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
@@ -176,7 +187,7 @@
     "published": "2026-05-11T20:20:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by Over 50% Without Tokenization",
     "description": "<p>Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/\">Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by O...",
     "link": "https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/",
@@ -231,7 +242,7 @@
     "published": "2026-05-11T12:46:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs",
     "description": "<p>Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity into real GPU throughput gains using new sparse data formats and fused CUDA kernels.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/\">Sakana AI and NVIDIA Introduce TwELL...",
     "link": "https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/",
@@ -242,7 +253,7 @@
     "published": "2026-05-11T08:36:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications",
     "description": "<p>In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google Colab environment and connecting it to both synchronous and asynchronous OpenAI clients, so that every model call can automatically pass through the memory layer. We [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-inf...",
     "link": "https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/",
@@ -251,28 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-11T07:34:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems",
-    "description": "<p>Vector databases are now core retrieval infrastructure for RAG and agentic AI. This guide compares nine production options on architecture, pricing, and scale.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/\">Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems</a> appeared first on <a href=\"https://www.marktechpost...",
-    "link": "https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/",
-    "source_link": "https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-10T23:56:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "OpenClaw vs Hermes Agent: Why Nous Research\u2019s Self-Improving Agent Now Leads OpenRouter\u2019s Global Rankings",
-    "description": "<p>Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 \u2014 generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-...",
-    "link": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
-    "source_link": "https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-10T16:20:53+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",

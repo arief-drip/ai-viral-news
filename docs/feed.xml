@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 21:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:03:20 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -193,29 +193,11 @@
       <pubDate>Fri, 08 May 2026 23:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenClaw vs Hermes Agent: Why Nous Research’s Self-Improving Agent Now Leads OpenRouter’s Global Rankings</title>
-      <link>https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-why-nous-researchs-self-improving-agent-now-leads-openrouters-global-rankings/</link>
-      <description>&lt;p&gt;&lt;p&gt;Hermes Agent, the open-source self-improving AI agent from Nous Research, has overtaken OpenClaw to claim the #1 position on OpenRouter's global daily token rankings as of May 10, 2026 — generating 224 billion daily tokens versus OpenClaw's 186 billion. The milestone places a Nous Research project ahead of an OpenAI-sponsored platform in real-world daily inference volume, just three months after launch.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/10/openclaw-vs-hermes-agent-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 10 May 2026 16:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems</title>
-      <link>https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vector databases are now core retrieval infrastructure for RAG and agentic AI. This guide compares nine production options on architecture, pricing, and scale.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/10/best-vector-databases-in-2026-pricing-scale-limits-and-architecture-tradeoffs-across-nine-leading-systems/"&gt;Best Vector Databases in 2026: Pricing, Scale Limits, and Architecture Tradeoffs Across Nine Leading Systems&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 10 May 2026 23:56:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications</title>
       <link>https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google Colab environment and connecting it to both synchronous and asynchronous OpenAI clients, so that every model call can automatically pass through the memory layer. We [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-inf...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 07:34:38 +0000</pubDate>
     </item>
@@ -224,7 +206,7 @@
       <link>https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/</link>
       <description>&lt;p&gt;&lt;p&gt;Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity into real GPU throughput gains using new sparse data formats and fused CUDA kernels.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/"&gt;Sakana AI and NVIDIA Introduce TwELL...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 08:36:00 +0000</pubDate>
     </item>
@@ -265,7 +247,7 @@
       <link>https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/</link>
       <description>&lt;p&gt;&lt;p&gt;Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/"&gt;Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by O...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 17:52:15 +0000</pubDate>
     </item>
@@ -274,7 +256,7 @@
       <link>https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/</link>
       <description>&lt;p&gt;&lt;p&gt;Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 20:20:16 +0000</pubDate>
     </item>
@@ -283,7 +265,7 @@
       <link>https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&amp;#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/openai-intro...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 05:47:54 +0000</pubDate>
     </item>
@@ -376,7 +358,7 @@
     <item>
       <title>[📰] Reimagining the mouse pointer for the AI era</title>
       <link>https://deepmind.google/blog/ai-pointer/</link>
-      <description>&lt;p&gt;Reimagining the mouse pointer for the AI era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Reimagining the mouse pointer for the AI era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 85&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48111581</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 17:40:13 +0000</pubDate>
@@ -384,7 +366,7 @@
     <item>
       <title>[📰] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
       <link>https://github.com/cactus-compute/needle</link>
-      <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 176&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48111896</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 18:03:11 +0000</pubDate>
@@ -392,7 +374,7 @@
     <item>
       <title>[📰] Musk mulled handing OpenAI to his children, Altman testifies</title>
       <link>https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/</link>
-      <description>&lt;p&gt;OpenAI's CEO recalls a "particularly hair-raising" conversation with the SpaceX founder. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew "founders who had control usually did not give it up."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 18:05:15 +0000</pubDate>
@@ -406,6 +388,15 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 19:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI</title>
+      <link>https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 12 May 2026 21:55:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
