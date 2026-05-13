@@ -2,553 +2,610 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CRM Jasa AC — Scraping Dashboard</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>CRM Jasa AC</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
 tailwind.config = {
   darkMode: 'class',
-  theme: {
-    extend: {
-      fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'], mono: ['Source Code Pro', 'monospace'] },
-      colors: { green: { brand: '#3ecf8e', link: '#00c573' } }
-    }
-  }
+  theme: { extend: { fontFamily: { sans: ['Inter', 'system-ui', 'sans-serif'] } } }
 }
 </script>
 <style>
-body { background: #171717; font-family: 'Inter', system-ui, sans-serif; color: #fafafa; }
-.card { background: #1a1a1a; border: 1px solid #2e2e2e; border-radius: 12px; }
-.stat-value { font-size: 2.25rem; font-weight: 600; line-height: 1; letter-spacing: -0.02em; color: #fafafa; }
-.stat-label { font-size: 0.875rem; color: #898989; }
-.green-border { border: 1px solid rgba(62, 207, 142, 0.3); }
-.badge-green { background: rgba(62, 207, 142, 0.1); border: 1px solid rgba(62, 207, 142, 0.2); color: #3ecf8e; border-radius: 9999px; padding: 2px 10px; font-size: 0.75rem; font-weight: 500; }
-.badge-gray { background: rgba(137, 137, 137, 0.1); border: 1px solid rgba(137, 137, 137, 0.2); color: #b4b4b4; border-radius: 9999px; padding: 2px 10px; font-size: 0.75rem; font-weight: 500; }
-.progress-bar { height: 6px; background: #2e2e2e; border-radius: 3px; overflow: hidden; }
-.progress-fill { height: 100%; border-radius: 3px; }
+* { -webkit-tap-highlight-color: transparent; }
+body { background: #0d1117; font-family: 'Inter', system-ui, sans-serif; color: #e6edf3; }
+.card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; }
+.stat-num { font-size: 1.75rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.03em; }
+.stat-lbl { font-size: 0.7rem; color: #8b949e; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
+.badge { border-radius: 9999px; padding: 2px 8px; font-size: 0.65rem; font-weight: 600; white-space: nowrap; }
+.badge-green { background: rgba(62, 207, 142, 0.12); color: #3ecf8e; border: 1px solid rgba(62, 207, 142, 0.2); }
+.badge-gray { background: rgba(139, 148, 158, 0.1); color: #8b949e; border: 1px solid rgba(139, 148, 158, 0.15); }
+.badge-amber { background: rgba(240, 161, 53, 0.12); color: #f0a135; border: 1px solid rgba(240, 161, 53, 0.2); }
+.progress-bar { height: 4px; background: #21262d; border-radius: 2px; overflow: hidden; }
+.progress-fill { height: 100%; border-radius: 2px; transition: width 0.5s; }
+.mobile-table { width: 100%; }
+.mobile-table thead { display: none; }
+.mobile-table tr { display: block; padding: 10px 0; border-bottom: 1px solid #21262d; }
+.mobile-table td { display: block; padding: 1px 0; font-size: 0.8rem; }
+.mobile-table td:first-child { font-weight: 600; font-size: 0.88rem; }
+.mobile-table td:last-child { border: none; }
+.mobile-table .lbl { color: #8b949e; font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.04em; display: inline-block; width: 44px; }
 </style>
 </head>
 <body>
-  <div class="max-w-6xl mx-auto px-6 py-8">
-    
+  <div class="max-w-lg mx-auto px-4 py-5">
+
     <!-- Header -->
-    <div class="flex items-center justify-between mb-10">
-      <div>
-        <div class="flex items-center gap-3 mb-2">
-          <span class="text-2xl">❄️</span>
-          <h1 class="text-xl font-semibold tracking-tight">CRM Jasa AC</h1>
-          <span class="text-xs text-[#898989] font-mono uppercase tracking-[1.2px]">Scraping Dashboard</span>
-        </div>
-        <div class="flex items-center gap-3 text-sm text-[#898989]">
-          <span>Updated: May 13, 2026</span>
+    <div class="flex items-center justify-between mb-5">
+      <div class="flex items-center gap-2.5">
+        <span class="text-xl">❄️</span>
+        <div>
+          <h1 class="text-base font-bold">CRM Jasa AC</h1>
+          <div class="text-[10px] text-[#8b949e] font-medium tracking-wider">SCRAPING DASHBOARD</div>
         </div>
       </div>
-      <div class="flex gap-3">
-        <a href="http://194.233.79.131:3001/dashboard" class="inline-flex items-center gap-2 px-5 py-2.5 bg-[#0f0f0f] text-[#fafafa] border border-[#2e2e2e] rounded-full text-sm font-medium hover:border-[#363636] transition-all">
-          <span>Open CRM</span> <span class="text-xs">↗</span>
-        </a>
-        <a href="/ai-viral-news/carousel/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-[#0f0f0f] text-[#fafafa] border border-[#2e2e2e] rounded-full text-sm font-medium hover:border-[#363636] transition-all">
-          <span>Carousel</span> <span class="text-xs">↗</span>
-        </a>
-      </div>
+      <a href="http://194.233.79.131:3001/dashboard"
+         class="text-xs bg-[#21262d] border border-[#30363d] rounded-full px-3.5 py-1.5 font-medium no-underline text-[#e6edf3]">
+        Buka CRM ↗
+      </a>
     </div>
 
-    <!-- Stats Overview -->
-    <div class="grid grid-cols-4 gap-4 mb-8">
-      <div class="card p-5"><div class="stat-value">2,818</div><div class="stat-label">Total Entries</div></div>
-      <div class="card p-5 green-border"><div class="stat-value" style="color:#3ecf8e">2,818</div><div class="stat-label">Tanpa Website 🎯</div></div>
-      <div class="card p-5"><div class="stat-value">0</div><div class="stat-label">Punya Website</div></div>
-      <div class="card p-5"><div class="stat-value">0.0%</div><div class="stat-label">% Punya Website</div></div>
+    <!-- Stats Row -->
+    <div class="grid grid-cols-2 gap-2.5 mb-4">
+      <div class="card p-4">
+        <div class="stat-num">2,918</div>
+        <div class="stat-lbl">Total Entries</div>
+      </div>
+      <div class="card p-4" style="border-color: rgba(62,207,142,0.3)">
+        <div class="stat-num" style="color:#3ecf8e">2,918</div>
+        <div class="stat-lbl">Tanpa Website
+<span class="text-[10px] block mt-0.5" style="color:#f0a135">⭐ Target WA</span>
+        </div>
+      </div>
+    </div>
+    <div class="grid grid-cols-2 gap-2.5 mb-5">
+      <div class="card p-4">
+        <div class="stat-num">0</div>
+        <div class="stat-lbl">Punya Website</div>
+      </div>
+      <div class="card p-4">
+        <div class="stat-num">46</div>
+        <div class="stat-lbl">Kota / Kab</div>
+      </div>
     </div>
 
     <!-- Per Provinsi -->
-    <h2 class="text-sm font-semibold uppercase tracking-[1px] text-[#898989] mb-4">Per Provinsi</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-      
-    <div class="card p-5">
-        <div class="flex items-center justify-between mb-3">
+    <div class="mb-6">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-xs font-semibold text-[#8b949e] tracking-wider uppercase">Provinsi</span>
+        <span class="text-[10px] text-[#484f58]">(3)</span>
+      </div>
+      <div class="space-y-2.5">
+
+        <div class="card p-4">
+          <div class="flex items-center justify-between mb-2">
             <div class="flex items-center gap-2">
-                <span class="w-2 h-2 rounded-full" style="background: #3ecf8e"></span>
-                <span class="font-medium">DKI Jakarta</span>
+              <span style="background:#3ecf8e" class="w-2 h-2 rounded-full"></span>
+              <span class="font-semibold text-sm">DKI Jakarta</span>
             </div>
-            <span class="badge-green">14</span>
-        </div>
-        <div class="text-xs text-[#898989]">
-            <span>1 kota/kab</span>
-            <span class="mx-2">·</span>
+            <span class="badge badge-green">14</span>
+          </div>
+          <div class="flex items-center gap-3 text-[11px] text-[#8b949e] mb-2">
+            <span>1 kota</span>
+            <span>·</span>
+            <span>2 kecamatan</span>
+            <span>·</span>
+            <span style="color:#3ecf8e">14 target</span>
+          </div>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width:100%;background:#3ecf8e"></div>
+          </div>
+          <div class="flex justify-between text-[10px] text-[#484f58] mt-1.5">
+            <span>14 tanpa website</span>
             <span>0 punya web</span>
-            <span class="mx-2">·</span>
-            <span>2/44 kec</span>
+          </div>
         </div>
-        <div class="progress-bar mt-3">
-            <div class="progress-fill" style="background: #3ecf8e; width: 5%"></div>
-        </div>
-        <div class="text-[10px] text-[#595959] mt-2">🔄 In progress</div>
-    </div>
-    <div class="card p-5">
-        <div class="flex items-center justify-between mb-3">
+        <div class="card p-4">
+          <div class="flex items-center justify-between mb-2">
             <div class="flex items-center gap-2">
-                <span class="w-2 h-2 rounded-full" style="background: #69D2E7"></span>
-                <span class="font-medium">Jawa Barat</span>
+              <span style="background:#3ecf8e" class="w-2 h-2 rounded-full"></span>
+              <span class="font-semibold text-sm">Jawa Barat</span>
             </div>
-            <span class="badge-green">65</span>
-        </div>
-        <div class="text-xs text-[#898989]">
-            <span>3 kota/kab</span>
-            <span class="mx-2">·</span>
+            <span class="badge badge-green">165</span>
+          </div>
+          <div class="flex items-center gap-3 text-[11px] text-[#8b949e] mb-2">
+            <span>14 kota</span>
+            <span>·</span>
+            <span>29 kecamatan</span>
+            <span>·</span>
+            <span style="color:#3ecf8e">165 target</span>
+          </div>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width:100%;background:#3ecf8e"></div>
+          </div>
+          <div class="flex justify-between text-[10px] text-[#484f58] mt-1.5">
+            <span>165 tanpa website</span>
             <span>0 punya web</span>
-            <span class="mx-2">·</span>
-            <span>4/627 kec</span>
+          </div>
         </div>
-        <div class="progress-bar mt-3">
-            <div class="progress-fill" style="background: #69D2E7; width: 1%"></div>
-        </div>
-        <div class="text-[10px] text-[#595959] mt-2">🔄 In progress</div>
-    </div>
-    <div class="card p-5">
-        <div class="flex items-center justify-between mb-3">
+        <div class="card p-4">
+          <div class="flex items-center justify-between mb-2">
             <div class="flex items-center gap-2">
-                <span class="w-2 h-2 rounded-full" style="background: #F0A135"></span>
-                <span class="font-medium">Jawa Timur</span>
+              <span style="background:#3ecf8e" class="w-2 h-2 rounded-full"></span>
+              <span class="font-semibold text-sm">Jawa Timur</span>
             </div>
-            <span class="badge-gray">2739</span>
-        </div>
-        <div class="text-xs text-[#898989]">
-            <span>31 kota/kab</span>
-            <span class="mx-2">·</span>
+            <span class="badge badge-green">2,739</span>
+          </div>
+          <div class="flex items-center gap-3 text-[11px] text-[#8b949e] mb-2">
+            <span>31 kota</span>
+            <span>·</span>
+            <span>486 kecamatan</span>
+            <span>·</span>
+            <span style="color:#3ecf8e">2,739 target</span>
+          </div>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width:100%;background:#3ecf8e"></div>
+          </div>
+          <div class="flex justify-between text-[10px] text-[#484f58] mt-1.5">
+            <span>2,739 tanpa website</span>
             <span>0 punya web</span>
-            <span class="mx-2">·</span>
-            <span>486/486 kec</span>
+          </div>
         </div>
-        <div class="progress-bar mt-3">
-            <div class="progress-fill" style="background: #F0A135; width: 100%"></div>
-        </div>
-        <div class="text-[10px] text-[#595959] mt-2">✅ Done</div>
-    </div>
+      </div>
     </div>
 
-    <!-- Scraping Progress -->
-    <div class="card p-6 mb-8">
-      <div class="flex items-center justify-between mb-4">
-        <h2 class="text-base font-semibold">Scraping Progress vs Target</h2>
-        <span class="badge-green">94%</span>
+    <!-- Kota/Kab List -->
+    <div class="mb-6">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-xs font-semibold text-[#8b949e] tracking-wider uppercase">Kota / Kabupaten</span>
+        <span class="text-[10px] text-[#484f58]">(46)</span>
       </div>
-      <div class="progress-bar mb-3">
-        <div class="progress-fill bg-[#3ecf8e]" style="width: 94%"></div>
-      </div>
-      <div class="text-xs text-[#898989]">2,818 entries collected — Target: 10,000+ across 3 provinsi</div>
-    </div>
-
-    <!-- Kota Breakdown -->
-    <div class="card p-6 mb-8">
-      <h2 class="text-sm font-semibold uppercase tracking-[1px] text-[#898989] mb-4">Kota / Kabupaten Detail <span class="text-[#595959] normal-case tracking-normal font-normal">(3 provinsi, 35 kota/kab)</span></h2>
-      <div class="overflow-x-auto">
-        <table class="w-full text-sm">
-          <thead>
-            <tr class="text-[#898989] text-xs uppercase tracking-[1px] border-b border-[#2e2e2e]">
-              <th class="text-left py-3 pr-4 font-medium">Provinsi</th>
-              <th class="text-left py-3 pr-4 font-medium">Kota/Kab</th>
-              <th class="text-right py-3 pr-4 font-medium">Entries</th>
-              <th class="text-right py-3 pr-4 font-medium">No Website</th>
-              <th class="text-right py-3 font-medium">Website</th>
-            </tr>
-          </thead>
+      <div class="card p-3">
+        <table class="mobile-table">
+          <thead><tr><th>Prov</th><th>Kota</th><th>Total</th><th>No Web</th><th>Web</th></tr></thead>
           <tbody>
-            
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">DKI Jakarta</td>
-            <td class="py-2.5 pr-4 font-medium">Jakarta Pusat</td>
-            <td class="py-2.5 pr-4 text-right">14</td>
-            <td class="py-2.5 pr-4 text-right">14</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Barat</td>
-            <td class="py-2.5 pr-4 font-medium">Kab Bogor</td>
-            <td class="py-2.5 pr-4 text-right">3</td>
-            <td class="py-2.5 pr-4 text-right">3</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Barat</td>
-            <td class="py-2.5 pr-4 font-medium">Kota Bogor</td>
-            <td class="py-2.5 pr-4 text-right">61</td>
-            <td class="py-2.5 pr-4 text-right">61</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Barat</td>
-            <td class="py-2.5 pr-4 font-medium">Kota Sukabumi</td>
-            <td class="py-2.5 pr-4 text-right">1</td>
-            <td class="py-2.5 pr-4 text-right">1</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Bangkalan</td>
-            <td class="py-2.5 pr-4 text-right">52</td>
-            <td class="py-2.5 pr-4 text-right">52</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Banyuwangi</td>
-            <td class="py-2.5 pr-4 text-right">110</td>
-            <td class="py-2.5 pr-4 text-right">110</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Batu</td>
-            <td class="py-2.5 pr-4 text-right">43</td>
-            <td class="py-2.5 pr-4 text-right">43</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Blitar</td>
-            <td class="py-2.5 pr-4 text-right">111</td>
-            <td class="py-2.5 pr-4 text-right">111</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Bojonegoro</td>
-            <td class="py-2.5 pr-4 text-right">57</td>
-            <td class="py-2.5 pr-4 text-right">57</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Bondowoso</td>
-            <td class="py-2.5 pr-4 text-right">41</td>
-            <td class="py-2.5 pr-4 text-right">41</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Gresik</td>
-            <td class="py-2.5 pr-4 text-right">121</td>
-            <td class="py-2.5 pr-4 text-right">121</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Jember</td>
-            <td class="py-2.5 pr-4 text-right">122</td>
-            <td class="py-2.5 pr-4 text-right">122</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Jombang</td>
-            <td class="py-2.5 pr-4 text-right">118</td>
-            <td class="py-2.5 pr-4 text-right">118</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Kediri</td>
-            <td class="py-2.5 pr-4 text-right">159</td>
-            <td class="py-2.5 pr-4 text-right">159</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Lamongan</td>
-            <td class="py-2.5 pr-4 text-right">72</td>
-            <td class="py-2.5 pr-4 text-right">72</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Lumajang</td>
-            <td class="py-2.5 pr-4 text-right">58</td>
-            <td class="py-2.5 pr-4 text-right">58</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Madiun</td>
-            <td class="py-2.5 pr-4 text-right">90</td>
-            <td class="py-2.5 pr-4 text-right">90</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Magetan</td>
-            <td class="py-2.5 pr-4 text-right">50</td>
-            <td class="py-2.5 pr-4 text-right">50</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Malang</td>
-            <td class="py-2.5 pr-4 text-right">213</td>
-            <td class="py-2.5 pr-4 text-right">213</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Mojokerto</td>
-            <td class="py-2.5 pr-4 text-right">93</td>
-            <td class="py-2.5 pr-4 text-right">93</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Nganjuk</td>
-            <td class="py-2.5 pr-4 text-right">74</td>
-            <td class="py-2.5 pr-4 text-right">74</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Ngawi</td>
-            <td class="py-2.5 pr-4 text-right">78</td>
-            <td class="py-2.5 pr-4 text-right">78</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Pacitan</td>
-            <td class="py-2.5 pr-4 text-right">52</td>
-            <td class="py-2.5 pr-4 text-right">52</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Pamekasan</td>
-            <td class="py-2.5 pr-4 text-right">24</td>
-            <td class="py-2.5 pr-4 text-right">24</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Pasuruan</td>
-            <td class="py-2.5 pr-4 text-right">118</td>
-            <td class="py-2.5 pr-4 text-right">118</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Ponorogo</td>
-            <td class="py-2.5 pr-4 text-right">90</td>
-            <td class="py-2.5 pr-4 text-right">90</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Probolinggo</td>
-            <td class="py-2.5 pr-4 text-right">77</td>
-            <td class="py-2.5 pr-4 text-right">77</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Sampang</td>
-            <td class="py-2.5 pr-4 text-right">25</td>
-            <td class="py-2.5 pr-4 text-right">25</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Sidoarjo</td>
-            <td class="py-2.5 pr-4 text-right">179</td>
-            <td class="py-2.5 pr-4 text-right">179</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Situbondo</td>
-            <td class="py-2.5 pr-4 text-right">25</td>
-            <td class="py-2.5 pr-4 text-right">25</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Sumenep</td>
-            <td class="py-2.5 pr-4 text-right">33</td>
-            <td class="py-2.5 pr-4 text-right">33</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Surabaya</td>
-            <td class="py-2.5 pr-4 text-right">281</td>
-            <td class="py-2.5 pr-4 text-right">281</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Trenggalek</td>
-            <td class="py-2.5 pr-4 text-right">49</td>
-            <td class="py-2.5 pr-4 text-right">49</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Tuban</td>
-            <td class="py-2.5 pr-4 text-right">66</td>
-            <td class="py-2.5 pr-4 text-right">66</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
-        <tr class="border-b border-[#2e2e2e]/50">
-            <td class="py-2.5 pr-4 text-[#898989]">Jawa Timur</td>
-            <td class="py-2.5 pr-4 font-medium">Tulungagung</td>
-            <td class="py-2.5 pr-4 text-right">58</td>
-            <td class="py-2.5 pr-4 text-right">58</td>
-            <td class="py-2.5 text-right text-[#3ecf8e]">0</td>
-        </tr>
+
+            <tr>
+              <td><span class="lbl">DKI</span>Jakarta Pusat</td>
+              <td><span class="lbl">Total</span>14</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">14</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Cianjur</td>
+              <td><span class="lbl">Total</span>14</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">14</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Indramayu</td>
+              <td><span class="lbl">Total</span>6</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">6</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kab Bandung</td>
+              <td><span class="lbl">Total</span>8</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">8</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kab Bandung Barat</td>
+              <td><span class="lbl">Total</span>4</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">4</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kab Bekasi</td>
+              <td><span class="lbl">Total</span>1</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">1</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kab Bogor</td>
+              <td><span class="lbl">Total</span>3</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">3</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kab Cirebon</td>
+              <td><span class="lbl">Total</span>1</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">1</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Karawang</td>
+              <td><span class="lbl">Total</span>2</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">2</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kota Bandung</td>
+              <td><span class="lbl">Total</span>17</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">17</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kota Bogor</td>
+              <td><span class="lbl">Total</span>62</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">62</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kota Depok</td>
+              <td><span class="lbl">Total</span>20</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">20</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kota Sukabumi</td>
+              <td><span class="lbl">Total</span>7</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">7</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Purwakarta</td>
+              <td><span class="lbl">Total</span>18</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">18</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Subang</td>
+              <td><span class="lbl">Total</span>2</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">2</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Bangkalan</td>
+              <td><span class="lbl">Total</span>52</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">52</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Banyuwangi</td>
+              <td><span class="lbl">Total</span>110</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">110</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Batu</td>
+              <td><span class="lbl">Total</span>43</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">43</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Blitar</td>
+              <td><span class="lbl">Total</span>111</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">111</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Bojonegoro</td>
+              <td><span class="lbl">Total</span>57</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">57</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Bondowoso</td>
+              <td><span class="lbl">Total</span>41</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">41</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Gresik</td>
+              <td><span class="lbl">Total</span>121</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">121</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Jember</td>
+              <td><span class="lbl">Total</span>122</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">122</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Jombang</td>
+              <td><span class="lbl">Total</span>118</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">118</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Kediri</td>
+              <td><span class="lbl">Total</span>159</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">159</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Lamongan</td>
+              <td><span class="lbl">Total</span>72</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">72</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Lumajang</td>
+              <td><span class="lbl">Total</span>58</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">58</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Madiun</td>
+              <td><span class="lbl">Total</span>90</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">90</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Magetan</td>
+              <td><span class="lbl">Total</span>50</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">50</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Malang</td>
+              <td><span class="lbl">Total</span>213</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">213</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Mojokerto</td>
+              <td><span class="lbl">Total</span>93</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">93</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Nganjuk</td>
+              <td><span class="lbl">Total</span>74</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">74</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Ngawi</td>
+              <td><span class="lbl">Total</span>78</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">78</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Pacitan</td>
+              <td><span class="lbl">Total</span>52</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">52</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Pamekasan</td>
+              <td><span class="lbl">Total</span>24</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">24</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Pasuruan</td>
+              <td><span class="lbl">Total</span>118</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">118</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Ponorogo</td>
+              <td><span class="lbl">Total</span>90</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">90</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Probolinggo</td>
+              <td><span class="lbl">Total</span>77</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">77</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Sampang</td>
+              <td><span class="lbl">Total</span>25</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">25</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Sidoarjo</td>
+              <td><span class="lbl">Total</span>179</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">179</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Situbondo</td>
+              <td><span class="lbl">Total</span>25</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">25</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Sumenep</td>
+              <td><span class="lbl">Total</span>33</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">33</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Surabaya</td>
+              <td><span class="lbl">Total</span>281</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">281</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Trenggalek</td>
+              <td><span class="lbl">Total</span>49</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">49</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Tuban</td>
+              <td><span class="lbl">Total</span>66</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">66</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Jaw</span>Tulungagung</td>
+              <td><span class="lbl">Total</span>58</td>
+              <td><span class="lbl">Target</span><span style="color:#3ecf8e">58</span></td>
+              <td><span class="lbl">Web</span><span style="color:#8b949e">0</span></td>
+            </tr>
           </tbody>
         </table>
       </div>
     </div>
 
-    <!-- Latest Scraped -->
-    <div class="card p-6">
-      <h2 class="text-sm font-semibold uppercase tracking-[1px] text-[#898989] mb-4">20 Entries Terbaru</h2>
-      <div class="overflow-x-auto">
-        <table class="w-full text-sm">
-          <thead>
-            <tr class="text-[#898989] text-xs uppercase tracking-[1px] border-b border-[#2e2e2e]">
-              <th class="text-left py-3 pr-4 font-medium">Nama</th>
-              <th class="text-left py-3 pr-4 font-medium">Kota</th>
-              <th class="text-left py-3 pr-4 font-medium">Kecamatan</th>
-              <th class="text-left py-3 font-medium">Website</th>
-            </tr>
-          </thead>
+    <!-- Latest Entries -->
+    <div class="mb-6">
+      <div class="flex items-center gap-2 mb-3">
+        <span class="text-xs font-semibold text-[#8b949e] tracking-wider uppercase">Terbaru</span>
+        <span class="text-[10px] text-[#484f58]">20 entries</span>
+      </div>
+      <div class="card p-3">
+        <table class="mobile-table">
+          <thead><tr><th>Nama</th><th>Kota</th><th>Kec</th><th>Web</th></tr></thead>
           <tbody>
-            
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">SERVICE AC SUKABUMI SIGMA TECHNIQUE</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Sukabumi</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Cikole</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service AC Bogor (maju jaya teknik)</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kab Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Tanjungsari</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service Ac Gunung Putri Dan sparepart ac mesin cuc</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kab Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Gunung Putri</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">COOL AC MOBIL PUSAT</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service AC Bogor : Adelia Mandiri Teknik</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service ac bogor bergaransi</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Yoyo Ac</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service AC - Kulkas - Mesin Cuci Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Servis AC Bogor Yadi Teknik</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">spesialis ac mobil bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Jasa Service AC Dan Cuci AC Allstars Teknik</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">RUMAH AC BOGOR I Jasa Pemasangan Dan Service Ac</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">ARDI JAYA AC MOBIL BOGOR</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">BAGOES AC BOGOR</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Service AC bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Servis ac Bogor via indo tehnik</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">SERVICE AC BOGOR (FATIH ELEKTRONIK SERVICE)</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Jasa Service AC Bogor Ciomas, Kayumanis</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Multi Teknik Mandiri - Service AC Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
-    <tr class="border-b border-[#2e2e2e]/50">
-        <td class="py-2.5 pr-4 font-medium max-w-[200px] truncate">Servis ac bogor indo via tehnik</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Kota Bogor</td>
-        <td class="py-2.5 pr-4 text-[#898989]">Bogor Barat</td>
-        <td class="py-2.5"><span class="text-[#595959]">—</span></td>
-    </tr>
+
+            <tr>
+              <td><span class="lbl">Nama</span>SERVICE AC babakan, KULKAS, MESIN CUCI dll..</td>
+              <td><span class="lbl">Kota</span>Kab Cirebon</td>
+              <td><span class="lbl">Kec</span>Babakan</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>AXO Teknik (Service AC Indramayu - Cirebon)</td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>RA.Teknik AC. (Servis AC)</td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Ranting refrigeration</td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>YOGI SERVICE AC</td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Servis AC Jatibarang Kertasemaya Indramayu ( </td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Servis AC kertasmaya indramayu(ajikapasitor t</td>
+              <td><span class="lbl">Kota</span>Indramayu</td>
+              <td><span class="lbl">Kec</span>Kertasemaya</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>service ac subang ananda technik(subang kota)</td>
+              <td><span class="lbl">Kota</span>Subang</td>
+              <td><span class="lbl">Kec</span>Tanjungmedar</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>service ac subang ananda technik(subang kota)</td>
+              <td><span class="lbl">Kota</span>Subang</td>
+              <td><span class="lbl">Kec</span>Legonkulon</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>42 TEKNIK SERVICE KULKAS,SERVICE AC & PART</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>service AC terdekat purwakarta ac kulkas friz</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Citra aulia teknik service ac</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Service AC terdekat Purwakarta CV.fujitehnik</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>PT. Komelt Air Engineering | Service Chiller </td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>JASA PASANG AC TERDEKAT</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Ac mobil Rahayu Teknik</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Service Kulkas Purwakarta</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Service AC purwakarta CV "SUNARI JAYA TEHNIK"</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>Service ac purwakarta</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
+            <tr>
+              <td><span class="lbl">Nama</span>SERVICE AC PURWAKARTA INSAN TEKNIK</td>
+              <td><span class="lbl">Kota</span>Purwakarta</td>
+              <td><span class="lbl">Kec</span>Sukasari</td>
+              <td><span class="lbl">Web</span><span class="badge badge-gray">—</span></td>
+            </tr>
           </tbody>
         </table>
       </div>
     </div>
 
-    <div class="mt-8 text-center text-xs text-[#595959]">
-      CRM Jasa AC — Dashboard auto-generated from API data
+    <!-- Footer -->
+    <div class="text-center text-[10px] text-[#484f58] pb-8">
+      Auto-refresh tiap 5 menit &middot; CRM Jasa AC &middot; 
+      <a href="http://194.233.79.131:3001/dashboard" class="underline" style="color:#8b949e">Buka CRM</a>
     </div>
+
   </div>
+
+  <!-- Refresh timer -->
+  <div style="position:fixed;bottom:12px;right:12px;background:#161b22;border:1px solid #30363d;border-radius:8px;padding:4px 10px;font-size:10px;color:#484f58;display:flex;align-items:center;gap:4px;z-index:999">
+    <span id="dot" style="display:inline-block;width:4px;height:4px;border-radius:50%;background:#3ecf8e"></span>
+    <span id="timer"></span>
+  </div>
+  <script>
+    let s = 0;
+    setInterval(() => {
+      s = (s + 1) % 300;
+      const m = Math.floor(s / 60);
+      const sec = s % 60;
+      document.getElementById('timer').textContent = m + 'm ' + String(sec).padStart(2, '0') + 's';
+      if (s > 270) document.getElementById('dot').style.background = '#f0a135';
+      else document.getElementById('dot').style.background = '#3ecf8e';
+    }, 1000);
+  </script>
 </body>
 </html>
