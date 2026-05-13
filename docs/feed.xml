@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 06:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:01:27 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -193,24 +193,6 @@
       <pubDate>Fri, 08 May 2026 23:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A Coding Implementation to Build Agent-Native Memory Infrastructure with Memori for Persistent Multi-User and Multi-Session LLM Applications</title>
-      <link>https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-infrastructure-with-memori-for-persistent-multi-user-and-multi-session-llm-applications/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement how Memori serves as an agent-native memory infrastructure layer for building more persistent, context-aware LLM applications. We start by setting up Memori in a Google Colab environment and connecting it to both synchronous and asynchronous OpenAI clients, so that every model call can automatically pass through the memory layer. We [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/a-coding-implementation-to-build-agent-native-memory-inf...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 11 May 2026 07:34:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sakana AI and NVIDIA Introduce TwELL with CUDA Kernels for 20.5% Inference and 21.9% Training Speedup in LLMs</title>
-      <link>https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/</link>
-      <description>&lt;p&gt;&lt;p&gt;Sakana AI and NVIDIA Researchers demonstrate that simple L1 regularization can induce over 99% sparsity in feedforward layers with negligible downstream performance impact, and translate that sparsity into real GPU throughput gains using new sparse data formats and fused CUDA kernels.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/sakana-ai-and-nvidia-introduce-twell-with-cuda-kernels-for-20-5-inference-and-21-9-training-speedup-in-llms/"&gt;Sakana AI and NVIDIA Introduce TwELL...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 11 May 2026 08:36:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer</title>
       <link>https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Q40W1J.jpg?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -247,7 +229,7 @@
       <link>https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/</link>
       <description>&lt;p&gt;&lt;p&gt;Researchers from Meta FAIR and Stanford propose three inference methods for the Byte Latent Transformer that reduce memory-bandwidth cost by over 50% without subword tokenization.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/meta-and-stanford-researchers-propose-fast-byte-latent-transformer-that-reduces-inference-memory-bandwidth-by-over-50-without-tokenization/"&gt;Meta and Stanford Researchers Propose Fast Byte Latent Transformer That Reduces Inference Memory Bandwidth by O...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 17:52:15 +0000</pubDate>
     </item>
@@ -256,7 +238,7 @@
       <link>https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/</link>
       <description>&lt;p&gt;&lt;p&gt;Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 11 May 2026 20:20:16 +0000</pubDate>
     </item>
@@ -265,7 +247,7 @@
       <link>https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&amp;#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/openai-intro...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 05:47:54 +0000</pubDate>
     </item>
@@ -278,14 +260,6 @@
       <guid isPermaLink="false">rss-Ars Technica AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 13:33:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
-      <link>https://voker.ai</link>
-      <description>&lt;p&gt;Launch HN: Voker (YC S24) – Analytics for AI Agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 51&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48109962</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 12 May 2026 15:45:20 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Threads tests a Meta AI integration that works similarly to Grok</title>
@@ -358,7 +332,7 @@
     <item>
       <title>[📰] Reimagining the mouse pointer for the AI era</title>
       <link>https://deepmind.google/blog/ai-pointer/</link>
-      <description>&lt;p&gt;Reimagining the mouse pointer for the AI era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 181&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Reimagining the mouse pointer for the AI era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 202&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48111581</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 17:40:13 +0000</pubDate>
@@ -366,7 +340,7 @@
     <item>
       <title>[📰] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
       <link>https://github.com/cactus-compute/needle</link>
-      <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 391&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 464&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48111896</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 18:03:11 +0000</pubDate>
@@ -394,7 +368,7 @@
       <link>https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 21:55:57 +0000</pubDate>
     </item>
@@ -415,6 +389,23 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 00:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor</title>
+      <link>https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini — one that captures the visual and semantic context around the cursor so users can point, speak in natural shorthand, and get things done without switching to a separate AI window.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-se...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 13 May 2026 08:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Mira Murati’s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration</title>
+      <link>https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/</link>
+      <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously — eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time intera...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 13 May 2026 09:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
