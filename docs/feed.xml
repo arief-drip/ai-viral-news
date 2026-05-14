@@ -7,7 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 14 May 2026 02:27:37 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Thu, 14 May 2026 06:00:39 +0000</lastBuildDate>
+>>>>>>> cb0813c (AI Viral News feed update - 2026-05-14 06:01 UTC)
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -225,27 +229,13 @@
       <pubDate>Mon, 11 May 2026 17:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Understanding LLM Distillation Techniques </title>
-      <link>https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/</link>
-      <description>&lt;p&gt;&lt;p&gt;Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful “teacher” models to help train smaller or more efficient “student” models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 11 May 2026 20:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation</title>
-      <link>https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&amp;#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/11/openai-intro...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 12 May 2026 05:47:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
       <link>https://github.com/cactus-compute/needle</link>
+<<<<<<< HEAD
       <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 641&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+=======
+      <description>&lt;p&gt;Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 661&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+>>>>>>> cb0813c (AI Viral News feed update - 2026-05-14 06:01 UTC)
       <guid isPermaLink="false">hn-48111896</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 18:03:11 +0000</pubDate>
@@ -255,7 +245,7 @@
       <link>https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 12 May 2026 21:55:57 +0000</pubDate>
     </item>
@@ -264,7 +254,7 @@
       <link>https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/</link>
       <description>&lt;p&gt;&lt;p&gt;Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini — one that captures the visual and semantic context around the cursor so users can point, speak in natural shorthand, and get things done without switching to a separate AI window.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-se...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 08:16:06 +0000</pubDate>
     </item>
@@ -272,25 +262,17 @@
       <title>[📰] Mira Murati’s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration</title>
       <link>https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/</link>
       <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously — eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time intera...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 09:21:33 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The US is winning the AI race where it matters most: commercialization</title>
       <link>https://avkcode.github.io/blog/us-winning-ai-race.html</link>
-      <description>&lt;p&gt;The US is winning the AI race where it matters most: commercialization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 165&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The US is winning the AI race where it matters most: commercialization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 185&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48121929</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 13:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic now has more business customers than OpenAI, according to Ramp data</title>
-      <link>https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/</link>
-      <description>&lt;p&gt;A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 13 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] WhatsApp adds an incognito mode in Meta AI chats</title>
@@ -361,6 +343,7 @@
       <pubDate>Wed, 13 May 2026 19:47:24 +0000</pubDate>
     </item>
     <item>
+<<<<<<< HEAD
       <title>[📰] Meta won't let you block its AI account on Threads</title>
       <link>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</link>
       <description>&lt;p&gt;Meta won't let you block its AI account on Threads&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
@@ -385,12 +368,14 @@
       <pubDate>Wed, 13 May 2026 21:40:18 +0000</pubDate>
     </item>
     <item>
+=======
+>>>>>>> cb0813c (AI Viral News feed update - 2026-05-14 06:01 UTC)
       <title>[📰] Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</title>
       <link>https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/</link>
       <description>&lt;p&gt;&lt;p&gt;63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/"&gt;Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 21:44:37 +0000</pubDate>
     </item>
@@ -401,6 +386,31 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 21:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The other half of AI safety</title>
+      <link>https://personalaisafety.com/p/the-other-half-of-ai-safety</link>
+      <description>&lt;p&gt;The other half of AI safety&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 63&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48129561</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 14 May 2026 00:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude for Small Business</title>
+      <link>https://www.anthropic.com/news/claude-for-small-business</link>
+      <description>&lt;p&gt;Claude for Small Business&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 109&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48130950</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 14 May 2026 03:59:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models</title>
+      <link>https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/1...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 14 May 2026 05:46:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

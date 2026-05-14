@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
+    "description": "<p>Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 \u2014 without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/1...",
+    "link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
+    "source_link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-14T05:46:32+00:00"
+  },
+  {
+    "id": "hn-48130950",
+    "title": "Claude for Small Business",
+    "description": "Claude for Small Business",
+    "link": "https://www.anthropic.com/news/claude-for-small-business",
+    "source_link": "https://news.ycombinator.com/item?id=48130950",
+    "engagement": "\ud83d\udc4d 109",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-14T03:59:35+00:00"
+  },
+  {
+    "id": "hn-48129561",
+    "title": "The other half of AI safety",
+    "description": "The other half of AI safety",
+    "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "source_link": "https://news.ycombinator.com/item?id=48129561",
+    "engagement": "\ud83d\udc4d 63",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-14T00:27:20+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Notion just turned its workspace into a hub for AI agents",
     "description": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
@@ -11,7 +44,7 @@
     "published": "2026-05-13T21:45:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
     "description": "<p>63% of organizations have no AI governance policy. Shadow AI is already running inside your stack \u2014 here is the data.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/\">Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
@@ -22,6 +55,7 @@
     "published": "2026-05-13T21:44:37+00:00"
   },
   {
+<<<<<<< HEAD
     "id": "hn-48128003",
     "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
     "description": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
@@ -55,6 +89,8 @@
     "published": "2026-05-13T20:22:21+00:00"
   },
   {
+=======
+>>>>>>> cb0813c (AI Viral News feed update - 2026-05-14 06:01 UTC)
     "id": "rss-Ars Technica AI-0",
     "title": "AI invades Princeton, where 30% of students cheat\u2014but peers won't snitch",
     "description": "\n                        Old \"honor code\" systems are under strain.\n                    ",
@@ -143,29 +179,18 @@
     "published": "2026-05-13T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "description": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "source_link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-13T14:00:00+00:00"
-  },
-  {
     "id": "hn-48121929",
     "title": "The US is winning the AI race where it matters most: commercialization",
     "description": "The US is winning the AI race where it matters most: commercialization",
     "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
     "source_link": "https://news.ycombinator.com/item?id=48121929",
-    "engagement": "\ud83d\udc4d 165",
+    "engagement": "\ud83d\udc4d 185",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-13T13:53:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Mira Murati\u2019s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
     "description": "<p>Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously \u2014 eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time intera...",
     "link": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
@@ -176,7 +201,7 @@
     "published": "2026-05-13T09:21:33+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
     "description": "<p>Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini \u2014 one that captures the visual and semantic context around the cursor so users can point, speak in natural shorthand, and get things done without switching to a separate AI window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-se...",
     "link": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
@@ -187,7 +212,7 @@
     "published": "2026-05-13T08:16:06+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
     "description": "<p>In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...",
     "link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
@@ -203,32 +228,14 @@
     "description": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "link": "https://github.com/cactus-compute/needle",
     "source_link": "https://news.ycombinator.com/item?id=48111896",
+<<<<<<< HEAD
     "engagement": "\ud83d\udc4d 641",
+=======
+    "engagement": "\ud83d\udc4d 661",
+>>>>>>> cb0813c (AI Viral News feed update - 2026-05-14 06:01 UTC)
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-12T18:03:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
-    "description": "<p>OpenAI on just launched Daybreak, a cybersecurity initiative that combines the company&#8217;s frontier AI models with Codex Security, its coding-focused agentic system, and a broad network of security partners. The program is aimed at developers, enterprise security teams, researchers, and government-linked defenders who need to find, validate, and patch software vulnerabilities earlier in the development [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/openai-intro...",
-    "link": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
-    "source_link": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-12T05:47:54+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Understanding LLM Distillation Techniques\u00a0",
-    "description": "<p>Modern large language models are no longer trained only on raw internet text. Increasingly, companies are using powerful \u201cteacher\u201d models to help train smaller or more efficient \u201cstudent\u201d models. This process, broadly known as LLM distillation or model-to-model training, has become a key technique for building high-performing models at lower computational cost. Meta used its [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/\">...",
-    "link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
-    "source_link": "https://www.marktechpost.com/2026/05/11/understanding-llm-distillation-techniques/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-11T20:20:16+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
