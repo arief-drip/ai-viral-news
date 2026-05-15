@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "description": "Osaurus\ufffc combines local and cloud AI models in a Mac app that keeps users\u2019 memory, files, and tools on their own hardware.",
+    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "source_link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T12:19:48+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+    "description": "\n                        \"We have no grand plan,\" says Anthropic's Cat Wu\u2014but that's by design.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "source_link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T10:30:01+00:00"
+  },
+  {
+    "id": "hn-48146424",
+    "title": "UK sovereign LLM inference",
+    "description": "UK sovereign LLM inference",
+    "link": "https://relax.ai/docs",
+    "source_link": "https://news.ycombinator.com/item?id=48146424",
+    "engagement": "\ud83d\udc4d 93",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T09:27:26+00:00"
+  },
+  {
+    "id": "hn-48146369",
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "description": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "link": "https://github.com/Andyyyy64/whichllm",
+    "source_link": "https://news.ycombinator.com/item?id=48146369",
+    "engagement": "\ud83d\udc4d 223",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T09:19:24+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "How Chinese short dramas became AI content machines",
     "description": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. \u201cTwo months,\u201d the man says. \u201cGive me an heir, or&#8230;",
@@ -11,81 +55,15 @@
     "published": "2026-05-15T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
-    "description": "<p>The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools \u2014 including by the labs publishing their own scores.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...",
-    "link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
-    "source_link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T08:23:01+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
-    "description": "<p>The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6\u00d7 increase in language coverage \u2014 all while keeping the inference contract unchanged for existing integrations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/\">Supertone Releases Supertonic v3: On-...",
-    "link": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
-    "source_link": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T07:00:49+00:00"
-  },
-  {
-    "id": "hn-48144494",
-    "title": "How Claude Code works in large codebases",
-    "description": "How Claude Code works in large codebases",
-    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "source_link": "https://news.ycombinator.com/item?id=48144494",
-    "engagement": "\ud83d\udc4d 168",
+    "id": "hn-48144670",
+    "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+    "description": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+    "link": "https://github.com/GlycemicGPT/GlycemicGPT",
+    "source_link": "https://news.ycombinator.com/item?id=48144670",
+    "engagement": "\ud83d\udc4d 58",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T04:15:31+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Poetiq\u2019s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
-    "description": "<p>Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro \u2014 no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...",
-    "link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
-    "source_link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T03:38:10+00:00"
-  },
-  {
-    "id": "hn-48143284",
-    "title": "Access to frontier AI will soon be limited by economic and security constraints",
-    "description": "Access to frontier AI will soon be limited by economic and security constraints",
-    "link": "https://writing.antonleicht.me/p/cut-off",
-    "source_link": "https://news.ycombinator.com/item?id=48143284",
-    "engagement": "\ud83d\udc4d 159",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T01:08:04+00:00"
-  },
-  {
-    "id": "hn-48142650",
-    "title": "LLM Policy for Rust Compiler",
-    "description": "LLM Policy for Rust Compiler",
-    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
-    "source_link": "https://news.ycombinator.com/item?id=48142650",
-    "engagement": "\ud83d\udc4d 80",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-14T23:37:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated",
-    "description": "<p>Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack \u2014 @cline/shared, @cline/llms, @cline/agents, and @cline/core \u2014 with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...",
-    "link": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
-    "source_link": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-14T22:57:17+00:00"
+    "published": "2026-05-15T04:48:23+00:00"
   },
   {
     "id": "hn-48141234",
@@ -93,13 +71,13 @@
     "description": "Claude for Legal",
     "link": "https://github.com/anthropics/claude-for-legal",
     "source_link": "https://news.ycombinator.com/item?id=48141234",
-    "engagement": "\ud83d\udc4d 96",
+    "engagement": "\ud83d\udc4d 131",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T21:05:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "OpenAI says Codex is coming to your phone",
     "description": "The update gives users enhanced flexibility over how they can manage their workflows. ",
     "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
@@ -115,13 +93,13 @@
     "description": "Codex is now in the ChatGPT mobile app",
     "link": "https://openai.com/index/work-with-codex-from-anywhere/",
     "source_link": "https://news.ycombinator.com/item?id=48140529",
-    "engagement": "\ud83d\udc4d 335",
+    "engagement": "\ud83d\udc4d 384",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T20:06:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "What happens when AI starts building itself?",
     "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely \u2014 and he insists it will actually ship products.",
     "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
@@ -132,7 +110,7 @@
     "published": "2026-05-14T19:57:20+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn\u2019t be the first partner to feel burned",
     "description": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
     "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
@@ -143,7 +121,7 @@
     "published": "2026-05-14T19:12:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
     "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
     "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
@@ -154,7 +132,7 @@
     "published": "2026-05-14T19:05:01+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Your doctor\u2019s AI notetaker may be making things up, Ontario audit finds",
     "description": "\n                        Made-up therapy referrals, incorrect prescriptions among the common mistakes.\n                    ",
     "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
@@ -165,7 +143,7 @@
     "published": "2026-05-14T17:28:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
     "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups. ",
     "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
@@ -176,7 +154,7 @@
     "published": "2026-05-14T15:20:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
     "description": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
     "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
@@ -207,28 +185,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T13:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
-    "description": "<p>Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 \u2014 without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/1...",
-    "link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
-    "source_link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-14T05:46:32+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
-    "description": "<p>63% of organizations have no AI governance policy. Shadow AI is already running inside your stack \u2014 here is the data.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/\">Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
-    "source_link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-13T21:44:37+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
