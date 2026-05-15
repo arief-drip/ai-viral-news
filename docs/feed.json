@@ -1,17 +1,50 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "How Chinese short dramas became AI content machines",
+    "description": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. \u201cTwo months,\u201d the man says. \u201cGive me an heir, or&#8230;",
+    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source_link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T09:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
+    "description": "<p>The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools \u2014 including by the labs publishing their own scores.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...",
+    "link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
+    "source_link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T08:23:01+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
+    "description": "<p>The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6\u00d7 increase in language coverage \u2014 all while keeping the inference contract unchanged for existing integrations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/\">Supertone Releases Supertonic v3: On-...",
+    "link": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
+    "source_link": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T07:00:49+00:00"
+  },
+  {
     "id": "hn-48144494",
     "title": "How Claude Code works in large codebases",
     "description": "How Claude Code works in large codebases",
     "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
     "source_link": "https://news.ycombinator.com/item?id=48144494",
-    "engagement": "\ud83d\udc4d 112",
+    "engagement": "\ud83d\udc4d 168",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T04:15:31+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Poetiq\u2019s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
     "description": "<p>Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro \u2014 no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...",
     "link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
@@ -27,7 +60,7 @@
     "description": "Access to frontier AI will soon be limited by economic and security constraints",
     "link": "https://writing.antonleicht.me/p/cut-off",
     "source_link": "https://news.ycombinator.com/item?id=48143284",
-    "engagement": "\ud83d\udc4d 88",
+    "engagement": "\ud83d\udc4d 159",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T01:08:04+00:00"
@@ -38,13 +71,13 @@
     "description": "LLM Policy for Rust Compiler",
     "link": "https://github.com/rust-lang/rust-forge/pull/1040",
     "source_link": "https://news.ycombinator.com/item?id=48142650",
-    "engagement": "\ud83d\udc4d 58",
+    "engagement": "\ud83d\udc4d 80",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T23:37:21+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated",
     "description": "<p>Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack \u2014 @cline/shared, @cline/llms, @cline/agents, and @cline/core \u2014 with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...",
     "link": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
@@ -55,15 +88,15 @@
     "published": "2026-05-14T22:57:17+00:00"
   },
   {
-    "id": "hn-48142188",
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "description": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "source_link": "https://news.ycombinator.com/item?id=48142188",
-    "engagement": "\ud83d\udc4d 198",
+    "id": "hn-48141234",
+    "title": "Claude for Legal",
+    "description": "Claude for Legal",
+    "link": "https://github.com/anthropics/claude-for-legal",
+    "source_link": "https://news.ycombinator.com/item?id=48141234",
+    "engagement": "\ud83d\udc4d 96",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-14T22:37:40+00:00"
+    "published": "2026-05-14T21:05:05+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -82,7 +115,7 @@
     "description": "Codex is now in the ChatGPT mobile app",
     "link": "https://openai.com/index/work-with-codex-from-anywhere/",
     "source_link": "https://news.ycombinator.com/item?id=48140529",
-    "engagement": "\ud83d\udc4d 287",
+    "engagement": "\ud83d\udc4d 335",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T20:06:14+00:00"
@@ -154,7 +187,7 @@
     "published": "2026-05-14T14:01:14+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Data readiness for agentic AI in financial services",
     "description": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
     "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
@@ -165,7 +198,7 @@
     "published": "2026-05-14T13:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
     "description": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: \u201cCapability now, control later.\u201d Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
     "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
@@ -176,7 +209,7 @@
     "published": "2026-05-14T13:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
     "description": "<p>Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 \u2014 without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/1...",
     "link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
@@ -187,7 +220,7 @@
     "published": "2026-05-14T05:46:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
     "description": "<p>63% of organizations have no AI governance policy. Shadow AI is already running inside your stack \u2014 here is the data.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/\">Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
@@ -198,7 +231,7 @@
     "published": "2026-05-13T21:44:37+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "AI chatbots are giving out people\u2019s real phone numbers",
     "description": "A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawyer, a product designer, a locksmith.\u201d Callers were apparently misdirected by Google\u2019s generative AI.&#160; In March, a software developer in Israel was contacted on WhatsApp&#8230;",
     "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
@@ -209,29 +242,7 @@
     "published": "2026-05-13T18:09:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Mira Murati\u2019s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
-    "description": "<p>Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously \u2014 eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time intera...",
-    "link": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
-    "source_link": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-13T09:21:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
-    "description": "<p>Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini \u2014 one that captures the visual and semantic context around the cursor so users can point, speak in natural shorthand, and get things done without switching to a separate AI window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-se...",
-    "link": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
-    "source_link": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-13T08:16:06+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Three things in AI to watch, according to a Nobel-winning economist",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
     "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
@@ -242,7 +253,7 @@
     "published": "2026-05-11T17:35:12+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Fostering breakthrough AI innovation through customer-back engineering",
     "description": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
     "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
@@ -253,7 +264,7 @@
     "published": "2026-05-11T13:33:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Implementing advanced AI technologies in finance",
     "description": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
     "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
@@ -275,7 +286,7 @@
     "published": "2026-05-11T12:46:12+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
     "description": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk\u2019s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they\u2019d promised to maintain&#8230;",
     "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -286,7 +297,7 @@
     "published": "2026-05-08T23:59:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "A blueprint for using AI to strengthen democracy",
     "description": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
     "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
@@ -295,17 +306,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-05T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI\u2014Sam Altman and Elon Musk\u2014began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "source_link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-04T15:51:27+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
