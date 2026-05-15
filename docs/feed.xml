@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 18:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 20:56:09 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -198,7 +198,7 @@
       <description>&lt;p&gt;&lt;p&gt;63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/"&gt;Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 13 May 2026 21:44:37 +0000</pubDate>
     </item>
@@ -207,7 +207,7 @@
       <link>https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/</link>
       <description>&lt;p&gt;&lt;p&gt;Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/1...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 05:46:32 +0000</pubDate>
     </item>
@@ -228,18 +228,10 @@
       <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
-      <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
-      <description>&lt;p&gt;A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 14 May 2026 19:05:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned</title>
       <link>https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/</link>
       <description>&lt;p&gt;OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 19:12:03 +0000</pubDate>
     </item>
@@ -247,23 +239,15 @@
       <title>[📰] What happens when AI starts building itself?</title>
       <link>https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/</link>
       <description>&lt;p&gt;Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 19:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Codex is now in the ChatGPT mobile app</title>
-      <link>https://openai.com/index/work-with-codex-from-anywhere/</link>
-      <description>&lt;p&gt;Codex is now in the ChatGPT mobile app&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 443&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48140529</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 14 May 2026 20:06:14 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI says Codex is coming to your phone</title>
       <link>https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/</link>
       <description>&lt;p&gt;The update gives users enhanced flexibility over how they can manage their workflows. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
     </item>
@@ -271,7 +255,7 @@
       <title>[📰] Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated</title>
       <link>https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/</link>
       <description>&lt;p&gt;&lt;p&gt;Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack — @cline/shared, @cline/llms, @cline/agents, and @cline/core — with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 22:57:17 +0000</pubDate>
     </item>
@@ -280,7 +264,7 @@
       <link>https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/</link>
       <description>&lt;p&gt;&lt;p&gt;Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 03:38:10 +0000</pubDate>
     </item>
@@ -289,7 +273,7 @@
       <link>https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/</link>
       <description>&lt;p&gt;&lt;p&gt;The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6× increase in language coverage — all while keeping the inference contract unchanged for existing integrations.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/"&gt;Supertone Releases Supertonic v3: On-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 07:00:49 +0000</pubDate>
     </item>
@@ -298,7 +282,7 @@
       <link>https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/</link>
       <description>&lt;p&gt;&lt;p&gt;The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 08:23:01 +0000</pubDate>
     </item>
@@ -311,36 +295,18 @@
       <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code's product lead talks usage limits, transparency, and the "lean harness"</title>
-      <link>https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/</link>
-      <description>&lt;p&gt;
-                        "We have no grand plan," says Anthropic's Cat Wu—but that's by design.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 10:30:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Osaurus brings both local and cloud AI models to your Mac</title>
       <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
       <description>&lt;p&gt;Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 12:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Amazon workers under pressure to up their AI usage are making up tasks</title>
-      <link>https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</link>
-      <description>&lt;p&gt;Amazon workers under pressure to up their AI usage are making up tasks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 201&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48148337</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 13:28:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Runway started by helping filmmakers — now it wants to beat Google at AI</title>
       <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
       <description>&lt;p&gt;AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
     </item>
@@ -348,17 +314,54 @@
       <title>[📰] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts</title>
       <link>https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/</link>
       <description>&lt;p&gt;Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI is connecting ChatGPT to bank accounts via Plaid</title>
-      <link>https://firethering.com/chatgpt-bank-account-plaid-openai/</link>
-      <description>&lt;p&gt;OpenAI is connecting ChatGPT to bank accounts via Plaid&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 55&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48150723</guid>
+      <title>[📰] OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say</title>
+      <link>https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/</link>
+      <description>&lt;p&gt;
+                        Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 16:38:50 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 18:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up</title>
+      <link>https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/</link>
+      <description>&lt;p&gt;Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 18:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Send the arXiv AI-generated slop, get a yearlong vacation from submissions</title>
+      <link>https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/</link>
+      <description>&lt;p&gt;
+                        One of the site's moderators described the new policy on social media.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 18:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The OpenAI trial wraps up, and the Musk founder machine keeps spinning</title>
+      <link>https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/</link>
+      <description>&lt;p&gt;The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&amp;#160;can we trust the people in charge of AI?&amp;#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&amp;#160;a whole generation&amp;#160;of founders&amp;#160;already spinning out [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 19:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup</title>
+      <link>https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/</link>
+      <description>&lt;p&gt;&lt;p&gt;Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound — a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 20:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
