@@ -1,6 +1,50 @@
 [
   {
+    "id": "hn-48144494",
+    "title": "How Claude Code works in large codebases",
+    "description": "How Claude Code works in large codebases",
+    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "source_link": "https://news.ycombinator.com/item?id=48144494",
+    "engagement": "\ud83d\udc4d 78",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T04:15:31+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "Poetiq\u2019s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
+    "description": "<p>Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro \u2014 no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...",
+    "link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
+    "source_link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T03:38:10+00:00"
+  },
+  {
+    "id": "hn-48143284",
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "description": "Access to frontier AI will soon be limited by economic and security constraints",
+    "link": "https://writing.antonleicht.me/p/cut-off",
+    "source_link": "https://news.ycombinator.com/item?id=48143284",
+    "engagement": "\ud83d\udc4d 67",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T01:08:04+00:00"
+  },
+  {
+    "id": "hn-48142650",
+    "title": "LLM Policy for Rust Compiler",
+    "description": "LLM Policy for Rust Compiler",
+    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "source_link": "https://news.ycombinator.com/item?id=48142650",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-14T23:37:21+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated",
     "description": "<p>Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack \u2014 @cline/shared, @cline/llms, @cline/agents, and @cline/core \u2014 with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...",
     "link": "https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/",
@@ -16,7 +60,7 @@
     "description": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
     "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
     "source_link": "https://news.ycombinator.com/item?id=48142188",
-    "engagement": "\ud83d\udc4d 116",
+    "engagement": "\ud83d\udc4d 186",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T22:37:40+00:00"
@@ -38,7 +82,7 @@
     "description": "Codex is now in the ChatGPT mobile app",
     "link": "https://openai.com/index/work-with-codex-from-anywhere/",
     "source_link": "https://news.ycombinator.com/item?id=48140529",
-    "engagement": "\ud83d\udc4d 190",
+    "engagement": "\ud83d\udc4d 275",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-14T20:06:14+00:00"
@@ -132,7 +176,7 @@
     "published": "2026-05-14T13:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models",
     "description": "<p>Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 \u2014 without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/1...",
     "link": "https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/",
@@ -143,7 +187,7 @@
     "published": "2026-05-14T05:46:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
     "description": "<p>63% of organizations have no AI governance policy. Shadow AI is already running inside your stack \u2014 here is the data.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/\">Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
@@ -165,7 +209,7 @@
     "published": "2026-05-13T18:09:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Mira Murati\u2019s Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration",
     "description": "<p>Thinking Machines Lab has introduced a research preview of TML-Interaction-Small, a 276B parameter Mixture-of-Experts model with 12B active parameters, built around a multi-stream, time-aligned micro-turn architecture that processes 200ms chunks of audio, video, and text simultaneously \u2014 eliminating the need for external voice-activity detection harnesses. Unlike standard turn-based models that freeze perception during generation, the system runs two components in parallel: a real-time intera...",
     "link": "https://www.marktechpost.com/2026/05/13/mira-muratis-thinking-machines-lab-introduces-interaction-models-a-native-multimodal-architecture-for-real-time-human-ai-collaboration/",
@@ -176,7 +220,7 @@
     "published": "2026-05-13T09:21:33+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
     "description": "<p>Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini \u2014 one that captures the visual and semantic context around the cursor so users can point, speak in natural shorthand, and get things done without switching to a separate AI window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-se...",
     "link": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
@@ -185,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-13T08:16:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
-    "description": "<p>In this tutorial, we begin by exploring the architecture behind a hybrid-memory autonomous agent. This system combines semantic vector search, keyword-based retrieval, and a modular tool-dispatching loop to create an agent capable of reasoning, remembering, and acting autonomously. We walk through each layer of the design from the ground up, starting with abstract interfaces that [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-...",
-    "link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
-    "source_link": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-12T21:55:57+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
