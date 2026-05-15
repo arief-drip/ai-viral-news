@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 13:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:01:25 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -193,6 +193,25 @@
       <pubDate>Wed, 13 May 2026 18:09:03 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them</title>
+      <link>https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/</link>
+      <description>&lt;p&gt;&lt;p&gt;63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/"&gt;Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 13 May 2026 21:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models</title>
+      <link>https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/1...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 14 May 2026 05:46:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Establishing AI and data sovereignty in the age of autonomous systems</title>
       <link>https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/</link>
       <description>&lt;p&gt;When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -261,7 +280,7 @@
     <item>
       <title>[📰] Codex is now in the ChatGPT mobile app</title>
       <link>https://openai.com/index/work-with-codex-from-anywhere/</link>
-      <description>&lt;p&gt;Codex is now in the ChatGPT mobile app&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 384&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Codex is now in the ChatGPT mobile app&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48140529</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 20:06:14 +0000</pubDate>
@@ -277,50 +296,57 @@
     <item>
       <title>[📰] Claude for Legal</title>
       <link>https://github.com/anthropics/claude-for-legal</link>
-      <description>&lt;p&gt;Claude for Legal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 131&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude for Legal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48141234</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 21:05:05 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: GlycemicGPT – Open-source AI-powered diabetes management</title>
-      <link>https://github.com/GlycemicGPT/GlycemicGPT</link>
-      <description>&lt;p&gt;Show HN: GlycemicGPT – Open-source AI-powered diabetes management&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 58&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48144670</guid>
+      <title>[📰] Ontario auditors find doctors' AI note takers routinely blow basic facts</title>
+      <link>https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771</link>
+      <description>&lt;p&gt;Ontario auditors find doctors' AI note takers routinely blow basic facts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 235&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48142188</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 14 May 2026 21:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated</title>
+      <link>https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack — @cline/shared, @cline/llms, @cline/agents, and @cline/core — with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 04:48:23 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How Chinese short dramas became AI content machines</title>
-      <link>https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/</link>
-      <description>&lt;p&gt;In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <title>[📰] LLM Policy for Rust Compiler</title>
+      <link>https://github.com/rust-lang/rust-forge/pull/1040</link>
+      <description>&lt;p&gt;LLM Policy for Rust Compiler&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 80&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48142650</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Find the best local LLM for your hardware, ranked by benchmarks</title>
-      <link>https://github.com/Andyyyy64/whichllm</link>
-      <description>&lt;p&gt;Show HN: Find the best local LLM for your hardware, ranked by benchmarks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 223&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48146369</guid>
+      <title>[📰] Access to frontier AI will soon be limited by economic and security constraints</title>
+      <link>https://writing.antonleicht.me/p/cut-off</link>
+      <description>&lt;p&gt;Access to frontier AI will soon be limited by economic and security constraints&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 157&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48143284</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 09:19:24 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] UK sovereign LLM inference</title>
-      <link>https://relax.ai/docs</link>
-      <description>&lt;p&gt;UK sovereign LLM inference&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48146424</guid>
+      <title>[📰] Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning</title>
+      <link>https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/</link>
+      <description>&lt;p&gt;&lt;p&gt;Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 09:27:26 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code's product lead talks usage limits, transparency, and the "lean harness"</title>
-      <link>https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/</link>
-      <description>&lt;p&gt;
-                        "We have no grand plan," says Anthropic's Cat Wu—but that's by design.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <title>[📰] How Claude Code works in large codebases</title>
+      <link>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</link>
+      <description>&lt;p&gt;How Claude Code works in large codebases&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 166&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48144494</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 10:30:01 +0000</pubDate>
     </item>
@@ -331,6 +357,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 12:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags</title>
+      <link>https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/</link>
+      <description>&lt;p&gt;&lt;p&gt;The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6× increase in language coverage — all while keeping the inference contract unchanged for existing integrations.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/"&gt;Supertone Releases Supertonic v3: On-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 07:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field</title>
+      <link>https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/</link>
+      <description>&lt;p&gt;&lt;p&gt;The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 08:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How Chinese short dramas became AI content machines</title>
+      <link>https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/</link>
+      <description>&lt;p&gt;In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
