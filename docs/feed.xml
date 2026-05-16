@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 02:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 02:07:54 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -185,15 +185,6 @@
       <pubDate>Wed, 13 May 2026 18:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models</title>
-      <link>https://www.marktechpost.com/2026/05/13/nous-research-releases-token-superposition-training-to-speed-up-llm-pre-training-by-up-to-2-5x-across-270m-to-10b-parameter-models/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research releases Token Superposition Training (TST), a two-phase pre-training method that cuts wall-clock training time by up to 2.5x at matched FLOPs by averaging contiguous token embeddings into bags during Phase 1 and reverting to standard next-token prediction in Phase 2 — without changing the model architecture, tokenizer, optimizer, or inference-time behavior. Validated at 270M, 600M, 3B dense, and 10B-A1B MoE scales.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/1...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 14 May 2026 05:46:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Establishing AI and data sovereignty in the age of autonomous systems</title>
       <link>https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/</link>
       <description>&lt;p&gt;When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -232,41 +223,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 14 May 2026 20:58:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cline Releases Cline SDK: An Open-Source Agent Runtime Now Powering Its CLI and Kanban, With IDE Extensions Being Migrated</title>
-      <link>https://www.marktechpost.com/2026/05/14/cline-releases-cline-sdk-an-open-source-agent-runtime-now-powering-its-cli-and-kanban-with-ide-extensions-being-migrated/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cline has extracted its internal agent harness into an open-source TypeScript SDK called @cline/sdk, the same runtime now powering its CLI and Kanban, with VS Code and JetBrains extensions being migrated. The SDK is structured as a four-layer stack — @cline/shared, @cline/llms, @cline/agents, and @cline/core — with native support for plugins, subagents, CRON scheduling, checkpointing, and MCP connectors. On Terminal Benchmark 2.0, Cline CLI scored 74.2% on claude-opus-4.7, compared to Anthrop...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 14 May 2026 22:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning</title>
-      <link>https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/</link>
-      <description>&lt;p&gt;&lt;p&gt;Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro — no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 03:38:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags</title>
-      <link>https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/</link>
-      <description>&lt;p&gt;&lt;p&gt;The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6× increase in language coverage — all while keeping the inference contract unchanged for existing integrations.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/"&gt;Supertone Releases Supertonic v3: On-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 07:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field</title>
-      <link>https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/</link>
-      <description>&lt;p&gt;&lt;p&gt;The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 08:23:01 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How Chinese short dramas became AI content machines</title>
@@ -337,30 +293,12 @@
       <pubDate>Fri, 15 May 2026 19:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup</title>
-      <link>https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/</link>
-      <description>&lt;p&gt;&lt;p&gt;Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound — a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 20:00:21 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] I believe there are entire companies right now under AI psychosis</title>
       <link>https://twitter.com/mitchellh/status/2055380239711457578</link>
-      <description>&lt;p&gt;I believe there are entire companies right now under AI psychosis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 818&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;I believe there are entire companies right now under AI psychosis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 822&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48153379</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 20:26:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection</title>
-      <link>https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-age...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 21:05:34 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.</title>
