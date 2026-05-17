@@ -49,7 +49,7 @@
     "description": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "source_link": "https://news.ycombinator.com/item?id=48163392",
-    "engagement": "\ud83d\udc4d 191",
+    "engagement": "\ud83d\udc4d 229",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-16T20:14:06+00:00"
@@ -104,7 +104,7 @@
     "description": "Frontier AI has broken the open CTF format",
     "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
     "source_link": "https://news.ycombinator.com/item?id=48157559",
-    "engagement": "\ud83d\udc4d 378",
+    "engagement": "\ud83d\udc4d 391",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-16T07:01:55+00:00"
@@ -143,17 +143,6 @@
     "published": "2026-05-15T21:05:34+00:00"
   },
   {
-    "id": "hn-48153379",
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "description": "I believe there are entire companies right now under AI psychosis",
-    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source_link": "https://news.ycombinator.com/item?id=48153379",
-    "engagement": "\ud83d\udc4d 1,972",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T20:26:47+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-6",
     "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
     "description": "<p>Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound \u2014 a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...",
@@ -174,17 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T19:24:16+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-    "description": "\n                        One of the site's moderators described the new policy on social media.\n                    ",
-    "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "source_link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T18:25:53+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
