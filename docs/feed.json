@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4\u20131.7\u00d7 Pretraining Speedup at Long Context",
+    "description": "<p>Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N\u00b7S\u00b7d) to O(S\u00b2\u00b7d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...",
+    "link": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
+    "source_link": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-16T22:23:09+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "The haves and have nots of the AI gold rush",
     "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -9,6 +20,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-16T20:17:16+00:00"
+  },
+  {
+    "id": "hn-48163392",
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "description": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "source_link": "https://news.ycombinator.com/item?id=48163392",
+    "engagement": "\ud83d\udc4d 64",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-16T20:14:06+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -22,7 +44,7 @@
     "published": "2026-05-16T18:54:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
     "description": "<p>Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hos...",
     "link": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
@@ -44,17 +66,6 @@
     "published": "2026-05-16T15:33:33+00:00"
   },
   {
-    "id": "hn-48160807",
-    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-    "description": "DeepSeek-V4-Flash means LLM steering is interesting again",
-    "link": "https://www.seangoedecke.com/steering-vectors/",
-    "source_link": "https://news.ycombinator.com/item?id=48160807",
-    "engagement": "\ud83d\udc4d 181",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-16T14:58:16+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-0",
     "title": "The US is betting on AI to catch insider trading in prediction markets",
     "description": "\n                        The Commodity Futures Trading Commission wants us to know it's taking this very seriously.\n                    ",
@@ -71,13 +82,13 @@
     "description": "Frontier AI has broken the open CTF format",
     "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
     "source_link": "https://news.ycombinator.com/item?id=48157559",
-    "engagement": "\ud83d\udc4d 314",
+    "engagement": "\ud83d\udc4d 339",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-16T07:01:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
     "description": "<p>In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-int...",
     "link": "https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/",
@@ -99,7 +110,7 @@
     "published": "2026-05-15T23:39:35+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
     "description": "<p>In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-age...",
     "link": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
@@ -115,13 +126,13 @@
     "description": "I believe there are entire companies right now under AI psychosis",
     "link": "https://twitter.com/mitchellh/status/2055380239711457578",
     "source_link": "https://news.ycombinator.com/item?id=48153379",
-    "engagement": "\ud83d\udc4d 1,811",
+    "engagement": "\ud83d\udc4d 1,886",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T20:26:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
     "description": "<p>Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound \u2014 a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...",
     "link": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/",
@@ -209,7 +220,7 @@
     "published": "2026-05-15T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field",
     "description": "<p>The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools \u2014 including by the labs publishing their own scores.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...",
     "link": "https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/",
@@ -220,7 +231,7 @@
     "published": "2026-05-15T08:23:01+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Supertone Releases Supertonic v3: On-Device Text-to-Speech Model with 31-Language Support, Fewer Reading Failures, and Expression Tags",
     "description": "<p>The Seoul-based speech AI company ships its third generation of its on-device TTS engine, adding expressive tags, improved reading stability, and a 6\u00d7 increase in language coverage \u2014 all while keeping the inference contract unchanged for existing integrations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/\">Supertone Releases Supertonic v3: On-...",
     "link": "https://www.marktechpost.com/2026/05/15/supertone-releases-supertonic-v3-on-device-text-to-speech-model-with-31-language-support-fewer-reading-failures-and-expression-tags/",
@@ -231,7 +242,7 @@
     "published": "2026-05-15T07:00:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "Poetiq\u2019s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning",
     "description": "<p>Poetiq's Meta-System automatically constructed and optimized an inference harness for LiveCodeBench Pro using only Gemini 3.1 Pro \u2014 no fine-tuning, no model internals. The same harness, applied without modification to GPT 5.5 High, Kimi K2.6, Gemini 3.0 Flash, and four other models, improved every one of them.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-wi...",
     "link": "https://www.marktechpost.com/2026/05/14/poetiqs-meta-system-automatically-builds-a-model-agnostic-harness-that-improved-every-llm-tested-on-livecodebench-pro-without-fine-tuning/",
