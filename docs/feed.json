@@ -1,11 +1,33 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries developers use to interact with APIs.",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source_link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T19:27:52+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "description": "\n                        Musk plans to appeal after judge immediately affirmed the jury's decision.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T18:09:41+00:00"
+  },
+  {
     "id": "hn-48182754",
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "source_link": "https://news.ycombinator.com/item?id=48182754",
-    "engagement": "\ud83d\udc4d 97",
+    "engagement": "\ud83d\udc4d 544",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T17:38:22+00:00"
@@ -22,9 +44,9 @@
     "published": "2026-05-18T17:35:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "description": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "source_link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -38,13 +60,13 @@
     "description": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
     "link": "https://archestra.ai/blog/only-responsible-ai",
     "source_link": "https://news.ycombinator.com/item?id=48181125",
-    "engagement": "\ud83d\udc4d 234",
+    "engagement": "\ud83d\udc4d 332",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T15:24:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
     "description": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
     "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
@@ -66,7 +88,7 @@
     "published": "2026-05-18T13:31:17+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Bug bounty businesses bombarded with AI slop",
     "description": "\n                        \"Never-ending\" AI slop strains corporate hacking reward schemes.\n                    ",
     "link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
@@ -77,29 +99,18 @@
     "published": "2026-05-18T13:23:34+00:00"
   },
   {
-    "id": "hn-48179029",
-    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "description": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-    "source_link": "https://news.ycombinator.com/item?id=48179029",
-    "engagement": "\ud83d\udc4d 123",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-18T12:49:54+00:00"
-  },
-  {
     "id": "hn-48178378",
     "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
     "description": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
     "link": "https://spectrum.ieee.org/voice-ai-audio-attacks",
     "source_link": "https://news.ycombinator.com/item?id=48178378",
-    "engagement": "\ud83d\udc4d 62",
+    "engagement": "\ud83d\udc4d 96",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T11:51:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
     "description": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it \u2014 could become the optical backbone of the AI glasses era.",
     "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -121,7 +132,7 @@
     "published": "2026-05-18T08:42:52+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "description": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy.",
     "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -132,7 +143,7 @@
     "published": "2026-05-17T19:46:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
     "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -143,7 +154,7 @@
     "published": "2026-05-17T16:32:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "description": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
     "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -187,7 +198,7 @@
     "published": "2026-05-16T22:23:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "The haves and have-nots of the AI gold rush",
     "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
     "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -198,7 +209,7 @@
     "published": "2026-05-16T20:17:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
     "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
     "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
@@ -220,28 +231,6 @@
     "published": "2026-05-16T17:59:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "source_link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-16T15:33:33+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "The US is betting on AI to catch insider trading in prediction markets",
-    "description": "\n                        The Commodity Futures Trading Commission wants us to know it's taking this very seriously.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-16T11:00:01+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-5",
     "title": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
     "description": "<p>In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-int...",
@@ -255,7 +244,7 @@
   {
     "id": "rss-MIT Tech Review AI-1",
     "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
-    "description": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;",
+    "description": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s&#8230;",
     "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "source_link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "engagement": "\ud83d\udce1 MIT Tech Review AI",
@@ -273,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T21:05:34+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup",
-    "description": "<p>Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound \u2014 a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...",
-    "link": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/",
-    "source_link": "https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T20:00:21+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
