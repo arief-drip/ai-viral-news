@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 06:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:55:58 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -201,15 +201,6 @@
       <pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Best AI Agents for Software Development Ranked: A Benchmark-Driven Look at the Current Field</title>
-      <link>https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-driven-look-at-the-current-field/</link>
-      <description>&lt;p&gt;&lt;p&gt;The AI coding agent field in 2026 is more capable, more fragmented, and harder to benchmark than it looks. Claude Code leads on code quality at 87.6% SWE-bench Verified. GPT-5.5 tops Terminal-Bench at 82.7%. But the benchmark OpenAI itself declared contaminated in February 2026 is still being used to rank these tools — including by the labs publishing their own scores.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/best-ai-agents-for-software-development-ranked-a-benchmark-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 08:23:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How Chinese short dramas became AI content machines</title>
       <link>https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/</link>
       <description>&lt;p&gt;In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an heir, or&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -242,39 +233,12 @@
       <pubDate>Fri, 15 May 2026 19:24:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Zyphra Releases ZAYA1-8B-Diffusion-Preview: The First MoE Diffusion Model Converted From an Autoregressive LLM With Up to 7.7x Speedup</title>
-      <link>https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusion-preview-the-first-moe-diffusion-model-converted-from-an-autoregressive-llm-with-up-to-7-7x-speedup/</link>
-      <description>&lt;p&gt;&lt;p&gt;Zyphra's latest release shows that an autoregressive MoE model can be converted into a discrete diffusion model with no systematic loss in evaluation performance. ZAYA1-8B-Diffusion-Preview achieves up to 7.7x inference speedup over autoregression by shifting decoding from memory-bandwidth bound to compute-bound — a key advantage as modern GPUs continue scaling FLOPs faster than memory bandwidth.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/zyphra-releases-zaya1-8b-diffusi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 20:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection</title>
-      <link>https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-age...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 15 May 2026 21:05:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.</title>
       <link>https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/</link>
       <description>&lt;p&gt;In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 15 May 2026 23:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context</title>
-      <link>https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-int...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 06:45:19 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The US is betting on AI to catch insider trading in prediction markets</title>
@@ -295,15 +259,6 @@
       <pubDate>Sat, 16 May 2026 15:33:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production</title>
-      <link>https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/</link>
-      <description>&lt;p&gt;&lt;p&gt;Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 17:59:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Research repository ArXiv will ban authors for a year if they let AI do all the work</title>
       <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
       <description>&lt;p&gt;ArXiv is doing more to crack down on the careless use of large language models in scientific papers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -320,46 +275,12 @@
       <pubDate>Sat, 16 May 2026 20:17:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context</title>
-      <link>https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 22:23:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models</title>
-      <link>https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/17/a-coding-guide-i...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 07:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs</title>
-      <link>https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 08:11:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] I don't think AI will make your processes go faster</title>
       <link>https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</link>
-      <description>&lt;p&gt;I don't think AI will make your processes go faster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 538&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;I don't think AI will make your processes go faster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 565&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48168221</guid>
       <category>AI News</category>
       <pubDate>Sun, 17 May 2026 12:13:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI is a technology not a product</title>
-      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
-      <description>&lt;p&gt;AI is a technology not a product&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 378&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48168626</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 13:11:20 +0000</pubDate>
     </item>
     <item>
       <title>[📰] TechCrunch Mobility: The AI skills arms race is coming for automotive</title>
@@ -388,7 +309,7 @@
     <item>
       <title>[📰] The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations</title>
       <link>https://www.jdhodges.com/blog/thinkpad-history/</link>
-      <description>&lt;p&gt;The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 82&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 94&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48173547</guid>
       <category>AI News</category>
       <pubDate>Sun, 17 May 2026 21:56:40 +0000</pubDate>
