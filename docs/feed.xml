@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 14:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:56:44 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -119,14 +119,6 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 20 Apr 2026 12:30:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to build scalable web apps with OpenAI's Privacy Filter</title>
-      <link>https://huggingface.co/blog/openai-privacy-filter-web-apps</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 455: Automating AI Research</title>
@@ -265,7 +257,7 @@
       <description>&lt;p&gt;
                         The Commodity Futures Trading Commission wants us to know it's taking this very seriously.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 16 May 2026 11:00:01 +0000</pubDate>
     </item>
@@ -362,14 +354,6 @@
       <pubDate>Mon, 18 May 2026 08:42:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Eric Schmidt speech about AI booed during graduation</title>
-      <link>https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585</link>
-      <description>&lt;p&gt;Eric Schmidt speech about AI booed during graduation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 257&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48177785</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 10:50:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] South Korea’s LetinAR is building optics behind AI glasses</title>
       <link>https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/</link>
       <description>&lt;p&gt;A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -378,12 +362,30 @@
       <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Benedict Evans: AI eats the world (Spring 26) [pdf]</title>
+      <title>[📰] AI eats the world (Spring 26) [pdf]</title>
       <link>https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</link>
-      <description>&lt;p&gt;Benedict Evans: AI eats the world (Spring 26) [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI eats the world (Spring 26) [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 100&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48179021</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 12:49:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Enough with the AI FOMO, go slow-mo, says Domo CDO</title>
+      <link>https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840</link>
+      <description>&lt;p&gt;Enough with the AI FOMO, go slow-mo, says Domo CDO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 77&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48179029</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 18 May 2026 12:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Bug bounty businesses bombarded with AI slop</title>
+      <link>https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/</link>
+      <description>&lt;p&gt;
+                        "Never-ending" AI slop strains corporate hacking reward schemes.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 18 May 2026 13:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
