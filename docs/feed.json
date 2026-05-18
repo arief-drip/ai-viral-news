@@ -1,39 +1,6 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
-    "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
-    "description": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that the bigger obstacle is access, and that Claude solves it. ",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "source_link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-18T21:29:31+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
-    "description": "<p>As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...",
-    "link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
-    "source_link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-18T21:26:04+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Legal fail: Don\u2019t use AI to sue Facebook users for calling you a bad date",
-    "description": "\n                        Fake citations dashed a dude\u2019s \u201cAre We Dating the Same Guy\u201d revenge lawsuit.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-18T20:27:15+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
     "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
     "description": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries developers use to interact with APIs.",
     "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
@@ -44,7 +11,7 @@
     "published": "2026-05-18T19:27:52+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-0",
     "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
     "description": "\n                        Musk plans to appeal after judge immediately affirmed the jury's decision.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
@@ -60,7 +27,7 @@
     "description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "source_link": "https://news.ycombinator.com/item?id=48182754",
-    "engagement": "\ud83d\udc4d 613",
+    "engagement": "\ud83d\udc4d 544",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T17:38:22+00:00"
@@ -77,7 +44,7 @@
     "published": "2026-05-18T17:35:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-1",
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "description": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
@@ -93,13 +60,13 @@
     "description": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
     "link": "https://archestra.ai/blog/only-responsible-ai",
     "source_link": "https://news.ycombinator.com/item?id=48181125",
-    "engagement": "\ud83d\udc4d 349",
+    "engagement": "\ud83d\udc4d 332",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T15:24:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-2",
     "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
     "description": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
     "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
@@ -121,18 +88,29 @@
     "published": "2026-05-18T13:31:17+00:00"
   },
   {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Bug bounty businesses bombarded with AI slop",
+    "description": "\n                        \"Never-ending\" AI slop strains corporate hacking reward schemes.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+    "source_link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T13:23:34+00:00"
+  },
+  {
     "id": "hn-48178378",
     "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
     "description": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
     "link": "https://spectrum.ieee.org/voice-ai-audio-attacks",
     "source_link": "https://news.ycombinator.com/item?id=48178378",
-    "engagement": "\ud83d\udc4d 98",
+    "engagement": "\ud83d\udc4d 96",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T11:51:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-3",
     "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
     "description": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it \u2014 could become the optical backbone of the AI glasses era.",
     "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -154,7 +132,7 @@
     "published": "2026-05-18T08:42:52+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-4",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "description": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy.",
     "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -165,7 +143,7 @@
     "published": "2026-05-17T19:46:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-5",
     "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
     "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -176,7 +154,7 @@
     "published": "2026-05-17T16:32:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-6",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "description": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
     "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -220,7 +198,7 @@
     "published": "2026-05-16T22:23:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
+    "id": "rss-TechCrunch AI-7",
     "title": "The haves and have-nots of the AI gold rush",
     "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
     "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -231,7 +209,18 @@
     "published": "2026-05-16T20:17:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-TechCrunch AI-8",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "source_link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-16T18:54:28+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
     "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
     "description": "<p>Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hos...",
     "link": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
@@ -242,7 +231,7 @@
     "published": "2026-05-16T17:59:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-5",
     "title": "How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context",
     "description": "<p>In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-int...",
     "link": "https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/",
@@ -262,6 +251,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T23:39:35+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "How to Build an MCP Style Routed AI Agent System with Dynamic Tool Exposure Planning, Execution, and Context Injection",
+    "description": "<p>In this tutorial, we build a fully functional MCP-style routed agent system from scratch, combining tool discovery, intelligent routing, structured planning, and execution into a single cohesive workflow. We start by setting up a modular tool server that exposes capabilities such as web search, local retrieval, dataset loading, and Python execution, all defined through structured [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-age...",
+    "link": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
+    "source_link": "https://www.marktechpost.com/2026/05/15/how-to-build-an-mcp-style-routed-ai-agent-system-with-dynamic-tool-exposure-planning-execution-and-context-injection/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-15T21:05:34+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
