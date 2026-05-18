@@ -1,5 +1,38 @@
 [
   {
+    "id": "hn-48179021",
+    "title": "Benedict Evans: AI eats the world (Spring 26) [pdf]",
+    "description": "Benedict Evans: AI eats the world (Spring 26) [pdf]",
+    "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "source_link": "https://news.ycombinator.com/item?id=48179021",
+    "engagement": "\ud83d\udc4d 60",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T12:49:28+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
+    "description": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "source_link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T11:00:00+00:00"
+  },
+  {
+    "id": "hn-48177785",
+    "title": "Eric Schmidt speech about AI booed during graduation",
+    "description": "Eric Schmidt speech about AI booed during graduation",
+    "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+    "source_link": "https://news.ycombinator.com/item?id=48177785",
+    "engagement": "\ud83d\udc4d 255",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T10:50:25+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
     "description": "<p>NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format \u2014 combining selective BF16 layers, 16\u00d716 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients \u2014 validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).</p>\n<p>The post <a href=\"https://www.mar...",
@@ -11,7 +44,7 @@
     "published": "2026-05-18T08:42:52+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "description": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy.",
     "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -22,7 +55,7 @@
     "published": "2026-05-17T19:46:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
     "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -33,7 +66,7 @@
     "published": "2026-05-17T16:32:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "description": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
     "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -42,17 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-17T16:05:00+00:00"
-  },
-  {
-    "id": "hn-48168221",
-    "title": "I don't think AI will make your processes go faster",
-    "description": "I don't think AI will make your processes go faster",
-    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "source_link": "https://news.ycombinator.com/item?id=48168221",
-    "engagement": "\ud83d\udc4d 594",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-17T12:13:45+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -88,7 +110,7 @@
     "published": "2026-05-16T22:23:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "The haves and have nots of the AI gold rush",
     "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
     "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -99,7 +121,7 @@
     "published": "2026-05-16T20:17:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
     "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
     "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
@@ -121,7 +143,7 @@
     "published": "2026-05-16T17:59:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "description": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
     "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
@@ -187,7 +209,7 @@
     "published": "2026-05-15T20:00:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
     "description": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generation&#160;of founders&#160;already spinning out [&#8230;]",
     "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
@@ -198,7 +220,7 @@
     "published": "2026-05-15T19:24:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Silicon Valley\u2019s vacationland needs a new energy provider just as AI is driving prices up",
     "description": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
     "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
@@ -207,17 +229,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-15T18:14:44+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "description": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "source_link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-15T16:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
