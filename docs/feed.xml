@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 14:02:12 +0000</lastBuildDate>
-    <item>
-      <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
-      <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
-      <description>&lt;p&gt;&lt;p&gt;When the creator of the world&amp;#x27;s most advanced coding agent speaks, Silicon Valley doesn&amp;#x27;t just listen — it takes notes.&lt;/p&gt;&lt;p&gt;For the past week, the engineering community has been dissecting a &lt;a href="https://x.com/bcherny/status/2007179832300581177"&gt;thread on X&lt;/a&gt; from &lt;a href="https://x.com/bcherny"&gt;Boris Cherny&lt;/a&gt;, the creator and head of &lt;a href="https://code.claude.com/docs/en/overview"&gt;Claude Code&lt;/a&gt; at &lt;a href="https://www.anthropic.com/"&gt;Anthropic&lt;/a&gt;. What began as a ca...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-VentureBeat AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 05 Jan 2026 07:45:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 May 2026 18:00:39 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -186,14 +178,6 @@
       <pubDate>Sat, 16 May 2026 17:59:09 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The haves and have-nots of the AI gold rush</title>
-      <link>https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</link>
-      <description>&lt;p&gt;The vibes around the current AI boom aren't great, even in the tech industry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 20:17:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context</title>
       <link>https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/</link>
       <description>&lt;p&gt;&lt;p&gt;Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
@@ -220,28 +204,12 @@
       <pubDate>Sun, 17 May 2026 08:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] TechCrunch Mobility: The AI skills arms race is coming for automotive</title>
-      <link>https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/</link>
-      <description>&lt;p&gt;Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <title>[📰] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory</title>
+      <link>https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/</link>
+      <description>&lt;p&gt;Intro to TLA+ for the LLM Era: Prompt Your Way to Victory&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48170007</guid>
       <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 16:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] If you’re giving a commencement speech in 2026, maybe don’t mention AI</title>
-      <link>https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/</link>
-      <description>&lt;p&gt;It's tough to get graduating students excited about a future shaped by artificial intelligence.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 16:32:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why trust is a big question at the Elon Musk-OpenAI trial</title>
-      <link>https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/</link>
-      <description>&lt;p&gt;A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 19:46:34 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 15:52:21 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon</title>
@@ -253,14 +221,6 @@
       <pubDate>Mon, 18 May 2026 08:42:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] South Korea’s LetinAR is building optics behind AI glasses</title>
-      <link>https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/</link>
-      <description>&lt;p&gt;A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment</title>
       <link>https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-qSUQ99.jpg?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -269,46 +229,12 @@
       <pubDate>Mon, 18 May 2026 13:31:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Amazon’s new Alexa+ powered feature can generate podcast episodes</title>
-      <link>https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/</link>
-      <description>&lt;p&gt;Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 14:56:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
-      <link>https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</link>
-      <description>&lt;p&gt;Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 17:34:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] What to expect from Google this week</title>
       <link>https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/</link>
       <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 17:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Elon Musk took too long to sue OpenAI, jury unanimously agrees</title>
-      <link>https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/</link>
-      <description>&lt;p&gt;
-                        Musk plans to appeal after judge immediately affirmed the jury's decision.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 18:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare</title>
-      <link>https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/</link>
-      <description>&lt;p&gt;Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 19:27:52 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Legal fail: Don’t use AI to sue Facebook users for calling you a bad date</title>
@@ -328,14 +254,6 @@
       <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 21:26:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] SandboxAQ brings its drug discovery models to Claude — no PhD in computing required</title>
-      <link>https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</link>
-      <description>&lt;p&gt;Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 21:29:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Here’s why Elon Musk lost his suit against OpenAI</title>
@@ -362,6 +280,62 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 08:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s AI now lets you talk to your Gmail inbox</title>
+      <link>https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/</link>
+      <description>&lt;p&gt;Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration</title>
+      <link>https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/</link>
+      <description>&lt;p&gt;At the I/O developer conference, Google announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Agentic app coding gets an upgrade with Google’s release of Android CLI</title>
+      <link>https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/</link>
+      <description>&lt;p&gt;Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s AI Studio now lets anyone build Android apps in minutes</title>
+      <link>https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/</link>
+      <description>&lt;p&gt;Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google Search as you know it is over</title>
+      <link>https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/</link>
+      <description>&lt;p&gt;Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to use Google’s new information agents</title>
+      <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/</link>
+      <description>&lt;p&gt;Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots</title>
+      <link>https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/</link>
+      <description>&lt;p&gt;Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 17:51:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
