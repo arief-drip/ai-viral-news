@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 02:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 06:02:48 +0000</lastBuildDate>
     <item>
       <title>[📰] The creator of Claude Code just revealed his workflow, and developers are losing their minds</title>
       <link>https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are</link>
@@ -177,20 +177,11 @@
       <pubDate>Fri, 15 May 2026 23:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context</title>
-      <link>https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore how to use Repowise to build repository-level intelligence for the itsdangerous Python project in a practical and reproducible way. We start with an already cloned repository, configure Repowise using the available LLM credentials, and initialize its indexing pipeline. We then inspect the generated .repowise artifacts, analyze the repository graph with [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-int...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 06:45:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production</title>
       <link>https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/</link>
       <description>&lt;p&gt;&lt;p&gt;Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Sat, 16 May 2026 17:59:09 +0000</pubDate>
     </item>
@@ -206,7 +197,7 @@
       <title>[📰] Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context</title>
       <link>https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/</link>
       <description>&lt;p&gt;&lt;p&gt;Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 16 May 2026 22:23:09 +0000</pubDate>
     </item>
@@ -215,7 +206,7 @@
       <link>https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/17/a-coding-guide-i...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 17 May 2026 07:25:10 +0000</pubDate>
     </item>
@@ -224,7 +215,7 @@
       <link>https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/</link>
       <description>&lt;p&gt;&lt;p&gt;Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 17 May 2026 08:11:49 +0000</pubDate>
     </item>
@@ -257,7 +248,7 @@
       <link>https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.mar...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 08:42:52 +0000</pubDate>
     </item>
@@ -270,12 +261,12 @@
       <pubDate>Mon, 18 May 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Voice AI Systems Are Vulnerable to Hidden Audio Attacks</title>
-      <link>https://spectrum.ieee.org/voice-ai-audio-attacks</link>
-      <description>&lt;p&gt;Voice AI Systems Are Vulnerable to Hidden Audio Attacks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 110&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48178378</guid>
+      <title>[📰] AI eats the world (Spring 26) [pdf]</title>
+      <link>https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</link>
+      <description>&lt;p&gt;AI eats the world (Spring 26) [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 193&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48179021</guid>
       <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 11:51:05 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 12:49:28 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment</title>
@@ -296,7 +287,7 @@
     <item>
       <title>[📰] We stopped AI bot spam in our GitHub repo using Git's –author flag</title>
       <link>https://archestra.ai/blog/only-responsible-ai</link>
-      <description>&lt;p&gt;We stopped AI bot spam in our GitHub repo using Git's –author flag&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 420&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;We stopped AI bot spam in our GitHub repo using Git's –author flag&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 452&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48181125</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 15:24:19 +0000</pubDate>
@@ -320,7 +311,7 @@
     <item>
       <title>[📰] Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
       <link>https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</link>
-      <description>&lt;p&gt;Elon Musk has lost his lawsuit against Sam Altman and OpenAI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 805&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Elon Musk has lost his lawsuit against Sam Altman and OpenAI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 893&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48182754</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 17:38:22 +0000</pubDate>
@@ -358,7 +349,7 @@
       <link>https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/</link>
       <description>&lt;p&gt;&lt;p&gt;As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 21:26:04 +0000</pubDate>
     </item>
@@ -371,20 +362,21 @@
       <pubDate>Mon, 18 May 2026 21:29:31 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic co-founder to present AI encyclical alongside Pope Leo XIV</title>
-      <link>https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html</link>
-      <description>&lt;p&gt;Anthropic co-founder to present AI encyclical alongside Pope Leo XIV&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 115&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48187201</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 23:18:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Here’s why Elon Musk lost his suit against OpenAI</title>
       <link>https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/</link>
       <description>&lt;p&gt;On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&amp;#160; Musk announced on X that he will&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 00:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API</title>
+      <link>https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-se...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 05:29:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
