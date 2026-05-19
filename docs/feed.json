@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Best Enterprise Level Agentic AI Platforms for 2026",
+    "description": "<p>Enterprise agentic AI has moved from pilots to production in 2026. This guide ranks the top 10 platforms \u2014 Salesforce Agentforce, Microsoft Copilot Studio, ServiceNow, LangGraph, and more \u2014 with verified pricing, real adoption data, and honest constraints to help enterprise teams make the right platform decision.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/\">Best Enterprise Level Agentic AI Platforms for 2026</a> appeare...",
+    "link": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
+    "source_link": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-19T08:24:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
     "description": "<p>In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-se...",
     "link": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
@@ -33,7 +44,18 @@
     "published": "2026-05-18T21:29:31+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "hn-48185938",
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "description": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "link": "https://arxiv.org/abs/2601.10160",
+    "source_link": "https://news.ycombinator.com/item?id=48185938",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T21:29:13+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
     "description": "<p>As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...",
     "link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
@@ -82,7 +104,7 @@
     "description": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "source_link": "https://news.ycombinator.com/item?id=48182754",
-    "engagement": "\ud83d\udc4d 917",
+    "engagement": "\ud83d\udc4d 955",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T17:38:22+00:00"
@@ -108,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T17:34:43+00:00"
-  },
-  {
-    "id": "hn-48181125",
-    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-    "description": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-    "link": "https://archestra.ai/blog/only-responsible-ai",
-    "source_link": "https://news.ycombinator.com/item?id=48181125",
-    "engagement": "\ud83d\udc4d 460",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-18T15:24:19+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -148,7 +159,7 @@
     "description": "AI eats the world (Spring 26) [pdf]",
     "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48179021",
-    "engagement": "\ud83d\udc4d 205",
+    "engagement": "\ud83d\udc4d 230",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T12:49:28+00:00"
@@ -165,7 +176,7 @@
     "published": "2026-05-18T11:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
     "description": "<p>NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format \u2014 combining selective BF16 layers, 16\u00d716 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients \u2014 validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).</p>\n<p>The post <a href=\"https://www.mar...",
     "link": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
@@ -209,7 +220,7 @@
     "published": "2026-05-17T16:05:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
     "description": "<p>Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-d...",
     "link": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
@@ -220,7 +231,7 @@
     "published": "2026-05-17T08:11:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models",
     "description": "<p>In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/17/a-coding-guide-i...",
     "link": "https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/",
@@ -231,7 +242,7 @@
     "published": "2026-05-17T07:25:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4\u20131.7\u00d7 Pretraining Speedup at Long Context",
     "description": "<p>Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N\u00b7S\u00b7d) to O(S\u00b2\u00b7d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...",
     "link": "https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/",
@@ -253,7 +264,7 @@
     "published": "2026-05-16T20:17:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
     "description": "<p>Running AI agents in a local script is straightforward. Running them reliably in production across teams, across restarts, with isolated environments per context is a different problem entirely. BerriAI, the company behind the LiteLLM AI Gateway, is now open-sourcing a purpose-built answer to that problem: the LiteLLM Agent Platform. The platform is described as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hos...",
     "link": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
