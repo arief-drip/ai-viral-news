@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 18:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:11:15 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -161,15 +161,6 @@
       <pubDate>Fri, 15 May 2026 23:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon</title>
-      <link>https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.mar...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 08:42:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment</title>
       <link>https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-qSUQ99.jpg?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -180,7 +171,7 @@
     <item>
       <title>[📰] When Fast Fourier Transform Meets Transformer for Image Restoration (2024)</title>
       <link>https://github.com/deng-ai-lab/SFHformer</link>
-      <description>&lt;p&gt;When Fast Fourier Transform Meets Transformer for Image Restoration (2024)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;When Fast Fourier Transform Meets Transformer for Image Restoration (2024)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 53&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48180172</guid>
       <category>AI News</category>
       <pubDate>Mon, 18 May 2026 14:10:47 +0000</pubDate>
@@ -194,15 +185,6 @@
       <pubDate>Mon, 18 May 2026 17:35:43 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility</title>
-      <link>https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/</link>
-      <description>&lt;p&gt;&lt;p&gt;As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 18 May 2026 21:26:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Here’s why Elon Musk lost his suit against OpenAI</title>
       <link>https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/</link>
       <description>&lt;p&gt;On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&amp;#160; Musk announced on X that he will&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -211,27 +193,9 @@
       <pubDate>Tue, 19 May 2026 00:53:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API</title>
-      <link>https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-se...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 19 May 2026 05:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Best Enterprise Level Agentic AI Platforms for 2026</title>
-      <link>https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/</link>
-      <description>&lt;p&gt;&lt;p&gt;Enterprise agentic AI has moved from pilots to production in 2026. This guide ranks the top 10 platforms — Salesforce Agentforce, Microsoft Copilot Studio, ServiceNow, LangGraph, and more — with verified pricing, real adoption data, and honest constraints to help enterprise teams make the right platform decision.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/"&gt;Best Enterprise Level Agentic AI Platforms for 2026&lt;/a&gt; appeare...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 19 May 2026 08:24:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Gemini 3.5 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 920&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 922&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196570</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:43:45 +0000</pubDate>
@@ -245,19 +209,10 @@
       <pubDate>Tue, 19 May 2026 20:15:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support</title>
-      <link>https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google used its I/O 2026 developer keynote to ship a meaningful architectural shift in how it packages AI-assisted development. The company announced Google Antigravity 2.0 — a standalone desktop application built entirely around agent orchestration alongside an Antigravity CLI, an Antigravity SDK, Managed Agents in the Gemini API, and enterprise support through the Gemini Enterprise [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 19 May 2026 20:30:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing</title>
       <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
       <description>&lt;p&gt;Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:08:51 +0000</pubDate>
     </item>
@@ -265,7 +220,7 @@
       <title>[📰] How to use Google’s new AI agents to go beyond your standard searches</title>
       <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/</link>
       <description>&lt;p&gt;Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:16:25 +0000</pubDate>
     </item>
@@ -273,7 +228,7 @@
       <title>[📰] You can now talk to your Gmail inbox, as seen at Google IO 2026</title>
       <link>https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/</link>
       <description>&lt;p&gt;Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:25:31 +0000</pubDate>
     </item>
@@ -281,33 +236,14 @@
       <title>[📰] Google just declared itself a contender in AI design at IO 2026</title>
       <link>https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/</link>
       <description>&lt;p&gt;Google says it's designed the app to be accessible to everyone, from teachers to small business owners. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:33:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding</title>
-      <link>https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/"&gt;Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 20 May 2026 07:12:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B</title>
-      <link>https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.mark...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 20 May 2026 10:41:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google's AI is being manipulated. The search giant is quietly fighting back</title>
       <link>https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results</link>
-      <description>&lt;p&gt;Google's AI is being manipulated. The search giant is quietly fighting back&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 148&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google's AI is being manipulated. The search giant is quietly fighting back&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 153&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48205782</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 10:57:09 +0000</pubDate>
@@ -326,9 +262,17 @@
       <title>[📰] Figma adds an AI assistant to its collaborative canvas</title>
       <link>https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/</link>
       <description>&lt;p&gt;Figma's new AI assistant will be first available on Figma Design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NanoClaw creator turns down $20M buyout offer, raises $12M seed instead</title>
+      <link>https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/</link>
+      <description>&lt;p&gt;NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Stability AI releases a new audio model that can create 6-minute songs</title>
