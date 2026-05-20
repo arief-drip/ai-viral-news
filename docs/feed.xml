@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:01:14 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -169,15 +169,6 @@
       <pubDate>Fri, 15 May 2026 23:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs</title>
-      <link>https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel Labs has released Zero, an experimental systems programming language designed so AI agents can read, repair, and ship native programs without requiring human interpretation of compiler output. The language emits JSON diagnostics with stable codes and typed repair metadata, enforces capability-based I/O at compile time, and compiles to sub-10 KiB native binaries.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 08:11:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon</title>
       <link>https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).&lt;/p&gt;
@@ -240,7 +231,7 @@
     <item>
       <title>[📰] Gemini 3.5 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 742&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 784&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196570</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:43:45 +0000</pubDate>
@@ -272,7 +263,7 @@
     <item>
       <title>[📰] Gemini CLI will stop working from June 18, 2026</title>
       <link>https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/</link>
-      <description>&lt;p&gt;Gemini CLI will stop working from June 18, 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 176&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini CLI will stop working from June 18, 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 217&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196867</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 18:03:10 +0000</pubDate>
@@ -310,7 +301,7 @@
     <item>
       <title>[📰] Mistral AI acquires Emmi AI</title>
       <link>https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai</link>
-      <description>&lt;p&gt;Mistral AI acquires Emmi AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 239&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral AI acquires Emmi AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 261&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48197995</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:14:12 +0000</pubDate>
@@ -326,7 +317,7 @@
     <item>
       <title>[📰] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool</title>
       <link>https://openai.com/index/advancing-content-provenance/</link>
-      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 263&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 281&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48198291</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:34:30 +0000</pubDate>
@@ -381,9 +372,9 @@
       <pubDate>Tue, 19 May 2026 21:33:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
+      <title>[📰] Remove-AI-Watermarks – CLI and library for removing AI watermarks from images</title>
       <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
-      <description>&lt;p&gt;Remove–AI–Watermarks – CLI and library for removing AI watermarks from images&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 249&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Remove-AI-Watermarks – CLI and library for removing AI watermarks from images&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 284&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48200569</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 22:30:31 +0000</pubDate>
