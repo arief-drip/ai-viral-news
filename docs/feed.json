@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6\u00d7 Tokens Per Forward Over Qwen3-8B",
+    "description": "<p>NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&#8230;]</p>\n<p>The post <a href=\"https://www.mark...",
+    "link": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "source_link": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T10:41:02+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding",
     "description": "<p>Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/\">Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
@@ -16,7 +27,7 @@
     "description": "Remove-AI-Watermarks \u2013 CLI and library for removing AI watermarks from images",
     "link": "https://github.com/wiltodelta/remove-ai-watermarks",
     "source_link": "https://news.ycombinator.com/item?id=48200569",
-    "engagement": "\ud83d\udc4d 284",
+    "engagement": "\ud83d\udc4d 289",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T22:30:31+00:00"
@@ -66,7 +77,7 @@
     "published": "2026-05-19T21:08:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support",
     "description": "<p>Google used its I/O 2026 developer keynote to ship a meaningful architectural shift in how it packages AI-assisted development. The company announced Google Antigravity 2.0 \u2014 a standalone desktop application built entirely around agent orchestration alongside an Antigravity CLI, an Antigravity SDK, Managed Agents in the Gemini API, and enterprise support through the Gemini Enterprise [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-...",
     "link": "https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/",
@@ -93,7 +104,7 @@
     "description": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
     "link": "https://openai.com/index/advancing-content-provenance/",
     "source_link": "https://news.ycombinator.com/item?id=48198291",
-    "engagement": "\ud83d\udc4d 281",
+    "engagement": "\ud83d\udc4d 285",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T19:34:30+00:00"
@@ -115,7 +126,7 @@
     "description": "Mistral AI acquires Emmi AI",
     "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
     "source_link": "https://news.ycombinator.com/item?id=48197995",
-    "engagement": "\ud83d\udc4d 261",
+    "engagement": "\ud83d\udc4d 266",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T19:14:12+00:00"
@@ -159,7 +170,7 @@
     "description": "Gemini CLI will stop working from June 18, 2026",
     "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
     "source_link": "https://news.ycombinator.com/item?id=48196867",
-    "engagement": "\ud83d\udc4d 217",
+    "engagement": "\ud83d\udc4d 229",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T18:03:10+00:00"
@@ -203,13 +214,13 @@
     "description": "Gemini 3.5 Flash",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
     "source_link": "https://news.ycombinator.com/item?id=48196570",
-    "engagement": "\ud83d\udc4d 784",
+    "engagement": "\ud83d\udc4d 807",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T17:43:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Best Enterprise Level Agentic AI Platforms for 2026",
     "description": "<p>Enterprise agentic AI has moved from pilots to production in 2026. This guide ranks the top 10 platforms \u2014 Salesforce Agentforce, Microsoft Copilot Studio, ServiceNow, LangGraph, and more \u2014 with verified pricing, real adoption data, and honest constraints to help enterprise teams make the right platform decision.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/\">Best Enterprise Level Agentic AI Platforms for 2026</a> appeare...",
     "link": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
@@ -220,7 +231,7 @@
     "published": "2026-05-19T08:24:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
     "description": "<p>In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-se...",
     "link": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
@@ -242,7 +253,7 @@
     "published": "2026-05-19T00:53:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
     "description": "<p>As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...",
     "link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
@@ -275,7 +286,7 @@
     "published": "2026-05-18T13:31:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon",
     "description": "<p>NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format \u2014 combining selective BF16 layers, 16\u00d716 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients \u2014 validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).</p>\n<p>The post <a href=\"https://www.mar...",
     "link": "https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/",
