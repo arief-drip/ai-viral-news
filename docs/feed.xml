@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 22:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:01:15 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -169,14 +169,6 @@
       <pubDate>Fri, 15 May 2026 23:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nous Research Proposes Lighthouse Attention: A Training-Only Selection-Based Hierarchical Attention That Delivers 1.4–1.7× Pretraining Speedup at Long Context</title>
-      <link>https://www.marktechpost.com/2026/05/16/nous-research-proposes-lighthouse-attention-a-training-only-selection-based-hierarchical-attention-that-delivers-1-4-1-7x-pretraining-speedup-at-long-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research has published Lighthouse Attention, a selection-based hierarchical attention mechanism that wraps around standard scaled dot-product attention during pretraining and is removed afterward. Unlike prior methods such as NSA and HISA that pool only keys and values, Lighthouse pools Q, K, and V symmetrically across a multi-resolution pyramid, reducing the attention call from O(N·S·d) to O(S²·d) and running stock FlashAttention on a small dense sub-sequence. Tested on a 530M Llama-3-s...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 16 May 2026 22:23:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] A Coding Guide Implementing SHAP Explainability Workflows with Explainer Comparisons, Maskers, Interactions, Drift, and Black-Box Models</title>
       <link>https://www.marktechpost.com/2026/05/17/a-coding-guide-implementing-shap-explainability-workflows-with-explainer-comparisons-maskers-interactions-drift-and-black-box-models/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement SHAP workflows as a practical framework for interpreting machine learning models beyond basic feature-importance plots. We start by training tree-based models and then compare different SHAP explainers, including Tree, Exact, Permutation, and Kernel methods, to understand how accuracy and runtime change across model-aware and model-agnostic approaches. We also examine how [&amp;#8230;]&lt;/p&gt;
@@ -197,7 +189,7 @@
     <item>
       <title>[📰] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory</title>
       <link>https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/</link>
-      <description>&lt;p&gt;Intro to TLA+ for the LLM Era: Prompt Your Way to Victory&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Intro to TLA+ for the LLM Era: Prompt Your Way to Victory&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 111&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48170007</guid>
       <category>AI News</category>
       <pubDate>Sun, 17 May 2026 15:52:21 +0000</pubDate>
@@ -265,7 +257,7 @@
     <item>
       <title>[📰] Gemini 3.5 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 381&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 584&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196570</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:43:45 +0000</pubDate>
@@ -274,7 +266,7 @@
       <title>[📰] OpenAI is making it easier to check if an image was made by their models</title>
       <link>https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/</link>
       <description>&lt;p&gt;OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:45:00 +0000</pubDate>
     </item>
@@ -282,14 +274,14 @@
       <title>[📰] Google Search as you know it is over</title>
       <link>https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/</link>
       <description>&lt;p&gt;Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:46:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Gemini Omni</title>
       <link>https://deepmind.google/models/gemini-omni/</link>
-      <description>&lt;p&gt;Gemini Omni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 190&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini Omni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 267&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196609</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:46:19 +0000</pubDate>
@@ -298,9 +290,17 @@
       <title>[📰] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots</title>
       <link>https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/</link>
       <description>&lt;p&gt;Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini CLI will stop working from June 18, 2026</title>
+      <link>https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/</link>
+      <description>&lt;p&gt;Gemini CLI will stop working from June 18, 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48196867</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 18:03:10 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Gemini 3.5 Flash might be fast enough for gen AI to make sense</title>
@@ -333,28 +333,36 @@
       <pubDate>Tue, 19 May 2026 18:55:56 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mistral AI Acquires Emmi AI to Create the Leading AI Stack</title>
+      <title>[📰] Mistral AI acquires Emmi AI</title>
       <link>https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai</link>
-      <description>&lt;p&gt;Mistral AI Acquires Emmi AI to Create the Leading AI Stack&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 104&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral AI acquires Emmi AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 168&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48197995</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:14:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google takes a page out of Meta’s book, announces new audio-powered smart glasses</title>
-      <link>https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/</link>
+      <title>[📰] Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026</title>
+      <link>https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/</link>
       <description>&lt;p&gt;Google is calling the new devices "audio glasses," in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:15:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool</title>
       <link>https://openai.com/index/advancing-content-provenance/</link>
-      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 95&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 199&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48198291</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims</title>
+      <link>https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/</link>
+      <description>&lt;p&gt;The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 20:11:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support</title>
@@ -368,7 +376,7 @@
     <item>
       <title>[📰] From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing</title>
       <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
-      <description>&lt;p&gt;Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:08:51 +0000</pubDate>
@@ -396,6 +404,14 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 21:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
+      <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
+      <description>&lt;p&gt;Remove–AI–Watermarks – CLI and library for removing AI watermarks from images&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48200569</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 19 May 2026 22:30:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
