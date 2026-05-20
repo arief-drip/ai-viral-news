@@ -1,5 +1,71 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google\u2019s TurboQuant Algorithm",
+    "description": "<p>turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/\">Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&#8217;s TurboQuant Algorithm</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "source_link": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T21:42:31+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+    "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "source_link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T21:29:22+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "OpenAI claims it solved an 80-year-old math problem \u2014 for real this time",
+    "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 \u2014 and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "source_link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T20:28:27+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "description": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says. ",
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "source_link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T19:47:20+00:00"
+  },
+  {
+    "id": "hn-48212493",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "description": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "source_link": "https://news.ycombinator.com/item?id=48212493",
+    "engagement": "\ud83d\udc4d 429",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T19:05:30+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations",
+    "description": "<p>In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-f...",
+    "link": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+    "source_link": "https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T18:24:08+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
     "description": "\n                        Google's AI search evolution is accelerating at I/O 2026. \n                    ",
@@ -11,18 +77,29 @@
     "published": "2026-05-20T17:31:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
-    "title": "OpenAI barrels towards IPO that may happen in September",
-    "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-    "source_link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "id": "rss-TechCrunch AI-3",
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "description": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "source_link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-20T17:24:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-48209323",
+    "title": "Formal Verification Gates for AI Coding Loops",
+    "description": "Formal Verification Gates for AI Coding Loops",
+    "link": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+    "source_link": "https://news.ycombinator.com/item?id=48209323",
+    "engagement": "\ud83d\udc4d 86",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T15:25:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "AI search startups are blowing up",
     "description": "AI search has quietly become one of the most attractive targets in consumer AI.",
     "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
@@ -33,7 +110,7 @@
     "published": "2026-05-20T15:04:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Stability AI releases a new audio model that can create 6-minute songs",
     "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks. ",
     "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
@@ -44,7 +121,18 @@
     "published": "2026-05-20T15:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "hn-48208685",
+    "title": "Testing distributed systems with AI agents",
+    "description": "Testing distributed systems with AI agents",
+    "link": "https://github.com/shenli/distributed-system-testing",
+    "source_link": "https://news.ycombinator.com/item?id=48208685",
+    "engagement": "\ud83d\udc4d 68",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T14:40:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-6",
     "title": "NanoClaw\u00a0creator\u00a0turns\u00a0down $20M buyout offer, raises $12M seed instead",
     "description": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
     "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
@@ -55,9 +143,9 @@
     "published": "2026-05-20T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "Figma adds an AI assistant to its collaborative canvas",
-    "description": "Figma's new AI assistant will be first available on Figma Design",
+    "description": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs. ",
     "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
     "source_link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -66,29 +154,40 @@
     "published": "2026-05-20T13:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-    "description": "\n                        Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "source_link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-20T11:00:34+00:00"
-  },
-  {
     "id": "hn-48205782",
     "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
     "description": "Google's AI is being manipulated. The search giant is quietly fighting back",
     "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
     "source_link": "https://news.ycombinator.com/item?id=48205782",
-    "engagement": "\ud83d\udc4d 153",
+    "engagement": "\ud83d\udc4d 223",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-20T10:57:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-MarkTechPost-2",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6\u00d7 Tokens Per Forward Over Qwen3-8B",
+    "description": "<p>NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&#8230;]</p>\n<p>The post <a href=\"https://www.mark...",
+    "link": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "source_link": "https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T10:41:02+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding",
+    "description": "<p>Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/\">Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
+    "source_link": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-20T07:12:49+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-8",
     "title": "Google just declared itself a contender in AI design at IO 2026",
     "description": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
     "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
@@ -99,37 +198,15 @@
     "published": "2026-05-19T21:33:30+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "description": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "source_link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-4",
+    "title": "Google Launches Antigravity 2.0 at I/O 2026: A Standalone Agent-First Platform with CLI, SDK, Managed Execution, and Enterprise Support",
+    "description": "<p>Google used its I/O 2026 developer keynote to ship a meaningful architectural shift in how it packages AI-assisted development. The company announced Google Antigravity 2.0 \u2014 a standalone desktop application built entirely around agent orchestration alongside an Antigravity CLI, an Antigravity SDK, Managed Agents in the Gemini API, and enterprise support through the Gemini Enterprise [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-...",
+    "link": "https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/",
+    "source_link": "https://www.marktechpost.com/2026/05/19/google-launches-antigravity-2-0-at-i-o-2026-a-standalone-agent-first-platform-with-cli-sdk-managed-execution-and-enterprise-support/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-19T21:25:31+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
-    "description": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes.",
-    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "source_link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-19T21:16:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "description": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "source_link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-19T21:08:51+00:00"
+    "published": "2026-05-19T20:30:58+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -143,15 +220,26 @@
     "published": "2026-05-19T20:15:18+00:00"
   },
   {
-    "id": "hn-48196570",
-    "title": "Gemini 3.5 Flash",
-    "description": "Gemini 3.5 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "source_link": "https://news.ycombinator.com/item?id=48196570",
-    "engagement": "\ud83d\udc4d 922",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-5",
+    "title": "Best Enterprise Level Agentic AI Platforms for 2026",
+    "description": "<p>Enterprise agentic AI has moved from pilots to production in 2026. This guide ranks the top 10 platforms \u2014 Salesforce Agentforce, Microsoft Copilot Studio, ServiceNow, LangGraph, and more \u2014 with verified pricing, real adoption data, and honest constraints to help enterprise teams make the right platform decision.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/\">Best Enterprise Level Agentic AI Platforms for 2026</a> appeare...",
+    "link": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
+    "source_link": "https://www.marktechpost.com/2026/05/19/best-enterprise-level-agentic-ai-platforms-for-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-19T17:43:45+00:00"
+    "published": "2026-05-19T08:24:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "How to Build an Advanced Agentic AI System with Planning, Tool Calling, Memory, and Self-Critique Using OpenAI API",
+    "description": "<p>In this tutorial, we build an advanced agentic AI system using the OpenAI API and a hidden terminal prompt for the API key. We design the agent as a small pipeline of specialized roles: planner, tool-using executor, and critic, so that we can separate strategy, action, and quality control. We also integrate structured tools (calculator, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-se...",
+    "link": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
+    "source_link": "https://www.marktechpost.com/2026/05/18/how-to-build-an-advanced-agentic-ai-system-with-planning-tool-calling-memory-and-self-critique-using-openai-api/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-19T05:29:40+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -163,6 +251,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T00:53:10+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-7",
+    "title": "Meet MemPrivacy: An Edge-Cloud Framework that Uses Local Reversible Pseudonymization to Protect User Data Without Breaking Memory Utility",
+    "description": "<p>As LLM-powered agents move from research to production, one design tension is becoming harder to ignore: the more useful cloud-hosted memory becomes, the more private user data it exposes. Researchers from MemTensor (Shanghai), HONOR Device and Tongji University have introduced MemPrivacy, a framework that attempts to resolve this tension without sacrificing the utility that makes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framewor...",
+    "link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
+    "source_link": "https://www.marktechpost.com/2026/05/18/meet-memprivacy-an-edge-cloud-framework-that-uses-local-reversible-pseudonymization-to-protect-user-data-without-breaking-memory-utility/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-18T21:26:04+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -181,7 +280,7 @@
     "description": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
     "link": "https://github.com/deng-ai-lab/SFHformer",
     "source_link": "https://news.ycombinator.com/item?id=48180172",
-    "engagement": "\ud83d\udc4d 53",
+    "engagement": "\ud83d\udc4d 74",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-18T14:10:47+00:00"
