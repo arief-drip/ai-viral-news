@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 02:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:02:53 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -187,14 +187,6 @@
       <pubDate>Sun, 17 May 2026 08:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory</title>
-      <link>https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/</link>
-      <description>&lt;p&gt;Intro to TLA+ for the LLM Era: Prompt Your Way to Victory&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 114&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48170007</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 17 May 2026 15:52:21 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA Introduces a 4-Bit Pretraining Methodology Using NVFP4, Validated on a 12B Hybrid Mamba-Transformer at 10T Token Horizon</title>
       <link>https://www.marktechpost.com/2026/05/18/nvidia-introduces-a-4-bit-pretraining-methodology-using-nvfp4-validated-on-a-12b-hybrid-mamba-transformer-at-10t-token-horizon/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA introduces a 4-bit pretraining methodology built around the NVFP4 microscaling format — combining selective BF16 layers, 16×16 Random Hadamard Transforms on Wgrad inputs, 2D weight scaling, and stochastic rounding on gradients — validated on a 12B hybrid Mamba-Transformer trained on 10 trillion tokens, the longest publicly documented 4-bit pretraining run, with downstream accuracy closely tracking the FP8 baseline (62.58% vs 62.62% on MMLU-Pro).&lt;/p&gt;
@@ -257,7 +249,7 @@
     <item>
       <title>[📰] Gemini 3.5 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 601&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 700&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196570</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 17:43:45 +0000</pubDate>
@@ -289,7 +281,7 @@
     <item>
       <title>[📰] Gemini CLI will stop working from June 18, 2026</title>
       <link>https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/</link>
-      <description>&lt;p&gt;Gemini CLI will stop working from June 18, 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 68&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini CLI will stop working from June 18, 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 143&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48196867</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 18:03:10 +0000</pubDate>
@@ -327,7 +319,7 @@
     <item>
       <title>[📰] Mistral AI acquires Emmi AI</title>
       <link>https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai</link>
-      <description>&lt;p&gt;Mistral AI acquires Emmi AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 174&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral AI acquires Emmi AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 220&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48197995</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:14:12 +0000</pubDate>
@@ -343,7 +335,7 @@
     <item>
       <title>[📰] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool</title>
       <link>https://openai.com/index/advancing-content-provenance/</link>
-      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 210&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 247&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48198291</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 19:34:30 +0000</pubDate>
@@ -400,7 +392,7 @@
     <item>
       <title>[📰] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
       <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
-      <description>&lt;p&gt;Remove–AI–Watermarks – CLI and library for removing AI watermarks from images&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 131&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Remove–AI–Watermarks – CLI and library for removing AI watermarks from images&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 216&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48200569</guid>
       <category>AI News</category>
       <pubDate>Tue, 19 May 2026 22:30:31 +0000</pubDate>
