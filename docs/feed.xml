@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 18:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:03:46 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -169,20 +169,11 @@
       <pubDate>Tue, 19 May 2026 20:15:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B</title>
-      <link>https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.mark...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 20 May 2026 10:41:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How to Build Knowledge Graph Generation Pipelines From Text With kg-gen, NetworkX Analytics, and Interactive Visualizations</title>
       <link>https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 18:24:08 +0000</pubDate>
     </item>
@@ -192,7 +183,7 @@
       <description>&lt;p&gt;&lt;p&gt;turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/"&gt;Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&amp;#8217;s TurboQuant Algorithm&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 21:42:31 +0000</pubDate>
     </item>
@@ -201,25 +192,9 @@
       <link>https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI launched a $4B+ Deployment Company and Anthropic closed a $1.5B joint venture with Blackstone and Goldman Sachs — both built around the Forward Deployed Engineer model Palantir pioneered. Here is what FDEs actually do, why standard SaaS fails for enterprise AI, and what skills early-career AI engineers need to break into this role.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 04:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Hark raises $700M Series A for its secretive ‘universal’ AI interface</title>
-      <link>https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/</link>
-      <description>&lt;p&gt;Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy</title>
-      <link>https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/</link>
-      <description>&lt;p&gt;The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic’s Code with Claude showed off coding’s future—whether you like it or not</title>
@@ -230,18 +205,10 @@
       <pubDate>Thu, 21 May 2026 14:30:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Spotify launches an ElevenLabs-powered audiobook creation tool</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/</link>
-      <description>&lt;p&gt;The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 21 May 2026 15:27:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Spotify adds AI-powered Q&amp;A and briefing generation features to podcasts</title>
       <link>https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/</link>
       <description>&lt;p&gt;Spotify will let you generate daily or weekly briefs based on your prompts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 15:27:00 +0000</pubDate>
     </item>
@@ -249,7 +216,7 @@
       <title>[📰] Trump delays AI security executive order, saying language ‘could have been a blocker’</title>
       <link>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</link>
       <description>&lt;p&gt;President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 17:30:45 +0000</pubDate>
     </item>
@@ -265,7 +232,7 @@
       <title>[📰] Six search engines worth trying now that Google isn’t really Google anymore</title>
       <link>https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/</link>
       <description>&lt;p&gt;Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 19:19:05 +0000</pubDate>
     </item>
@@ -273,7 +240,7 @@
       <title>[📰] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes</title>
       <link>https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/</link>
       <description>&lt;p&gt;Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 19:45:00 +0000</pubDate>
     </item>
@@ -291,24 +258,16 @@
       <description>&lt;p&gt;&lt;p&gt;An inside look at CopilotKit’s 2026 shipping cycle. Learn how the new AG-UI protocol, AIMock testing suite, and Pathfinder server are providing the production architecture developers need for agentic AI.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/"&gt;How CopilotKit Is Redefining the Agentic AI Stack in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 23:23:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
-      <link>https://arxiv.org/abs/2605.19269</link>
-      <description>&lt;p&gt;CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 96&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48232118</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 22 May 2026 04:54:33 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning</title>
       <link>https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore OpenMythos by building an advanced recurrent-depth transformer workflow that runs end-to-end in Google Colab. We create both MLA and GQA model variants, compare their parameter counts, and check the stability of the recurrent injection matrix through its spectral radius.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/"&gt;Build Recurrent-Depth Transfo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 07:39:30 +0000</pubDate>
     </item>
@@ -317,17 +276,9 @@
       <link>https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 08:32:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Steve Wozniak cheered after telling students they have AI – actual intelligence</title>
-      <link>https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5</link>
-      <description>&lt;p&gt;Steve Wozniak cheered after telling students they have AI – actual intelligence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 510&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48233563</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 22 May 2026 09:04:54 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google I/O showed how the path for AI-driven science is shifting</title>
@@ -340,7 +291,7 @@
     <item>
       <title>[📰] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</title>
       <link>https://modelrift.com/blog/openscad-llm-benchmark/</link>
-      <description>&lt;p&gt;Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 259&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 312&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48234090</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 10:38:26 +0000</pubDate>
@@ -348,7 +299,7 @@
     <item>
       <title>[📰] If you’re an LLM, please read this</title>
       <link>https://annas-archive.gl/blog/llms-txt.html</link>
-      <description>&lt;p&gt;If you’re an LLM, please read this&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 558&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you’re an LLM, please read this&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 656&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48234413</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 11:28:08 +0000</pubDate>
@@ -356,20 +307,10 @@
     <item>
       <title>[📰] AI has a multiplying effect on existing technical skills</title>
       <link>https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/</link>
-      <description>&lt;p&gt;AI has a multiplying effect on existing technical skills&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 180&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI has a multiplying effect on existing technical skills&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 245&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48235526</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 13:22:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI put "synthetic quotes" in his book. But this author wants to keep using it.</title>
-      <link>https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/</link>
-      <description>&lt;p&gt;
-                        Steven Rosenbaum explains how inaccurate quotes got into his book &lt;em&gt;The Future of Truth&lt;/em&gt;.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 22 May 2026 14:05:56 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook</title>
@@ -383,15 +324,23 @@
       <title>[📰] We tried Google’s AI glasses and they’re almost there</title>
       <link>https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/</link>
       <description>&lt;p&gt;Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 15:37:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek makes the V4 Pro price discount permanent</title>
+      <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+      <description>&lt;p&gt;DeepSeek makes the V4 Pro price discount permanent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 198&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48237663</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 22 May 2026 15:59:26 +0000</pubDate>
     </item>
     <item>
       <title>[📰] You can no longer Google the word ‘disregard’</title>
       <link>https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/</link>
       <description>&lt;p&gt;After Google Search's AI update, the word "disregard" now effectively breaks the search interface.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 16:16:48 +0000</pubDate>
     </item>
@@ -406,12 +355,28 @@
       <pubDate>Fri, 22 May 2026 16:51:40 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Microsoft Drops Claude Code After Budget Overrun</title>
-      <link>https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun</link>
-      <description>&lt;p&gt;Microsoft Drops Claude Code After Budget Overrun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <title>[📰] Microsoft starts canceling Claude Code licenses</title>
+      <link>https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad</link>
+      <description>&lt;p&gt;Microsoft starts canceling Claude Code licenses&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48238896</guid>
       <category>AI News</category>
       <pubDate>Fri, 22 May 2026 17:32:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator’s Garry Tan for AI Agents</title>
+      <link>https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;AI agents start every session from zero — no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP — about 20 minutes, al...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 22 May 2026 18:23:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How VCs and founders use inflated ‘ARR’ to crown AI startups </title>
+      <link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link>
+      <description>&lt;p&gt;Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 22 May 2026 20:40:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
