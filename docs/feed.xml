@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 02:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 10:01:18 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -177,21 +177,11 @@
       <pubDate>Tue, 19 May 2026 20:15:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding</title>
-      <link>https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/"&gt;Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 20 May 2026 07:12:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA AI Releases Nemotron-Labs-Diffusion: A Tri-Mode Language Model with 6× Tokens Per Forward Over Qwen3-8B</title>
       <link>https://www.marktechpost.com/2026/05/20/nvidia-ai-releases-nemotron-labs-diffusion-a-tri-mode-language-model-with-6x-tokens-per-forward-over-qwen3-8b/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have released Nemotron-Labs-Diffusion, a language model family that unifies three decoding modes in one architecture. The model supports autoregressive (AR) decoding, diffusion-based parallel decoding, and self-speculation decoding. It is available in 3B, 8B, and 14B parameter sizes. The family includes base, instruct, and vision-language variants. Sequential Decoding Limits Throughput Standard autoregressive (AR) language [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.mark...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 10:41:02 +0000</pubDate>
     </item>
@@ -200,7 +190,7 @@
       <link>https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-from-text-with-kg-gen-networkx-analytics-and-interactive-visualizations/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we will generate knowledge graphs from plain text, conversations, and multiple source documents using kg-gen. We start by setting up the required dependencies and configuring an LLM through LiteLLM, then we extract entities, predicates, and relationships from simple text. As we move forward, we work with longer passages using chunking and clustering, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/how-to-build-knowledge-graph-generation-pipelines-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 18:24:08 +0000</pubDate>
     </item>
@@ -210,7 +200,7 @@
       <description>&lt;p&gt;&lt;p&gt;turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/"&gt;Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&amp;#8217;s TurboQuant Algorithm&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 20 May 2026 21:42:31 +0000</pubDate>
     </item>
@@ -219,14 +209,14 @@
       <link>https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI launched a $4B+ Deployment Company and Anthropic closed a $1.5B joint venture with Blackstone and Goldman Sachs — both built around the Forward Deployed Engineer model Palantir pioneered. Here is what FDEs actually do, why standard SaaS fails for enterprise AI, and what skills early-career AI engineers need to break into this role.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 04:58:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Throwing AI-generated walls of text into conversations</title>
       <link>https://noslopgrenade.com/</link>
-      <description>&lt;p&gt;Throwing AI-generated walls of text into conversations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 508&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Throwing AI-generated walls of text into conversations&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 612&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48219992</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 09:31:15 +0000</pubDate>
@@ -343,17 +333,35 @@
       <description>&lt;p&gt;&lt;p&gt;An inside look at CopilotKit’s 2026 shipping cycle. Learn how the new AG-UI protocol, AIMock testing suite, and Pathfinder server are providing the production architecture developers need for agentic AI.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/"&gt;How CopilotKit Is Redefining the Agentic AI Stack in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 21 May 2026 23:23:07 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Samsung chip workers will get an average $340k bonus as AI profits soar</title>
-      <link>https://qz.com/samsung-chip-workers-bonus-ai-profits-052126</link>
-      <description>&lt;p&gt;Samsung chip workers will get an average $340k bonus as AI profits soar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 201&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48230892</guid>
+      <title>[📰] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
+      <link>https://arxiv.org/abs/2605.19269</link>
+      <description>&lt;p&gt;CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 63&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48232118</guid>
       <category>AI News</category>
-      <pubDate>Fri, 22 May 2026 01:30:45 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 04:54:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning</title>
+      <link>https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore OpenMythos by building an advanced recurrent-depth transformer workflow that runs end-to-end in Google Colab. We create both MLA and GQA model variants, compare their parameter counts, and check the stability of the recurrent injection matrix through its spectral radius.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/"&gt;Build Recurrent-Depth Transfo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 22 May 2026 07:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web</title>
+      <link>https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 22 May 2026 08:32:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
