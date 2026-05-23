@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
+    "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. ",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "source_link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-23T15:08:00+00:00"
+  },
+  {
+    "id": "hn-48246889",
+    "title": "Making Deep Learning Go Brrrr from First Principles",
+    "description": "Making Deep Learning Go Brrrr from First Principles",
+    "link": "https://horace.io/brrr_intro.html",
+    "source_link": "https://news.ycombinator.com/item?id=48246889",
+    "engagement": "\ud83d\udc4d 89",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-23T11:50:22+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
     "description": "<p>Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior \u2014 no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/\">Nous Research Releases Contrastive Neuron ...",
@@ -22,7 +44,7 @@
     "published": "2026-05-23T00:02:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "AI is being used to resurrect the voices of dead pilots",
     "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -33,7 +55,7 @@
     "published": "2026-05-22T23:03:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
     "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
@@ -60,13 +82,13 @@
     "description": "Microsoft starts canceling Claude Code licenses",
     "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
     "source_link": "https://news.ycombinator.com/item?id=48238896",
-    "engagement": "\ud83d\udc4d 346",
+    "engagement": "\ud83d\udc4d 402",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T17:32:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "You can no longer Google the word \u2018disregard\u2019",
     "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
     "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -77,7 +99,7 @@
     "published": "2026-05-22T16:16:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
     "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ",
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -97,17 +119,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T15:25:59+00:00"
-  },
-  {
-    "id": "hn-48234090",
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-    "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-    "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "source_link": "https://news.ycombinator.com/item?id=48234090",
-    "engagement": "\ud83d\udc4d 400",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T10:38:26+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -165,7 +176,7 @@
     "published": "2026-05-21T20:41:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "description": "Spotify is partnering with  Universal Music Group\ufffc to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
     "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -174,17 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-21T19:45:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Six search engines worth trying now that Google isn\u2019t really Google anymore",
-    "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. ",
-    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "source_link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-21T19:19:05+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
