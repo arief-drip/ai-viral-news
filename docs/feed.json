@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
+    "description": "<p>Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior \u2014 no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/\">Nous Research Releases Contrastive Neuron ...",
+    "link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+    "source_link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-23T10:32:09+00:00"
+  },
+  {
     "id": "rss-HuggingFace Blog-0",
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "description": "",
@@ -33,7 +44,7 @@
     "published": "2026-05-22T20:40:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator\u2019s Garry Tan for AI Agents",
     "description": "<p>AI agents start every session from zero \u2014 no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP \u2014 about 20 minutes, al...",
     "link": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
@@ -49,7 +60,7 @@
     "description": "Microsoft starts canceling Claude Code licenses",
     "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
     "source_link": "https://news.ycombinator.com/item?id=48238896",
-    "engagement": "\ud83d\udc4d 263",
+    "engagement": "\ud83d\udc4d 346",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T17:32:04+00:00"
@@ -88,23 +99,12 @@
     "published": "2026-05-22T15:25:59+00:00"
   },
   {
-    "id": "hn-48234413",
-    "title": "If you\u2019re an LLM, please read this",
-    "description": "If you\u2019re an LLM, please read this",
-    "link": "https://annas-archive.gl/blog/llms-txt.html",
-    "source_link": "https://news.ycombinator.com/item?id=48234413",
-    "engagement": "\ud83d\udc4d 807",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T11:28:08+00:00"
-  },
-  {
     "id": "hn-48234090",
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "source_link": "https://news.ycombinator.com/item?id=48234090",
-    "engagement": "\ud83d\udc4d 386",
+    "engagement": "\ud83d\udc4d 400",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T10:38:26+00:00"
@@ -121,7 +121,7 @@
     "published": "2026-05-22T10:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
     "description": "<p>Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-...",
     "link": "https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/",
@@ -132,7 +132,7 @@
     "published": "2026-05-22T08:32:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning",
     "description": "<p>In this tutorial, we explore OpenMythos by building an advanced recurrent-depth transformer workflow that runs end-to-end in Google Colab. We create both MLA and GQA model variants, compare their parameter counts, and check the stability of the recurrent injection matrix through its spectral radius.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/\">Build Recurrent-Depth Transfo...",
     "link": "https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/",
@@ -143,7 +143,7 @@
     "published": "2026-05-22T07:39:30+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "How CopilotKit Is Redefining the Agentic AI Stack in 2026",
     "description": "<p>An inside look at CopilotKit\u2019s 2026 shipping cycle. Learn how the new AG-UI protocol, AIMock testing suite, and Pathfinder server are providing the production architecture developers need for agentic AI.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/\">How CopilotKit Is Redefining the Agentic AI Stack in 2026</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/",
@@ -198,17 +198,6 @@
     "published": "2026-05-21T19:16:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
-    "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "source_link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-21T17:30:45+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-3",
     "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
     "description": "The vibes were strong at Code with Claude, Anthropic\u2019s two-day event for software developers in London that kicked off on May 19, the same day as Google\u2019s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) \u201cWho here has shipped a pull request in the last week that was completely written&#8230;",
@@ -220,7 +209,7 @@
     "published": "2026-05-21T14:30:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026",
     "description": "<p>OpenAI launched a $4B+ Deployment Company and Anthropic closed a $1.5B joint venture with Blackstone and Goldman Sachs \u2014 both built around the Forward Deployed Engineer model Palantir pioneered. Here is what FDEs actually do, why standard SaaS fails for enterprise AI, and what skills early-career AI engineers need to break into this role.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2...",
     "link": "https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/",
@@ -229,17 +218,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-21T04:58:31+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google\u2019s TurboQuant Algorithm",
-    "description": "<p>turbovec brings Google Research's TurboQuant algorithm to vector search, offering 16x compression and zero codebook training for RAG pipelines.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/\">Meet Turbovec: A Rust Vector Index with Python Bindings, and Built on Google&#8217;s TurboQuant Algorithm</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
-    "source_link": "https://www.marktechpost.com/2026/05/20/meet-turbovec-a-rust-vector-index-with-python-bindings-and-built-on-googles-turboquant-algorithm/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-20T21:42:31+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
