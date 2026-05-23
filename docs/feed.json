@@ -1,7 +1,29 @@
 [
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "description": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "source_link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-23T00:02:03+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
-    "title": "How VCs and founders use inflated\u00a0\u2018ARR\u2019\u00a0to\u00a0crown\u00a0AI startups\u00a0",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "source_link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-22T23:03:33+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
     "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "source_link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
@@ -9,6 +31,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T20:40:48+00:00"
+  },
+  {
+    "id": "hn-48241172",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "description": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "link": "https://github.com/anomalyco/models.dev",
+    "source_link": "https://news.ycombinator.com/item?id=48241172",
+    "engagement": "\ud83d\udc4d 103",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-22T20:26:07+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -22,29 +55,7 @@
     "published": "2026-05-22T18:23:40+00:00"
   },
   {
-    "id": "hn-48238896",
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "description": "Microsoft starts canceling Claude Code licenses",
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "source_link": "https://news.ycombinator.com/item?id=48238896",
-    "engagement": "\ud83d\udc4d 127",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T17:32:04+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
-    "description": "\n                        Trump delays AI safety testing EO, claiming it would be an innovation \u201cblocker.\u201d\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T16:51:40+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "You can no longer Google the word \u2018disregard\u2019",
     "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
     "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -60,13 +71,13 @@
     "description": "DeepSeek makes the V4 Pro price discount permanent",
     "link": "https://api-docs.deepseek.com/quick_start/pricing",
     "source_link": "https://news.ycombinator.com/item?id=48237663",
-    "engagement": "\ud83d\udc4d 198",
+    "engagement": "\ud83d\udc4d 316",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T15:59:26+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
     "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. ",
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -77,7 +88,7 @@
     "published": "2026-05-22T15:37:15+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-HuggingFace Blog-1",
     "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
     "description": "",
     "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
@@ -88,23 +99,12 @@
     "published": "2026-05-22T15:25:59+00:00"
   },
   {
-    "id": "hn-48235526",
-    "title": "AI has a multiplying effect on existing technical skills",
-    "description": "AI has a multiplying effect on existing technical skills",
-    "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "source_link": "https://news.ycombinator.com/item?id=48235526",
-    "engagement": "\ud83d\udc4d 245",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T13:22:42+00:00"
-  },
-  {
     "id": "hn-48234413",
     "title": "If you\u2019re an LLM, please read this",
     "description": "If you\u2019re an LLM, please read this",
     "link": "https://annas-archive.gl/blog/llms-txt.html",
     "source_link": "https://news.ycombinator.com/item?id=48234413",
-    "engagement": "\ud83d\udc4d 656",
+    "engagement": "\ud83d\udc4d 730",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T11:28:08+00:00"
@@ -115,7 +115,7 @@
     "description": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "source_link": "https://news.ycombinator.com/item?id=48234090",
-    "engagement": "\ud83d\udc4d 312",
+    "engagement": "\ud83d\udc4d 347",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T10:38:26+00:00"
@@ -176,7 +176,7 @@
     "published": "2026-05-21T20:41:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "description": "Spotify is partnering with  Universal Music Group\ufffc to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
     "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -187,7 +187,7 @@
     "published": "2026-05-21T19:45:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Six search engines worth trying now that Google isn\u2019t really Google anymore",
     "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. ",
     "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
@@ -209,7 +209,7 @@
     "published": "2026-05-21T19:16:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
     "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
     "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
@@ -218,17 +218,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-21T17:30:45+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "source_link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-21T15:27:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
