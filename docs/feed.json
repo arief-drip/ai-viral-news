@@ -11,6 +11,17 @@
     "published": "2026-05-24T08:56:19+00:00"
   },
   {
+    "id": "hn-48255593",
+    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+    "description": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "source_link": "https://news.ycombinator.com/item?id=48255593",
+    "engagement": "\ud83d\udc4d 104",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-24T08:29:38+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-1",
     "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
     "description": "<p>Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it ou...",
