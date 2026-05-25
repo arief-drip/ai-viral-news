@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
+    "description": "<p>In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeli...",
+    "link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
+    "source_link": "https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeline-for-tracing-prompt-management-scoring-and-experiments/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-24T23:03:09+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "StepFun Releases StepAudio 2.5 Realtime: An End-to-End Voice Model with Roleplay-Specific RLHF and Paralinguistic Comprehension",
+    "description": "<p>StepFun, the Shanghai-based AI lab, released StepAudio 2.5 Realtime in May 2026 \u2014 an end-to-end real-time speech large language model with fully customizable persona capabilities. The model connects via a WebSocket API, supports Chinese and English, and ranked first across all five benchmark dimensions tested in April 2026, including an 80.41 human evaluation score and 82.18 on paralinguistic comprehension.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/stepfun-releases-step...",
+    "link": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+    "source_link": "https://www.marktechpost.com/2026/05/24/stepfun-releases-stepaudio-2-5-realtime-an-end-to-end-voice-model-with-roleplay-specific-rlhf-and-paralinguistic-comprehension/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-24T22:51:05+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Everyone is navigating AI security in real time \u2014 even Google",
     "description": "We're in the transition period -- all of us.",
@@ -16,7 +38,7 @@
     "description": "Memory has grown to nearly two-thirds of AI chip component costs",
     "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
     "source_link": "https://news.ycombinator.com/item?id=48258684",
-    "engagement": "\ud83d\udc4d 231",
+    "engagement": "\ud83d\udc4d 295",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-24T16:31:29+00:00"
@@ -33,23 +55,12 @@
     "published": "2026-05-24T15:00:00+00:00"
   },
   {
-    "id": "hn-48257410",
-    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-    "description": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-    "source_link": "https://news.ycombinator.com/item?id=48257410",
-    "engagement": "\ud83d\udc4d 179",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-24T14:09:33+00:00"
-  },
-  {
     "id": "hn-48256953",
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "link": "https://esengine.github.io/DeepSeek-Reasonix/",
     "source_link": "https://news.ycombinator.com/item?id=48256953",
-    "engagement": "\ud83d\udc4d 350",
+    "engagement": "\ud83d\udc4d 439",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-24T13:02:06+00:00"
@@ -60,13 +71,13 @@
     "description": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "link": "https://arxiv.org/abs/2605.06445",
     "source_link": "https://news.ycombinator.com/item?id=48256912",
-    "engagement": "\ud83d\udc4d 145",
+    "engagement": "\ud83d\udc4d 175",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-24T12:55:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4\u2019s 33.5%",
     "description": "<p>Microsoft Research introduces Webwright, a terminal-native browser agent framework that replaces click-trace web automation with reusable Playwright scripts. Using a single agent loop across three modules and roughly 1,000 lines of code, Webwright powered by GPT-5.4 reaches 60.1% on the long-horizon Odysseys benchmark and 86.7% on Online-Mind2Web \u2014 the highest AutoEval score among open-sourced harness recipes.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/microsoft-research...",
     "link": "https://www.marktechpost.com/2026/05/24/microsoft-research-releases-webwright-a-terminal-native-web-agent-framework-that-scores-60-1-on-odysseys-up-from-base-gpt-5-4s-33-5/",
@@ -77,7 +88,7 @@
     "published": "2026-05-24T08:56:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule",
     "description": "<p>Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it ou...",
     "link": "https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
@@ -88,7 +99,7 @@
     "published": "2026-05-24T07:42:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Tencent Open-Sources TencentDB Agent Memory: A 4-Tier Local Memory Pipeline for AI Agents",
     "description": "<p>Tencent has open-sourced TencentDB Agent Memory, a fully local memory system for AI agents released under the MIT license. The project pairs symbolic short-term memory, which offloads verbose tool logs into a compact Mermaid task canvas, with a 4-tier long-term memory pyramid (L0 Conversation \u2192 L1 Atom \u2192 L2 Scenario \u2192 L3 Persona). It ships as an OpenClaw plugin and a Hermes Docker image, runs on local SQLite + sqlite-vec by default, and uses hybrid BM25 + vector retrieval with RRF fusion. Ten...",
     "link": "https://www.marktechpost.com/2026/05/23/tencent-open-sources-tencentdb-agent-memory-a-4-tier-local-memory-pipeline-for-ai-agents/",
@@ -110,7 +121,7 @@
     "published": "2026-05-23T15:08:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Nous Research Releases Contrastive Neuron Attribution (CNA): Sparse MLP Circuit Steering Without SAE Training or Weight Modification",
     "description": "<p>Nous Research releases Contrastive Neuron Attribution (CNA), a method that identifies and ablates sparse MLP neuron circuits to steer LLM behavior \u2014 no sparse autoencoder training, no weight modification, and no degradation of general capability benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/\">Nous Research Releases Contrastive Neuron ...",
     "link": "https://www.marktechpost.com/2026/05/23/nous-research-releases-contrastive-neuron-attribution-cna-sparse-mlp-circuit-steering-without-sae-training-or-weight-modification/",
@@ -154,7 +165,7 @@
     "published": "2026-05-22T20:40:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "A Step-by-Step Coding Tutorial to Implement GBrain: The Self-Wiring Memory Layer Built by Y Combinator\u2019s Garry Tan for AI Agents",
     "description": "<p>AI agents start every session from zero \u2014 no memory of meetings, notes, or decisions. GBrain, the open-source memory layer Y Combinator's Garry Tan built to power his own OpenClaw and Hermes deployments, fixes that with a markdown-first knowledge graph that wires itself through regex inference, not LLM calls. This step-by-step coding tutorial walks through installing GBrain v0.38.2.0, building a brain repo, running hybrid search, and connecting it to Claude Code via MCP \u2014 about 20 minutes, al...",
     "link": "https://www.marktechpost.com/2026/05/22/a-step-by-step-coding-tutorial-to-implement-gbrain-the-self-wiring-memory-layer-built-by-y-combinators-garry-tan-for-ai-agents/",
@@ -174,6 +185,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T16:16:48+00:00"
+  },
+  {
+    "id": "hn-48237663",
+    "title": "DeepSeek makes the V4 Pro price discount permanent",
+    "description": "DeepSeek makes the V4 Pro price discount permanent",
+    "link": "https://api-docs.deepseek.com/quick_start/pricing",
+    "source_link": "https://news.ycombinator.com/item?id=48237663",
+    "engagement": "\ud83d\udc4d 534",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-22T15:59:26+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -209,7 +231,7 @@
     "published": "2026-05-22T10:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-7",
     "title": "Microsoft Releases Fara1.5: A Family of Browser Computer-Use Agents (4B/9B/27B) That Outperform OpenAI Operator and Gemini 2.5 Computer Use on Online-Mind2Web",
     "description": "<p>Microsoft Research released Fara1.5, a family of browser computer-use agents in 4B, 9B, and 27B sizes. Fara1.5-27B scores 72% on Online-Mind2Web, outperforming OpenAI Operator, Gemini 2.5 Computer Use, and Yutori Navigator n1. The release also includes FaraGen1.5, a synthetic data pipeline that trains agents on gated</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-...",
     "link": "https://www.marktechpost.com/2026/05/22/microsoft-releases-fara1-5-a-family-of-browser-computer-use-agents-4b-9b-27b-that-outperform-openai-operator-and-gemini-2-5-computer-use-on-online-mind2web/",
@@ -218,28 +240,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T08:32:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Build Recurrent-Depth Transformers with OpenMythos for MLA, GQA, Sparse MoE, and Loop-Scaled Reasoning",
-    "description": "<p>In this tutorial, we explore OpenMythos by building an advanced recurrent-depth transformer workflow that runs end-to-end in Google Colab. We create both MLA and GQA model variants, compare their parameter counts, and check the stability of the recurrent injection matrix through its spectral radius.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/\">Build Recurrent-Depth Transfo...",
-    "link": "https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/",
-    "source_link": "https://www.marktechpost.com/2026/05/22/build-recurrent-depth-transformers-with-openmythos-for-mla-gqa-sparse-moe-and-loop-scaled-reasoning/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T07:39:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "How CopilotKit Is Redefining the Agentic AI Stack in 2026",
-    "description": "<p>An inside look at CopilotKit\u2019s 2026 shipping cycle. Learn how the new AG-UI protocol, AIMock testing suite, and Pathfinder server are providing the production architecture developers need for agentic AI.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/\">How CopilotKit Is Redefining the Agentic AI Stack in 2026</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/",
-    "source_link": "https://www.marktechpost.com/2026/05/21/how-copilotkit-is-redefining-the-agentic-ai-stack-in-2026/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-21T23:23:07+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
