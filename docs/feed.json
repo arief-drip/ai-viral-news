@@ -1,14 +1,25 @@
 [
   {
-    "id": "hn-48266485",
-    "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-    "description": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-    "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
-    "source_link": "https://news.ycombinator.com/item?id=48266485",
-    "engagement": "\ud83d\udc4d 108",
-    "source": "Hacker News",
+    "id": "rss-TechCrunch AI-0",
+    "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
+    "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "source_link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-25T13:17:58+00:00"
+    "published": "2026-05-25T16:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
+    "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "source_link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T15:09:41+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -33,6 +44,17 @@
     "published": "2026-05-25T07:38:15+00:00"
   },
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "description": "",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "source_link": "https://huggingface.co/blog/agent-glossary",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T00:00:00+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-2",
     "title": "Build a Complete Langfuse Observability and Evaluation Pipeline for Tracing, Prompt Management, Scoring, and Experiments",
     "description": "<p>In this tutorial, we implement the Langfuse (an open-source LLM engineering platform) pipeline for tracing, prompt management, scoring, datasets, and experiments. We build a complete workflow that works with either a real OpenAI key or a deterministic mock LLM, so we can understand every major Langfuse feature without depending on paid model access. We start [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/build-a-complete-langfuse-observability-and-evaluation-pipeli...",
@@ -55,7 +77,7 @@
     "published": "2026-05-24T22:51:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "Everyone is navigating AI security in real time \u2014 even Google",
     "description": "We're in the transition period -- all of us.",
     "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -66,7 +88,7 @@
     "published": "2026-05-24T21:39:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
     "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. ",
     "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
@@ -82,7 +104,7 @@
     "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "link": "https://esengine.github.io/DeepSeek-Reasonix/",
     "source_link": "https://news.ycombinator.com/item?id=48256953",
-    "engagement": "\ud83d\udc4d 617",
+    "engagement": "\ud83d\udc4d 645",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-24T13:02:06+00:00"
@@ -121,7 +143,7 @@
     "published": "2026-05-23T19:31:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
     "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. ",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -143,7 +165,7 @@
     "published": "2026-05-23T10:32:09+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-HuggingFace Blog-1",
     "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
     "description": "",
     "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
@@ -154,7 +176,7 @@
     "published": "2026-05-23T00:02:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "AI is being used to resurrect the voices of dead pilots",
     "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -165,18 +187,7 @@
     "published": "2026-05-22T23:03:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
-    "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "source_link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T20:40:48+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-1",
+    "id": "rss-HuggingFace Blog-2",
     "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
     "description": "",
     "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
@@ -192,7 +203,7 @@
     "description": "AI errno(2) values",
     "link": "https://www.netmeister.org/blog/ai-errno.html",
     "source_link": "https://news.ycombinator.com/item?id=48236816",
-    "engagement": "\ud83d\udc4d 53",
+    "engagement": "\ud83d\udc4d 79",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T14:56:57+00:00"
