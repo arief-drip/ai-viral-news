@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 18:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:29:28 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,14 +193,6 @@
       <pubDate>Sat, 23 May 2026 00:02:03 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ferrari is using IBM’s AI to create F1 superfans</title>
-      <link>https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/</link>
-      <description>&lt;p&gt;IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 23 May 2026 15:08:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase and Write in the Delta Rule</title>
       <link>https://www.marktechpost.com/2026/05/24/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/</link>
       <description>&lt;p&gt;&lt;p&gt;Linear attention squeezes the unbounded KV cache into a fixed-size recurrent state, but editing that memory without scrambling existing associations is hard. Prior delta-rule models like Gated DeltaNet and KDA use one scalar gate to control both erasing old content and writing new content. NVIDIA's Gated DeltaNet-2 decouples these into a channel-wise erase gate b_t on the key axis and a channel-wise write gate w_t on the value axis. At 1.3B parameters trained on 100B FineWeb-Edu tokens, it ou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
@@ -221,7 +213,7 @@
       <title>[📰] I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out</title>
       <link>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</link>
       <description>&lt;p&gt;Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
     </item>
@@ -229,7 +221,7 @@
       <title>[📰] Everyone is navigating AI security in real time — even Google</title>
       <link>https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/</link>
       <description>&lt;p&gt;We're in the transition period -- all of us.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Sun, 24 May 2026 21:39:21 +0000</pubDate>
     </item>
@@ -281,7 +273,7 @@
       <title>[📰] The pope’s AI encyclical isn’t really about AI</title>
       <link>https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/</link>
       <description>&lt;p&gt;Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 25 May 2026 15:09:41 +0000</pubDate>
     </item>
@@ -289,19 +281,9 @@
       <title>[📰] What ClickUp’s mass layoff tells us about the future of work</title>
       <link>https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/</link>
       <description>&lt;p&gt;The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 25 May 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Citing Gandalf, Pope Leo says we must "disarm" AI</title>
-      <link>https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/</link>
-      <description>&lt;p&gt;
-                        In an age of AI, Pope looks for "artisans of hope."
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 25 May 2026 21:07:42 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving</title>
@@ -314,7 +296,7 @@
     <item>
       <title>[📰] Using AI to write better code more slowly</title>
       <link>https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/</link>
-      <description>&lt;p&gt;Using AI to write better code more slowly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,038&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Using AI to write better code more slowly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,115&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48272984</guid>
       <category>AI News</category>
       <pubDate>Mon, 25 May 2026 23:16:59 +0000</pubDate>
@@ -347,7 +329,7 @@
     <item>
       <title>[📰] Outsourcing plus local AI will soon become more economical vs. frontier labs</title>
       <link>https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/</link>
-      <description>&lt;p&gt;Outsourcing plus local AI will soon become more economical vs. frontier labs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 139&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Outsourcing plus local AI will soon become more economical vs. frontier labs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 199&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48278610</guid>
       <category>AI News</category>
       <pubDate>Tue, 26 May 2026 12:08:33 +0000</pubDate>
@@ -371,8 +353,8 @@
     <item>
       <title>[📰] Universal Music Group and TikTok renew agreement to combat unauthorized AI music</title>
       <link>https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/</link>
-      <description>&lt;p&gt;For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <description>&lt;p&gt;For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 26 May 2026 14:55:05 +0000</pubDate>
     </item>
@@ -380,7 +362,7 @@
       <title>[📰] This startup is betting India’s gig economy can train the world’s robots</title>
       <link>https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/</link>
       <description>&lt;p&gt;Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 26 May 2026 16:00:00 +0000</pubDate>
     </item>
@@ -390,9 +372,27 @@
       <description>&lt;p&gt;
                         A creepy saved post on Instagram linked man to AI porn account, FBI says.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 26 May 2026 17:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenRouter more than doubles valuation to $1.3B in a year</title>
+      <link>https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/</link>
+      <description>&lt;p&gt;OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 26 May 2026 18:33:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Millions of AI agents imperiled by critical vulnerability in open source package</title>
+      <link>https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/</link>
+      <description>&lt;p&gt;
+                        "BadHost" was found in Starlette, a package with 325 million weekly downloads.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 26 May 2026 19:50:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

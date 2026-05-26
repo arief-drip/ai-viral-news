@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-Ars Technica AI-0",
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "description": "\n                        \"BadHost\" was found in Starlette, a package with 325 million weekly downloads.\n                    ",
+    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "source_link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-26T19:50:33+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "source_link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-26T18:33:01+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
     "description": "\n                        A creepy saved post on Instagram linked man to AI porn account, FBI says.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
@@ -11,7 +33,7 @@
     "published": "2026-05-26T17:46:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
     "description": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
     "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
@@ -22,9 +44,9 @@
     "published": "2026-05-26T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+    "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
     "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "source_link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -60,7 +82,7 @@
     "description": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
     "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
     "source_link": "https://news.ycombinator.com/item?id=48278610",
-    "engagement": "\ud83d\udc4d 139",
+    "engagement": "\ud83d\udc4d 199",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-26T12:08:33+00:00"
@@ -104,7 +126,7 @@
     "description": "Using AI to write better code more slowly",
     "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
     "source_link": "https://news.ycombinator.com/item?id=48272984",
-    "engagement": "\ud83d\udc4d 1,038",
+    "engagement": "\ud83d\udc4d 1,115",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-25T23:16:59+00:00"
@@ -121,18 +143,7 @@
     "published": "2026-05-25T21:24:31+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
-    "description": "\n                        In an age of AI, Pope looks for \"artisans of hope.\"\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-25T21:07:42+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
     "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
     "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
@@ -143,7 +154,7 @@
     "published": "2026-05-25T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
     "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
     "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
@@ -209,7 +220,7 @@
     "published": "2026-05-24T22:51:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Everyone is navigating AI security in real time \u2014 even Google",
     "description": "We're in the transition period -- all of us.",
     "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -220,7 +231,7 @@
     "published": "2026-05-24T21:39:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
     "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety. ",
     "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
@@ -251,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-24T07:42:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
-    "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. ",
-    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "source_link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-23T15:08:00+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-1",
