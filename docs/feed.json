@@ -1,5 +1,38 @@
 [
   {
+    "id": "hn-48273169",
+    "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "description": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+    "link": "https://support.apple.com/en-us/127115",
+    "source_link": "https://news.ycombinator.com/item?id=48273169",
+    "engagement": "\ud83d\udc4d 64",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T23:40:40+00:00"
+  },
+  {
+    "id": "hn-48272984",
+    "title": "Using AI to write better code more slowly",
+    "description": "Using AI to write better code more slowly",
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "source_link": "https://news.ycombinator.com/item?id=48272984",
+    "engagement": "\ud83d\udc4d 144",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T23:16:59+00:00"
+  },
+  {
+    "id": "hn-48272354",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "description": "Microsoft Copilot Cowork Exfiltrates Files",
+    "link": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "source_link": "https://news.ycombinator.com/item?id=48272354",
+    "engagement": "\ud83d\udc4d 187",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T21:45:57+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
     "description": "<p>Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering ...",
@@ -11,12 +44,23 @@
     "published": "2026-05-25T21:24:31+00:00"
   },
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+    "description": "\n                        In an age of AI, Pope looks for \"artisans of hope.\"\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-25T21:07:42+00:00"
+  },
+  {
     "id": "hn-48270770",
     "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
     "description": "Norway's 2 petabytes of Huawei flash storage and LLM training",
     "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
     "source_link": "https://news.ycombinator.com/item?id=48270770",
-    "engagement": "\ud83d\udc4d 76",
+    "engagement": "\ud83d\udc4d 162",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-25T19:37:57+00:00"
@@ -121,17 +165,6 @@
     "published": "2026-05-24T15:00:00+00:00"
   },
   {
-    "id": "hn-48256953",
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "description": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "source_link": "https://news.ycombinator.com/item?id=48256953",
-    "engagement": "\ud83d\udc4d 695",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-24T13:02:06+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-5",
     "title": "Microsoft Research Releases Webwright: A Terminal-Native Web Agent Framework That Scores 60.1% on Odysseys, Up from Base GPT-5.4\u2019s 33.5%",
     "description": "<p>Microsoft Research introduces Webwright, a terminal-native browser agent framework that replaces click-trace web automation with reusable Playwright scripts. Using a single agent loop across three modules and roughly 1,000 lines of code, Webwright powered by GPT-5.4 reaches 60.1% on the long-horizon Odysseys benchmark and 86.7% on Online-Mind2Web \u2014 the highest AutoEval score among open-sourced harness recipes.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/24/microsoft-research...",
@@ -207,17 +240,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-22T15:25:59+00:00"
-  },
-  {
-    "id": "hn-48236816",
-    "title": "AI errno(2) values",
-    "description": "AI errno(2) values",
-    "link": "https://www.netmeister.org/blog/ai-errno.html",
-    "source_link": "https://news.ycombinator.com/item?id=48236816",
-    "engagement": "\ud83d\udc4d 110",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T14:56:57+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
