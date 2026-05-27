@@ -1,6 +1,83 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "description": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader \u201cMeta One\u201d subscription brand.",
+    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "source_link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T18:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+    "description": "<p>NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The...",
+    "link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "source_link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T17:09:38+00:00"
+  },
+  {
+    "id": "hn-48296794",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "description": "I think Anthropic and OpenAI have found product-market fit",
+    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "source_link": "https://news.ycombinator.com/item?id=48296794",
+    "engagement": "\ud83d\udc4d 108",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T16:39:13+00:00"
+  },
+  {
+    "id": "hn-48296649",
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "description": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source_link": "https://news.ycombinator.com/item?id=48296649",
+    "engagement": "\ud83d\udc4d 251",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T16:28:41+00:00"
+  },
+  {
+    "id": "hn-48296359",
+    "title": "Training our own AI models",
+    "description": "Training our own AI models",
+    "link": "https://posthog.com/blog/training-ai-models",
+    "source_link": "https://news.ycombinator.com/item?id=48296359",
+    "engagement": "\ud83d\udc4d 139",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T16:08:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "source_link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T16:00:00+00:00"
+  },
+  {
+    "id": "hn-48295679",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "description": "Tech CEOs are apparently suffering from AI psychosis",
+    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "source_link": "https://news.ycombinator.com/item?id=48295679",
+    "engagement": "\ud83d\udc4d 260",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T15:20:47+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M",
     "description": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds. ",
     "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
@@ -11,7 +88,7 @@
     "published": "2026-05-27T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "China is increasingly keeping its best AI talent to itself",
     "description": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
     "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
@@ -22,7 +99,7 @@
     "published": "2026-05-27T13:48:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "YouTube will now automatically label AI videos",
     "description": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent. ",
     "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
@@ -33,18 +110,7 @@
     "published": "2026-05-27T13:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "description": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "source_link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-27T12:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Robinhood now lets your AI agents trade stocks",
     "description": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
     "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
@@ -60,7 +126,7 @@
     "description": "I'm Tired of Talking to AI",
     "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
     "source_link": "https://news.ycombinator.com/item?id=48292224",
-    "engagement": "\ud83d\udc4d 986",
+    "engagement": "\ud83d\udc4d 1,725",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-27T10:43:25+00:00"
@@ -77,7 +143,7 @@
     "published": "2026-05-27T10:30:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
     "description": "<p>The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/\">Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
@@ -88,7 +154,7 @@
     "published": "2026-05-27T07:23:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
     "description": "<p>Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/\">MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
     "link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
@@ -104,24 +170,13 @@
     "description": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
     "link": "https://arps18.github.io/posts/claude-code-mastery/",
     "source_link": "https://news.ycombinator.com/item?id=48289950",
-    "engagement": "\ud83d\udc4d 176",
+    "engagement": "\ud83d\udc4d 276",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-27T05:13:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
-    "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "source_link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T22:32:56+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
     "description": "<p>Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores F...",
     "link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
@@ -141,17 +196,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-26T19:50:33+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-    "description": "\n                        A creepy saved post on Instagram linked man to AI porn account, FBI says.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T17:46:01+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -198,7 +242,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
     "description": "<p>OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/\">Meet OmniVoice Studio: A Local, Open-Source Alte...",
     "link": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
@@ -209,7 +253,7 @@
     "published": "2026-05-26T07:56:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
     "description": "<p>Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering ...",
     "link": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
@@ -220,7 +264,7 @@
     "published": "2026-05-25T21:24:31+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026",
     "description": "<p>As MCP crosses 97 million monthly SDK downloads and AI agents move into production workflows, authentication has become the most critical infrastructure decision teams face. This guide ranks the eight leading platforms \u2014 WorkOS, Stytch, Auth0 by Okta, Composio, Nango, Arcade, TrueFoundry, and Cloudflare \u2014 on spec compliance, enterprise identity depth, integration breadth, and real-world fit for 2026 deployments.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/25/best-authenticat...",
     "link": "https://www.marktechpost.com/2026/05/25/best-authentication-platforms-for-ai-agents-and-mcp-servers-in-2026/",
@@ -229,17 +273,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-25T10:34:02+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "WorkOS Releases auth.md: An Open Agent Registration Protocol Built on OAuth Standards",
-    "description": "<p>Most web applications still have no structured way for an AI agent to register. auth.md proposes a fix: a Markdown file apps publish at their domain that tells agents which registration flows are supported, which scopes to request, and how to get credentials tied to a real user \u2014 without a human filling out a form.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/\">WorkOS Releases auth.md: An ...",
-    "link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
-    "source_link": "https://www.marktechpost.com/2026/05/25/workos-releases-auth-md-an-open-agent-registration-protocol-built-on-oauth-standards/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-25T07:38:15+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
