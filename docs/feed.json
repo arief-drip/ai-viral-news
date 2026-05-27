@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-48292224",
+    "title": "I'm Tired of Talking to AI",
+    "description": "I'm Tired of Talking to AI",
+    "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+    "source_link": "https://news.ycombinator.com/item?id=48292224",
+    "engagement": "\ud83d\udc4d 119",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T10:43:25+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+    "description": "\n                        The feds are raising the alarm about a new category of threat.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+    "source_link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T10:30:28+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
     "description": "<p>The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/\">Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -20,6 +42,17 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-27T05:24:33+00:00"
+  },
+  {
+    "id": "hn-48289950",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "description": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "link": "https://arps18.github.io/posts/claude-code-mastery/",
+    "source_link": "https://news.ycombinator.com/item?id=48289950",
+    "engagement": "\ud83d\udc4d 87",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T05:13:39+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -44,7 +77,7 @@
     "published": "2026-05-26T22:31:02+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
     "description": "\n                        \"BadHost\" was found in Starlette, a package with 325 million weekly downloads.\n                    ",
     "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
@@ -66,7 +99,7 @@
     "published": "2026-05-26T18:33:01+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
     "description": "\n                        A creepy saved post on Instagram linked man to AI porn account, FBI says.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
