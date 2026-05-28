@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 15:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 18:30:42 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -195,19 +195,10 @@
     <item>
       <title>[📰] Investigating how prompt politeness affects LLM accuracy (2025)</title>
       <link>https://arxiv.org/abs/2510.04950</link>
-      <description>&lt;p&gt;Investigating how prompt politeness affects LLM accuracy (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 112&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Investigating how prompt politeness affects LLM accuracy (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 133&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48276429</guid>
       <category>AI News</category>
       <pubDate>Tue, 26 May 2026 07:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs</title>
-      <link>https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/</link>
-      <description>&lt;p&gt;&lt;p&gt;OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/"&gt;Meet OmniVoice Studio: A Local, Open-Source Alte...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 26 May 2026 07:56:17 +0000</pubDate>
     </item>
     <item>
       <title>[📰] It’s time to address the looming crisis in entry-level work.</title>
@@ -242,132 +233,22 @@
       <pubDate>Tue, 26 May 2026 14:54:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing</title>
-      <link>https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/</link>
-      <description>&lt;p&gt;&lt;p&gt;Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores F...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 26 May 2026 22:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters</title>
-      <link>https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/</link>
-      <description>&lt;p&gt;&lt;p&gt;Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/"&gt;MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 05:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference</title>
-      <link>https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/</link>
-      <description>&lt;p&gt;&lt;p&gt;The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/"&gt;Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 07:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] DuckDuckGo search saw 28% more visits after Google said people love AI mode</title>
-      <link>https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/</link>
-      <description>&lt;p&gt;DuckDuckGo search saw 28% more visits after Google said people love AI mode&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 986&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48296649</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 16:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] I think Anthropic and OpenAI have found product-market fit</title>
-      <link>https://simonwillison.net/2026/May/27/product-market-fit/</link>
-      <description>&lt;p&gt;I think Anthropic and OpenAI have found product-market fit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,008&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48296794</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 16:39:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code</title>
-      <link>https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 17:09:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires</title>
       <link>https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/</link>
       <description>&lt;p&gt;
                         Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 27 May 2026 19:59:40 +0000</pubDate>
     </item>
     <item>
       <title>[📰] YouTube to automatically label AI-generated videos</title>
       <link>https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/</link>
-      <description>&lt;p&gt;YouTube to automatically label AI-generated videos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,119&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;YouTube to automatically label AI-generated videos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,221&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48299753</guid>
       <category>AI News</category>
       <pubDate>Wed, 27 May 2026 20:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips</title>
-      <link>https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/</link>
-      <description>&lt;p&gt;Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 27 May 2026 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why Google’s AI can’t spell Google (or anything else)</title>
-      <link>https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/</link>
-      <description>&lt;p&gt;Google is embarrassing itself, again.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 00:17:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules</title>
-      <link>https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/</link>
-      <description>&lt;p&gt;&lt;p&gt;DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/"&gt;Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoisin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 00:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] A Eureka machine that thinks like nature and explores what AI cannot</title>
-      <link>https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/</link>
-      <description>&lt;p&gt;A Eureka machine that thinks like nature and explores what AI cannot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 132&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48305446</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 06:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vertu wants CEOs to run companies from an AI foldable starting at $6,880</title>
-      <link>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</link>
-      <description>&lt;p&gt;Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 07:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System</title>
-      <link>https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 08:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate</title>
-      <link>https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/</link>
-      <description>&lt;p&gt;&lt;p&gt;Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/"&gt;Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 09:08:20 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The AI Hype Index: AI gets booed in graduation season</title>
@@ -378,18 +259,18 @@
       <pubDate>Thu, 28 May 2026 09:51:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Has the hunt for AI compute uncovered the next Cerebras?</title>
-      <link>https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/</link>
-      <description>&lt;p&gt;General Compute is betting SambaNova will be the next breakout chipmaker. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <title>[📰] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue</title>
+      <link>https://llmgame.scalex.dev</link>
+      <description>&lt;p&gt;Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 115&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48308376</guid>
       <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 13:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 13:02:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’</title>
       <link>https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/</link>
       <description>&lt;p&gt;The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 14:28:47 +0000</pubDate>
     </item>
@@ -397,7 +278,7 @@
       <title>[📰] At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals</title>
       <link>https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/</link>
       <description>&lt;p&gt;Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 14:30:00 +0000</pubDate>
     </item>
@@ -405,7 +286,7 @@
       <title>[📰] RSI is the new AGI — and it’s just as hard to pin down</title>
       <link>https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/</link>
       <description>&lt;p&gt;A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 14:30:17 +0000</pubDate>
     </item>
@@ -413,9 +294,43 @@
       <title>[📰] Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more</title>
       <link>https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/</link>
       <description>&lt;p&gt;New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 14:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sesame, the conversational AI startup from Oculus founders, launches its iOS app</title>
+      <link>https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/</link>
+      <description>&lt;p&gt;Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 28 May 2026 15:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude Opus 4.8</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-8</link>
+      <description>&lt;p&gt;Claude Opus 4.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 593&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48311647</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 28 May 2026 16:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Dynamic Workflows in Claude Code</title>
+      <link>https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</link>
+      <description>&lt;p&gt;Dynamic Workflows in Claude Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 80&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48311705</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 28 May 2026 16:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Trump loses more control over AI regulation as Illinois passes landmark law</title>
+      <link>https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/</link>
+      <description>&lt;p&gt;
+                        Here’s why Anthropic and OpenAI are on board with Illinois safety testing.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 28 May 2026 17:01:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
