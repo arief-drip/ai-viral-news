@@ -1,14 +1,91 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "The internet is being rebuilt for machines",
+    "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "source_link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T21:24:01+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
-    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-    "description": "\n                        Here\u2019s why Anthropic and OpenAI are on board with Illinois safety testing.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "description": "\n                        Undisclosed addition in jqwik instructed AI coding agents to delete app output.\n                    ",
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "source_link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
     "engagement": "\ud83d\udce1 Ars Technica AI",
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T17:01:16+00:00"
+    "published": "2026-05-28T20:29:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "source_link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T20:06:07+00:00"
+  },
+  {
+    "id": "hn-48314363",
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+    "description": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+    "link": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "source_link": "https://news.ycombinator.com/item?id=48314363",
+    "engagement": "\ud83d\udc4d 100",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T19:43:14+00:00"
+  },
+  {
+    "id": "hn-48313810",
+    "title": "Various LLM Smells",
+    "description": "Various LLM Smells",
+    "link": "https://shvbsle.in/various-llm-smells/",
+    "source_link": "https://news.ycombinator.com/item?id=48313810",
+    "engagement": "\ud83d\udc4d 79",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T19:02:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "source_link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T18:52:51+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Just like gold and oil, we\u2019ll soon be able to trade AI token futures",
+    "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
+    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "source_link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T18:32:25+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+    "description": "\n                        As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "source_link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T18:30:48+00:00"
   },
   {
     "id": "hn-48311705",
@@ -16,7 +93,7 @@
     "description": "Dynamic Workflows in Claude Code",
     "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
     "source_link": "https://news.ycombinator.com/item?id=48311705",
-    "engagement": "\ud83d\udc4d 80",
+    "engagement": "\ud83d\udc4d 124",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T16:52:21+00:00"
@@ -27,13 +104,13 @@
     "description": "Claude Opus 4.8",
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "source_link": "https://news.ycombinator.com/item?id=48311647",
-    "engagement": "\ud83d\udc4d 593",
+    "engagement": "\ud83d\udc4d 1,017",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T16:49:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-4",
     "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
     "description": "Sesame\u2019s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
     "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
@@ -44,9 +121,9 @@
     "published": "2026-05-28T15:35:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-5",
     "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
-    "description": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+    "description": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
     "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
     "source_link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -55,7 +132,7 @@
     "published": "2026-05-28T14:45:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "RSI is the new AGI \u2014 and it\u2019s just as hard to pin down",
     "description": "A new crop of AI labs are focused on recursive self-improvement \u2014 but the goal is proving elusive.",
     "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
@@ -66,34 +143,12 @@
     "published": "2026-05-28T14:30:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "At TechCrunch Disrupt 2026: Databricks\u2019 co-founder on what kills enterprise AI deals",
-    "description": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
-    "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "source_link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T14:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "YouTube adds new podcast features, including an AI recommendation tool and \u2018Auto speed\u2019",
-    "description": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-    "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-    "source_link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T14:28:47+00:00"
-  },
-  {
     "id": "hn-48308376",
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "link": "https://llmgame.scalex.dev",
     "source_link": "https://news.ycombinator.com/item?id=48308376",
-    "engagement": "\ud83d\udc4d 115",
+    "engagement": "\ud83d\udc4d 190",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T13:02:00+00:00"
@@ -110,26 +165,92 @@
     "published": "2026-05-28T09:51:11+00:00"
   },
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
+    "description": "<p>Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/\">Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTec...",
+    "link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
+    "source_link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T09:08:20+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
+    "description": "<p>In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-...",
+    "link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
+    "source_link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T08:07:09+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoising Modules",
+    "description": "<p>DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/\">Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoisin...",
+    "link": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+    "source_link": "https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-28T00:51:53+00:00"
+  },
+  {
     "id": "hn-48299753",
     "title": "YouTube to automatically label AI-generated videos",
     "description": "YouTube to automatically label AI-generated videos",
     "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "source_link": "https://news.ycombinator.com/item?id=48299753",
-    "engagement": "\ud83d\udc4d 1,221",
+    "engagement": "\ud83d\udc4d 1,255",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-27T20:00:51+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-    "description": "\n                        Nvidia will invest $150 billion a year to make Taiwan an AI \u201cepicenter.\u201d\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "rss-MarkTechPost-3",
+    "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+    "description": "<p>NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The...",
+    "link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "source_link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-27T19:59:40+00:00"
+    "published": "2026-05-27T17:09:38+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
+    "description": "<p>The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/\">Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+    "source_link": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T07:23:10+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
+    "description": "<p>Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/\">MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
+    "link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+    "source_link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-27T05:24:33+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
+    "description": "<p>Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores F...",
+    "link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "source_link": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-26T22:31:02+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -176,15 +297,15 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "hn-48276429",
-    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-    "description": "Investigating how prompt politeness affects LLM accuracy (2025)",
-    "link": "https://arxiv.org/abs/2510.04950",
-    "source_link": "https://news.ycombinator.com/item?id=48276429",
-    "engagement": "\ud83d\udc4d 133",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-7",
+    "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
+    "description": "<p>OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/\">Meet OmniVoice Studio: A Local, Open-Source Alte...",
+    "link": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+    "source_link": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T07:43:22+00:00"
+    "published": "2026-05-26T07:56:17+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
