@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 02:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:47:22 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,19 +225,11 @@
       <pubDate>Tue, 26 May 2026 14:54:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing</title>
-      <link>https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/</link>
-      <description>&lt;p&gt;&lt;p&gt;Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. Small runs on a MacBook Pro M4 CPU. Medium fits on consumer GPUs with 8 GB of VRAM. Both generate stereo audio at 44.1 kHz using a three-stage training pipeline: flow matching, distillation warmup, and adversarial post-training. On the BBC Sound Effects benchmark at 5 seconds, SA3 medium scores F...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 26 May 2026 22:31:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters</title>
       <link>https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/</link>
       <description>&lt;p&gt;&lt;p&gt;Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/"&gt;MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 27 May 2026 05:24:33 +0000</pubDate>
     </item>
@@ -247,7 +239,7 @@
       <description>&lt;p&gt;&lt;p&gt;The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/"&gt;Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 27 May 2026 07:23:10 +0000</pubDate>
     </item>
@@ -255,7 +247,7 @@
       <title>[📰] NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code</title>
       <link>https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 27 May 2026 17:09:38 +0000</pubDate>
     </item>
@@ -264,7 +256,7 @@
       <link>https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/</link>
       <description>&lt;p&gt;&lt;p&gt;DiffusionBlocks converts residual networks into independently trainable blocks by interpreting layer updates as reverse diffusion denoising steps.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/27/sakana-ai-proposes-diffusionblocks-a-block-wise-training-framework-that-converts-residual-networks-into-independently-trainable-denoising-modules/"&gt;Sakana AI Proposes DiffusionBlocks: a Block-wise Training Framework That Converts Residual Networks into Independently Trainable Denoisin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 00:51:53 +0000</pubDate>
     </item>
@@ -273,7 +265,7 @@
       <link>https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 08:07:09 +0000</pubDate>
     </item>
@@ -282,7 +274,7 @@
       <link>https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/</link>
       <description>&lt;p&gt;&lt;p&gt;Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/"&gt;Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 09:08:20 +0000</pubDate>
     </item>
@@ -297,7 +289,7 @@
     <item>
       <title>[📰] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue</title>
       <link>https://llmgame.scalex.dev</link>
-      <description>&lt;p&gt;Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 246&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 303&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48308376</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 13:02:00 +0000</pubDate>
@@ -321,7 +313,7 @@
     <item>
       <title>[📰] Claude Opus 4.8</title>
       <link>https://www.anthropic.com/news/claude-opus-4-8</link>
-      <description>&lt;p&gt;Claude Opus 4.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,253&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Opus 4.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,455&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48311647</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 16:49:14 +0000</pubDate>
@@ -355,7 +347,7 @@
     <item>
       <title>[📰] Various LLM Smells</title>
       <link>https://shvbsle.in/various-llm-smells/</link>
-      <description>&lt;p&gt;Various LLM Smells&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 237&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Various LLM Smells&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 288&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48313810</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 19:02:18 +0000</pubDate>
@@ -391,7 +383,7 @@
       <link>https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/"&gt;Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 22:12:16 +0000</pubDate>
     </item>
@@ -401,9 +393,17 @@
       <description>&lt;p&gt;&lt;p&gt;Liquid AI's LFM2.5-8B-A1B activates 1.5B of 8.3B parameters, offering 128K context, reasoning, and tool calling on consumer hardware.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/"&gt;Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 23:29:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin</title>
+      <link>https://minimaxir.com/2026/05/openrouter-hy3/</link>
+      <description>&lt;p&gt;The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 64&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48317294</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 00:09:35 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point</title>
@@ -412,6 +412,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 29 May 2026 00:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights</title>
+      <link>https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/</link>
+      <description>&lt;p&gt;&lt;p&gt;Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and scRNA-seq denoising.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/"&gt;Hexo La...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 07:28:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
