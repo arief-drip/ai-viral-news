@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 11:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:44:02 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -185,7 +185,15 @@
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] It’s time to address the looming crisis in entry-level work.</title>
+      <title>[📰] Orchestrating AI code review at scale</title>
+      <link>https://blog.cloudflare.com/ai-code-review/</link>
+      <description>&lt;p&gt;Orchestrating AI code review at scale&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 70&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48276152</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 26 May 2026 07:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] It’s time to address the looming crisis in entry-level work</title>
       <link>https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/</link>
       <description>&lt;p&gt;Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
@@ -270,52 +278,18 @@
       <pubDate>Thu, 28 May 2026 09:51:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue</title>
-      <link>https://llmgame.scalex.dev</link>
-      <description>&lt;p&gt;Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 332&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48308376</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more</title>
-      <link>https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/</link>
-      <description>&lt;p&gt;New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 14:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sesame, the conversational AI startup from Oculus founders, launches its iOS app</title>
-      <link>https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/</link>
-      <description>&lt;p&gt;Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 15:35:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Claude Opus 4.8</title>
       <link>https://www.anthropic.com/news/claude-opus-4-8</link>
-      <description>&lt;p&gt;Claude Opus 4.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,564&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Opus 4.8&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,654&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48311647</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 16:49:14 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Apple working to cram massive Gemini model into iPhone to power new Siri</title>
-      <link>https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/</link>
-      <description>&lt;p&gt;
-                        As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 28 May 2026 18:30:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Just like gold and oil, we’ll soon be able to trade AI token futures</title>
       <link>https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/</link>
       <description>&lt;p&gt;Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 18:32:25 +0000</pubDate>
     </item>
@@ -323,7 +297,7 @@
       <title>[📰] Anthropic raises $65 billion, nears $1T valuation ahead of IPO</title>
       <link>https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/</link>
       <description>&lt;p&gt;Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 18:52:51 +0000</pubDate>
     </item>
@@ -331,7 +305,7 @@
       <title>[📰] Asana acquires no-code agent-builder StackAI</title>
       <link>https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/</link>
       <description>&lt;p&gt;Asana will incorporate StackAI into its growing suite of AI workflow tools.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 20:06:07 +0000</pubDate>
     </item>
@@ -349,7 +323,7 @@
       <title>[📰] The internet is being rebuilt for machines</title>
       <link>https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/</link>
       <description>&lt;p&gt;As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 28 May 2026 21:24:01 +0000</pubDate>
     </item>
@@ -373,17 +347,17 @@
       <pubDate>Thu, 28 May 2026 23:29:49 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point</title>
+      <title>[📰] Glean’s top line crosses $300M as AI budget cutting becomes its major selling point</title>
       <link>https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/</link>
       <description>&lt;p&gt;The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 29 May 2026 00:44:37 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Code – Everything You Can Configure That the Docs Don't Tell You</title>
       <link>https://buildingbetter.tech/p/i-read-the-claude-code-source-code</link>
-      <description>&lt;p&gt;Claude Code – Everything You Can Configure That the Docs Don't Tell You&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Code – Everything You Can Configure That the Docs Don't Tell You&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 248&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48318174</guid>
       <category>AI News</category>
       <pubDate>Fri, 29 May 2026 02:13:20 +0000</pubDate>
@@ -398,12 +372,52 @@
       <pubDate>Fri, 29 May 2026 07:28:37 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request</title>
+      <link>https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/</link>
+      <description>&lt;p&gt;Real-time LLM Inference on Standard GPUs: 3k tokens/s per request&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 104&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48321076</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 09:47:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment</title>
       <link>https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/</link>
       <description>&lt;p&gt;Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Is AI causing a repeat of Front end's Lost Decade?</title>
+      <link>https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/</link>
+      <description>&lt;p&gt;Is AI causing a repeat of Front end's Lost Decade?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 143&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48321631</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 11:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory</title>
+      <link>https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/</link>
+      <description>&lt;p&gt;South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: AISlop, a CLI for catching AI generated code smells</title>
+      <link>https://github.com/scanaislop/aislop</link>
+      <description>&lt;p&gt;Show HN: AISlop, a CLI for catching AI generated code smells&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 51&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48322956</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 13:37:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Please Use AI</title>
+      <link>https://shawnsmucker.substack.com/p/please-use-ai</link>
+      <description>&lt;p&gt;Please Use AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 169&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48323101</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 29 May 2026 13:50:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

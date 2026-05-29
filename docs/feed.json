@@ -1,5 +1,49 @@
 [
   {
+    "id": "hn-48323101",
+    "title": "Please Use AI",
+    "description": "Please Use AI",
+    "link": "https://shawnsmucker.substack.com/p/please-use-ai",
+    "source_link": "https://news.ycombinator.com/item?id=48323101",
+    "engagement": "\ud83d\udc4d 169",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T13:50:25+00:00"
+  },
+  {
+    "id": "hn-48322956",
+    "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+    "description": "Show HN: AISlop, a CLI for catching AI generated code smells",
+    "link": "https://github.com/scanaislop/aislop",
+    "source_link": "https://news.ycombinator.com/item?id=48322956",
+    "engagement": "\ud83d\udc4d 51",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T13:37:38+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
+    "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "source_link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T12:00:00+00:00"
+  },
+  {
+    "id": "hn-48321631",
+    "title": "Is AI causing a repeat of Front end's Lost Decade?",
+    "description": "Is AI causing a repeat of Front end's Lost Decade?",
+    "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "source_link": "https://news.ycombinator.com/item?id=48321631",
+    "engagement": "\ud83d\udc4d 143",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T11:09:32+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
@@ -9,6 +53,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T10:00:00+00:00"
+  },
+  {
+    "id": "hn-48321076",
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "source_link": "https://news.ycombinator.com/item?id=48321076",
+    "engagement": "\ud83d\udc4d 104",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T09:47:23+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -27,14 +82,14 @@
     "description": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
     "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
     "source_link": "https://news.ycombinator.com/item?id=48318174",
-    "engagement": "\ud83d\udc4d 130",
+    "engagement": "\ud83d\udc4d 248",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T02:13:20+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
-    "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "id": "rss-TechCrunch AI-1",
+    "title": "Glean\u2019s top line crosses $300M as AI budget cutting becomes its major selling point",
     "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
     "source_link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
@@ -66,7 +121,7 @@
     "published": "2026-05-28T22:12:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "The internet is being rebuilt for machines",
     "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
     "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
@@ -88,7 +143,7 @@
     "published": "2026-05-28T20:29:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Asana acquires no-code agent-builder StackAI",
     "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
     "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
@@ -99,7 +154,7 @@
     "published": "2026-05-28T20:06:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
     "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
     "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
@@ -110,7 +165,7 @@
     "published": "2026-05-28T18:52:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Just like gold and oil, we\u2019ll soon be able to trade AI token futures",
     "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
     "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
@@ -121,59 +176,15 @@
     "published": "2026-05-28T18:32:25+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-    "description": "\n                        As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "source_link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T18:30:48+00:00"
-  },
-  {
     "id": "hn-48311647",
     "title": "Claude Opus 4.8",
     "description": "Claude Opus 4.8",
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "source_link": "https://news.ycombinator.com/item?id=48311647",
-    "engagement": "\ud83d\udc4d 1,564",
+    "engagement": "\ud83d\udc4d 1,654",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T16:49:14+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "description": "Sesame\u2019s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-    "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-    "source_link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T15:35:43+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
-    "description": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-    "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "source_link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T14:45:13+00:00"
-  },
-  {
-    "id": "hn-48308376",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "link": "https://llmgame.scalex.dev",
-    "source_link": "https://news.ycombinator.com/item?id=48308376",
-    "engagement": "\ud83d\udc4d 332",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T13:02:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -276,7 +287,7 @@
   },
   {
     "id": "rss-MIT Tech Review AI-4",
-    "title": "It\u2019s time to address the looming crisis in entry-level work.",
+    "title": "It\u2019s time to address the looming crisis in entry-level work",
     "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
     "source_link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
@@ -284,6 +295,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-26T09:00:00+00:00"
+  },
+  {
+    "id": "hn-48276152",
+    "title": "Orchestrating AI code review at scale",
+    "description": "Orchestrating AI code review at scale",
+    "link": "https://blog.cloudflare.com/ai-code-review/",
+    "source_link": "https://news.ycombinator.com/item?id=48276152",
+    "engagement": "\ud83d\udc4d 70",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-26T07:06:28+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
