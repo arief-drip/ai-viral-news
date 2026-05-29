@@ -1,28 +1,72 @@
 [
   {
-    "id": "hn-48323101",
-    "title": "Please Use AI",
-    "description": "Please Use AI",
-    "link": "https://shawnsmucker.substack.com/p/please-use-ai",
-    "source_link": "https://news.ycombinator.com/item?id=48323101",
-    "engagement": "\ud83d\udc4d 169",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T13:50:25+00:00"
-  },
-  {
-    "id": "hn-48322956",
-    "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-    "description": "Show HN: AISlop, a CLI for catching AI generated code smells",
-    "link": "https://github.com/scanaislop/aislop",
-    "source_link": "https://news.ycombinator.com/item?id=48322956",
-    "engagement": "\ud83d\udc4d 51",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T13:37:38+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
+    "title": "What happens when companies become too AI-pilled?",
+    "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0&#8220;AI psychosis.\u201d Indeed,\u00a0ClickUp\u00a0recently\u00a0cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "source_link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T17:57:05+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "After Nvidia\u2019s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.\u00a0",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "source_link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T17:27:13+00:00"
+  },
+  {
+    "id": "hn-48325340",
+    "title": "Notes from the Mistral AI Now Summit in Paris",
+    "description": "Notes from the Mistral AI Now Summit in Paris",
+    "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "source_link": "https://news.ycombinator.com/item?id=48325340",
+    "engagement": "\ud83d\udc4d 147",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T16:22:01+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
+    "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "source_link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T16:13:47+00:00"
+  },
+  {
+    "id": "hn-48322929",
+    "title": "Expertise in the age of AI",
+    "description": "Expertise in the age of AI",
+    "link": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+    "source_link": "https://news.ycombinator.com/item?id=48322929",
+    "engagement": "\ud83d\udc4d 59",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T13:35:13+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Kiwibit\u2019s AI-powered bird feeder is my new backyard buddy",
+    "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pok\u00e9mon, give this smart feeder a try.",
+    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "source_link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T13:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
     "description": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
     "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
@@ -31,17 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T12:00:00+00:00"
-  },
-  {
-    "id": "hn-48321631",
-    "title": "Is AI causing a repeat of Front end's Lost Decade?",
-    "description": "Is AI causing a repeat of Front end's Lost Decade?",
-    "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "source_link": "https://news.ycombinator.com/item?id=48321631",
-    "engagement": "\ud83d\udc4d 143",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T11:09:32+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -60,7 +93,7 @@
     "description": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
     "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
     "source_link": "https://news.ycombinator.com/item?id=48321076",
-    "engagement": "\ud83d\udc4d 104",
+    "engagement": "\ud83d\udc4d 168",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T09:47:23+00:00"
@@ -77,18 +110,7 @@
     "published": "2026-05-29T07:28:37+00:00"
   },
   {
-    "id": "hn-48318174",
-    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
-    "description": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
-    "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-    "source_link": "https://news.ycombinator.com/item?id=48318174",
-    "engagement": "\ud83d\udc4d 248",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T02:13:20+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-5",
     "title": "Glean\u2019s top line crosses $300M as AI budget cutting becomes its major selling point",
     "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
@@ -121,7 +143,7 @@
     "published": "2026-05-28T22:12:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "The internet is being rebuilt for machines",
     "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
     "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
@@ -143,7 +165,7 @@
     "published": "2026-05-28T20:29:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-7",
     "title": "Asana acquires no-code agent-builder StackAI",
     "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
     "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
@@ -154,26 +176,15 @@
     "published": "2026-05-28T20:06:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "source_link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-48311705",
+    "title": "Dynamic Workflows in Claude Code",
+    "description": "Dynamic Workflows in Claude Code",
+    "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "source_link": "https://news.ycombinator.com/item?id=48311705",
+    "engagement": "\ud83d\udc4d 156",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T18:52:51+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Just like gold and oil, we\u2019ll soon be able to trade AI token futures",
-    "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
-    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "source_link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T18:32:25+00:00"
+    "published": "2026-05-28T16:52:21+00:00"
   },
   {
     "id": "hn-48311647",
@@ -181,7 +192,7 @@
     "description": "Claude Opus 4.8",
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "source_link": "https://news.ycombinator.com/item?id=48311647",
-    "engagement": "\ud83d\udc4d 1,654",
+    "engagement": "\ud83d\udc4d 1,697",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T16:49:14+00:00"
@@ -302,7 +313,7 @@
     "description": "Orchestrating AI code review at scale",
     "link": "https://blog.cloudflare.com/ai-code-review/",
     "source_link": "https://news.ycombinator.com/item?id=48276152",
-    "engagement": "\ud83d\udc4d 70",
+    "engagement": "\ud83d\udc4d 111",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-26T07:06:28+00:00"
