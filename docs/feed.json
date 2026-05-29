@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "source_link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T10:00:00+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights",
     "description": "<p>Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and scRNA-seq denoising.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/\">Hexo La...",
@@ -11,6 +22,17 @@
     "published": "2026-05-29T07:28:37+00:00"
   },
   {
+    "id": "hn-48318174",
+    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
+    "description": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
+    "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "source_link": "https://news.ycombinator.com/item?id=48318174",
+    "engagement": "\ud83d\udc4d 130",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-29T02:13:20+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
     "description": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
@@ -20,17 +42,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T00:44:37+00:00"
-  },
-  {
-    "id": "hn-48317294",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-    "description": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-    "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "source_link": "https://news.ycombinator.com/item?id=48317294",
-    "engagement": "\ud83d\udc4d 64",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T00:09:35+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -88,17 +99,6 @@
     "published": "2026-05-28T20:06:07+00:00"
   },
   {
-    "id": "hn-48313810",
-    "title": "Various LLM Smells",
-    "description": "Various LLM Smells",
-    "link": "https://shvbsle.in/various-llm-smells/",
-    "source_link": "https://news.ycombinator.com/item?id=48313810",
-    "engagement": "\ud83d\udc4d 288",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T19:02:18+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-3",
     "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
     "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
@@ -137,7 +137,7 @@
     "description": "Claude Opus 4.8",
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "source_link": "https://news.ycombinator.com/item?id=48311647",
-    "engagement": "\ud83d\udc4d 1,455",
+    "engagement": "\ud83d\udc4d 1,564",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T16:49:14+00:00"
@@ -170,13 +170,13 @@
     "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "link": "https://llmgame.scalex.dev",
     "source_link": "https://news.ycombinator.com/item?id=48308376",
-    "engagement": "\ud83d\udc4d 303",
+    "engagement": "\ud83d\udc4d 332",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T13:02:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -242,18 +242,7 @@
     "published": "2026-05-27T07:23:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-8",
-    "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
-    "description": "<p>Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/\">MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
-    "link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
-    "source_link": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-27T05:24:33+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Rethinking organizational design in the age of agentic AI",
     "description": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
@@ -275,7 +264,7 @@
     "published": "2026-05-26T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "A reality check on the AI jobs hysteria",
     "description": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -286,7 +275,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "It\u2019s time to address the looming crisis in entry-level work.",
     "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
@@ -330,7 +319,7 @@
     "published": "2026-05-22T15:25:59+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Google I/O showed how the path for AI-driven science is shifting",
     "description": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
     "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
@@ -341,7 +330,7 @@
     "published": "2026-05-22T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Roundtables: Can AI Learn to Understand the World?",
     "description": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
     "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
@@ -352,7 +341,7 @@
     "published": "2026-05-21T20:41:05+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Scaling creativity in the age of AI",
     "description": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
     "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
@@ -363,7 +352,7 @@
     "published": "2026-05-21T19:16:43+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
     "description": "The vibes were strong at Code with Claude, Anthropic\u2019s two-day event for software developers in London that kicked off on May 19, the same day as Google\u2019s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) \u201cWho here has shipped a pull request in the last week that was completely written&#8230;",
     "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
@@ -374,7 +363,7 @@
     "published": "2026-05-21T14:30:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-8",
+    "id": "rss-MIT Tech Review AI-9",
     "title": "Roundtables: Inside the Musk v. Altman Trial",
     "description": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company\u2019s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
     "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
@@ -383,17 +372,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-19T20:15:18+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
-    "description": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow\u2014reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "source_link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-19T00:53:10+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
