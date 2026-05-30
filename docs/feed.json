@@ -1,16 +1,5 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-    "description": "<p>NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/\">NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
-    "link": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
-    "source_link": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T23:19:14+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
     "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them\u00a0",
     "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.\u00a0",
@@ -27,7 +16,7 @@
     "description": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
     "link": "https://github.com/jmaczan/tiny-vllm",
     "source_link": "https://news.ycombinator.com/item?id=48328184",
-    "engagement": "\ud83d\udc4d 89",
+    "engagement": "\ud83d\udc4d 127",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T19:38:27+00:00"
@@ -71,7 +60,7 @@
     "description": "Notes from the Mistral AI Now Summit",
     "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
     "source_link": "https://news.ycombinator.com/item?id=48325340",
-    "engagement": "\ud83d\udc4d 311",
+    "engagement": "\ud83d\udc4d 335",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T16:22:01+00:00"
@@ -82,7 +71,7 @@
     "description": "Liquid AI reveals 8B-A1B MoE trained on 38T",
     "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
     "source_link": "https://news.ycombinator.com/item?id=48325306",
-    "engagement": "\ud83d\udc4d 153",
+    "engagement": "\ud83d\udc4d 173",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T16:19:54+00:00"
@@ -97,17 +86,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T16:13:47+00:00"
-  },
-  {
-    "id": "hn-48324910",
-    "title": "CAPTCHAs can still detect AI agents",
-    "description": "CAPTCHAs can still detect AI agents",
-    "link": "https://research.roundtable.ai/captchas-detect-ai/",
-    "source_link": "https://news.ycombinator.com/item?id=48324910",
-    "engagement": "\ud83d\udc4d 66",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T15:57:37+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -148,7 +126,7 @@
     "description": "Is AI causing a repeat of frontend\u2019s lost decade?",
     "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "source_link": "https://news.ycombinator.com/item?id=48321631",
-    "engagement": "\ud83d\udc4d 294",
+    "engagement": "\ud83d\udc4d 323",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T11:09:32+00:00"
@@ -165,48 +143,15 @@
     "published": "2026-05-29T10:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "Hexo Labs Open-Sources SIA: A Self-Improving Agent That Updates Both the Harness and the Model Weights",
-    "description": "<p>Hexo Labs released SIA, an open-source self-improving loop, under an MIT license. A Feedback-Agent reads each run's trajectory, then either rewrites the scaffold or triggers a LoRA weight update on gpt-oss-120b. Combining both levers beat scaffold-only iteration on LawBench, TriMul GPU kernels, and scRNA-seq denoising.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/\">Hexo La...",
-    "link": "https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/",
-    "source_link": "https://www.marktechpost.com/2026/05/29/hexo-labs-open-sources-sia-a-self-improving-agent-that-updates-both-the-harness-and-the-model-weights/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T07:28:37+00:00"
-  },
-  {
     "id": "hn-48317294",
     "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
     "description": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
     "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
     "source_link": "https://news.ycombinator.com/item?id=48317294",
-    "engagement": "\ud83d\udc4d 106",
+    "engagement": "\ud83d\udc4d 120",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T00:09:35+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters",
-    "description": "<p>Liquid AI's LFM2.5-8B-A1B activates 1.5B of 8.3B parameters, offering 128K context, reasoning, and tool calling on consumer hardware.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/\">Liquid AI Releases LFM2.5-8B-A1B: An On-Device MoE Model With 8.3B Total and 1.5B Active Parameters</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/",
-    "source_link": "https://www.marktechpost.com/2026/05/28/liquid-ai-releases-lfm2-5-8b-a1b-an-on-device-moe-model-with-8-3b-total-and-1-5b-active-parameters/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T23:29:49+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents",
-    "description": "<p>Anthropic's Claude Opus 4.8 brings dynamic workflows and cheaper fast mode to Claude Code, now in research preview</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/\">Anthropic Ships Claude Opus 4.8 Alongside Dynamic Workflows and Cheaper Fast Mode, With Workflows Capped at 1,000 Subagents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTech...",
-    "link": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
-    "source_link": "https://www.marktechpost.com/2026/05/28/anthropic-ships-claude-opus-4-8-alongside-dynamic-workflows-and-cheaper-fast-mode-with-workflows-capped-at-1000-subagents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T22:12:16+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -218,28 +163,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T09:51:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate",
-    "description": "<p>Perplexity AI open-sources a rewritten Unigram tokenizer that reduces reranker latency and cuts production CPU utilization by 5-6x.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/\">Perplexity AI Open-Sources Unigram Tokenizer That Achieves 5x Lower p50 Latency Than Hugging Face tokenizers Crate</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTec...",
-    "link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
-    "source_link": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T09:08:20+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
-    "description": "<p>In this tutorial, we build a complete pgvector playground inside Google Colab and explore how PostgreSQL can work as a powerful vector database for modern AI applications. We start by installing PostgreSQL, compiling the pgvector extension, connecting through Psycopg, and registering vector types for smooth Python integration. Then, we create embeddings with SentenceTransformers, store them [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-...",
-    "link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
-    "source_link": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T08:07:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
