@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Making sense of the debate over AI psychosis",
+    "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "source_link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-31T15:30:00+00:00"
+  },
+  {
+    "id": "hn-48345896",
+    "title": "The solution might be cancelling my AI subscription",
+    "description": "The solution might be cancelling my AI subscription",
+    "link": "https://thoughts.hmmz.org/2026-05-31.html",
+    "source_link": "https://news.ycombinator.com/item?id=48345896",
+    "engagement": "\ud83d\udc4d 226",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-31T14:23:30+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81\u00d7 Experiment-Throughput Gain",
     "description": "<p>Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81\u00d7 end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-co...",
@@ -22,7 +44,7 @@
     "published": "2026-05-31T01:28:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
     "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
     "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
@@ -33,7 +55,7 @@
     "published": "2026-05-30T16:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Meta is reportedly developing an AI pendant",
     "description": "Meta seems to be making big bets on AI-powered hardware.",
     "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
@@ -44,7 +66,7 @@
     "published": "2026-05-30T15:59:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
     "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product.",
     "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
@@ -77,7 +99,7 @@
     "published": "2026-05-29T23:19:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them\u00a0",
     "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.\u00a0",
     "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -88,7 +110,7 @@
     "published": "2026-05-29T22:14:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
     "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -99,7 +121,7 @@
     "published": "2026-05-29T18:49:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "What happens when companies become too AI-pilled?",
     "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0&#8220;AI psychosis.\u201d Indeed,\u00a0ClickUp\u00a0recently\u00a0cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
     "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
@@ -110,7 +132,7 @@
     "published": "2026-05-29T17:57:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
     "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.\u00a0",
     "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
@@ -119,17 +141,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T17:27:13+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
-    "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "source_link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-29T16:13:47+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
