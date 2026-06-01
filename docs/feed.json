@@ -1,25 +1,36 @@
 [
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "description": "",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "source_link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T04:44:55+00:00"
+  },
+  {
+    "id": "hn-48349487",
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+    "description": "ChatGPT for Google Sheets exfiltrates workbooks",
+    "link": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "source_link": "https://news.ycombinator.com/item?id=48349487",
+    "engagement": "\ud83d\udc4d 209",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-05-31T20:35:38+00:00"
+  },
+  {
     "id": "hn-48347153",
     "title": "The Speed of Prototyping in the Age of AI",
     "description": "The Speed of Prototyping in the Age of AI",
     "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
     "source_link": "https://news.ycombinator.com/item?id=48347153",
-    "engagement": "\ud83d\udc4d 118",
+    "engagement": "\ud83d\udc4d 161",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-31T16:37:34+00:00"
-  },
-  {
-    "id": "hn-48346693",
-    "title": "Odysseus \u2013 self-hosted AI workspace",
-    "description": "Odysseus \u2013 self-hosted AI workspace",
-    "link": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "source_link": "https://news.ycombinator.com/item?id=48346693",
-    "engagement": "\ud83d\udc4d 120",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-31T15:50:34+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -104,7 +115,7 @@
     "description": "What if remote working, not AI, is to blame for weak junior hiring?",
     "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
     "source_link": "https://news.ycombinator.com/item?id=48326721",
-    "engagement": "\ud83d\udc4d 91",
+    "engagement": "\ud83d\udc4d 165",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T17:50:11+00:00"
@@ -176,7 +187,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-HuggingFace Blog-1",
     "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
     "description": "",
     "link": "https://huggingface.co/blog/agent-glossary",
@@ -185,17 +196,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-1",
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "description": "",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "source_link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-23T00:02:03+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-2",
