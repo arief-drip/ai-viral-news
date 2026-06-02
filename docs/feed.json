@@ -1,6 +1,61 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp",
+    "description": "<p>We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/\">How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
+    "source_link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-02T01:39:13+00:00"
+  },
+  {
+    "id": "hn-48364055",
+    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "description": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "source_link": "https://news.ycombinator.com/item?id=48364055",
+    "engagement": "\ud83d\udc4d 102",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T23:45:46+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "description": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company\u2019s available supply,\" Alphabet said in its statement. ",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "source_link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T22:55:09+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "description": "\n                        Some report burning through their whole monthly \"AI credit\" allotment in a single day.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "source_link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T22:18:09+00:00"
+  },
+  {
+    "id": "hn-48363132",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "description": "OpenAI frontier models and Codex are now available on AWS",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "source_link": "https://news.ycombinator.com/item?id=48363132",
+    "engagement": "\ud83d\udc4d 150",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T21:50:02+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
     "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could \u2014 and should \u2014 be big.",
     "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
@@ -11,7 +66,18 @@
     "published": "2026-06-01T21:35:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "hn-48362515",
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "description": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "source_link": "https://news.ycombinator.com/item?id=48362515",
+    "engagement": "\ud83d\udc4d 113",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T20:55:15+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
     "description": "\n                        Pricey Instagram handles were stolen and resold before Meta patched the exploit.\n                    ",
     "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
@@ -22,7 +88,7 @@
     "published": "2026-06-01T20:44:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
     "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. ",
     "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
@@ -33,7 +99,7 @@
     "published": "2026-06-01T20:03:40+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
     "description": "\n                        Altman has an \"utter disregard\" for human lives, Florida AG says.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
@@ -44,7 +110,7 @@
     "published": "2026-06-01T18:52:19+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-3",
     "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
     "description": "\n                        From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.\n                    ",
     "link": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
@@ -60,13 +126,13 @@
     "description": "AI Agent Guidelines for CS336 at Stanford",
     "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
     "source_link": "https://news.ycombinator.com/item?id=48359232",
-    "engagement": "\ud83d\udc4d 256",
+    "engagement": "\ud83d\udc4d 334",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T16:41:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic files to go public",
     "description": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models. ",
     "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
@@ -82,13 +148,13 @@
     "description": "Florida sues OpenAI and Sam Altman over AI risks",
     "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
     "source_link": "https://news.ycombinator.com/item?id=48358667",
-    "engagement": "\ud83d\udc4d 150",
+    "engagement": "\ud83d\udc4d 183",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T16:02:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "This AI weather startup is out-forecasting government agencies",
     "description": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
     "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
@@ -99,7 +165,7 @@
     "published": "2026-06-01T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
     "description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users. ",
     "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
@@ -143,7 +209,7 @@
     "published": "2026-06-01T04:44:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
     "description": "<p>In this tutorial, we build a governed AI-agent workflow using Microsoft\u2019s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent\u2019s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-gov...",
     "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
@@ -154,7 +220,7 @@
     "published": "2026-05-31T20:07:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Making sense of the debate over AI psychosis",
     "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
     "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
@@ -165,7 +231,7 @@
     "published": "2026-05-31T15:30:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81\u00d7 Experiment-Throughput Gain",
     "description": "<p>Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81\u00d7 end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-co...",
     "link": "https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/",
@@ -176,7 +242,7 @@
     "published": "2026-05-31T02:04:01+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
     "description": "<p>In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/\">Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
     "link": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
@@ -187,18 +253,7 @@
     "published": "2026-05-31T01:28:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "\u2018What a joke\u2019: GitHub Copilot\u2019s new token-based billing spurs consternation among devs",
-    "description": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "source_link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-30T16:30:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
     "description": "<p>Genesis AI released Genesis World 1.0 on May 27, 2026 \u2014 a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-m...",
     "link": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
