@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 02:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:21:12 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,20 +225,11 @@
       <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation</title>
-      <link>https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/</link>
-      <description>&lt;p&gt;&lt;p&gt;Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 30 May 2026 09:25:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning</title>
       <link>https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/"&gt;Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 31 May 2026 01:28:04 +0000</pubDate>
     </item>
@@ -247,7 +238,7 @@
       <link>https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/</link>
       <description>&lt;p&gt;&lt;p&gt;Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81× end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 31 May 2026 02:04:01 +0000</pubDate>
     </item>
@@ -264,7 +255,7 @@
       <link>https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-gov...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sun, 31 May 2026 20:07:01 +0000</pubDate>
     </item>
@@ -311,7 +302,7 @@
     <item>
       <title>[📰] Florida sues OpenAI and Sam Altman over AI risks</title>
       <link>https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215</link>
-      <description>&lt;p&gt;Florida sues OpenAI and Sam Altman over AI risks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 183&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Florida sues OpenAI and Sam Altman over AI risks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 222&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48358667</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 16:02:04 +0000</pubDate>
@@ -327,7 +318,7 @@
     <item>
       <title>[📰] AI Agent Guidelines for CS336 at Stanford</title>
       <link>https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md</link>
-      <description>&lt;p&gt;AI Agent Guidelines for CS336 at Stanford&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI Agent Guidelines for CS336 at Stanford&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 399&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48359232</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 16:41:49 +0000</pubDate>
@@ -373,7 +364,7 @@
     <item>
       <title>[📰] Alphabet announces $80B equity capital raise to expand AI infra and compute</title>
       <link>https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx</link>
-      <description>&lt;p&gt;Alphabet announces $80B equity capital raise to expand AI infra and compute&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 113&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Alphabet announces $80B equity capital raise to expand AI infra and compute&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 175&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48362515</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 20:55:15 +0000</pubDate>
@@ -389,7 +380,7 @@
     <item>
       <title>[📰] OpenAI frontier models and Codex are now available on AWS</title>
       <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</link>
-      <description>&lt;p&gt;OpenAI frontier models and Codex are now available on AWS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 150&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI frontier models and Codex are now available on AWS&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 247&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48363132</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 21:50:02 +0000</pubDate>
@@ -415,7 +406,7 @@
     <item>
       <title>[📰] Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</title>
       <link>https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai</link>
-      <description>&lt;p&gt;Can the stockmarket swallow Anthropic, SpaceX and OpenAI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 102&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Can the stockmarket swallow Anthropic, SpaceX and OpenAI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 312&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48364055</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 23:45:46 +0000</pubDate>
@@ -426,9 +417,19 @@
       <description>&lt;p&gt;&lt;p&gt;We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/"&gt;How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 01:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</title>
+      <link>https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/</link>
+      <description>&lt;p&gt;&lt;p&gt;JetBrains releases Mellum2 under Apache 2.0 — a 12B MoE model trained on 10.6 trillion tokens for AI workflows.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/"&gt;JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 02 Jun 2026 08:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

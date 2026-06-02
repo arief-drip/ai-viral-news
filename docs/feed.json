@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
+    "description": "<p>JetBrains releases Mellum2 under Apache 2.0 \u2014 a 12B MoE model trained on 10.6 trillion tokens for AI workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/\">JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "source_link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-02T08:00:32+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp",
     "description": "<p>We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/\">How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
@@ -16,7 +27,7 @@
     "description": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
     "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
     "source_link": "https://news.ycombinator.com/item?id=48364055",
-    "engagement": "\ud83d\udc4d 102",
+    "engagement": "\ud83d\udc4d 312",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T23:45:46+00:00"
@@ -49,7 +60,7 @@
     "description": "OpenAI frontier models and Codex are now available on AWS",
     "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
     "source_link": "https://news.ycombinator.com/item?id=48363132",
-    "engagement": "\ud83d\udc4d 150",
+    "engagement": "\ud83d\udc4d 247",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T21:50:02+00:00"
@@ -71,7 +82,7 @@
     "description": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
     "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
     "source_link": "https://news.ycombinator.com/item?id=48362515",
-    "engagement": "\ud83d\udc4d 113",
+    "engagement": "\ud83d\udc4d 175",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T20:55:15+00:00"
@@ -126,7 +137,7 @@
     "description": "AI Agent Guidelines for CS336 at Stanford",
     "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
     "source_link": "https://news.ycombinator.com/item?id=48359232",
-    "engagement": "\ud83d\udc4d 334",
+    "engagement": "\ud83d\udc4d 399",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T16:41:49+00:00"
@@ -148,7 +159,7 @@
     "description": "Florida sues OpenAI and Sam Altman over AI risks",
     "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
     "source_link": "https://news.ycombinator.com/item?id=48358667",
-    "engagement": "\ud83d\udc4d 183",
+    "engagement": "\ud83d\udc4d 222",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T16:02:04+00:00"
@@ -209,7 +220,7 @@
     "published": "2026-06-01T04:44:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
     "description": "<p>In this tutorial, we build a governed AI-agent workflow using Microsoft\u2019s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent\u2019s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-gov...",
     "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
@@ -231,7 +242,7 @@
     "published": "2026-05-31T15:30:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81\u00d7 Experiment-Throughput Gain",
     "description": "<p>Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81\u00d7 end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-co...",
     "link": "https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/",
@@ -242,7 +253,7 @@
     "published": "2026-05-31T02:04:01+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
     "description": "<p>In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/\">Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
     "link": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
@@ -251,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-31T01:28:04+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
-    "description": "<p>Genesis AI released Genesis World 1.0 on May 27, 2026 \u2014 a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-m...",
-    "link": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
-    "source_link": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-30T09:25:14+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
