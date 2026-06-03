@@ -1,22 +1,11 @@
 [
   {
-    "id": "hn-48377854",
-    "title": "More than 6 out of 10 people turn to AI for psychological support",
-    "description": "More than 6 out of 10 people turn to AI for psychological support",
-    "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-    "source_link": "https://news.ycombinator.com/item?id=48377854",
-    "engagement": "\ud83d\udc4d 61",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-02T23:55:04+00:00"
-  },
-  {
     "id": "hn-48377761",
     "title": "AI outperforms law professors in Stanford Law study",
     "description": "AI outperforms law professors in Stanford Law study",
     "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
     "source_link": "https://news.ycombinator.com/item?id=48377761",
-    "engagement": "\ud83d\udc4d 107",
+    "engagement": "\ud83d\udc4d 214",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-02T23:43:12+00:00"
@@ -121,23 +110,12 @@
     "published": "2026-06-02T18:00:00+00:00"
   },
   {
-    "id": "hn-48373675",
-    "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-    "description": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-    "link": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-    "source_link": "https://news.ycombinator.com/item?id=48373675",
-    "engagement": "\ud83d\udc4d 83",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-02T17:52:48+00:00"
-  },
-  {
     "id": "hn-48372628",
     "title": "Trump signs downsized AI order after weeks of reversals",
     "description": "Trump signs downsized AI order after weeks of reversals",
     "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
     "source_link": "https://news.ycombinator.com/item?id=48372628",
-    "engagement": "\ud83d\udc4d 179",
+    "engagement": "\ud83d\udc4d 206",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-02T16:40:16+00:00"
@@ -159,7 +137,7 @@
     "description": "How we index images for RAG",
     "link": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
     "source_link": "https://news.ycombinator.com/item?id=48372239",
-    "engagement": "\ud83d\udc4d 93",
+    "engagement": "\ud83d\udc4d 127",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-02T16:13:41+00:00"
@@ -198,28 +176,6 @@
     "published": "2026-06-02T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
-    "description": "<p>JetBrains releases Mellum2 under Apache 2.0 \u2014 a 12B MoE model trained on 10.6 trillion tokens for AI workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/\">JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
-    "source_link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-02T08:00:32+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp",
-    "description": "<p>We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/\">How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
-    "source_link": "https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-02T01:39:13+00:00"
-  },
-  {
     "id": "rss-HuggingFace Blog-0",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "description": "",
@@ -251,17 +207,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T04:44:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls",
-    "description": "<p>In this tutorial, we build a governed AI-agent workflow using Microsoft\u2019s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent\u2019s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-gov...",
-    "link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
-    "source_link": "https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-31T20:07:01+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",

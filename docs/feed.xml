@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 02:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:48:23 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,15 +209,6 @@
       <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls</title>
-      <link>https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-gov...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 31 May 2026 20:07:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action</title>
       <link>https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
@@ -240,26 +231,6 @@
       <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 01 Jun 2026 13:51:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp</title>
-      <link>https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/</link>
-      <description>&lt;p&gt;&lt;p&gt;We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/"&gt;How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 01:39:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</title>
-      <link>https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/</link>
-      <description>&lt;p&gt;&lt;p&gt;JetBrains releases Mellum2 under Apache 2.0 — a 12B MoE model trained on 10.6 trillion tokens for AI workflows.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/"&gt;JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 08:00:32 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How small businesses can leverage AI</title>
@@ -288,7 +259,7 @@
     <item>
       <title>[📰] How we index images for RAG</title>
       <link>https://www.kapa.ai/blog/how-we-index-images-for-rag</link>
-      <description>&lt;p&gt;How we index images for RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How we index images for RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48372239</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 16:13:41 +0000</pubDate>
@@ -304,18 +275,10 @@
     <item>
       <title>[📰] Trump signs downsized AI order after weeks of reversals</title>
       <link>https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389</link>
-      <description>&lt;p&gt;Trump signs downsized AI order after weeks of reversals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 179&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Trump signs downsized AI order after weeks of reversals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 206&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48372628</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 16:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Bringing Up DeepSeek-V4-Flash on AMD MI300X</title>
-      <link>https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/</link>
-      <description>&lt;p&gt;Bringing Up DeepSeek-V4-Flash on AMD MI300X&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 83&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48373675</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 17:52:48 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Microsoft offers devs a better way to control AI agent behavior</title>
@@ -398,18 +361,10 @@
     <item>
       <title>[📰] AI outperforms law professors in Stanford Law study</title>
       <link>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</link>
-      <description>&lt;p&gt;AI outperforms law professors in Stanford Law study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 107&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI outperforms law professors in Stanford Law study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 214&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48377761</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 23:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] More than 6 out of 10 people turn to AI for psychological support</title>
-      <link>https://www.axa.com/en/press/press-releases/2026-mind-health-report</link>
-      <description>&lt;p&gt;More than 6 out of 10 people turn to AI for psychological support&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48377854</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 23:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
