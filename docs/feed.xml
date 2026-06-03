@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 08:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:19:53 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -145,14 +145,6 @@
       <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook</title>
-      <link>https://huggingface.co/blog/Dharma-AI/specialization-beats-scale</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 22 May 2026 15:25:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Harness, Scaffold, and the AI Agent Terms Worth Getting Right</title>
       <link>https://huggingface.co/blog/agent-glossary</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
@@ -233,6 +225,26 @@
       <pubDate>Mon, 01 Jun 2026 13:51:18 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp</title>
+      <link>https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/</link>
+      <description>&lt;p&gt;&lt;p&gt;We build NVIDIA Apex from source, detect fused kernels, and benchmark FusedAdam, FusedLayerNorm, and torch.amp in Transformer training.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/01/how-to-speed-up-transformer-training-using-nvidia-apex-fusedadam-fusedlayernorm-and-native-torch-amp/"&gt;How to Speed Up Transformer Training Using NVIDIA Apex (FusedAdam, FusedLayerNorm) and Native torch.amp&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 02 Jun 2026 01:39:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</title>
+      <link>https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/</link>
+      <description>&lt;p&gt;&lt;p&gt;JetBrains releases Mellum2 under Apache 2.0 — a 12B MoE model trained on 10.6 trillion tokens for AI workflows.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/"&gt;JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 02 Jun 2026 08:00:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] How small businesses can leverage AI</title>
       <link>https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/</link>
       <description>&lt;p&gt;This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -249,54 +261,6 @@
       <pubDate>Tue, 02 Jun 2026 11:23:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI launches new Codex tools for white-collar work</title>
-      <link>https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/</link>
-      <description>&lt;p&gt;OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How we index images for RAG</title>
-      <link>https://www.kapa.ai/blog/how-we-index-images-for-rag</link>
-      <description>&lt;p&gt;How we index images for RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48372239</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 16:13:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Trump signs narrower executive order on AI oversight after industry objections </title>
-      <link>https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/</link>
-      <description>&lt;p&gt;After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 16:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Trump signs downsized AI order after weeks of reversals</title>
-      <link>https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389</link>
-      <description>&lt;p&gt;Trump signs downsized AI order after weeks of reversals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 206&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48372628</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 16:40:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Microsoft offers devs a better way to control AI agent behavior</title>
-      <link>https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/</link>
-      <description>&lt;p&gt;The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google rolls out fake call detection to protect against AI deepfake impersonation scams</title>
-      <link>https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/</link>
-      <description>&lt;p&gt;As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Android phones will soon be able to detect spoofed calls and impersonation scams</title>
       <link>https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/</link>
       <description>&lt;p&gt;
@@ -310,7 +274,7 @@
       <title>[📰] Microsoft launches Scout, an OpenClaw-inspired personal assistant</title>
       <link>https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/</link>
       <description>&lt;p&gt;Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 18:02:44 +0000</pubDate>
     </item>
@@ -318,7 +282,7 @@
       <title>[📰] Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI</title>
       <link>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</link>
       <description>&lt;p&gt;The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 18:16:53 +0000</pubDate>
     </item>
@@ -336,7 +300,7 @@
       <title>[📰] New Microsoft tool lets devs spin up AI behavior tests using text descriptions</title>
       <link>https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/</link>
       <description>&lt;p&gt;Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 19:02:21 +0000</pubDate>
     </item>
@@ -344,7 +308,7 @@
       <title>[📰] Uber caps employee AI spending after blowing through budget in 4 months</title>
       <link>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</link>
       <description>&lt;p&gt;Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 19:11:48 +0000</pubDate>
     </item>
@@ -361,10 +325,83 @@
     <item>
       <title>[📰] AI outperforms law professors in Stanford Law study</title>
       <link>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</link>
-      <description>&lt;p&gt;AI outperforms law professors in Stanford Law study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 214&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI outperforms law professors in Stanford Law study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 364&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48377761</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 23:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] U of T researchers demonstrate AI worm could target any online device</title>
+      <link>https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device</link>
+      <description>&lt;p&gt;U of T researchers demonstrate AI worm could target any online device&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 109&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48379664</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 03:47:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Leiden Declaration on Artificial Intelligence and Mathematics</title>
+      <link>https://leidendeclaration.ai/</link>
+      <description>&lt;p&gt;Leiden Declaration on Artificial Intelligence and Mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 91&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48380670</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 06:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation</title>
+      <link>https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/"&gt;NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 08:35:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building</title>
+      <link>https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building</link>
+      <description>&lt;p&gt;32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 186&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48383241</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 12:43:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
+      <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
+      <description>&lt;p&gt;The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 13:02:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta’s AI agent for WhatsApp Business is now available globally</title>
+      <link>https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/</link>
+      <description>&lt;p&gt;WhatsApp will charge businesses for using its AI agent based on token usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 13:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Publishers will be able to opt out of AI Search, thanks to new regulation</title>
+      <link>https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/</link>
+      <description>&lt;p&gt;U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 14:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked</title>
+      <link>https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/</link>
+      <description>&lt;p&gt;The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Amazon will show AI product images when you search for some reason</title>
+      <link>https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/</link>
+      <description>&lt;p&gt;Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 03 Jun 2026 15:50:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
