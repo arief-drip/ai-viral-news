@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 22:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 02:54:26 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,15 +209,6 @@
       <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain</title>
-      <link>https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-continual-learning-reporting-a-2-81x-experiment-throughput-gain/</link>
-      <description>&lt;p&gt;&lt;p&gt;Trajectory, working with UC Berkeley Sky Lab and Anyscale, built a concurrent multi-LoRA training stack for continual learning. It maps each RL experiment to a dedicated LoRA adapter on an always-hot engine, reporting a 2.81× end-to-end experiment-throughput gain over a single-tenant baseline with no reward regression. The code is open-sourced in NovaSky-AI/SkyRL.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/05/30/trajectory-releases-a-concurrent-multi-lora-training-stack-for-co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 31 May 2026 02:04:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] An Implementation of the Microsoft Agent Governance Toolkit for Safe AI Agent Tool Use with Policies, Approvals, Audit Logs, and Risk Controls</title>
       <link>https://www.marktechpost.com/2026/05/31/an-implementation-of-the-microsoft-agent-governance-toolkit-for-safe-ai-agent-tool-use-with-policies-approvals-audit-logs-and-risk-controls/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a governed AI-agent workflow using Microsoft’s Agent Governance Toolkit as the reference point. We create a Colab-ready implementation where agents do not directly execute tools; instead, every action first passes through a governance layer that checks the agent’s identity, trust score, risk tier, requested tool, action type, sensitivity level, and [&amp;#8230;]&lt;/p&gt;
@@ -279,28 +270,12 @@
       <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai</title>
-      <link>https://blog.adafruit.com/</link>
-      <description>&lt;p&gt;Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 571&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48368121</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 10:00:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Rehumanizing global health care with agentic AI</title>
       <link>https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/</link>
       <description>&lt;p&gt;The global health care sector is under increasing strain.&amp;#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 11:23:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries</title>
-      <link>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</link>
-      <description>&lt;p&gt;Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 14:44:21 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI launches new Codex tools for white-collar work</title>
@@ -313,7 +288,7 @@
     <item>
       <title>[📰] How we index images for RAG</title>
       <link>https://www.kapa.ai/blog/how-we-index-images-for-rag</link>
-      <description>&lt;p&gt;How we index images for RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 51&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How we index images for RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48372239</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 16:13:41 +0000</pubDate>
@@ -329,7 +304,7 @@
     <item>
       <title>[📰] Trump signs downsized AI order after weeks of reversals</title>
       <link>https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389</link>
-      <description>&lt;p&gt;Trump signs downsized AI order after weeks of reversals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 140&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Trump signs downsized AI order after weeks of reversals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 179&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48372628</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 16:40:16 +0000</pubDate>
@@ -337,18 +312,10 @@
     <item>
       <title>[📰] Bringing Up DeepSeek-V4-Flash on AMD MI300X</title>
       <link>https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/</link>
-      <description>&lt;p&gt;Bringing Up DeepSeek-V4-Flash on AMD MI300X&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 64&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bringing Up DeepSeek-V4-Flash on AMD MI300X&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 83&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48373675</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 17:52:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] GitHub Copilot App</title>
-      <link>https://github.com/features/preview/github-app</link>
-      <description>&lt;p&gt;GitHub Copilot App&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48373764</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 17:58:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Microsoft offers devs a better way to control AI agent behavior</title>
@@ -403,14 +370,6 @@
       <pubDate>Tue, 02 Jun 2026 18:19:06 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Microsoft announces Scout, an autonomous AI agent built on OpenClaw</title>
-      <link>https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html</link>
-      <description>&lt;p&gt;Microsoft announces Scout, an autonomous AI agent built on OpenClaw&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 71&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48374079</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 02 Jun 2026 18:19:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] New Microsoft tool lets devs spin up AI behavior tests using text descriptions</title>
       <link>https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/</link>
       <description>&lt;p&gt;Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -435,6 +394,22 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 02 Jun 2026 20:17:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI outperforms law professors in Stanford Law study</title>
+      <link>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</link>
+      <description>&lt;p&gt;AI outperforms law professors in Stanford Law study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 107&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48377761</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 02 Jun 2026 23:43:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] More than 6 out of 10 people turn to AI for psychological support</title>
+      <link>https://www.axa.com/en/press/press-releases/2026-mind-health-report</link>
+      <description>&lt;p&gt;More than 6 out of 10 people turn to AI for psychological support&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48377854</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 02 Jun 2026 23:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
