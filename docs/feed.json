@@ -1,11 +1,33 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+    "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "source_link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T10:50:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+    "description": "<p>Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primitives \u2014 Intelligence, Engine, Agents, Tools &#038; Memory, and Learning \u2014 and lands within 3.2 points of the best cloud model at roughly 800\u00d7 lower marginal API cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-a...",
+    "link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T06:23:10+00:00"
+  },
+  {
     "id": "hn-48392082",
     "title": "The ways we contain Claude across products",
     "description": "The ways we contain Claude across products",
     "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
     "source_link": "https://news.ycombinator.com/item?id=48392082",
-    "engagement": "\ud83d\udc4d 114",
+    "engagement": "\ud83d\udc4d 169",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-04T00:27:52+00:00"
@@ -16,7 +38,7 @@
     "description": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
     "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
     "source_link": "https://news.ycombinator.com/item?id=48392004",
-    "engagement": "\ud83d\udc4d 240",
+    "engagement": "\ud83d\udc4d 525",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-04T00:18:02+00:00"
@@ -66,6 +88,17 @@
     "published": "2026-06-03T19:07:42+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
+    "description": "<p>Gemma 4 12B feeds vision and audio straight into the LLM backbone, running locally under an Apache 2.0 license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/\">Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-03T18:46:41+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-1",
     "title": "Trump plan to test AI models has a problem\u2014US security teams were gutted by DOGE",
     "description": "\n                        Critics say Trump plan to test AI models is short-sighted, performative.\n                    ",
@@ -82,7 +115,7 @@
     "description": "Artificial intelligence is not conscious \u2013 Ted Chiang",
     "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
     "source_link": "https://news.ycombinator.com/item?id=48387270",
-    "engagement": "\ud83d\udc4d 392",
+    "engagement": "\ud83d\udc4d 565",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-03T17:51:37+00:00"
@@ -159,35 +192,24 @@
     "description": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
     "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
     "source_link": "https://news.ycombinator.com/item?id=48383056",
-    "engagement": "\ud83d\udc4d 464",
+    "engagement": "\ud83d\udc4d 545",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-03T12:25:14+00:00"
   },
   {
-    "id": "hn-48382052",
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
-    "description": "Mathematicians issue warning as AI rapidly gains ground",
-    "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "source_link": "https://news.ycombinator.com/item?id=48382052",
-    "engagement": "\ud83d\udc4d 226",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-2",
+    "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
+    "description": "<p>NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/\">NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation<...",
+    "link": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-03T10:05:48+00:00"
+    "published": "2026-06-03T08:35:44+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-    "description": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible. ",
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "source_link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-02T19:11:48+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Rehumanizing global health care with agentic AI",
     "description": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
@@ -198,7 +220,7 @@
     "published": "2026-06-02T11:23:34+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "How small businesses can leverage AI",
     "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
@@ -207,6 +229,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-02T09:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
+    "description": "<p>JetBrains releases Mellum2 under Apache 2.0 \u2014 a 12B MoE model trained on 10.6 trillion tokens for AI workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/\">JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "source_link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-02T08:00:32+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -231,18 +264,18 @@
     "published": "2026-06-01T13:31:56+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-1",
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "description": "",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "source_link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
+    "id": "hn-48345837",
+    "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+    "description": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+    "link": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+    "source_link": "https://news.ycombinator.com/item?id=48345837",
+    "engagement": "\ud83d\udc4d 76",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-01T04:44:55+00:00"
+    "published": "2026-05-31T14:12:48+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
     "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
@@ -253,7 +286,7 @@
     "published": "2026-05-29T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -264,7 +297,7 @@
     "published": "2026-05-28T09:51:11+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Rethinking organizational design in the age of agentic AI",
     "description": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
@@ -286,7 +319,7 @@
     "published": "2026-05-26T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "A reality check on the AI jobs hysteria",
     "description": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -297,7 +330,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "It\u2019s time to address the looming crisis in entry-level work",
     "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
@@ -308,18 +341,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-2",
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "description": "",
-    "link": "https://huggingface.co/blog/agent-glossary",
-    "source_link": "https://huggingface.co/blog/agent-glossary",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-25T00:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "Google I/O showed how the path for AI-driven science is shifting",
     "description": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
     "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
@@ -330,7 +352,7 @@
     "published": "2026-05-22T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-8",
+    "id": "rss-MIT Tech Review AI-9",
     "title": "Roundtables: Can AI Learn to Understand the World?",
     "description": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter&#8230;",
     "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
@@ -339,17 +361,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-21T20:41:05+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Scaling creativity in the age of AI",
-    "description": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-    "source_link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-21T19:16:43+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
