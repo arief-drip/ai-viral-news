@@ -1,6 +1,39 @@
 [
   {
+    "id": "hn-48403980",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "description": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "link": "https://github.com/anthropics/defending-code-reference-harness",
+    "source_link": "https://news.ycombinator.com/item?id=48403980",
+    "engagement": "\ud83d\udc4d 97",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T20:11:20+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple\u2019s Messages for Business platform. ",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "source_link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T19:20:58+00:00"
+  },
+  {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "description": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source_link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T18:57:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Meta rolls out a new AI creator assistant on Facebook",
     "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ",
     "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
@@ -11,15 +44,15 @@
     "published": "2026-06-04T16:32:48+00:00"
   },
   {
-    "id": "hn-48399358",
-    "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-    "description": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-    "link": "https://boxes.dev",
-    "source_link": "https://news.ycombinator.com/item?id=48399358",
-    "engagement": "\ud83d\udc4d 60",
+    "id": "hn-48400842",
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "description": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "source_link": "https://news.ycombinator.com/item?id=48400842",
+    "engagement": "\ud83d\udc4d 172",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T14:38:35+00:00"
+    "published": "2026-06-04T16:20:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -33,15 +66,15 @@
     "published": "2026-06-04T10:50:18+00:00"
   },
   {
-    "id": "hn-48392082",
-    "title": "The ways we contain Claude across products",
-    "description": "The ways we contain Claude across products",
-    "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
-    "source_link": "https://news.ycombinator.com/item?id=48392082",
-    "engagement": "\ud83d\udc4d 203",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+    "description": "<p>Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primitives \u2014 Intelligence, Engine, Agents, Tools &#038; Memory, and Learning \u2014 and lands within 3.2 points of the best cloud model at roughly 800\u00d7 lower marginal API cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-a...",
+    "link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T00:27:52+00:00"
+    "published": "2026-06-04T06:23:10+00:00"
   },
   {
     "id": "hn-48392004",
@@ -49,13 +82,13 @@
     "description": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
     "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
     "source_link": "https://news.ycombinator.com/item?id=48392004",
-    "engagement": "\ud83d\udc4d 599",
+    "engagement": "\ud83d\udc4d 698",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-04T00:18:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
     "description": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
     "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
@@ -66,18 +99,7 @@
     "published": "2026-06-03T22:56:51+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "description": "\n                        Google must change AI Overviews after claiming users don't want \"lots of sources.\"\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-03T20:26:51+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Alphabet\u2019s record-breaking $85B raise for Google\u2019s AI business is a helluva good signal",
     "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. ",
     "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
@@ -88,7 +110,7 @@
     "published": "2026-06-03T19:38:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Google\u2019s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
     "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
     "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
@@ -99,18 +121,29 @@
     "published": "2026-06-03T19:07:42+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
+    "description": "<p>Gemma 4 12B feeds vision and audio straight into the LLM backbone, running locally under an Apache 2.0 license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/\">Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-03T18:46:41+00:00"
+  },
+  {
     "id": "hn-48387270",
     "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
     "description": "Artificial intelligence is not conscious \u2013 Ted Chiang",
     "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
     "source_link": "https://news.ycombinator.com/item?id=48387270",
-    "engagement": "\ud83d\udc4d 656",
+    "engagement": "\ud83d\udc4d 711",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-03T17:51:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Amazon will show AI product images when you search for some reason",
     "description": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
     "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
@@ -121,37 +154,15 @@
     "published": "2026-06-03T15:50:26+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "description": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "source_link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-2",
+    "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
+    "description": "<p>NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/\">NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation<...",
+    "link": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+    "source_link": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-03T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-    "description": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally. ",
-    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "source_link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-03T14:58:33+00:00"
-  },
-  {
-    "id": "hn-48383056",
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "description": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "source_link": "https://news.ycombinator.com/item?id=48383056",
-    "engagement": "\ud83d\udc4d 579",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-03T12:25:14+00:00"
+    "published": "2026-06-03T08:35:44+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -176,7 +187,18 @@
     "published": "2026-06-02T09:00:00+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-MarkTechPost-3",
+    "title": "JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines",
+    "description": "<p>JetBrains releases Mellum2 under Apache 2.0 \u2014 a 12B MoE model trained on 10.6 trillion tokens for AI workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/\">JetBrains Releases Mellum2: A 12B MoE Model for Fast, Specialized Tasks in Multi-Model AI Pipelines</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "source_link": "https://www.marktechpost.com/2026/06/02/jetbrains-releases-mellum2-a-12b-moe-model-for-fast-specialized-tasks-in-multi-model-ai-pipelines/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-02T08:00:32+00:00"
+  },
+  {
+    "id": "rss-HuggingFace Blog-1",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "description": "",
     "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
