@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products. ",
+    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "source_link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T18:57:20+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "description": "\n                        SpaceX won\u2019t get easy access to billions of dollars from passive investors.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T18:45:20+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "The most interesting startups right now want to get you off your phone",
     "description": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel...",
     "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
@@ -11,7 +33,7 @@
     "published": "2026-06-05T17:17:06+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
     "description": "\n                        The Air succeeds as a minimalist, reliable fitness tracker, but Google's AI Health Coach feels unnecessary.\n                    ",
     "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
@@ -22,7 +44,7 @@
     "published": "2026-06-05T15:40:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
     "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
     "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
@@ -33,7 +55,18 @@
     "published": "2026-06-05T14:49:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
+    "title": "The \u2018together tech\u2019 wave might be the most intriguing startup bet of 2026",
+    "description": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel...",
+    "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "source_link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T14:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
     "description": "The Australian data center operator plans to set up 5GW of capacity in India.",
     "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
@@ -42,6 +75,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-05T13:03:10+00:00"
+  },
+  {
+    "id": "hn-48411635",
+    "title": "Did Claude increase bugs in rsync?",
+    "description": "Did Claude increase bugs in rsync?",
+    "link": "https://alexispurslane.github.io/rsync-analysis/",
+    "source_link": "https://news.ycombinator.com/item?id=48411635",
+    "engagement": "\ud83d\udc4d 192",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T12:43:33+00:00"
+  },
+  {
+    "id": "hn-48409955",
+    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "description": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "link": "https://github.com/zdk/lowfat",
+    "source_link": "https://news.ycombinator.com/item?id=48409955",
+    "engagement": "\ud83d\udc4d 83",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T09:10:42+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -55,18 +110,7 @@
     "published": "2026-06-05T09:00:00+00:00"
   },
   {
-    "id": "hn-48408442",
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
-    "description": "Fine-tuning an LLM to write docs like it's 1995",
-    "link": "https://passo.uno/fine-tuning-docs-llm/",
-    "source_link": "https://news.ycombinator.com/item?id=48408442",
-    "engagement": "\ud83d\udc4d 166",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-05T05:46:06+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
     "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. ",
     "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
@@ -77,7 +121,7 @@
     "published": "2026-06-04T22:43:26+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
     "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
     "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
@@ -88,7 +132,7 @@
     "published": "2026-06-04T22:29:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
     "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry.\u00a0Secure your spot today.",
     "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
@@ -99,37 +143,15 @@
     "published": "2026-06-04T21:30:00+00:00"
   },
   {
-    "id": "hn-48403980",
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "description": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "link": "https://github.com/anthropics/defending-code-reference-harness",
-    "source_link": "https://news.ycombinator.com/item?id=48403980",
-    "engagement": "\ud83d\udc4d 502",
-    "source": "Hacker News",
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "description": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source_link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T20:11:20+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple\u2019s Messages for Business platform. ",
-    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "source_link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T19:20:58+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "description": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\" ",
-    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "source_link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T16:32:48+00:00"
+    "published": "2026-06-04T18:57:45+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -163,6 +185,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-02T09:00:00+00:00"
+  },
+  {
+    "id": "rss-HuggingFace Blog-1",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "description": "",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source_link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-01T13:51:18+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
