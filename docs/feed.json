@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
+    "description": "<p>UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping \u2014 candidate pool, importance-tagged curated set, evidence graph, verification records \u2014 while the policy decides what to search, curate, verify, and when to stop. It reaches 0.730 average curated recall across eight benchmarks, beating the next open subagent by 11.4 points and trailing only Opus-4.6. Weights and harness code are pu...",
+    "link": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/",
+    "source_link": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-07T06:25:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors",
+    "description": "<p>This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagged outputs, and extends garak with a custom probe and detector. It closes by exporting results in AVID format for structured vulnerability</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
+    "link": "https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/",
+    "source_link": "https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-07T05:11:09+00:00"
+  },
+  {
+    "id": "hn-48431981",
+    "title": "I design with Claude more than Figma now",
+    "description": "I design with Claude more than Figma now",
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "source_link": "https://news.ycombinator.com/item?id=48431981",
+    "engagement": "\ud83d\udc4d 94",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-07T05:04:24+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Google\u2019s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
+    "description": "<p>Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/\">Google&#8217;s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
+    "source_link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-06T22:07:34+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
@@ -16,7 +60,7 @@
     "description": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
     "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
     "source_link": "https://news.ycombinator.com/item?id=48427643",
-    "engagement": "\ud83d\udc4d 451",
+    "engagement": "\ud83d\udc4d 558",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-06T18:35:27+00:00"
@@ -42,6 +86,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-06T16:17:21+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents",
+    "description": "<p>Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/\">Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
+    "source_link": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-06T09:11:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
+    "description": "<p>Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/\">A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</...",
+    "link": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/",
+    "source_link": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T22:32:51+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -108,6 +174,39 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-05T13:03:10+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes",
+    "description": "<p>NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/\">NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/",
+    "source_link": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T10:23:12+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
+    "description": "<p>Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/\">Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing</a> ...",
+    "link": "https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/",
+    "source_link": "https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T09:44:39+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-7",
+    "title": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
+    "description": "<p>A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/\">Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/",
+    "source_link": "https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-05T09:04:55+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
