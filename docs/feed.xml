@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 21:45:32 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -230,33 +230,9 @@
       <description>&lt;p&gt;&lt;p&gt;Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/"&gt;Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Sat, 06 Jun 2026 09:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Trump administration might take an equity stake in OpenAI</title>
-      <link>https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/</link>
-      <description>&lt;p&gt;President Donald Trump said he's discussing deals "where the American people can benefit from the success of AI."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 06 Jun 2026 16:17:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sriram Krishnan is leaving his role as White House AI advisor</title>
-      <link>https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/</link>
-      <description>&lt;p&gt;Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 06 Jun 2026 17:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</title>
-      <link>https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/</link>
-      <description>&lt;p&gt;Even with Lockdown Mode, ChatGPT could be vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 06 Jun 2026 20:32:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal</title>
@@ -264,7 +240,7 @@
       <description>&lt;p&gt;&lt;p&gt;Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/"&gt;Google&amp;#8217;s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Sat, 06 Jun 2026 22:07:34 +0000</pubDate>
     </item>
@@ -273,7 +249,7 @@
       <link>https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/</link>
       <description>&lt;p&gt;&lt;p&gt;This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagged outputs, and extends garak with a custom probe and detector. It closes by exporting results in AVID format for structured vulnerability&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 05:11:09 +0000</pubDate>
     </item>
@@ -281,7 +257,7 @@
       <title>[📰] Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b</title>
       <link>https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/</link>
       <description>&lt;p&gt;&lt;p&gt;UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping — candidate pool, importance-tagged curated set, evidence graph, verification records — while the policy decides what to search, curate, verify, and when to stop. It reaches 0.730 average curated recall across eight benchmarks, beating the next open subagent by 11.4 points and trailing only Opus-4.6. Weights and harness code are pu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 06:25:18 +0000</pubDate>
     </item>
@@ -291,43 +267,16 @@
       <description>&lt;p&gt;&lt;p&gt;Low-code and no-code AI platforms now turn a prompt into a working app, agent, or model. This guide compares 21 tools across app builders, automation, AI agents, and machine learning platforms, each linked to its official site.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/07/best-21-low-code-and-no-code-ai-tools-in-2026/"&gt;Best 21 Low-Code and No-Code AI Tools in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 08:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] School shooting survivor sues AI gun detection firm after system failed to spot weapon</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/</link>
-      <description>&lt;p&gt;
-                        How accurate does an AI system need to be?
-
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 07 Jun 2026 11:08:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI is still working on that ‘super app’</title>
-      <link>https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/</link>
-      <description>&lt;p&gt;"Chat is dead" — at least, according to a senior OpenAI employee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 07 Jun 2026 16:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Is this the dawn of the Tokenpocalypse?</title>
-      <link>https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/</link>
-      <description>&lt;p&gt;We're likely to see more price increases as the big AI companies plan to go public.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 07 Jun 2026 20:26:13 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google Research Adds Agentic RAG to Gemini Enterprise Agent Platform with a Sufficient Context Agent for multi-hop queries</title>
       <link>https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Research details an agentic RAG framework in Gemini Enterprise Agent Platform. A Sufficient Context Agent re-searches until multi-hop, multi-source queries have enough grounding to answer. The framework raises factuality accuracy up to 34% versus standard RAG.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/"&gt;Google Research Adds Agentic RAG to Gem...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 08:25:51 +0000</pubDate>
     </item>
@@ -336,19 +285,9 @@
       <link>https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-ana...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 08:56:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The weather and climate science AI revolution isn’t revolutionary</title>
-      <link>https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/</link>
-      <description>&lt;p&gt;
-                        Machine learning has its limits—how is it being used?
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 08 Jun 2026 11:00:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing</title>
@@ -359,46 +298,155 @@
       <pubDate>Mon, 08 Jun 2026 12:31:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] "Chat is dead": OpenAI preps overhaul of ChatGPT</title>
-      <link>https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/</link>
-      <description>&lt;p&gt;
-                        OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 08 Jun 2026 13:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI Is Slowing Down</title>
+      <title>[📰] AI is slowing down</title>
       <link>https://www.wheresyoured.at/ai-is-slowing-down/</link>
-      <description>&lt;p&gt;AI Is Slowing Down&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 88&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI is slowing down&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 281&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48446893</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 15:46:37 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Amazon now lets you design custom merch using AI</title>
-      <link>https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/</link>
-      <description>&lt;p&gt;A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <title>[📰] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust</title>
+      <link>https://gitdot.io/</link>
+      <description>&lt;p&gt;Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48447806</guid>
       <category>AI News</category>
-      <pubDate>Mon, 08 Jun 2026 15:49:12 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 16:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Siri AI</title>
+      <link>https://www.apple.com/apple-intelligence/</link>
+      <description>&lt;p&gt;Siri AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 251&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48449084</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:17:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ask HN: What are tools you have made for yourself since the advent of AI?</title>
+      <link>https://news.ycombinator.com/item?id=48449187</link>
+      <description>&lt;p&gt;Ask HN: What are tools you have made for yourself since the advent of AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 63&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48449187</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] For the 2nd time in weeks, Microsoft packages laced with credential stealer</title>
+      <link>https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/</link>
+      <description>&lt;p&gt;
+                        73 packages run self-replicating stealer as soon as they're opened by an AI agent.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple’s Photos app is getting new AI editing features</title>
+      <link>https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/</link>
+      <description>&lt;p&gt;A new spatial "Reframe" feature will let users use AI to adjust perspectives. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple’s Image Playground doesn’t suck anymore</title>
+      <link>https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/</link>
+      <description>&lt;p&gt;Apple's AI image generator is getting a makeover that could make it more competitive.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple will let you build workflows using AI in its new Shortcuts app</title>
+      <link>https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/</link>
+      <description>&lt;p&gt;Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple Core AI Framework</title>
+      <link>https://developer.apple.com/documentation/coreai/</link>
+      <description>&lt;p&gt;Apple Core AI Framework&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48449665</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple just taught your iPhone to finish your sentences, your photos, and your workflows</title>
+      <link>https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/</link>
+      <description>&lt;p&gt;Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:48:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset</title>
+      <link>https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 3.5 and Antigravity come to Google NotebookLM</title>
+      <link>https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/</link>
+      <description>&lt;p&gt;
+                        NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 19:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple reveals new AI architecture built around Google Gemini models</title>
+      <link>https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/</link>
+      <description>&lt;p&gt;Apple reveals new AI architecture built around Google Gemini models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 245&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48450142</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 19:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Say hi to "Siri AI"—Apple announces new, more "conversational" voice assistant</title>
+      <link>https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/</link>
+      <description>&lt;p&gt;
+                        New features coming this fall alongside two-tiered, Google-powered AI model overhaul.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 19:30:05 +0000</pubDate>
     </item>
     <item>
       <title>[📰] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more</title>
       <link>https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/</link>
-      <description>&lt;p&gt;Apple&amp;#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year&amp;#8217;s event is particularly notable for a couple things. It marks CEO Tim Cook&amp;#8217;s last with the company, [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <description>&lt;p&gt;Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
-      <pubDate>Mon, 08 Jun 2026 17:42:26 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 19:41:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Apple’s long-awaited AI Siri overhaul is finally here</title>
-      <link>https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/</link>
-      <description>&lt;p&gt;The idea behind the new "Siri AI" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <title>[📰] Apple bets cheaper AI will woo small developers</title>
+      <link>https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/</link>
+      <description>&lt;p&gt;As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 20:53:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple plays catch-up at WWDC</title>
+      <link>https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/</link>
+      <description>&lt;p&gt;Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 21:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Following Anthropic, OpenAI files confidentially for IPO</title>
+      <link>https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/</link>
+      <description>&lt;p&gt;The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
-      <pubDate>Mon, 08 Jun 2026 17:56:21 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:29:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
