@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "description": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "source_link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T13:47:25+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Apple says its AI is still private, even when it's running on Google's servers",
+    "description": "\n                        Some models run in Google's cloud, but without giving Google any kind of access.\n                    ",
+    "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "source_link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T13:05:49+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "description": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
+    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "source_link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T10:20:06+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Five things you need to know about AI",
     "description": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
     "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
@@ -11,12 +44,23 @@
     "published": "2026-06-09T09:16:45+00:00"
   },
   {
+    "id": "hn-48458586",
+    "title": "Cleaning up after AI rockstar developers",
+    "description": "Cleaning up after AI rockstar developers",
+    "link": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "source_link": "https://news.ycombinator.com/item?id=48458586",
+    "engagement": "\ud83d\udc4d 161",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T09:10:10+00:00"
+  },
+  {
     "id": "hn-48457830",
     "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
     "description": "Microsoft's open source tools were hacked to steal passwords of AI developers",
     "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
     "source_link": "https://news.ycombinator.com/item?id=48457830",
-    "engagement": "\ud83d\udc4d 185",
+    "engagement": "\ud83d\udc4d 339",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-09T07:33:16+00:00"
@@ -33,7 +77,7 @@
     "published": "2026-06-09T05:53:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
     "description": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race? ",
     "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
@@ -44,7 +88,7 @@
     "published": "2026-06-09T01:56:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says",
     "description": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
     "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
@@ -55,7 +99,7 @@
     "published": "2026-06-08T22:41:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Apple\u2019s WWDC AI demos looked more real after $250M false ad settlement",
     "description": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
     "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
@@ -66,7 +110,7 @@
     "published": "2026-06-08T22:39:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI files confidentially for IPO, following Anthropic",
     "description": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
     "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
@@ -77,7 +121,7 @@
     "published": "2026-06-08T21:29:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Apple plays catch-up at WWDC",
     "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
     "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
@@ -88,7 +132,7 @@
     "published": "2026-06-08T21:15:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Apple bets cheaper AI will woo small developers",
     "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
     "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
@@ -99,18 +143,7 @@
     "published": "2026-06-08T20:53:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "description": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI. ",
-    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "source_link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T19:41:32+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Say hi to \"Siri AI\"\u2014Apple announces new, more \"conversational\" voice assistant",
     "description": "\n                        New features coming this fall alongside two-tiered, Google-powered AI model overhaul.\n                    ",
     "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
@@ -126,13 +159,13 @@
     "description": "Apple reveals new AI architecture built around Google Gemini models",
     "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
     "source_link": "https://news.ycombinator.com/item?id=48450142",
-    "engagement": "\ud83d\udc4d 610",
+    "engagement": "\ud83d\udc4d 664",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T19:14:47+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
     "description": "\n                        NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now. \n                    ",
     "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
@@ -154,59 +187,15 @@
     "published": "2026-06-08T18:57:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-    "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
-    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "source_link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T18:48:45+00:00"
-  },
-  {
     "id": "hn-48449665",
     "title": "Apple Core AI Framework",
     "description": "Apple Core AI Framework",
     "link": "https://developer.apple.com/documentation/coreai/",
     "source_link": "https://news.ycombinator.com/item?id=48449665",
-    "engagement": "\ud83d\udc4d 307",
+    "engagement": "\ud83d\udc4d 332",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T18:47:38+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-    "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "source_link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T18:45:12+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-    "description": "\n                        73 packages run self-replicating stealer as soon as they're opened by an AI agent.\n                    ",
-    "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-    "source_link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T18:34:23+00:00"
-  },
-  {
-    "id": "hn-48449187",
-    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "description": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "link": "https://news.ycombinator.com/item?id=48449187",
-    "source_link": "https://news.ycombinator.com/item?id=48449187",
-    "engagement": "\ud83d\udc4d 311",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T18:22:39+00:00"
   },
   {
     "id": "hn-48449084",
@@ -214,7 +203,7 @@
     "description": "Siri AI",
     "link": "https://www.apple.com/apple-intelligence/",
     "source_link": "https://news.ycombinator.com/item?id=48449084",
-    "engagement": "\ud83d\udc4d 592",
+    "engagement": "\ud83d\udc4d 627",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T18:17:53+00:00"
@@ -286,7 +275,7 @@
     "published": "2026-06-07T05:11:09+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
     "description": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
     "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
@@ -308,7 +297,7 @@
     "published": "2026-06-04T18:57:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
     "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
@@ -319,7 +308,7 @@
     "published": "2026-06-04T10:50:18+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Rehumanizing global health care with agentic AI",
     "description": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
@@ -330,7 +319,7 @@
     "published": "2026-06-02T11:23:34+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "How small businesses can leverage AI",
     "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
@@ -363,7 +352,7 @@
     "published": "2026-06-01T13:31:56+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
     "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
@@ -374,7 +363,7 @@
     "published": "2026-05-29T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -385,7 +374,7 @@
     "published": "2026-05-28T09:51:11+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "Rethinking organizational design in the age of agentic AI",
     "description": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
@@ -407,22 +396,11 @@
     "published": "2026-05-26T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-8",
+    "id": "rss-MIT Tech Review AI-9",
     "title": "A reality check on the AI jobs hysteria",
     "description": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
     "source_link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "It\u2019s time to address the looming crisis in entry-level work",
-    "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "source_link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
     "engagement": "\ud83d\udce1 MIT Tech Review AI",
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
