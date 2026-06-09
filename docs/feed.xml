@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 02:13:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:38:45 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,22 +225,12 @@
       <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents</title>
-      <link>https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/"&gt;Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 06 Jun 2026 09:11:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal</title>
       <link>https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/</link>
       <description>&lt;p&gt;&lt;p&gt;Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/"&gt;Google&amp;#8217;s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Sat, 06 Jun 2026 22:07:34 +0000</pubDate>
     </item>
@@ -249,7 +239,7 @@
       <link>https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/</link>
       <description>&lt;p&gt;&lt;p&gt;This tutorial walks through NVIDIA garak as an end-to-end framework for defensive LLM red-teaming. It covers setup, plugin discovery, dry runs, real-model scans on a Hugging Face generator, and multi-probe evaluations. The workflow then analyzes safety scores and attack success rates, inspects flagged outputs, and extends garak with a custom probe and detector. It closes by exporting results in AVID format for structured vulnerability&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 05:11:09 +0000</pubDate>
     </item>
@@ -257,7 +247,7 @@
       <title>[📰] Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b</title>
       <link>https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/</link>
       <description>&lt;p&gt;&lt;p&gt;UIUC and Chroma's Harness-1 is a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness. The harness maintains the bookkeeping — candidate pool, importance-tagged curated set, evidence graph, verification records — while the policy decides what to search, curate, verify, and when to stop. It reaches 0.730 average curated recall across eight benchmarks, beating the next open subagent by 11.4 points and trailing only Opus-4.6. Weights and harness code are pu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 06:25:18 +0000</pubDate>
     </item>
@@ -267,7 +257,7 @@
       <description>&lt;p&gt;&lt;p&gt;Low-code and no-code AI platforms now turn a prompt into a working app, agent, or model. This guide compares 21 tools across app builders, automation, AI agents, and machine learning platforms, each linked to its official site.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/07/best-21-low-code-and-no-code-ai-tools-in-2026/"&gt;Best 21 Low-Code and No-Code AI Tools in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 07 Jun 2026 08:40:25 +0000</pubDate>
     </item>
@@ -276,7 +266,7 @@
       <link>https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Research details an agentic RAG framework in Gemini Enterprise Agent Platform. A Sufficient Context Agent re-searches until multi-hop, multi-source queries have enough grounding to answer. The framework raises factuality accuracy up to 34% versus standard RAG.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/google-research-adds-agentic-rag-to-gemini-enterprise-agent-platform-with-a-sufficient-context-agent-for-multi-hop-queries/"&gt;Google Research Adds Agentic RAG to Gem...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 08:25:51 +0000</pubDate>
     </item>
@@ -285,7 +275,7 @@
       <link>https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-ana...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 08:56:49 +0000</pubDate>
     </item>
@@ -300,7 +290,7 @@
     <item>
       <title>[📰] AI is slowing down</title>
       <link>https://www.wheresyoured.at/ai-is-slowing-down/</link>
-      <description>&lt;p&gt;AI is slowing down&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 400&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI is slowing down&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 509&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48446893</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 15:46:37 +0000</pubDate>
@@ -308,7 +298,7 @@
     <item>
       <title>[📰] Siri AI</title>
       <link>https://www.apple.com/apple-intelligence/</link>
-      <description>&lt;p&gt;Siri AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 419&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Siri AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 540&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48449084</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 18:17:53 +0000</pubDate>
@@ -316,7 +306,7 @@
     <item>
       <title>[📰] Ask HN: What are tools you have made for yourself since the advent of AI?</title>
       <link>https://news.ycombinator.com/item?id=48449187</link>
-      <description>&lt;p&gt;Ask HN: What are tools you have made for yourself since the advent of AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 152&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ask HN: What are tools you have made for yourself since the advent of AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 266&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48449187</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 18:22:39 +0000</pubDate>
@@ -342,7 +332,7 @@
     <item>
       <title>[📰] Apple Core AI Framework</title>
       <link>https://developer.apple.com/documentation/coreai/</link>
-      <description>&lt;p&gt;Apple Core AI Framework&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 201&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apple Core AI Framework&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 270&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48449665</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 18:47:38 +0000</pubDate>
@@ -360,7 +350,7 @@
       <link>https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 18:57:19 +0000</pubDate>
     </item>
@@ -377,7 +367,7 @@
     <item>
       <title>[📰] Apple reveals new AI architecture built around Google Gemini models</title>
       <link>https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/</link>
-      <description>&lt;p&gt;Apple reveals new AI architecture built around Google Gemini models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 344&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apple reveals new AI architecture built around Google Gemini models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 537&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48450142</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 19:14:47 +0000</pubDate>
@@ -407,6 +397,14 @@
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 08 Jun 2026 20:53:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple bets cheaper AI will woo small developers</title>
+      <link>https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/</link>
+      <description>&lt;p&gt;Apple bets cheaper AI will woo small developers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48452000</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 21:02:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Apple plays catch-up at WWDC</title>
@@ -447,6 +445,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 09 Jun 2026 01:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search</title>
+      <link>https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/</link>
+      <description>&lt;p&gt;&lt;p&gt;A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/"&gt;A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 09 Jun 2026 05:53:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
