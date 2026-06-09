@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Five things you need to know about AI",
+    "description": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "source_link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T09:16:45+00:00"
+  },
+  {
+    "id": "hn-48457830",
+    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "description": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "source_link": "https://news.ycombinator.com/item?id=48457830",
+    "engagement": "\ud83d\udc4d 185",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-09T07:33:16+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
     "description": "<p>A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/\">A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work...",
@@ -66,17 +88,6 @@
     "published": "2026-06-08T21:15:42+00:00"
   },
   {
-    "id": "hn-48452000",
-    "title": "Apple bets cheaper AI will woo small developers",
-    "description": "Apple bets cheaper AI will woo small developers",
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "source_link": "https://news.ycombinator.com/item?id=48452000",
-    "engagement": "\ud83d\udc4d 52",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T21:02:00+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-5",
     "title": "Apple bets cheaper AI will woo small developers",
     "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
@@ -115,7 +126,7 @@
     "description": "Apple reveals new AI architecture built around Google Gemini models",
     "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
     "source_link": "https://news.ycombinator.com/item?id=48450142",
-    "engagement": "\ud83d\udc4d 537",
+    "engagement": "\ud83d\udc4d 610",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T19:14:47+00:00"
@@ -159,7 +170,7 @@
     "description": "Apple Core AI Framework",
     "link": "https://developer.apple.com/documentation/coreai/",
     "source_link": "https://news.ycombinator.com/item?id=48449665",
-    "engagement": "\ud83d\udc4d 270",
+    "engagement": "\ud83d\udc4d 307",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T18:47:38+00:00"
@@ -192,7 +203,7 @@
     "description": "Ask HN: What are tools you have made for yourself since the advent of AI?",
     "link": "https://news.ycombinator.com/item?id=48449187",
     "source_link": "https://news.ycombinator.com/item?id=48449187",
-    "engagement": "\ud83d\udc4d 266",
+    "engagement": "\ud83d\udc4d 311",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T18:22:39+00:00"
@@ -203,21 +214,10 @@
     "description": "Siri AI",
     "link": "https://www.apple.com/apple-intelligence/",
     "source_link": "https://news.ycombinator.com/item?id=48449084",
-    "engagement": "\ud83d\udc4d 540",
+    "engagement": "\ud83d\udc4d 592",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-08T18:17:53+00:00"
-  },
-  {
-    "id": "hn-48446893",
-    "title": "AI is slowing down",
-    "description": "AI is slowing down",
-    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "source_link": "https://news.ycombinator.com/item?id=48446893",
-    "engagement": "\ud83d\udc4d 509",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T15:46:37+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -286,18 +286,7 @@
     "published": "2026-06-07T05:11:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
-    "title": "Google\u2019s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal",
-    "description": "<p>Google released the Colab CLI, letting developers and AI agents run local code on remote Colab GPU and TPU runtime</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/\">Google&#8217;s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
-    "source_link": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-06T22:07:34+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
     "description": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
     "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
@@ -319,7 +308,7 @@
     "published": "2026-06-04T18:57:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
     "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
@@ -330,7 +319,7 @@
     "published": "2026-06-04T10:50:18+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Rehumanizing global health care with agentic AI",
     "description": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
@@ -341,7 +330,7 @@
     "published": "2026-06-02T11:23:34+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "How small businesses can leverage AI",
     "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
@@ -374,7 +363,7 @@
     "published": "2026-06-01T13:31:56+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
     "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
@@ -385,7 +374,7 @@
     "published": "2026-05-29T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -396,7 +385,7 @@
     "published": "2026-05-28T09:51:11+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Rethinking organizational design in the age of agentic AI",
     "description": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
@@ -418,7 +407,7 @@
     "published": "2026-05-26T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "A reality check on the AI jobs hysteria",
     "description": "Haven\u2019t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst\u2014or tech journalist\u2014and&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -429,7 +418,7 @@
     "published": "2026-05-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-8",
+    "id": "rss-MIT Tech Review AI-9",
     "title": "It\u2019s time to address the looming crisis in entry-level work",
     "description": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surface: the quiet weakening of the first rung of the career&#8230;",
     "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
@@ -438,17 +427,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-26T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "description": "During Tuesday\u2019s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently \u201cstanding in the foothills of the singularity.\u201d It was a striking statement\u2014the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "source_link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-22T10:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-3",
