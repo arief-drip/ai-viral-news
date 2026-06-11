@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 21:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:46:51 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,6 +209,24 @@
       <pubDate>Mon, 08 Jun 2026 12:31:32 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset</title>
+      <link>https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 08 Jun 2026 18:57:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search</title>
+      <link>https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/</link>
+      <description>&lt;p&gt;&lt;p&gt;A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/"&gt;A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 09 Jun 2026 05:53:36 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Five things you need to know about AI</title>
       <link>https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/</link>
       <description>&lt;p&gt;At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -225,34 +243,53 @@
       <pubDate>Tue, 09 Jun 2026 10:20:06 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta signs first AI data center deal in India with Reliance</title>
-      <link>https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/</link>
-      <description>&lt;p&gt;The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <title>[📰] Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API</title>
+      <link>https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/</link>
+      <description>&lt;p&gt;&lt;p&gt;Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/"&gt;Google Releases Gemini 3.5 Live ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
-      <pubDate>Wed, 10 Jun 2026 07:05:26 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 17:24:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier</title>
+      <link>https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/</link>
+      <description>&lt;p&gt;&lt;p&gt;Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/"&gt;Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 08:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared</title>
+      <link>https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/"&gt;Top AI Coding Agents and Development Platform...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 10:24:17 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Jedify raises $24M to help companies arm AI agents with context on their business</title>
       <link>https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/</link>
       <description>&lt;p&gt;The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 13:33:09 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A €0.01 bank transfer could compromise a banking AI agent</title>
-      <link>https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/</link>
-      <description>&lt;p&gt;A €0.01 bank transfer could compromise a banking AI agent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 146&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48476136</guid>
+      <title>[📰] Notes on DeepSeek</title>
+      <link>https://news.ycombinator.com/item?id=48476474</link>
+      <description>&lt;p&gt;Notes on DeepSeek&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48476474</guid>
       <category>AI News</category>
-      <pubDate>Wed, 10 Jun 2026 13:39:11 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 14:03:40 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Warner Music acquires AI attribution startup Sureel AI</title>
       <link>https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/</link>
       <description>&lt;p&gt;Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 14:31:30 +0000</pubDate>
     </item>
@@ -260,14 +297,14 @@
       <title>[📰] Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in</title>
       <link>https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/</link>
       <description>&lt;p&gt;AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Apache Burr: Build reliable AI agents and applications</title>
       <link>https://burr.apache.org/</link>
-      <description>&lt;p&gt;Apache Burr: Build reliable AI agents and applications&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 145&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apache Burr: Build reliable AI agents and applications&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 177&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48477400</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 15:01:06 +0000</pubDate>
@@ -276,7 +313,7 @@
       <title>[📰] How memory tools can make AI models worse</title>
       <link>https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/</link>
       <description>&lt;p&gt;New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 16:11:08 +0000</pubDate>
     </item>
@@ -284,14 +321,14 @@
       <title>[📰] ‘AI-pilled’ firms spend $7,500 per employee each month on AI</title>
       <link>https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/</link>
       <description>&lt;p&gt;The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 17:07:35 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use</title>
       <link>https://github.com/anthropics/claude-code/issues/29045</link>
-      <description>&lt;p&gt;Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 275&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 351&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48479452</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 17:11:56 +0000</pubDate>
@@ -302,9 +339,19 @@
       <description>&lt;p&gt;
                         Google AI Overview court loss in Germany could spell doom for AI search industry.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 17:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</title>
+      <link>https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/</link>
+      <description>&lt;p&gt;&lt;p&gt;DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/"&gt;Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 18:50:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster</title>
@@ -312,7 +359,7 @@
       <description>&lt;p&gt;
                         Diffusion AI is most common in image generation, but it can make text outputs much faster. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 19:29:21 +0000</pubDate>
     </item>
@@ -320,9 +367,43 @@
       <title>[📰] Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues</title>
       <link>https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/</link>
       <description>&lt;p&gt;Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 10 Jun 2026 20:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Man sues Florida cops over arrest spurred by "93% match" in facial recognition</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/</link>
+      <description>&lt;p&gt;
+                        Lawsuit: "Police let an error-prone AI system stand in for an investigation."
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 21:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison</title>
+      <link>https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/</link>
+      <description>&lt;p&gt;&lt;p&gt;We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 22:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</title>
+      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
+      <description>&lt;p&gt;A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI agent runs amok in Fedora and elsewhere</title>
+      <link>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</link>
+      <description>&lt;p&gt;AI agent runs amok in Fedora and elsewhere&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48484584</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 11 Jun 2026 00:10:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
