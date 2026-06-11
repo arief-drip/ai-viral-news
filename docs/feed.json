@@ -11,6 +11,17 @@
     "published": "2026-06-11T16:36:20+00:00"
   },
   {
+    "id": "hn-48492210",
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "description": "Claude Fable 5: mid-tier results on coding tasks",
+    "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "source_link": "https://news.ycombinator.com/item?id=48492210",
+    "engagement": "\ud83d\udc4d 139",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-11T16:03:21+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
     "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. ",
@@ -27,21 +38,10 @@
     "description": "Open Reproduction of DeepSeek-R1",
     "link": "https://github.com/huggingface/open-r1",
     "source_link": "https://news.ycombinator.com/item?id=48489917",
-    "engagement": "\ud83d\udc4d 139",
+    "engagement": "\ud83d\udc4d 176",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T13:14:31+00:00"
-  },
-  {
-    "id": "hn-48489229",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "description": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "source_link": "https://news.ycombinator.com/item?id=48489229",
-    "engagement": "\ud83d\udc4d 182",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-11T12:05:02+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -99,28 +99,6 @@
     "published": "2026-06-10T22:31:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
-    "description": "<p>We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...",
-    "link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T22:07:13+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Man sues Florida cops over arrest spurred by \"93% match\" in facial recognition",
-    "description": "\n                        Lawsuit: \"Police let an error-prone AI system stand in for an investigation.\"\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T21:30:44+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-5",
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
     "description": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. ",
@@ -132,28 +110,6 @@
     "published": "2026-06-10T20:19:31+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-    "description": "\n                        Diffusion AI is most common in image generation, but it can make text outputs much faster. \n                    ",
-    "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "source_link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T19:29:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-    "description": "<p>DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/\">Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T18:50:51+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-6",
     "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
     "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet.",
@@ -163,50 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-10T17:07:35+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "How memory tools can make AI models worse",
-    "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "source_link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T16:11:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
-    "description": "<p>Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/\">Top AI Coding Agents and Development Platform...",
-    "link": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T10:24:17+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-    "description": "<p>Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/\">Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier</a> appeared first on <a href=\"https://www.marktechpos...",
-    "link": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T08:26:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
-    "description": "<p>Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/\">Google Releases Gemini 3.5 Live ...",
-    "link": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-    "source_link": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-09T17:24:11+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -229,28 +141,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-09T09:16:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
-    "description": "<p>A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/\">A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work...",
-    "link": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/",
-    "source_link": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-09T05:53:36+00:00"
-  },
-  {
-    "id": "hn-48446673",
-    "title": "How Terry Tao became an evangelist for AI in math",
-    "description": "How Terry Tao became an evangelist for AI in math",
-    "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-    "source_link": "https://news.ycombinator.com/item?id=48446673",
-    "engagement": "\ud83d\udc4d 61",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T15:30:09+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
