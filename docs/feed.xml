@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 21:25:37 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,6 +217,24 @@
       <pubDate>Tue, 09 Jun 2026 10:20:06 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</title>
+      <link>https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/</link>
+      <description>&lt;p&gt;&lt;p&gt;DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/"&gt;Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 18:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison</title>
+      <link>https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/</link>
+      <description>&lt;p&gt;&lt;p&gt;We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 10 Jun 2026 22:07:13 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Google DeepMind is worried about what happens when millions of agents start to interact</title>
       <link>https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/</link>
       <description>&lt;p&gt;Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -225,18 +243,10 @@
       <pubDate>Thu, 11 Jun 2026 11:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Deezer’s new tool can identify AI music from Spotify, Apple Music, and others</title>
-      <link>https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/</link>
-      <description>&lt;p&gt;Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 11 Jun 2026 16:36:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world</title>
       <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
       <description>&lt;p&gt;The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 01:04:38 +0000</pubDate>
     </item>
@@ -244,51 +254,41 @@
       <title>[📰] Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale</title>
       <link>https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/</link>
       <description>&lt;p&gt;Avataar AI's distilled video model is priced at $0.005 for every second of generation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 04:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI agent bankrupted their operator while trying to scan DN42</title>
-      <link>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</link>
-      <description>&lt;p&gt;AI agent bankrupted their operator while trying to scan DN42&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,281&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48500012</guid>
+      <title>[📰] Zyphra Release Zamba2-VL: Hybrid Mamba2–Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude</title>
+      <link>https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/</link>
+      <description>&lt;p&gt;&lt;p&gt;Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-abou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Fri, 12 Jun 2026 04:42:53 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 08:06:26 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Pokémon Go players unwittingly contributed to tech with military drone uses</title>
-      <link>https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/</link>
-      <description>&lt;p&gt;
-                        The repurposing of &lt;em&gt;Pokémon Go&lt;/em&gt; data for AI training continues to draw scrutiny.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-4</guid>
+      <title>[📰] Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm</title>
+      <link>https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/</link>
+      <description>&lt;p&gt;&lt;p&gt;Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/"&gt;Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm&lt;/a&gt; appeared f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
-      <pubDate>Fri, 12 Jun 2026 11:15:41 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 09:37:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Slightly reducing the sloppiness of AI generated front end</title>
       <link>https://envs.net/~volpe/blog/posts/reduce-slop.html</link>
-      <description>&lt;p&gt;Slightly reducing the sloppiness of AI generated front end&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 90&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Slightly reducing the sloppiness of AI generated front end&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 142&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48504912</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 14:48:38 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/</link>
-      <description>&lt;p&gt;
-                        Did chatbot abandon mental health guardrails when a vulnerable user pushed back?
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 12 Jun 2026 15:03:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] It’s hot IPO summer, and the MANGOS are ripe</title>
       <link>https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/</link>
       <description>&lt;p&gt;The IPO market is back, and&amp;#160;it&amp;#8217;s&amp;#160;not the same&amp;#160;companies&amp;#160;leading the charge. FAANG had a good run, but a&amp;#160;new acronym is taking over: MANGOS&amp;#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&amp;#160;of that&amp;#160;bunch is heading to public markets in the same window,&amp;#160;and&amp;#160;it&amp;#8217;s&amp;#160;a stress test for investors, for valuations, and for [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 15:50:52 +0000</pubDate>
     </item>
@@ -296,7 +296,7 @@
       <title>[📰] SpaceX, Anthropic, and OpenAI’s hot IPO summer</title>
       <link>https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/</link>
       <description>&lt;p&gt;The IPO market is back, and&amp;#160;it&amp;#8217;s&amp;#160;not the same&amp;#160;companies&amp;#160;leading the charge. FAANG had a good run, but a&amp;#160;new acronym is taking over: MANGOS&amp;#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&amp;#160;of that&amp;#160;bunch is heading to public markets in the same window,&amp;#160;and&amp;#160;it&amp;#8217;s&amp;#160;a stress test for investors, for valuations, and for [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 16:23:25 +0000</pubDate>
     </item>
@@ -306,7 +306,7 @@
       <description>&lt;p&gt;
                         The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 16:34:36 +0000</pubDate>
     </item>
@@ -316,7 +316,7 @@
       <description>&lt;p&gt;
                         Even moderately sized data centers can have an outsized local impact.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 16:51:38 +0000</pubDate>
     </item>
@@ -326,7 +326,7 @@
       <description>&lt;p&gt;
                         Winning fight against AI data centers gives people a "taste of political power."
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 17:18:49 +0000</pubDate>
     </item>
@@ -334,9 +334,54 @@
       <title>[📰] Mistral is rumored to be raising €3B at €20B valuation</title>
       <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
       <description>&lt;p&gt;The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] "Don't You Just Upload It to ChatGPT?"</title>
+      <link>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</link>
+      <description>&lt;p&gt;"Don't You Just Upload It to ChatGPT?"&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 185&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48507278</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 12 Jun 2026 17:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ukraine's one-time test used fully autonomous drones to kill Russian soldiers</title>
+      <link>https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/</link>
+      <description>&lt;p&gt;
+                        Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 12 Jun 2026 18:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Here's what Jeff Bezos' new startup Prometheus will do</title>
+      <link>https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/</link>
+      <description>&lt;p&gt;
+                        It isn't the only startup tackling physical AI, but it's one of the best-funded.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 12 Jun 2026 18:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google</title>
+      <link>https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/</link>
+      <description>&lt;p&gt;The tech giant said a group called "Outsider Enterprise" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 12 Jun 2026 20:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard</title>
+      <link>https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/</link>
+      <description>&lt;p&gt;&lt;p&gt;We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-score...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 12 Jun 2026 21:04:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
