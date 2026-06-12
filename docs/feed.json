@@ -1,6 +1,28 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Pok\u00e9mon Go players unwittingly contributed to tech with military drone uses",
+    "description": "\n                        The repurposing of <em>Pok\u00e9mon Go</em> data for AI training continues to draw scrutiny.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+    "source_link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T11:15:41+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
+    "description": "<p>Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/\">Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm</a> appeared f...",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T09:37:30+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
     "description": "<p>Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-abou...",
     "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
@@ -16,7 +38,7 @@
     "description": "AI agent bankrupted their operator while trying to scan DN42",
     "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
     "source_link": "https://news.ycombinator.com/item?id=48500012",
-    "engagement": "\ud83d\udc4d 393",
+    "engagement": "\ud83d\udc4d 1,052",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T04:42:53+00:00"
@@ -38,7 +60,7 @@
     "description": "Claude Fable is relentlessly proactive",
     "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
     "source_link": "https://news.ycombinator.com/item?id=48498573",
-    "engagement": "\ud83d\udc4d 391",
+    "engagement": "\ud83d\udc4d 607",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T01:06:51+00:00"
@@ -71,7 +93,7 @@
     "description": "Claude Fable 5: mid-tier results on coding tasks",
     "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
     "source_link": "https://news.ycombinator.com/item?id=48492210",
-    "engagement": "\ud83d\udc4d 304",
+    "engagement": "\ud83d\udc4d 368",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T16:03:21+00:00"
@@ -93,7 +115,7 @@
     "description": "Anthropic apologizes for invisible Claude Fable guardrails",
     "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source_link": "https://news.ycombinator.com/item?id=48489229",
-    "engagement": "\ud83d\udc4d 407",
+    "engagement": "\ud83d\udc4d 469",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T12:05:02+00:00"
@@ -110,15 +132,15 @@
     "published": "2026-06-11T11:00:45+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
-    "description": "\n                        AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-    "source_link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "hn-48487829",
+    "title": "Making a vintage LLM from scratch",
+    "description": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
+    "source_link": "https://news.ycombinator.com/item?id=48487829",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-11T11:00:32+00:00"
+    "published": "2026-06-11T08:38:00+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -132,18 +154,7 @@
     "published": "2026-06-11T04:02:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Anthropic\u2019s Dario Amodei has just one direct report",
-    "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "source_link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-11T03:53:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
     "description": "<p>We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...",
     "link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
@@ -154,7 +165,7 @@
     "published": "2026-06-10T22:07:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
     "description": "<p>DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/\">Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
@@ -165,7 +176,7 @@
     "published": "2026-06-10T18:50:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
     "description": "<p>Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/\">Top AI Coding Agents and Development Platform...",
     "link": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
@@ -174,17 +185,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-10T10:24:17+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-    "description": "<p>Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/\">Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier</a> appeared first on <a href=\"https://www.marktechpos...",
-    "link": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T08:26:21+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -207,17 +207,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-09T09:16:45+00:00"
-  },
-  {
-    "id": "hn-48446673",
-    "title": "How Terry Tao became an evangelist for AI in math",
-    "description": "How Terry Tao became an evangelist for AI in math",
-    "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-    "source_link": "https://news.ycombinator.com/item?id=48446673",
-    "engagement": "\ud83d\udc4d 112",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-08T15:30:09+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
