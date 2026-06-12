@@ -1,17 +1,50 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+    "description": "<p>Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-abou...",
+    "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T08:06:26+00:00"
+  },
+  {
+    "id": "hn-48500012",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "description": "AI agent bankrupted their operator while trying to scan DN42",
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "source_link": "https://news.ycombinator.com/item?id=48500012",
+    "engagement": "\ud83d\udc4d 393",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T04:42:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+    "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "source_link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T04:30:00+00:00"
+  },
+  {
     "id": "hn-48498573",
     "title": "Claude Fable is relentlessly proactive",
     "description": "Claude Fable is relentlessly proactive",
     "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
     "source_link": "https://news.ycombinator.com/item?id=48498573",
-    "engagement": "\ud83d\udc4d 85",
+    "engagement": "\ud83d\udc4d 391",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T01:06:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
     "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
     "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
@@ -22,7 +55,7 @@
     "published": "2026-06-12T01:04:38+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
     "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music. ",
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
@@ -38,13 +71,13 @@
     "description": "Claude Fable 5: mid-tier results on coding tasks",
     "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
     "source_link": "https://news.ycombinator.com/item?id=48492210",
-    "engagement": "\ud83d\udc4d 245",
+    "engagement": "\ud83d\udc4d 304",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T16:03:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
     "description": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart. ",
     "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
@@ -55,23 +88,12 @@
     "published": "2026-06-11T14:23:43+00:00"
   },
   {
-    "id": "hn-48489917",
-    "title": "Open Reproduction of DeepSeek-R1",
-    "description": "Open Reproduction of DeepSeek-R1",
-    "link": "https://github.com/huggingface/open-r1",
-    "source_link": "https://news.ycombinator.com/item?id=48489917",
-    "engagement": "\ud83d\udc4d 204",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-11T13:14:31+00:00"
-  },
-  {
     "id": "hn-48489229",
     "title": "Anthropic apologizes for invisible Claude Fable guardrails",
     "description": "Anthropic apologizes for invisible Claude Fable guardrails",
     "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source_link": "https://news.ycombinator.com/item?id=48489229",
-    "engagement": "\ud83d\udc4d 327",
+    "engagement": "\ud83d\udc4d 407",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T12:05:02+00:00"
@@ -99,7 +121,7 @@
     "published": "2026-06-11T11:00:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
     "description": "The decision comes as India emerges as the world\u2019s largest GCC market.",
     "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
@@ -110,7 +132,7 @@
     "published": "2026-06-11T04:02:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic\u2019s Dario Amodei has just one direct report",
     "description": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
     "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
@@ -121,18 +143,7 @@
     "published": "2026-06-11T03:53:06+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "source_link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T22:31:19+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
     "description": "<p>We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...",
     "link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
@@ -143,7 +154,7 @@
     "published": "2026-06-10T22:07:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
     "description": "<p>DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/\">Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
@@ -154,7 +165,7 @@
     "published": "2026-06-10T18:50:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
     "description": "<p>Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/\">Top AI Coding Agents and Development Platform...",
     "link": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
@@ -165,7 +176,7 @@
     "published": "2026-06-10T10:24:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
     "description": "<p>Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/\">Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier</a> appeared first on <a href=\"https://www.marktechpos...",
     "link": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
@@ -174,17 +185,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-10T08:26:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
-    "description": "<p>Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/\">Google Releases Gemini 3.5 Live ...",
-    "link": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-    "source_link": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-09T17:24:11+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -207,6 +207,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-09T09:16:45+00:00"
+  },
+  {
+    "id": "hn-48446673",
+    "title": "How Terry Tao became an evangelist for AI in math",
+    "description": "How Terry Tao became an evangelist for AI in math",
+    "link": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "source_link": "https://news.ycombinator.com/item?id=48446673",
+    "engagement": "\ud83d\udc4d 112",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-08T15:30:09+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
