@@ -11,6 +11,17 @@
     "published": "2026-06-13T02:26:30+00:00"
   },
   {
+    "id": "hn-48511908",
+    "title": "Open source AI must win",
+    "description": "Open source AI must win",
+    "link": "https://opensourceaimustwin.com/?share=v2",
+    "source_link": "https://news.ycombinator.com/item?id=48511908",
+    "engagement": "\ud83d\udc4d 759",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T02:14:24+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
     "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. ",
@@ -31,17 +42,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T22:20:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
-    "description": "<p>We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-score...",
-    "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-    "source_link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T21:04:11+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -75,17 +75,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T18:03:29+00:00"
-  },
-  {
-    "id": "hn-48507278",
-    "title": "\"Don't You Just Upload It to ChatGPT?\"",
-    "description": "\"Don't You Just Upload It to ChatGPT?\"",
-    "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "source_link": "https://news.ycombinator.com/item?id=48507278",
-    "engagement": "\ud83d\udc4d 328",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T17:52:46+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -159,32 +148,10 @@
     "description": "Slightly reducing the sloppiness of AI generated front end",
     "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
     "source_link": "https://news.ycombinator.com/item?id=48504912",
-    "engagement": "\ud83d\udc4d 166",
+    "engagement": "\ud83d\udc4d 188",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T14:48:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
-    "description": "<p>Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/\">Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm</a> appeared f...",
-    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
-    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T09:37:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
-    "description": "<p>Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-abou...",
-    "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
-    "source_link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T08:06:26+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -198,17 +165,6 @@
     "published": "2026-06-12T04:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
-    "description": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "source_link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T01:04:38+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
@@ -218,28 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-11T11:00:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
-    "description": "<p>We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseli...",
-    "link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T22:07:13+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-    "description": "<p>DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/\">Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-    "source_link": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-10T18:50:51+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
