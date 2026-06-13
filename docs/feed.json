@@ -1,14 +1,47 @@
 [
   {
+    "id": "hn-48515385",
+    "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
+    "description": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
+    "link": "https://github.com/Paca-AI/paca",
+    "source_link": "https://news.ycombinator.com/item?id=48515385",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T09:44:25+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+    "description": "<p>shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/\">Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "source_link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T08:15:18+00:00"
+  },
+  {
     "id": "hn-48513728",
     "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
     "description": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
     "link": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
     "source_link": "https://news.ycombinator.com/item?id=48513728",
-    "engagement": "\ud83d\udc4d 90",
+    "engagement": "\ud83d\udc4d 110",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-13T05:44:46+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+    "description": "<p>Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-be...",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T04:57:12+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -27,7 +60,7 @@
     "description": "Open source AI must win",
     "link": "https://opensourceaimustwin.com/?share=v2",
     "source_link": "https://news.ycombinator.com/item?id=48511908",
-    "engagement": "\ud83d\udc4d 939",
+    "engagement": "\ud83d\udc4d 1,170",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-13T02:14:24+00:00"
@@ -53,6 +86,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T22:20:06+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "description": "<p>We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-score...",
+    "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T21:04:11+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -121,17 +165,6 @@
     "published": "2026-06-12T16:51:38+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-5",
-    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-    "description": "\n                        The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites. \n                    ",
-    "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "source_link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T16:34:36+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-4",
     "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
     "description": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
@@ -159,10 +192,32 @@
     "description": "Slightly reducing the sloppiness of AI generated front end",
     "link": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
     "source_link": "https://news.ycombinator.com/item?id=48504912",
-    "engagement": "\ud83d\udc4d 194",
+    "engagement": "\ud83d\udc4d 207",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T14:48:38+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
+    "description": "<p>Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, and schedules background jobs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/\">Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm</a> appeared f...",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T09:37:30+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Zyphra Release Zamba2-VL: Hybrid Mamba2\u2013Transformer Vision-Language Models That Cut Time-to-First-Token by About an Order of Magnitude",
+    "description": "<p>Zyphra has released Zamba2-VL, a family of open vision-language models at 1.2B, 2.7B, and 7B parameters. The models use a hybrid Mamba2 state-space and Transformer backbone, shipping under Apache 2.0. They stay competitive with comparable Transformer VLMs while cutting time-to-first-token by about an order of magnitude.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-abou...",
+    "link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/zyphra-release-zamba2-vl-hybrid-mamba2-transformer-vision-language-models-that-cut-time-to-first-token-by-about-an-order-of-magnitude/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T08:06:26+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
