@@ -1,7 +1,62 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "description": "\n                        Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "source_link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T19:07:02+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Why do South Koreans love AI so much?",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&#8230;",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "source_link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T18:46:08+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+    "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "source_link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T18:30:58+00:00"
+  },
+  {
+    "id": "hn-48542433",
+    "title": "My Homelab AI Dev Platform",
+    "description": "My Homelab AI Dev Platform",
+    "link": "https://rsgm.dev/post/ai-dev-platform/",
+    "source_link": "https://news.ycombinator.com/item?id=48542433",
+    "engagement": "\ud83d\udc4d 189",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T15:09:40+00:00"
+  },
+  {
+    "id": "hn-48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "description": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "link": "https://news.ycombinator.com/item?id=48542100",
+    "source_link": "https://news.ycombinator.com/item?id=48542100",
+    "engagement": "\ud83d\udc4d 519",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T14:46:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
     "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "source_link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
@@ -11,7 +66,7 @@
     "published": "2026-06-15T14:34:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
     "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
     "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
@@ -22,7 +77,7 @@
     "published": "2026-06-15T13:46:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
     "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
     "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
@@ -44,20 +99,9 @@
     "published": "2026-06-15T11:30:53+00:00"
   },
   {
-    "id": "hn-48538833",
-    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-    "description": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-    "link": "https://github.com/themartiano/luz",
-    "source_link": "https://news.ycombinator.com/item?id=48538833",
-    "engagement": "\ud83d\udc4d 122",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T09:34:10+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "The AI layoff wave is becoming a powder keg",
-    "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "description": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
     "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "source_link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -66,29 +110,7 @@
     "published": "2026-06-15T07:25:41+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-    "description": "<p>Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-...",
-    "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-    "source_link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T06:10:23+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-    "description": "<p>Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/\">Claude Code Guide 2026: 25 Features with Examples + Demo</a> appeared first on <a href=\"https...",
-    "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-    "source_link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T01:04:53+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "As AI companies race to go public, who else is along for the ride?",
     "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
     "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -99,18 +121,7 @@
     "published": "2026-06-14T16:38:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
-    "description": "<p>Databricks has open-sourced Omnigent, a meta-harness that sits above coding agents like Claude Code, Codex, and Pi. It adds composition, contextual policies, and live session sharing under one interface, on terminal, web, desktop, and mobile. The Apache 2.0 project is in alpha.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/\">Databricks Open-Sources Omni...",
-    "link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-    "source_link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-14T05:01:39+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
@@ -121,73 +132,18 @@
     "published": "2026-06-14T03:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "description": "Once again, AI proves to be an unreliable source of information about AI.",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "source_link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-48489163",
+    "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
+    "description": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
+    "link": "https://fata.dev",
+    "source_link": "https://news.ycombinator.com/item?id=48489163",
+    "engagement": "\ud83d\udc4d 60",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-13T20:42:31+00:00"
+    "published": "2026-06-11T11:57:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
-    "description": "<p>shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/\">Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
-    "source_link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-13T08:15:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
-    "description": "<p>Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-be...",
-    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
-    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-13T04:57:12+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "description": "\n                        As of today, SpaceX is owned by investors who will want to see it make money.\n                    ",
-    "link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "source_link": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T22:20:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
-    "description": "<p>We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-score...",
-    "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-    "source_link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T21:04:11+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-    "description": "\n                        It isn't the only startup tackling physical AI, but it's one of the best-funded.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "source_link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T18:45:40+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents\u00a0interact with each other online. According to Rohin Shah, who directs the company\u2019s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
     "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
@@ -198,7 +154,7 @@
     "published": "2026-06-11T11:00:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "description": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,\u00a0leadership teams are carefully considering the implications of a hybrid human-AI workforce.\u00a0 Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
     "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
@@ -209,7 +165,7 @@
     "published": "2026-06-09T10:20:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Five things you need to know about AI",
     "description": "At SXSW London last week I gave a talk called \u201cFive things you need to know about AI,\u201d in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
     "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
@@ -231,7 +187,7 @@
     "published": "2026-06-08T12:31:32+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
     "description": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
     "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
@@ -253,7 +209,7 @@
     "published": "2026-06-04T18:57:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
     "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
@@ -264,7 +220,7 @@
     "published": "2026-06-04T10:50:18+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Rehumanizing global health care with agentic AI",
     "description": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it\u2019s getting worse.&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
@@ -275,7 +231,7 @@
     "published": "2026-06-02T11:23:34+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "How small businesses can leverage AI",
     "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
     "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
@@ -297,7 +253,7 @@
     "published": "2026-06-01T13:31:56+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
     "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
@@ -308,7 +264,7 @@
     "published": "2026-05-29T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-8",
+    "id": "rss-MIT Tech Review AI-9",
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
     "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
@@ -317,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-28T09:51:11+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "description": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "source_link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T14:54:10+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-3",
