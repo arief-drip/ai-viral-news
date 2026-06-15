@@ -1,17 +1,39 @@
 [
   {
-    "id": "hn-48532178",
-    "title": "AI is code \u2013 and can't be prompted into being smarter",
-    "description": "AI is code \u2013 and can't be prompted into being smarter",
-    "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "source_link": "https://news.ycombinator.com/item?id=48532178",
-    "engagement": "\ud83d\udc4d 88",
-    "source": "Hacker News",
+    "id": "rss-TechCrunch AI-0",
+    "title": "The AI layoff wave is becoming a powder keg",
+    "description": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "source_link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-14T20:17:54+00:00"
+    "published": "2026-06-15T07:25:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-MarkTechPost-0",
+    "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
+    "description": "<p>Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-...",
+    "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
+    "source_link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T06:10:23+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
+    "description": "<p>Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/\">Claude Code Guide 2026: 25 Features with Examples + Demo</a> appeared first on <a href=\"https...",
+    "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
+    "source_link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-15T01:04:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "As AI companies race to go public, who else is along for the ride?",
     "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
     "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -27,24 +49,24 @@
     "description": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
     "link": "https://github.com/nex-agi/Nex-N2/issues/4",
     "source_link": "https://news.ycombinator.com/item?id=48528371",
-    "engagement": "\ud83d\udc4d 292",
+    "engagement": "\ud83d\udc4d 352",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-14T15:37:31+00:00"
   },
   {
-    "id": "hn-48527700",
-    "title": "Not everyone is using AI for everything",
-    "description": "Not everyone is using AI for everything",
-    "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "source_link": "https://news.ycombinator.com/item?id=48527700",
-    "engagement": "\ud83d\udc4d 432",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-2",
+    "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
+    "description": "<p>Databricks has open-sourced Omnigent, a meta-harness that sits above coding agents like Claude Code, Codex, and Pi. It adds composition, contextual policies, and live session sharing under one interface, on terminal, web, desktop, and mobile. The Apache 2.0 project is in alpha.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/\">Databricks Open-Sources Omni...",
+    "link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
+    "source_link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-14T14:44:29+00:00"
+    "published": "2026-06-14T05:01:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
@@ -55,7 +77,7 @@
     "published": "2026-06-14T03:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "description": "Once again, AI proves to be an unreliable source of information about AI.",
     "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
@@ -66,7 +88,7 @@
     "published": "2026-06-13T20:42:31+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI faces investigation from state attorneys general",
     "description": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
     "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
@@ -77,7 +99,29 @@
     "published": "2026-06-13T16:47:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-MarkTechPost-3",
+    "title": "Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order",
+    "description": "<p>shutdown followed a US government export control directive citing national security authorities. All other Anthropic models, including Opus 4.8, remain available.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/\">Anthropic Disables Claude Fable 5 and Mythos 5 After US Government Order</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "source_link": "https://www.marktechpost.com/2026/06/13/anthropic-disables-claude-fable-5-and-mythos-5-after-us-government-order/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T08:15:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6",
+    "description": "<p>Moonshot AI has open-sourced Kimi K2.7-Code under a Modified MIT license. It is a coding-focused, agentic model built on Kimi K2.6, with a 256K context window and roughly 30% lower reasoning-token usage. Moonshot reports gains over K2.6 on six benchmarks, including +21.8% on Kimi Code Bench v2. The model is available via the Kimi API and Kimi Code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-be...",
+    "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-releases-kimi-k2-7-code-a-coding-model-reporting-21-8-on-kimi-code-bench-v2-over-k2-6/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-13T04:57:12+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
     "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
     "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
@@ -86,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-13T02:26:30+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "description": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt. ",
-    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "source_link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-12T23:00:54+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -108,6 +141,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-12T22:20:06+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
+    "description": "<p>We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution accuracy on the BIRD single-model leaderboard. We explain what the score measures, how the leaderboard stacks up, and what Google has not yet disclosed. We also cover use cases and a schema-grounded implementation pattern.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-score...",
+    "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "source_link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-12T21:04:11+00:00"
   },
   {
     "id": "rss-Ars Technica AI-1",
