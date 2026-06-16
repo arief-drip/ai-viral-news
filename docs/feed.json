@@ -1,28 +1,61 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
-    "description": "<p>The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It sounds simple [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/\">Meet Atoms: A...",
-    "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
-    "source_link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T08:50:17+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
-    "description": "<p>We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/...",
-    "link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
-    "source_link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T08:18:58+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+    "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "source_link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T15:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
+    "description": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "source_link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T14:50:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "source_link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T13:15:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "source_link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T11:21:41+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+    "description": "\n                        SearchLeak exploit shows why the industry's approach to LLM security fails over and over.\n                    ",
+    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "source_link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T11:15:46+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
     "description": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  ",
     "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
@@ -33,7 +66,7 @@
     "published": "2026-06-16T06:59:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-5",
     "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
     "description": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts. ",
     "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
@@ -44,18 +77,7 @@
     "published": "2026-06-15T23:51:44+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
-    "description": "<p>Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/\">Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
-    "source_link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T22:32:50+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
     "description": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
     "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
@@ -66,7 +88,7 @@
     "published": "2026-06-15T21:50:21+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
     "description": "\n                        Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.\n                    ",
     "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
@@ -88,83 +110,6 @@
     "published": "2026-06-15T18:46:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
-    "description": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "source_link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T18:30:58+00:00"
-  },
-  {
-    "id": "hn-48544637",
-    "title": "Claude Corps",
-    "description": "Claude Corps",
-    "link": "https://www.anthropic.com/news/claude-corps",
-    "source_link": "https://news.ycombinator.com/item?id=48544637",
-    "engagement": "\ud83d\udc4d 130",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T17:41:24+00:00"
-  },
-  {
-    "id": "hn-48542433",
-    "title": "My Homelab AI Dev Platform",
-    "description": "My Homelab AI Dev Platform",
-    "link": "https://rsgm.dev/post/ai-dev-platform/",
-    "source_link": "https://news.ycombinator.com/item?id=48542433",
-    "engagement": "\ud83d\udc4d 306",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T15:09:40+00:00"
-  },
-  {
-    "id": "hn-48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "description": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "link": "https://news.ycombinator.com/item?id=48542100",
-    "source_link": "https://news.ycombinator.com/item?id=48542100",
-    "engagement": "\ud83d\udc4d 962",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T14:46:53+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-    "description": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "source_link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T14:34:45+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
-    "description": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "source_link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T13:46:08+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "description": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "source_link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T13:00:00+00:00"
-  },
-  {
     "id": "rss-Import AI (Jack Clark)-0",
     "title": "Import AI 461: \u201cAlignment is not on track\u201d; FrontierCode; and synthetic research interns",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-9AySH4.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
@@ -174,39 +119,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-15T11:30:53+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-    "description": "<p>Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-...",
-    "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-    "source_link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T06:10:23+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-    "description": "<p>Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/\">Claude Code Guide 2026: 25 Features with Examples + Demo</a> appeared first on <a href=\"https...",
-    "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-    "source_link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T01:04:53+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi",
-    "description": "<p>Databricks has open-sourced Omnigent, a meta-harness that sits above coding agents like Claude Code, Codex, and Pi. It adds composition, contextual policies, and live session sharing under one interface, on terminal, web, desktop, and mobile. The Apache 2.0 project is in alpha.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/\">Databricks Open-Sources Omni...",
-    "link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-    "source_link": "https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-14T05:01:39+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -264,6 +176,17 @@
     "published": "2026-06-05T09:00:00+00:00"
   },
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "description": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source_link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-04T18:57:45+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-5",
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "description": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
@@ -317,17 +240,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-05-29T10:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "The AI Hype Index: AI gets booed in graduation season",
-    "description": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can&#8230;",
-    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "source_link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-28T09:51:11+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-3",
