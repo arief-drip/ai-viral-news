@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:17:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -161,14 +161,6 @@
       <pubDate>Thu, 04 Jun 2026 10:50:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 04 Jun 2026 18:57:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The Meta hack shows there’s more to AI security than Mythos</title>
       <link>https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/</link>
       <description>&lt;p&gt;On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -209,20 +201,31 @@
       <pubDate>Thu, 11 Jun 2026 11:00:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Fata – Spaced repetition to fight skill rot from AI coding</title>
-      <link>https://fata.dev</link>
-      <description>&lt;p&gt;Show HN: Fata – Spaced repetition to fight skill rot from AI coding&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 82&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48489163</guid>
+      <title>[📰] Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi</title>
+      <link>https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/</link>
+      <description>&lt;p&gt;&lt;p&gt;Databricks has open-sourced Omnigent, a meta-harness that sits above coding agents like Claude Code, Codex, and Pi. It adds composition, contextual policies, and live session sharing under one interface, on terminal, web, desktop, and mobile. The Apache 2.0 project is in alpha.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/13/databricks-open-sources-omnigent-a-meta-harness-that-composes-governs-and-shares-ai-agents-across-claude-code-codex-and-pi/"&gt;Databricks Open-Sources Omni...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
-      <pubDate>Thu, 11 Jun 2026 11:57:03 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2026 05:01:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The AI layoff wave is becoming a powder keg</title>
-      <link>https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/</link>
-      <description>&lt;p&gt;At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <title>[📰] Claude Code Guide 2026: 25 Features with Examples + Demo</title>
+      <link>https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/</link>
+      <description>&lt;p&gt;&lt;p&gt;Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/"&gt;Claude Code Guide 2026: 25 Features with Examples + Demo&lt;/a&gt; appeared first on &lt;a href="https...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
-      <pubDate>Mon, 15 Jun 2026 07:25:41 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 01:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch</title>
+      <link>https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/</link>
+      <description>&lt;p&gt;&lt;p&gt;Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 15 Jun 2026 06:10:23 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns</title>
@@ -236,7 +239,7 @@
       <title>[📰] As AI agents become employees, NewCore emerges with $66M to give them identities</title>
       <link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
       <description>&lt;p&gt;NewCore argues the next challenge in enterprise security will be managing AI agents, not people.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
     </item>
@@ -244,7 +247,7 @@
       <title>[📰] Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech</title>
       <link>https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/</link>
       <description>&lt;p&gt;Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 13:46:08 +0000</pubDate>
     </item>
@@ -252,14 +255,14 @@
       <title>[📰] Salesforce acquires AI customer service platform Fin for $3.6B</title>
       <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
       <description>&lt;p&gt;Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 14:34:45 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
       <link>https://news.ycombinator.com/item?id=48542100</link>
-      <description>&lt;p&gt;Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 729&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 962&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48542100</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 14:46:53 +0000</pubDate>
@@ -267,7 +270,7 @@
     <item>
       <title>[📰] My Homelab AI Dev Platform</title>
       <link>https://rsgm.dev/post/ai-dev-platform/</link>
-      <description>&lt;p&gt;My Homelab AI Dev Platform&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 253&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;My Homelab AI Dev Platform&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 306&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48542433</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 15:09:40 +0000</pubDate>
@@ -275,7 +278,7 @@
     <item>
       <title>[📰] Claude Corps</title>
       <link>https://www.anthropic.com/news/claude-corps</link>
-      <description>&lt;p&gt;Claude Corps&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 97&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Corps&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48544637</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 17:41:24 +0000</pubDate>
@@ -284,14 +287,14 @@
       <title>[📰] Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms</title>
       <link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
       <description>&lt;p&gt;Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 18:30:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Why do South Koreans love AI so much?</title>
       <link>https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/</link>
-      <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 18:46:08 +0000</pubDate>
@@ -310,17 +313,53 @@
       <title>[📰] The US government’s Anthropic models ban was never about an AI jailbreak</title>
       <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
       <description>&lt;p&gt;The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides</title>
+      <link>https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/"&gt;Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 15 Jun 2026 22:32:50 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties</title>
       <link>https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/</link>
       <description>&lt;p&gt;AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 15 Jun 2026 23:51:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</title>
+      <link>https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/</link>
+      <description>&lt;p&gt;Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 16 Jun 2026 06:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context</title>
+      <link>https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/</link>
+      <description>&lt;p&gt;&lt;p&gt;We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/16/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 16 Jun 2026 08:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)</title>
+      <link>https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/</link>
+      <description>&lt;p&gt;&lt;p&gt;The concept of vibe coding is interesting; you don&amp;#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&amp;#8217;t have to write code line by line. It sounds simple [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/"&gt;Meet Atoms: A...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 16 Jun 2026 08:50:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
