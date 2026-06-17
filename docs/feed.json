@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
+    "description": "<p>We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.</p>\n<p>The post <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T00:02:25+00:00"
+  },
+  {
+    "id": "hn-48563609",
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "description": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "source_link": "https://news.ycombinator.com/item?id=48563609",
+    "engagement": "\ud83d\udc4d 97",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T23:15:44+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "description": "\n                        Move originally planned for Monday would have heavily increased power users' costs.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "source_link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T21:00:35+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "Pentagon boasts of using AI to write reports mandated by Congress",
     "description": "\n                        Pentagon also claims 1.5 million personnel are using generative AI tools.\n                    ",
     "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
@@ -27,7 +60,7 @@
     "description": "GPT\u2011NL: a sovereign language model for the Netherlands",
     "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "source_link": "https://news.ycombinator.com/item?id=48559188",
-    "engagement": "\ud83d\udc4d 101",
+    "engagement": "\ud83d\udc4d 145",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T17:54:02+00:00"
@@ -38,13 +71,13 @@
     "description": "Has AI already killed self-help nonfiction books?",
     "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "source_link": "https://news.ycombinator.com/item?id=48558489",
-    "engagement": "\ud83d\udc4d 80",
+    "engagement": "\ud83d\udc4d 173",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T17:11:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
     "description": "<p>We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Qwen3-VL across 2B, 4B, and 8B sizes. We walk through the architecture, data pipelines, and benchmark results for each.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-qwen-rob...",
     "link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
@@ -66,7 +99,7 @@
     "published": "2026-06-16T16:49:44+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
     "description": "\n                        Separately, neither could compete. Now they hope they can.\n                    ",
     "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
@@ -75,17 +108,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T16:37:45+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-    "description": "\n                        Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "source_link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T16:18:07+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -132,29 +154,7 @@
     "published": "2026-06-16T11:21:41+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-    "description": "\n                        SearchLeak exploit shows why the industry's approach to LLM security fails over and over.\n                    ",
-    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "source_link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T11:15:46+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "ChatGPT\u2019s market share slips below 50% for first time",
-    "description": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-    "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "source_link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T10:30:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
     "description": "<p>The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It sounds simple [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/\">Meet Atoms: A...",
     "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
@@ -165,7 +165,7 @@
     "published": "2026-06-16T08:50:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
     "description": "<p>We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/...",
     "link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
@@ -176,7 +176,7 @@
     "published": "2026-06-16T08:18:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
     "description": "<p>Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/\">Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
@@ -209,7 +209,7 @@
     "published": "2026-06-15T11:30:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
     "description": "<p>Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max effort levels. It drops into Claude Code, Cline, and OpenClaw through an Anthropic-compatible endpoint. No benchmarks shipped at launch, and MIT open weights are promised next week.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-...",
     "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
@@ -220,7 +220,7 @@
     "published": "2026-06-15T06:10:23+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
     "description": "<p>Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hooks to MCP and Auto Mode. It includes a comparison table, working code examples, real use cases, and an interactive demo you can try.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/\">Claude Code Guide 2026: 25 Features with Examples + Demo</a> appeared first on <a href=\"https...",
     "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
