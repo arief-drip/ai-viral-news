@@ -1,14 +1,69 @@
 [
   {
-    "id": "hn-48566832",
-    "title": "The founder's playbook: Building an AI-native startup",
-    "description": "The founder's playbook: Building an AI-native startup",
-    "link": "https://claude.com/blog/the-founders-playbook",
-    "source_link": "https://news.ycombinator.com/item?id=48566832",
-    "engagement": "\ud83d\udc4d 60",
+    "id": "rss-TechCrunch AI-0",
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "description": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "source_link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T14:15:22+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+    "description": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "source_link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T12:38:09+00:00"
+  },
+  {
+    "id": "hn-48569278",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "description": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "link": "https://wpvip.com/future-of-the-web-2026/",
+    "source_link": "https://news.ycombinator.com/item?id=48569278",
+    "engagement": "\ud83d\udc4d 454",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T07:04:42+00:00"
+    "published": "2026-06-17T12:11:27+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+    "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface. ",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "source_link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T11:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI\u2019s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
+    "description": "<p>OpenAI introduced Deployment Simulation on June 16, 2026. The method replays past conversations through a new candidate model before release. It then grades the completions to estimate deployment-time rates of undesired behavior. We break down how the pipeline works, the reported 1.5x median multiplicative error, and its limits.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/\">OpenAI&#8217;s Deployment Simulation Extends Pre-Deployment Risk Asses...",
+    "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T05:49:54+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
+    "description": "<p>We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.</p>\n<p>The post <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T00:02:25+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -33,7 +88,7 @@
     "published": "2026-06-16T18:11:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
     "description": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
     "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
@@ -49,7 +104,7 @@
     "description": "GPT\u2011NL: a sovereign language model for the Netherlands",
     "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
     "source_link": "https://news.ycombinator.com/item?id=48559188",
-    "engagement": "\ud83d\udc4d 207",
+    "engagement": "\ud83d\udc4d 238",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T17:54:02+00:00"
@@ -60,13 +115,24 @@
     "description": "Has AI already killed self-help nonfiction books?",
     "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "source_link": "https://news.ycombinator.com/item?id=48558489",
-    "engagement": "\ud83d\udc4d 283",
+    "engagement": "\ud83d\udc4d 367",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T17:11:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-MarkTechPost-2",
+    "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
+    "description": "<p>We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Qwen3-VL across 2B, 4B, and 8B sizes. We walk through the architecture, data pipelines, and benchmark results for each.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-qwen-rob...",
+    "link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T16:51:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
     "description": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
     "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
@@ -77,59 +143,37 @@
     "published": "2026-06-16T16:49:44+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-    "description": "\n                        Separately, neither could compete. Now they hope they can.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "source_link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "rss-MarkTechPost-3",
+    "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
+    "description": "<p>The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It sounds simple [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/\">Meet Atoms: A...",
+    "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T16:37:45+00:00"
+    "published": "2026-06-16T08:50:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "description": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "source_link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-4",
+    "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
+    "description": "<p>We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/...",
+    "link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T15:00:00+00:00"
+    "published": "2026-06-16T08:18:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
-    "description": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "source_link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-5",
+    "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
+    "description": "<p>Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/\">Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
+    "source_link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T14:50:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "description": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source_link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T13:15:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "description": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "source_link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T11:21:41+00:00"
+    "published": "2026-06-15T22:32:50+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
