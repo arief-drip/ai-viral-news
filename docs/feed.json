@@ -1,6 +1,83 @@
 [
   {
+    "id": "hn-48576824",
+    "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+    "description": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+    "link": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+    "source_link": "https://news.ycombinator.com/item?id=48576824",
+    "engagement": "\ud83d\udc4d 51",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T21:00:07+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "source_link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T20:17:38+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+    "description": "\n                        Nvidia's self-improvement program for robots enlists teams of AI coding agents.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "source_link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T19:25:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
+    "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  \u2014 a fear the Anthropic blackout just made real. ",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "source_link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T19:01:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "source_link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T18:30:56+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+    "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "source_link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T18:00:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "\"Dangerous\" AI models are coming no matter what",
+    "description": "\n                        AI models with advanced hacking capabilities will soon be the norm.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "source_link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T17:50:46+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
     "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
     "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
@@ -22,18 +99,18 @@
     "published": "2026-06-17T17:22:51+00:00"
   },
   {
-    "id": "hn-48573332",
-    "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-    "description": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "source_link": "https://news.ycombinator.com/item?id=48573332",
-    "engagement": "\ud83d\udc4d 110",
+    "id": "hn-48573435",
+    "title": "The Competitive Moat That AI Can't Replicate",
+    "description": "The Competitive Moat That AI Can't Replicate",
+    "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "source_link": "https://news.ycombinator.com/item?id=48573435",
+    "engagement": "\ud83d\udc4d 79",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T17:07:32+00:00"
+    "published": "2026-06-17T17:14:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-5",
     "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
     "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. ",
     "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
@@ -44,7 +121,7 @@
     "published": "2026-06-17T17:00:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "Google bets on Gemini to reinvent the smart home speaker",
     "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
     "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
@@ -60,13 +137,13 @@
     "description": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
     "link": "https://github.com/Adam-CAD/CADAM",
     "source_link": "https://news.ycombinator.com/item?id=48572553",
-    "engagement": "\ud83d\udc4d 57",
+    "engagement": "\ud83d\udc4d 119",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T16:14:04+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
     "description": "\n                        Google's new smart speaker is more about Gemini than audio quality. \n                    ",
     "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
@@ -77,70 +154,15 @@
     "published": "2026-06-17T15:57:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-    "description": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "source_link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T15:00:00+00:00"
-  },
-  {
     "id": "hn-48570948",
     "title": "AI demands more engineering discipline. Not less",
     "description": "AI demands more engineering discipline. Not less",
     "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
     "source_link": "https://news.ycombinator.com/item?id=48570948",
-    "engagement": "\ud83d\udc4d 198",
+    "engagement": "\ud83d\udc4d 297",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T14:20:44+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "description": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
-    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "source_link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T14:15:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
-    "description": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "source_link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T12:38:09+00:00"
-  },
-  {
-    "id": "hn-48569278",
-    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "description": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "link": "https://wpvip.com/future-of-the-web-2026/",
-    "source_link": "https://news.ycombinator.com/item?id=48569278",
-    "engagement": "\ud83d\udc4d 802",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T12:11:27+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
-    "description": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface. ",
-    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "source_link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T11:00:00+00:00"
   },
   {
     "id": "hn-48566832",
@@ -148,7 +170,7 @@
     "description": "The founder's playbook: Building an AI-native startup",
     "link": "https://claude.com/blog/the-founders-playbook",
     "source_link": "https://news.ycombinator.com/item?id=48566832",
-    "engagement": "\ud83d\udc4d 153",
+    "engagement": "\ud83d\udc4d 192",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T07:04:42+00:00"
@@ -170,7 +192,7 @@
     "description": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
     "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
     "source_link": "https://news.ycombinator.com/item?id=48565498",
-    "engagement": "\ud83d\udc4d 85",
+    "engagement": "\ud83d\udc4d 239",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T03:55:16+00:00"
@@ -185,17 +207,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T00:02:25+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-    "description": "\n                        Move originally planned for Monday would have heavily increased power users' costs.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "source_link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-16T21:00:35+00:00"
   },
   {
     "id": "rss-MarkTechPost-3",
