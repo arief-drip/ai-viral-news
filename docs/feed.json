@@ -1,17 +1,61 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric",
+    "description": "<p>OpenAI's LifeSciBench evaluates whether frontier AI can handle real life-science research across 750 expert-authored tasks, seven workflows, and seven biological domains. Built by 173 PhD scientists with 19,020 rubric criteria, it grades reasoning and decisions, not just recall. The best model, GPT-Rosalind, passes 36.1%, leaving large headroom on artifacts, exact outputs, and operational calls.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-75...",
+    "link": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/",
+    "source_link": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-18T02:28:22+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports",
+    "description": "<p>In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass.</p>\n<p>The post <a href=\"https://www.ma...",
+    "link": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+    "source_link": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-18T01:35:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "How to turn off AI in your Google Docs",
+    "description": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "source_link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-18T01:23:51+00:00"
+  },
+  {
+    "id": "hn-48577208",
+    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+    "description": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+    "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "source_link": "https://news.ycombinator.com/item?id=48577208",
+    "engagement": "\ud83d\udc4d 341",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T21:31:35+00:00"
+  },
+  {
     "id": "hn-48576824",
     "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
     "description": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
     "link": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
     "source_link": "https://news.ycombinator.com/item?id=48576824",
-    "engagement": "\ud83d\udc4d 51",
+    "engagement": "\ud83d\udc4d 178",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T21:00:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
     "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
     "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
@@ -33,7 +77,7 @@
     "published": "2026-06-17T19:25:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
     "description": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  \u2014 a fear the Anthropic blackout just made real. ",
     "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
@@ -44,7 +88,7 @@
     "published": "2026-06-17T19:01:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
     "description": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
     "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
@@ -55,7 +99,7 @@
     "published": "2026-06-17T18:30:56+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
     "description": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
     "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
@@ -77,7 +121,7 @@
     "published": "2026-06-17T17:50:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
     "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
     "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
@@ -88,7 +132,7 @@
     "published": "2026-06-17T17:43:07+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities",
     "description": "<p>Vercel has open-sourced eve, an Apache-2.0 agent framework now in public preview. An agent is a directory of files, with durable execution, sandboxes, approvals, connections, channels, and evals built in. Scaffold with npx eve@latest init and deploy unchanged via vercel deploy.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/17/vercel-releases-eve/\">Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities</a> appeared...",
     "link": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve/",
@@ -104,13 +148,13 @@
     "description": "The Competitive Moat That AI Can't Replicate",
     "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
     "source_link": "https://news.ycombinator.com/item?id=48573435",
-    "engagement": "\ud83d\udc4d 79",
+    "engagement": "\ud83d\udc4d 133",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T17:14:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
     "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. ",
     "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
@@ -121,23 +165,12 @@
     "published": "2026-06-17T17:00:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Google bets on Gemini to reinvent the smart home speaker",
-    "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
-    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "source_link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T16:30:09+00:00"
-  },
-  {
     "id": "hn-48572553",
     "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
     "description": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
     "link": "https://github.com/Adam-CAD/CADAM",
     "source_link": "https://news.ycombinator.com/item?id=48572553",
-    "engagement": "\ud83d\udc4d 119",
+    "engagement": "\ud83d\udc4d 160",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T16:14:04+00:00"
@@ -154,29 +187,7 @@
     "published": "2026-06-17T15:57:14+00:00"
   },
   {
-    "id": "hn-48570948",
-    "title": "AI demands more engineering discipline. Not less",
-    "description": "AI demands more engineering discipline. Not less",
-    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-    "source_link": "https://news.ycombinator.com/item?id=48570948",
-    "engagement": "\ud83d\udc4d 297",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T14:20:44+00:00"
-  },
-  {
-    "id": "hn-48566832",
-    "title": "The founder's playbook: Building an AI-native startup",
-    "description": "The founder's playbook: Building an AI-native startup",
-    "link": "https://claude.com/blog/the-founders-playbook",
-    "source_link": "https://news.ycombinator.com/item?id=48566832",
-    "engagement": "\ud83d\udc4d 192",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T07:04:42+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "OpenAI\u2019s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
     "description": "<p>OpenAI introduced Deployment Simulation on June 16, 2026. The method replays past conversations through a new candidate model before release. It then grades the completions to estimate deployment-time rates of undesired behavior. We break down how the pipeline works, the reported 1.5x median multiplicative error, and its limits.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/\">OpenAI&#8217;s Deployment Simulation Extends Pre-Deployment Risk Asses...",
     "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
@@ -192,13 +203,13 @@
     "description": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
     "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
     "source_link": "https://news.ycombinator.com/item?id=48565498",
-    "engagement": "\ud83d\udc4d 239",
+    "engagement": "\ud83d\udc4d 373",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T03:55:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
     "description": "<p>We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.</p>\n<p>The post <a href=\"https://www...",
     "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
@@ -209,7 +220,7 @@
     "published": "2026-06-17T00:02:25+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
     "description": "<p>We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Qwen3-VL across 2B, 4B, and 8B sizes. We walk through the architecture, data pipelines, and benchmark results for each.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-qwen-rob...",
     "link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
@@ -220,7 +231,7 @@
     "published": "2026-06-16T16:51:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
     "description": "<p>The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It sounds simple [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/\">Meet Atoms: A...",
     "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
@@ -231,7 +242,7 @@
     "published": "2026-06-16T08:50:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-7",
     "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
     "description": "<p>We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a directory of markdown files with YAML frontmatter, where each concept needs only a type field. We cover the three design principles, the reference tools Google shipped, and how OKF differs from RAG. We include a working Python consumer and an interactive bundle explorer you can embed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/...",
     "link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
@@ -240,17 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-16T08:18:58+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides",
-    "description": "<p>Sakana AI's first commercial product runs autonomously for up to eight hours per task. It returns multi-page reports and slides, built on AB-MCTS and AI Scientist workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/\">Sakana AI Commercializes AB-MCTS in Sakana Marlin, an Enterprise Agent Generating Up to 100-Page Research Reports With Slides</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
-    "source_link": "https://www.marktechpost.com/2026/06/15/sakana-ai-marlin/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-15T22:32:50+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -328,17 +328,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-05T09:00:00+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-0",
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "description": "",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "source_link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-04T18:57:45+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-5",
