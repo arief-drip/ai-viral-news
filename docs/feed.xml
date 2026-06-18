@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:49:43 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,38 +217,57 @@
       <pubDate>Mon, 15 Jun 2026 18:46:08 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)</title>
+      <link>https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/</link>
+      <description>&lt;p&gt;&lt;p&gt;The concept of vibe coding is interesting; you don&amp;#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&amp;#8217;t have to write code line by line. It sounds simple [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/"&gt;Meet Atoms: A...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 16 Jun 2026 08:50:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation</title>
+      <link>https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/</link>
+      <description>&lt;p&gt;&lt;p&gt;We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Qwen3-VL across 2B, 4B, and 8B sizes. We walk through the architecture, data pipelines, and benchmark results for each.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/16/meet-qwen-rob...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 16 Jun 2026 16:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention</title>
+      <link>https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/</link>
+      <description>&lt;p&gt;&lt;p&gt;We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 17 Jun 2026 00:02:25 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</title>
       <link>https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/</link>
-      <description>&lt;p&gt;US holds off blacklisting DeepSeek, more than 100 firms deemed security risks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 449&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;US holds off blacklisting DeepSeek, more than 100 firms deemed security risks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 496&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48565498</guid>
       <category>AI News</category>
       <pubDate>Wed, 17 Jun 2026 03:55:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ten months later, the $100 Google Home Speaker is finally available for preorder</title>
-      <link>https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/</link>
-      <description>&lt;p&gt;
-                        Google's new smart speaker is more about Gemini than audio quality. 
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <title>[📰] OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls</title>
+      <link>https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI introduced Deployment Simulation on June 16, 2026. The method replays past conversations through a new candidate model before release. It then grades the completions to estimate deployment-time rates of undesired behavior. We break down how the pipeline works, the reported 1.5x median multiplicative error, and its limits.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/"&gt;OpenAI&amp;#8217;s Deployment Simulation Extends Pre-Deployment Risk Asses...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Wed, 17 Jun 2026 15:57:14 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 05:49:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Launch HN: Adam (YC W25) – Open-Source AI CAD</title>
-      <link>https://github.com/Adam-CAD/CADAM</link>
-      <description>&lt;p&gt;Launch HN: Adam (YC W25) – Open-Source AI CAD&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 180&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48572553</guid>
+      <title>[📰] Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities</title>
+      <link>https://www.marktechpost.com/2026/06/17/vercel-releases-eve/</link>
+      <description>&lt;p&gt;&lt;p&gt;Vercel has open-sourced eve, an Apache-2.0 agent framework now in public preview. An agent is a directory of files, with durable execution, sandboxes, approvals, connections, channels, and evals built in. Scaffold with npx eve@latest init and deploy unchanged via vercel deploy.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/17/vercel-releases-eve/"&gt;Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities&lt;/a&gt; appeared...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Wed, 17 Jun 2026 16:14:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Only 16 percent of Americans think AI will have a positive impact on society, a new study shows</title>
-      <link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
-      <description>&lt;p&gt;Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 17 Jun 2026 17:00:01 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names</title>
@@ -319,9 +338,27 @@
       <pubDate>Thu, 18 Jun 2026 01:23:51 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports</title>
+      <link>https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 18 Jun 2026 01:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric</title>
+      <link>https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI's LifeSciBench evaluates whether frontier AI can handle real life-science research across 750 expert-authored tasks, seven workflows, and seven biological domains. Built by 173 PhD scientists with 19,020 rubric criteria, it grades reasoning and decisions, not just recall. The best model, GPT-Rosalind, passes 36.1%, leaving large headroom on artifacts, exact outputs, and operational calls.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-75...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 18 Jun 2026 02:28:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] DeepSeek Introduces Vision</title>
       <link>https://chat.deepseek.com/</link>
-      <description>&lt;p&gt;DeepSeek Introduces Vision&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 91&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek Introduces Vision&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 304&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48581458</guid>
       <category>AI News</category>
       <pubDate>Thu, 18 Jun 2026 06:17:40 +0000</pubDate>

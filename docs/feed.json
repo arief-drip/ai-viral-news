@@ -5,10 +5,32 @@
     "description": "DeepSeek Introduces Vision",
     "link": "https://chat.deepseek.com/",
     "source_link": "https://news.ycombinator.com/item?id=48581458",
-    "engagement": "\ud83d\udc4d 91",
+    "engagement": "\ud83d\udc4d 304",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-18T06:17:40+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric",
+    "description": "<p>OpenAI's LifeSciBench evaluates whether frontier AI can handle real life-science research across 750 expert-authored tasks, seven workflows, and seven biological domains. Built by 173 PhD scientists with 19,020 rubric criteria, it grades reasoning and decisions, not just recall. The best model, GPT-Rosalind, passes 36.1%, leaving large headroom on artifacts, exact outputs, and operational calls.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-75...",
+    "link": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/",
+    "source_link": "https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-18T02:28:22+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports",
+    "description": "<p>In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass.</p>\n<p>The post <a href=\"https://www.ma...",
+    "link": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+    "source_link": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-18T01:35:19+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -99,37 +121,26 @@
     "published": "2026-06-17T17:43:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows. ",
-    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "source_link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-2",
+    "title": "Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities",
+    "description": "<p>Vercel has open-sourced eve, an Apache-2.0 agent framework now in public preview. An agent is a directory of files, with durable execution, sandboxes, approvals, connections, channels, and evals built in. Scaffold with npx eve@latest init and deploy unchanged via vercel deploy.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/17/vercel-releases-eve/\">Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities</a> appeared...",
+    "link": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve/",
+    "source_link": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T17:00:01+00:00"
+    "published": "2026-06-17T17:22:51+00:00"
   },
   {
-    "id": "hn-48572553",
-    "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-    "description": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-    "link": "https://github.com/Adam-CAD/CADAM",
-    "source_link": "https://news.ycombinator.com/item?id=48572553",
-    "engagement": "\ud83d\udc4d 180",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-3",
+    "title": "OpenAI\u2019s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
+    "description": "<p>OpenAI introduced Deployment Simulation on June 16, 2026. The method replays past conversations through a new candidate model before release. It then grades the completions to estimate deployment-time rates of undesired behavior. We break down how the pipeline works, the reported 1.5x median multiplicative error, and its limits.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/\">OpenAI&#8217;s Deployment Simulation Extends Pre-Deployment Risk Asses...",
+    "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T16:14:04+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-    "description": "\n                        Google's new smart speaker is more about Gemini than audio quality. \n                    ",
-    "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-    "source_link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-17T15:57:14+00:00"
+    "published": "2026-06-17T05:49:54+00:00"
   },
   {
     "id": "hn-48565498",
@@ -137,10 +148,43 @@
     "description": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
     "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
     "source_link": "https://news.ycombinator.com/item?id=48565498",
-    "engagement": "\ud83d\udc4d 449",
+    "engagement": "\ud83d\udc4d 496",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-17T03:55:16+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
+    "description": "<p>We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and memory across sequence lengths. We work through causal masking, packed variable-length sequences, grouped-query attention, and custom ALiBi biases. Finally, we combine these into a trainable GPT-style model with SwiGLU layers and automatic mixed-precision training.</p>\n<p>The post <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-17T00:02:25+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
+    "description": "<p>We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B for manipulation. We cover RobotWorld, a language-conditioned video world model with a 60-layer MMDiT. We cover RobotNav, a navigation model built on Qwen3-VL across 2B, 4B, and 8B sizes. We walk through the architecture, data pipelines, and benchmark results for each.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-qwen-rob...",
+    "link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T16:51:19+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
+    "description": "<p>The concept of vibe coding is interesting; you don&#8217;t need to be a developer or software engineer to build your own applications. You can describe your idea to an AI in plain language, and it will build, edit, and refine your applications so you don&#8217;t have to write code line by line. It sounds simple [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/\">Meet Atoms: A...",
+    "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
+    "source_link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-16T08:50:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
