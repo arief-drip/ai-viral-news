@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 07:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:27:18 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -203,26 +203,17 @@
     <item>
       <title>[📰] Zen and the Art of Machine Learning Research</title>
       <link>https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning</link>
-      <description>&lt;p&gt;Zen and the Art of Machine Learning Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 255&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Zen and the Art of Machine Learning Research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 261&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48549118</guid>
       <category>AI News</category>
       <pubDate>Tue, 16 Jun 2026 00:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities</title>
-      <link>https://www.marktechpost.com/2026/06/17/vercel-releases-eve/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel has open-sourced eve, an Apache-2.0 agent framework now in public preview. An agent is a directory of files, with durable execution, sandboxes, approvals, connections, channels, and evals built in. Scaffold with npx eve@latest init and deploy unchanged via vercel deploy.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/17/vercel-releases-eve/"&gt;Vercel Releases Eve: An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities&lt;/a&gt; appeared...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 17 Jun 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports</title>
       <link>https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we use NVIDIA SkillSpector to evaluate AI skills for security risks before deployment. We build a corpus of benign and deliberately vulnerable skills, then scan them through SkillSpector's programmatic LangGraph workflow. We organize the risk scores and findings with pandas, then visualize severity and category distributions. We export results in SARIF format, register a custom analyzer, and optionally apply an LLM-based semantic pass.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 18 Jun 2026 01:35:19 +0000</pubDate>
     </item>
@@ -231,7 +222,7 @@
       <link>https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI's LifeSciBench evaluates whether frontier AI can handle real life-science research across 750 expert-authored tasks, seven workflows, and seven biological domains. Built by 173 PhD scientists with 19,020 rubric criteria, it grades reasoning and decisions, not just recall. The best model, GPT-Rosalind, passes 36.1%, leaving large headroom on artifacts, exact outputs, and operational calls.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-75...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 18 Jun 2026 02:28:22 +0000</pubDate>
     </item>
@@ -272,7 +263,7 @@
       <link>https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI's LFM2.5 Retrievers combine a dense bi-encoder and ColBERT late-interaction model for multilingual search on edge devices.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/"&gt;Liquid AI Introduces LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M: Dense Bi-Encoder and Late-Interaction Models for Fast Multilingual S...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 19 Jun 2026 10:29:39 +0000</pubDate>
     </item>
@@ -303,7 +294,7 @@
     <item>
       <title>[📰] Norway imposes near ban on AI in elementary school</title>
       <link>https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/</link>
-      <description>&lt;p&gt;Norway imposes near ban on AI in elementary school&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 612&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Norway imposes near ban on AI in elementary school&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 673&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48600093</guid>
       <category>AI News</category>
       <pubDate>Fri, 19 Jun 2026 16:03:15 +0000</pubDate>
@@ -311,7 +302,7 @@
     <item>
       <title>[📰] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
       <link>https://arrowtsx.dev/bigger-models/</link>
-      <description>&lt;p&gt;GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 87&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 169&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48600167</guid>
       <category>AI News</category>
       <pubDate>Fri, 19 Jun 2026 16:11:25 +0000</pubDate>
@@ -321,7 +312,7 @@
       <link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
       <description>&lt;p&gt;&lt;p&gt;VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/"&gt;VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
     </item>
@@ -330,9 +321,17 @@
       <link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
       <description>&lt;p&gt;&lt;p&gt;SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"&gt;NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;Ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection</title>
+      <link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
+      <description>&lt;p&gt;&lt;p&gt;We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its pre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
