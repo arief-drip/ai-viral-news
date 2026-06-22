@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 02:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:39:51 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,6 +225,32 @@
       <pubDate>Fri, 19 Jun 2026 15:23:28 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline</title>
+      <link>https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/</link>
+      <description>&lt;p&gt;&lt;p&gt;VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/"&gt;VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 19 Jun 2026 22:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning</title>
+      <link>https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/</link>
+      <description>&lt;p&gt;&lt;p&gt;SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/"&gt;NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;Ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 19 Jun 2026 22:51:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection</title>
+      <link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
+      <description>&lt;p&gt;&lt;p&gt;We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its pre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] In the Weights is your new AI-centric vanity search</title>
       <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
       <description>&lt;p&gt;So ... what's your In the Weights score?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -241,9 +267,26 @@
       <pubDate>Sat, 20 Jun 2026 20:32:29 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration</title>
+      <link>https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization l...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 20 Jun 2026 23:04:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export</title>
+      <link>https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and JavaScript-rendered cards, and capture full-page screenshots. We then normalize the data, build a link graph, and export JSON, CSV, and RAG-ready JSONL chunks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/20/crawlee-for-p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 21 Jun 2026 06:52:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Identity verification on Claude</title>
       <link>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</link>
-      <description>&lt;p&gt;Identity verification on Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 597&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Identity verification on Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 747&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48618455</guid>
       <category>AI News</category>
       <pubDate>Sun, 21 Jun 2026 12:44:13 +0000</pubDate>
@@ -265,20 +308,38 @@
       <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Recall – fully-local project memory for Claude Code</title>
-      <link>https://github.com/raiyanyahya/recall</link>
-      <description>&lt;p&gt;Show HN: Recall – fully-local project memory for Claude Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48622590</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 21 Jun 2026 21:05:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Apertus – Open Foundation Model for Sovereign AI</title>
       <link>https://apertvs.ai/</link>
-      <description>&lt;p&gt;Apertus – Open Foundation Model for Sovereign AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 227&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apertus – Open Foundation Model for Sovereign AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 375&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48622778</guid>
       <category>AI News</category>
       <pubDate>Sun, 21 Jun 2026 21:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions</title>
+      <link>https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</link>
+      <description>&lt;p&gt;Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48623434</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 21 Jun 2026 22:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The 7 Types of Agent Memory: A Technical Guide for AI Engineers</title>
+      <link>https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/</link>
+      <description>&lt;p&gt;&lt;p&gt;LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/"&gt;The 7 Types of Agent Memory: A Technical Guide for AI Engineers&lt;/a&gt; appear...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 21 Jun 2026 23:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode</title>
+      <link>https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/</link>
+      <description>&lt;p&gt;&lt;p&gt;The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/"&gt;MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 22 Jun 2026 07:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
