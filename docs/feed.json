@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
+    "description": "\n                        Oracle is spending billions on data center infrastructure to support AI. \n                    ",
+    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "source_link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T20:17:38+00:00"
+  },
+  {
+    "id": "hn-48649673",
+    "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+    "description": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+    "link": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "source_link": "https://news.ycombinator.com/item?id=48649673",
+    "engagement": "\ud83d\udc4d 91",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T18:56:19+00:00"
+  },
+  {
+    "id": "hn-48648039",
+    "title": "Claude Tag",
+    "description": "Claude Tag",
+    "link": "https://www.anthropic.com/news/introducing-claude-tag",
+    "source_link": "https://news.ycombinator.com/item?id=48648039",
+    "engagement": "\ud83d\udc4d 190",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T17:09:18+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
     "description": "Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
@@ -16,7 +49,7 @@
     "description": "Mistral OCR 4",
     "link": "https://mistral.ai/news/ocr-4/",
     "source_link": "https://news.ycombinator.com/item?id=48645152",
-    "engagement": "\ud83d\udc4d 272",
+    "engagement": "\ud83d\udc4d 387",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-23T14:03:19+00:00"
@@ -33,7 +66,7 @@
     "published": "2026-06-23T13:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "How to burst the AI bubble: Strike at its roots",
     "description": "\n                        Sci-fi author/tech journalist Cory Doctorow on his new book, <em>The Reverse Centaur's Guide to Life After AI</em>.\n                    ",
     "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
@@ -42,6 +75,28 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-23T12:00:34+00:00"
+  },
+  {
+    "id": "hn-48643489",
+    "title": "The Low-Tech AI of Elden Ring",
+    "description": "The Low-Tech AI of Elden Ring",
+    "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "source_link": "https://news.ycombinator.com/item?id=48643489",
+    "engagement": "\ud83d\udc4d 77",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T11:40:50+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+    "description": "<p>We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/glm...",
+    "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+    "source_link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T06:35:05+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -121,6 +176,17 @@
     "published": "2026-06-22T18:49:44+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
+    "description": "<p>Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/\">Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
+    "source_link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-22T18:42:59+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. For those of you enjoying your summer unaware of Anthropic\u2019s latest feud with the US government, here\u2019s a recap: In April the company said it had built an AI model called Mythos&#8230;",
@@ -152,6 +218,39 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-22T12:31:45+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
+    "description": "<p>The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/\">MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>...",
+    "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
+    "source_link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-22T07:13:49+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
+    "description": "<p>LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types \u2014 working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/\">The 7 Types of Agent Memory: A Technical Guide for AI Engineers</a> appear...",
+    "link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+    "source_link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-21T23:12:31+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+    "description": "<p>In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and JavaScript-rendered cards, and capture full-page screenshots. We then normalize the data, build a link graph, and export JSON, CSV, and RAG-ready JSONL chunks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/20/crawlee-for-p...",
+    "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+    "source_link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-21T06:52:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
