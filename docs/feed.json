@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+    "description": "<p>We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/glm...",
+    "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+    "source_link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T06:35:05+00:00"
+  },
+  {
+    "id": "hn-48639063",
+    "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+    "description": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+    "link": "https://openai.com/index/daybreak-securing-the-world/",
+    "source_link": "https://news.ycombinator.com/item?id=48639063",
+    "engagement": "\ud83d\udc4d 61",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-23T01:36:08+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "description": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -12,8 +34,8 @@
   },
   {
     "id": "rss-TechCrunch AI-1",
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "description": "OpenAI is attempting to tackle the security issues of the open source software community. ",
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "description": "OpenAI is using AI to help the open source community better protect itself.",
     "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "source_link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -66,7 +88,7 @@
     "published": "2026-06-22T18:49:44+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
     "description": "<p>Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/\">Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
@@ -121,7 +143,7 @@
     "published": "2026-06-22T12:31:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
     "description": "<p>The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/\">MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>...",
     "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
@@ -132,7 +154,7 @@
     "published": "2026-06-22T07:13:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
     "description": "<p>LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types \u2014 working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/\">The 7 Types of Agent Memory: A Technical Guide for AI Engineers</a> appear...",
     "link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
@@ -154,7 +176,7 @@
     "published": "2026-06-21T15:28:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
     "description": "<p>In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and JavaScript-rendered cards, and capture full-page screenshots. We then normalize the data, build a link graph, and export JSON, CSV, and RAG-ready JSONL chunks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/20/crawlee-for-p...",
     "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
@@ -165,7 +187,7 @@
     "published": "2026-06-21T06:52:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
     "description": "<p>Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization l...",
     "link": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
@@ -174,17 +196,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-20T23:04:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-    "description": "<p>We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its pre...",
-    "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-    "source_link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-20T09:05:23+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",

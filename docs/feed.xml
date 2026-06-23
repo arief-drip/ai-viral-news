@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:41:06 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,18 +193,10 @@
       <pubDate>Fri, 19 Jun 2026 10:40:24 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection</title>
-      <link>https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/</link>
-      <description>&lt;p&gt;&lt;p&gt;We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its pre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 20 Jun 2026 09:05:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration</title>
       <link>https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/</link>
       <description>&lt;p&gt;&lt;p&gt;Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization l...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 20 Jun 2026 23:04:55 +0000</pubDate>
     </item>
@@ -213,7 +205,7 @@
       <link>https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and JavaScript-rendered cards, and capture full-page screenshots. We then normalize the data, build a link graph, and export JSON, CSV, and RAG-ready JSONL chunks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/20/crawlee-for-p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 21 Jun 2026 06:52:10 +0000</pubDate>
     </item>
@@ -230,7 +222,7 @@
       <link>https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/</link>
       <description>&lt;p&gt;&lt;p&gt;LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/"&gt;The 7 Types of Agent Memory: A Technical Guide for AI Engineers&lt;/a&gt; appear...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 21 Jun 2026 23:12:31 +0000</pubDate>
     </item>
@@ -239,7 +231,7 @@
       <link>https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/</link>
       <description>&lt;p&gt;&lt;p&gt;The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/"&gt;MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 22 Jun 2026 07:13:49 +0000</pubDate>
     </item>
@@ -281,7 +273,7 @@
       <description>&lt;p&gt;&lt;p&gt;Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/"&gt;Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 22 Jun 2026 18:42:59 +0000</pubDate>
     </item>
@@ -318,9 +310,9 @@
       <pubDate>Mon, 22 Jun 2026 20:53:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI launches new initiative to help find and patch open-source bugs</title>
+      <title>[📰] OpenAI launches new initiative to help find and patch open source bugs</title>
       <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
-      <description>&lt;p&gt;OpenAI is attempting to tackle the security issues of the open source software community. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI is using AI to help the open source community better protect itself.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 23 Jun 2026 00:11:31 +0000</pubDate>
@@ -332,6 +324,23 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 23 Jun 2026 01:27:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI DayBreak – GPT-5.5-Cyber</title>
+      <link>https://openai.com/index/daybreak-securing-the-world/</link>
+      <description>&lt;p&gt;OpenAI DayBreak – GPT-5.5-Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48639063</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 23 Jun 2026 01:36:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval</title>
+      <link>https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/</link>
+      <description>&lt;p&gt;&lt;p&gt;We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/22/glm...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 23 Jun 2026 06:35:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
