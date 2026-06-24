@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
+    "description": "<p>In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...",
+    "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-24T09:36:59+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
+    "description": "<p>Generative AI has reshaped how software gets built. What began as line-by-line autocomplete now spans full application generation, multi-agent build pipelines, and natural-language interfaces to entire codebases. Large language models trained on code can read context, follow intent, and produce working frontends, backends, and infrastructure with little manual setup. For early-level AI engineers, software engineers, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/to...",
+    "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-24T08:12:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
     "description": "<p>UC San Diego's DFlash replaces autoregressive drafting with a lightweight block diffusion model for speculative decoding. It drafts whole token blocks in a single forward pass and conditions on target hidden features through KV injection. The paper reports up to 6.08x lossless speedup on Qwen3-8B, while NVIDIA reports up to 15x throughput on Blackwell at fixed interactivity. DFlash ships 20 checkpoints and supports SGLang, vLLM, and TensorRT-LLM.</p>\n<p>The post <a href=\"https://www.marktechp...",
     "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
@@ -11,7 +33,7 @@
     "published": "2026-06-24T07:21:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
     "description": "<p>Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/23/mistral-ocr-4/\">Mistral OCR 4 Brings...",
     "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
@@ -66,18 +88,7 @@
     "published": "2026-06-23T13:00:00+00:00"
   },
   {
-    "id": "hn-48643489",
-    "title": "The Low-Tech AI of Elden Ring",
-    "description": "The Low-Tech AI of Elden Ring",
-    "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "source_link": "https://news.ycombinator.com/item?id=48643489",
-    "engagement": "\ud83d\udc4d 138",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-23T11:40:50+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
     "description": "<p>We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/glm...",
     "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
@@ -165,17 +176,6 @@
     "published": "2026-06-22T18:49:44+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
-    "description": "<p>Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/\">Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-    "source_link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-22T18:42:59+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. For those of you enjoying your summer unaware of Anthropic\u2019s latest feud with the US government, here\u2019s a recap: In April the company said it had built an AI model called Mythos&#8230;",
@@ -196,17 +196,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-22T12:31:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
-    "description": "<p>The HIP kernel uses one-instruction asm wrappers and an eight-wave pipeline to outperform AMD's AITER v3 on MI300X.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/\">MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>...",
-    "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-    "source_link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-22T07:13:49+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
