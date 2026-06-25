@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+    "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
+    "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-25T05:39:53+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
     "description": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
@@ -55,7 +66,7 @@
     "published": "2026-06-24T20:09:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
     "description": "<p>Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.</p>\n<p...",
     "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
@@ -71,7 +82,7 @@
     "description": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
     "source_link": "https://news.ycombinator.com/item?id=48664814",
-    "engagement": "\ud83d\udc4d 78",
+    "engagement": "\ud83d\udc4d 334",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T19:48:01+00:00"
@@ -82,7 +93,7 @@
     "description": "OpenAI unveils its first custom chip, built by Broadcom",
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "source_link": "https://news.ycombinator.com/item?id=48663324",
-    "engagement": "\ud83d\udc4d 551",
+    "engagement": "\ud83d\udc4d 663",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T17:47:00+00:00"
@@ -93,7 +104,7 @@
     "description": "Computer use in Gemini 3.5 Flash",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
     "source_link": "https://news.ycombinator.com/item?id=48662999",
-    "engagement": "\ud83d\udc4d 178",
+    "engagement": "\ud83d\udc4d 207",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T17:21:34+00:00"
@@ -126,7 +137,7 @@
     "description": "RubyLLM: A Ruby framework for all major AI providers",
     "link": "https://rubyllm.com/",
     "source_link": "https://news.ycombinator.com/item?id=48660711",
-    "engagement": "\ud83d\udc4d 348",
+    "engagement": "\ud83d\udc4d 378",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T14:41:41+00:00"
@@ -143,7 +154,7 @@
     "published": "2026-06-24T11:59:54+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
     "description": "<p>In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...",
     "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
@@ -154,7 +165,7 @@
     "published": "2026-06-24T09:36:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
     "description": "<p>Generative AI has reshaped how software gets built. What began as line-by-line autocomplete now spans full application generation, multi-agent build pipelines, and natural-language interfaces to entire codebases. Large language models trained on code can read context, follow intent, and produce working frontends, backends, and infrastructure with little manual setup. For early-level AI engineers, software engineers, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/to...",
     "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
@@ -165,7 +176,7 @@
     "published": "2026-06-24T08:12:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
     "description": "<p>UC San Diego's DFlash replaces autoregressive drafting with a lightweight block diffusion model for speculative decoding. It drafts whole token blocks in a single forward pass and conditions on target hidden features through KV injection. The paper reports up to 6.08x lossless speedup on Qwen3-8B, while NVIDIA reports up to 15x throughput on Blackwell at fixed interactivity. DFlash ships 20 checkpoints and supports SGLang, vLLM, and TensorRT-LLM.</p>\n<p>The post <a href=\"https://www.marktechp...",
     "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
@@ -176,7 +187,7 @@
     "published": "2026-06-24T07:21:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines",
     "description": "<p>Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/23/mistral-ocr-4/\">Mistral OCR 4 Brings...",
     "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",

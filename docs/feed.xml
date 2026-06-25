@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:35:36 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -205,7 +205,7 @@
       <link>https://www.marktechpost.com/2026/06/23/mistral-ocr-4/</link>
       <description>&lt;p&gt;&lt;p&gt;Mistral AI released OCR 4 on June 23, 2026, moving from clean text extraction to structured document output. Each block returns a bounding box, a typed classification, and per-page and per-word confidence scores. The model supports 170 languages, runs in a single self-hosted container, and feeds citation-ready inputs into RAG, agentic, and enterprise search pipelines through one API endpoint.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/23/mistral-ocr-4/"&gt;Mistral OCR 4 Brings...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 23 Jun 2026 23:43:43 +0000</pubDate>
     </item>
@@ -214,7 +214,7 @@
       <link>https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/</link>
       <description>&lt;p&gt;&lt;p&gt;UC San Diego's DFlash replaces autoregressive drafting with a lightweight block diffusion model for speculative decoding. It drafts whole token blocks in a single forward pass and conditions on target hidden features through KV injection. The paper reports up to 6.08x lossless speedup on Qwen3-8B, while NVIDIA reports up to 15x throughput on Blackwell at fixed interactivity. DFlash ships 20 checkpoints and supports SGLang, vLLM, and TensorRT-LLM.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechp...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 07:21:10 +0000</pubDate>
     </item>
@@ -223,7 +223,7 @@
       <link>https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;Generative AI has reshaped how software gets built. What began as line-by-line autocomplete now spans full application generation, multi-agent build pipelines, and natural-language interfaces to entire codebases. Large language models trained on code can read context, follow intent, and produce working frontends, backends, and infrastructure with little manual setup. For early-level AI engineers, software engineers, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/24/to...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 08:12:27 +0000</pubDate>
     </item>
@@ -231,7 +231,7 @@
       <title>[📰] Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations</title>
       <link>https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 09:36:59 +0000</pubDate>
     </item>
@@ -246,7 +246,7 @@
     <item>
       <title>[📰] RubyLLM: A Ruby framework for all major AI providers</title>
       <link>https://rubyllm.com/</link>
-      <description>&lt;p&gt;RubyLLM: A Ruby framework for all major AI providers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 348&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;RubyLLM: A Ruby framework for all major AI providers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 378&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48660711</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 14:41:41 +0000</pubDate>
@@ -270,7 +270,7 @@
     <item>
       <title>[📰] Computer use in Gemini 3.5 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</link>
-      <description>&lt;p&gt;Computer use in Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 178&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Computer use in Gemini 3.5 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 207&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48662999</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 17:21:34 +0000</pubDate>
@@ -278,7 +278,7 @@
     <item>
       <title>[📰] OpenAI unveils its first custom chip, built by Broadcom</title>
       <link>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</link>
-      <description>&lt;p&gt;OpenAI unveils its first custom chip, built by Broadcom&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 551&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI unveils its first custom chip, built by Broadcom&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 663&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48663324</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 17:47:00 +0000</pubDate>
@@ -286,7 +286,7 @@
     <item>
       <title>[📰] Anthropic says Alibaba illicitly extracted Claude AI model capabilities</title>
       <link>https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</link>
-      <description>&lt;p&gt;Anthropic says Alibaba illicitly extracted Claude AI model capabilities&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic says Alibaba illicitly extracted Claude AI model capabilities&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48664814</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 19:48:01 +0000</pubDate>
@@ -296,7 +296,7 @@
       <link>https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/</link>
       <description>&lt;p&gt;&lt;p&gt;Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.&lt;/p&gt;
 &lt;p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 20:00:21 +0000</pubDate>
     </item>
@@ -341,6 +341,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 22:41:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing</title>
+      <link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
+      <description>&lt;p&gt;&lt;p&gt;Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
