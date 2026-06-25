@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 18:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:23:19 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -236,14 +236,6 @@
       <pubDate>Wed, 24 Jun 2026 11:59:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic says Alibaba illicitly extracted Claude AI model capabilities</title>
-      <link>https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</link>
-      <description>&lt;p&gt;Anthropic says Alibaba illicitly extracted Claude AI model capabilities&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 707&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48664814</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 19:48:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency</title>
       <link>https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/</link>
       <description>&lt;p&gt;&lt;p&gt;Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.&lt;/p&gt;
@@ -251,32 +243,6 @@
       <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 20:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI and Broadcom announce chip designed for LLM inference at scale</title>
-      <link>https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/</link>
-      <description>&lt;p&gt;
-                        The silicon race is heating up amid the struggle to keep up with demand.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 22:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood</title>
-      <link>https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/</link>
-      <description>&lt;p&gt;In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 22:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Show HN: Bible as RAG Database</title>
-      <link>https://www.crosscanon.com/</link>
-      <description>&lt;p&gt;Show HN: Bible as RAG Database&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 96&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48667807</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 25 Jun 2026 01:42:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing</title>
@@ -291,9 +257,17 @@
       <title>[📰] Amazon ups India bet with fresh $13B AI infrastructure investment</title>
       <link>https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/</link>
       <description>&lt;p&gt;Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 12:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Political bias in AI: Where the AI models stand</title>
+      <link>https://trakkr.ai/bias</link>
+      <description>&lt;p&gt;Political bias in AI: Where the AI models stand&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48672779</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 13:08:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Repositioning retail for the AI era</title>
@@ -307,15 +281,23 @@
       <title>[📰] Netris raises $15M Series A from a16z to help AI neoclouds go live faster</title>
       <link>https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/</link>
       <description>&lt;p&gt;Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 14:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion</title>
+      <link>https://github.com/inkeep/open-knowledge</link>
+      <description>&lt;p&gt;Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 104&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48675435</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 16:04:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x</title>
       <link>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</link>
       <description>&lt;p&gt;Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 16:48:11 +0000</pubDate>
     </item>
@@ -323,7 +305,7 @@
       <title>[📰] General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
       <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
       <description>&lt;p&gt;General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
     </item>
@@ -331,9 +313,47 @@
       <title>[📰] Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
       <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
       <description>&lt;p&gt;Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic says Alibaba must be punished for largest Claude cloning attack</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</link>
+      <description>&lt;p&gt;
+                        Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 18:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google finally releases a Finance Android app, promises iOS version later in 2026</title>
+      <link>https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/</link>
+      <description>&lt;p&gt;
+                        It took 20 years, but the Finance app arrives just in time to be packed full of AI. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 18:38:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Notion killing Skiff-influenced email app since most users use AI agents instead</title>
+      <link>https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/</link>
+      <description>&lt;p&gt;
+                        Notion is "going all in on using agents to run your inbox." 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 19:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents</title>
+      <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
+      <description>&lt;p&gt;Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 25 Jun 2026 20:19:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
