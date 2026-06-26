@@ -1,17 +1,94 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "description": "\n                        NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T20:04:55+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "description": "<p>OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/\">OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "source_link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T19:18:58+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+    "description": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "source_link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T18:32:14+00:00"
+  },
+  {
+    "id": "hn-48690101",
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "description": "U.S. government will decide who gets to use GPT-5.6",
+    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "source_link": "https://news.ycombinator.com/item?id=48690101",
+    "engagement": "\ud83d\udc4d 488",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T18:23:14+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "source_link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T18:19:36+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "source_link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T17:43:22+00:00"
+  },
+  {
     "id": "hn-48689028",
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "description": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "source_link": "https://news.ycombinator.com/item?id=48689028",
-    "engagement": "\ud83d\udc4d 142",
+    "engagement": "\ud83d\udc4d 616",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T17:06:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "hn-48688700",
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "description": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "link": "https://github.com/workweave/router",
+    "source_link": "https://news.ycombinator.com/item?id=48688700",
+    "engagement": "\ud83d\udc4d 105",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T16:40:11+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
     "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
     "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
@@ -22,7 +99,7 @@
     "published": "2026-06-26T16:24:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
     "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
     "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
@@ -33,18 +110,29 @@
     "published": "2026-06-26T14:00:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
+    "description": "<p>In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...",
+    "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+    "source_link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T08:00:07+00:00"
+  },
+  {
     "id": "hn-48681687",
     "title": "What happened after 2k people tried to hack my AI assistant",
     "description": "What happened after 2k people tried to hack my AI assistant",
     "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
     "source_link": "https://news.ycombinator.com/item?id=48681687",
-    "engagement": "\ud83d\udc4d 303",
+    "engagement": "\ud83d\udc4d 339",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T02:29:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -55,7 +143,7 @@
     "published": "2026-06-25T23:34:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
     "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
@@ -66,40 +154,7 @@
     "published": "2026-06-25T20:19:25+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "description": "\n                        Notion is \"going all in on using agents to run your inbox.\" \n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "source_link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T19:04:57+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-    "description": "\n                        It took 20 years, but the Finance app arrives just in time to be packed full of AI. \n                    ",
-    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-    "source_link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T18:38:51+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-    "description": "\n                        Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T18:01:48+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
     "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. ",
     "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
@@ -110,7 +165,7 @@
     "published": "2026-06-25T17:38:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-8",
     "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
     "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
     "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
@@ -119,39 +174,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-25T16:55:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-    "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "source_link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T16:48:11+00:00"
-  },
-  {
-    "id": "hn-48675435",
-    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
-    "description": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
-    "link": "https://github.com/inkeep/open-knowledge",
-    "source_link": "https://news.ycombinator.com/item?id=48675435",
-    "engagement": "\ud83d\udc4d 345",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T16:04:46+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "source_link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T14:55:38+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -165,6 +187,28 @@
     "published": "2026-06-25T14:22:59+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+    "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
+    "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-25T05:39:53+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+    "description": "<p>Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.</p>\n<p...",
+    "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-24T20:00:21+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "The emergence of the web data infrastructure layer for AI",
     "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
@@ -174,6 +218,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T11:59:54+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
+    "description": "<p>In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...",
+    "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-24T09:36:59+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
