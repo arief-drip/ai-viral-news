@@ -1,14 +1,36 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
+    "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source_link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T12:00:00+00:00"
+  },
+  {
     "id": "hn-48696585",
-    "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
-    "description": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48696585",
-    "engagement": "\ud83d\udc4d 55",
+    "engagement": "\ud83d\udc4d 478",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T09:18:52+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meta\u2019s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+    "description": "<p>Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/\">Meta&#8217;s Astryx Brings a CLI and MCP Server to an Open-So...",
+    "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+    "source_link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T08:38:26+00:00"
   },
   {
     "id": "hn-48692995",
@@ -16,7 +38,7 @@
     "description": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
     "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
     "source_link": "https://news.ycombinator.com/item?id=48692995",
-    "engagement": "\ud83d\udc4d 433",
+    "engagement": "\ud83d\udc4d 481",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T22:48:28+00:00"
@@ -27,7 +49,7 @@
     "description": "AI in mathematics is forcing big questions",
     "link": "https://spectrum.ieee.org/ai-in-mathematics",
     "source_link": "https://news.ycombinator.com/item?id=48692883",
-    "engagement": "\ud83d\udc4d 125",
+    "engagement": "\ud83d\udc4d 154",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T22:36:51+00:00"
@@ -44,7 +66,18 @@
     "published": "2026-06-26T20:04:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-MarkTechPost-1",
+    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
+    "description": "<p>OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/\">OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "source_link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T19:18:58+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
     "description": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -60,13 +93,13 @@
     "description": "U.S. government will decide who gets to use GPT-5.6",
     "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
     "source_link": "https://news.ycombinator.com/item?id=48690101",
-    "engagement": "\ud83d\udc4d 1,028",
+    "engagement": "\ud83d\udc4d 1,077",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T18:23:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
     "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
@@ -77,7 +110,7 @@
     "published": "2026-06-26T18:19:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
@@ -93,24 +126,13 @@
     "description": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "source_link": "https://news.ycombinator.com/item?id=48689028",
-    "engagement": "\ud83d\udc4d 1,003",
+    "engagement": "\ud83d\udc4d 1,035",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T17:06:55+00:00"
   },
   {
-    "id": "hn-48688700",
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "description": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "link": "https://github.com/workweave/router",
-    "source_link": "https://news.ycombinator.com/item?id=48688700",
-    "engagement": "\ud83d\udc4d 167",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T16:40:11+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
     "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
     "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
@@ -121,7 +143,7 @@
     "published": "2026-06-26T16:24:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
     "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
     "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
@@ -132,7 +154,18 @@
     "published": "2026-06-26T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-MarkTechPost-2",
+    "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
+    "description": "<p>In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...",
+    "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+    "source_link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-26T08:00:07+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-6",
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -143,7 +176,7 @@
     "published": "2026-06-25T23:34:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
     "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
@@ -152,17 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-25T20:19:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. ",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "source_link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T17:38:27+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -174,6 +196,28 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-25T14:22:59+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
+    "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
+    "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-25T05:39:53+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
+    "description": "<p>Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.</p>\n<p...",
+    "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "source_link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-24T20:00:21+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
