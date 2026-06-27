@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "source_link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T16:45:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
+    "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude. ",
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "source_link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T14:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
     "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
     "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -16,7 +38,7 @@
     "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48696585",
-    "engagement": "\ud83d\udc4d 478",
+    "engagement": "\ud83d\udc4d 634",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T09:18:52+00:00"
@@ -31,28 +53,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T08:38:26+00:00"
-  },
-  {
-    "id": "hn-48692995",
-    "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-    "description": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "source_link": "https://news.ycombinator.com/item?id=48692995",
-    "engagement": "\ud83d\udc4d 481",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T22:48:28+00:00"
-  },
-  {
-    "id": "hn-48692883",
-    "title": "AI in mathematics is forcing big questions",
-    "description": "AI in mathematics is forcing big questions",
-    "link": "https://spectrum.ieee.org/ai-in-mathematics",
-    "source_link": "https://news.ycombinator.com/item?id=48692883",
-    "engagement": "\ud83d\udc4d 154",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T22:36:51+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -77,7 +77,7 @@
     "published": "2026-06-26T19:18:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
     "description": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -88,18 +88,7 @@
     "published": "2026-06-26T18:32:14+00:00"
   },
   {
-    "id": "hn-48690101",
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "description": "U.S. government will decide who gets to use GPT-5.6",
-    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "source_link": "https://news.ycombinator.com/item?id=48690101",
-    "engagement": "\ud83d\udc4d 1,077",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T18:23:14+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
     "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
@@ -110,7 +99,7 @@
     "published": "2026-06-26T18:19:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
@@ -126,13 +115,13 @@
     "description": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "source_link": "https://news.ycombinator.com/item?id=48689028",
-    "engagement": "\ud83d\udc4d 1,035",
+    "engagement": "\ud83d\udc4d 1,073",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T17:06:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
     "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
     "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
@@ -143,7 +132,7 @@
     "published": "2026-06-26T16:24:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
     "description": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
     "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
@@ -163,28 +152,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T08:00:07+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "source_link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T23:34:39+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
-    "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "source_link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T20:19:25+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
