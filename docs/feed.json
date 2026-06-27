@@ -11,17 +11,6 @@
     "published": "2026-06-26T20:04:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-    "description": "<p>OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/\">OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-    "source_link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T19:18:58+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
     "description": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
@@ -38,7 +27,7 @@
     "description": "U.S. government will decide who gets to use GPT-5.6",
     "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
     "source_link": "https://news.ycombinator.com/item?id=48690101",
-    "engagement": "\ud83d\udc4d 488",
+    "engagement": "\ud83d\udc4d 840",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T18:23:14+00:00"
@@ -71,7 +60,7 @@
     "description": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "source_link": "https://news.ycombinator.com/item?id=48689028",
-    "engagement": "\ud83d\udc4d 616",
+    "engagement": "\ud83d\udc4d 860",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T17:06:55+00:00"
@@ -82,7 +71,7 @@
     "description": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "link": "https://github.com/workweave/router",
     "source_link": "https://news.ycombinator.com/item?id=48688700",
-    "engagement": "\ud83d\udc4d 105",
+    "engagement": "\ud83d\udc4d 149",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T16:40:11+00:00"
@@ -108,28 +97,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T14:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
-    "description": "<p>In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...",
-    "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
-    "source_link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T08:00:07+00:00"
-  },
-  {
-    "id": "hn-48681687",
-    "title": "What happened after 2k people tried to hack my AI assistant",
-    "description": "What happened after 2k people tried to hack my AI assistant",
-    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "source_link": "https://news.ycombinator.com/item?id=48681687",
-    "engagement": "\ud83d\udc4d 339",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T02:29:23+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -165,17 +132,6 @@
     "published": "2026-06-25T17:38:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
-    "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "source_link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T16:55:00+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Repositioning retail for the AI era",
     "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
@@ -187,28 +143,6 @@
     "published": "2026-06-25T14:22:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
-    "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
-    "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-    "source_link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T05:39:53+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
-    "description": "<p>Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.</p>\n<p...",
-    "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-    "source_link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-24T20:00:21+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "The emergence of the web data infrastructure layer for AI",
     "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
@@ -218,17 +152,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T11:59:54+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations",
-    "description": "<p>In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...",
-    "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
-    "source_link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-24T09:36:59+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",

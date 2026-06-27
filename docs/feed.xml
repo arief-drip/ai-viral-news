@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 21:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 02:27:11 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,14 +193,6 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Using Graphify and NetworkX to Map Python Codebase Structure with God Nodes, Communities, and Architecture Visualizations</title>
-      <link>https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a fully offline Graphify pipeline that turns a multi-module Python application into a knowledge graph. We install Graphify, generate a connected sample app, and extract the graph locally using tree-sitter, with no API key or LLM backend. We load graph.json into NetworkX and analyze file types, relationship types, centrality scores, community detection, and shortest paths. We then create static and interactive visualizations to see how modules, classes, functions, an...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 09:36:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The emergence of the web data infrastructure layer for AI</title>
       <link>https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/</link>
       <description>&lt;p&gt;AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&amp;#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -209,38 +201,12 @@
       <pubDate>Wed, 24 Jun 2026 11:59:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency</title>
-      <link>https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/</link>
-      <description>&lt;p&gt;&lt;p&gt;Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.&lt;/p&gt;
-&lt;p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 20:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing</title>
-      <link>https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/</link>
-      <description>&lt;p&gt;&lt;p&gt;Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 25 Jun 2026 05:39:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Repositioning retail for the AI era</title>
       <link>https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/</link>
       <description>&lt;p&gt;Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 14:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] General Intuition’s $2.3B bet that video games can train AI agents for the real world</title>
-      <link>https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/</link>
-      <description>&lt;p&gt;General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 25 Jun 2026 16:55:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT</title>
@@ -267,22 +233,6 @@
       <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] What happened after 2k people tried to hack my AI assistant</title>
-      <link>https://www.fernandoi.cl/posts/hackmyclaw/</link>
-      <description>&lt;p&gt;What happened after 2k people tried to hack my AI assistant&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 339&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48681687</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 02:29:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers</title>
-      <link>https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 08:00:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
       <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
       <description>&lt;p&gt;Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&amp;#160;&amp;#160; OpenAI just shared its plans to spice things up with&amp;#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&amp;#160;is&amp;#160;less&amp;#160;of&amp;#160;a [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -301,7 +251,7 @@
     <item>
       <title>[📰] Show HN: Smart model routing directly in Claude, Codex and Cursor</title>
       <link>https://github.com/workweave/router</link>
-      <description>&lt;p&gt;Show HN: Smart model routing directly in Claude, Codex and Cursor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 105&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Smart model routing directly in Claude, Codex and Cursor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 149&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48688700</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 16:40:11 +0000</pubDate>
@@ -309,7 +259,7 @@
     <item>
       <title>[📰] Previewing GPT‑5.6 Sol: a next-generation model</title>
       <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <description>&lt;p&gt;Previewing GPT‑5.6 Sol: a next-generation model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 616&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Previewing GPT‑5.6 Sol: a next-generation model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 860&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48689028</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 17:06:55 +0000</pubDate>
@@ -333,7 +283,7 @@
     <item>
       <title>[📰] U.S. government will decide who gets to use GPT-5.6</title>
       <link>https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/</link>
-      <description>&lt;p&gt;U.S. government will decide who gets to use GPT-5.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 488&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;U.S. government will decide who gets to use GPT-5.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 840&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48690101</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 18:23:14 +0000</pubDate>
@@ -345,16 +295,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</title>
-      <link>https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/"&gt;OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 19:18:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI</title>
