@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60\u201385% Over MTP-1",
+    "description": "<p>DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16\u201331% over DFlash and Eagle3; in production it speeds per-user generation 57\u201385% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...",
+    "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+    "source_link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T16:59:58+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
@@ -22,6 +33,17 @@
     "published": "2026-06-27T14:00:00+00:00"
   },
   {
+    "id": "hn-48697958",
+    "title": "Asian AI startups launch Mythos-like models",
+    "description": "Asian AI startups launch Mythos-like models",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source_link": "https://news.ycombinator.com/item?id=48697958",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-27T13:10:21+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-2",
     "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
     "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
@@ -38,13 +60,13 @@
     "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48696585",
-    "engagement": "\ud83d\udc4d 634",
+    "engagement": "\ud83d\udc4d 691",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T09:18:52+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meta\u2019s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
     "description": "<p>Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/\">Meta&#8217;s Astryx Brings a CLI and MCP Server to an Open-So...",
     "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
@@ -66,7 +88,7 @@
     "published": "2026-06-26T20:04:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
     "description": "<p>OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/\">OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
@@ -110,17 +132,6 @@
     "published": "2026-06-26T17:43:22+00:00"
   },
   {
-    "id": "hn-48689028",
-    "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-    "description": "Previewing GPT\u20115.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "source_link": "https://news.ycombinator.com/item?id=48689028",
-    "engagement": "\ud83d\udc4d 1,073",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T17:06:55+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-6",
     "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
     "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
@@ -143,7 +154,7 @@
     "published": "2026-06-26T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
     "description": "<p>In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...",
     "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
@@ -165,7 +176,7 @@
     "published": "2026-06-25T14:22:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
     "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
     "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
@@ -176,15 +187,15 @@
     "published": "2026-06-25T05:39:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency",
-    "description": "<p>Gradium released two real-time speech translation models, stt-translate and s2s-translate, covering English, French, German, Spanish, and Portuguese across 20 language pairs. The models collapse the standard three-model cascade into two, pairing single-pass transcription-and-translation with a Gradium TTS stage over one duplex WebSocket. Gradium reports a better accuracy-latency tradeoff than gpt-realtime-translate and gemini-3.5-live-translate, plus output voice selection and cloning.</p>\n<p...",
-    "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-    "source_link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-48660021",
+    "title": "AI learns the \u201cdark art\u201d of RFIC design",
+    "description": "AI learns the \u201cdark art\u201d of RFIC design",
+    "link": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "source_link": "https://news.ycombinator.com/item?id=48660021",
+    "engagement": "\ud83d\udc4d 133",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-24T20:00:21+00:00"
+    "published": "2026-06-24T14:02:16+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
