@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 07:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:21:32 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -185,6 +185,14 @@
       <pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Shipping huggingface_hub every week with AI, open tools, and a human in the loop</title>
+      <link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] The emergence of the web data infrastructure layer for AI</title>
       <link>https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/</link>
       <description>&lt;p&gt;AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&amp;#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -195,7 +203,7 @@
     <item>
       <title>[📰] AI learns the “dark art” of RFIC design</title>
       <link>https://spectrum.ieee.org/ai-radio-chip-design</link>
-      <description>&lt;p&gt;AI learns the “dark art” of RFIC design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 227&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI learns the “dark art” of RFIC design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 232&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48660021</guid>
       <category>AI News</category>
       <pubDate>Wed, 24 Jun 2026 14:02:16 +0000</pubDate>
@@ -207,6 +215,14 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 14:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers</title>
+      <link>https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 26 Jun 2026 08:00:07 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
@@ -249,6 +265,16 @@
       <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</title>
+      <link>https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/"&gt;OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 26 Jun 2026 19:18:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI</title>
       <link>https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/</link>
       <description>&lt;p&gt;
@@ -259,9 +285,18 @@
       <pubDate>Fri, 26 Jun 2026 20:04:55 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read</title>
+      <link>https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/"&gt;Meta&amp;#8217;s Astryx Brings a CLI and MCP Server to an Open-So...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 27 Jun 2026 08:38:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] DSpark: Speculative decoding accelerates LLM inference [pdf]</title>
       <link>https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf</link>
-      <description>&lt;p&gt;DSpark: Speculative decoding accelerates LLM inference [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 754&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DSpark: Speculative decoding accelerates LLM inference [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 762&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48696585</guid>
       <category>AI News</category>
       <pubDate>Sat, 27 Jun 2026 09:18:52 +0000</pubDate>
@@ -277,7 +312,7 @@
     <item>
       <title>[📰] Asian AI startups launch Mythos-like models</title>
       <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
-      <description>&lt;p&gt;Asian AI startups launch Mythos-like models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 218&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Asian AI startups launch Mythos-like models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 234&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48697958</guid>
       <category>AI News</category>
       <pubDate>Sat, 27 Jun 2026 13:10:21 +0000</pubDate>
@@ -299,20 +334,37 @@
       <pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1</title>
+      <link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16–31% over DFlash and Eagle3; in production it speeds per-user generation 57–85% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] The best response to AI slop and online noise is from Robin Williams</title>
       <link>https://jayacunzo.com/blog/your-move-chief</link>
-      <description>&lt;p&gt;The best response to AI slop and online noise is from Robin Williams&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 187&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The best response to AI slop and online noise is from Robin Williams&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 229&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48703452</guid>
       <category>AI News</category>
       <pubDate>Sun, 28 Jun 2026 01:28:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ford hired AI and sacked humans. It backfired badly</title>
-      <link>https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</link>
-      <description>&lt;p&gt;Ford hired AI and sacked humans. It backfired badly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 152&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48703968</guid>
+      <title>[📰] Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
+      <link>https://github.com/itsthelore/wayfinder-router</link>
+      <description>&lt;p&gt;Wayfinder Router: deterministic routing of queries between local and hosted LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48704373</guid>
       <category>AI News</category>
-      <pubDate>Sun, 28 Jun 2026 03:09:13 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
+      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-230M, its smallest model yet. The 230M-parameter, open-weight model runs on-device at 213 tok/s on a Galaxy S25 Ultra and 42 on a Raspberry Pi 5. Built on the LFM2 architecture, it targets tool use and data extraction, beating larger models like Qwen3.5-0.8B and Gemma 3 1B on instruction following.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/"&gt;Liqu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
