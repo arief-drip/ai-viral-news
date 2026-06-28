@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:59:29 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -201,14 +201,6 @@
       <pubDate>Wed, 24 Jun 2026 11:59:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI learns the “dark art” of RFIC design</title>
-      <link>https://spectrum.ieee.org/ai-radio-chip-design</link>
-      <description>&lt;p&gt;AI learns the “dark art” of RFIC design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 248&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48660021</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 24 Jun 2026 14:02:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Repositioning retail for the AI era</title>
       <link>https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/</link>
       <description>&lt;p&gt;Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -217,26 +209,10 @@
       <pubDate>Thu, 25 Jun 2026 14:22:59 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers</title>
-      <link>https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 08:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia</title>
-      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
-      <description>&lt;p&gt;Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&amp;#160;&amp;#160; OpenAI just shared its plans to spice things up with&amp;#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&amp;#160;is&amp;#160;less&amp;#160;of&amp;#160;a [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] It’s not about Anthropic vs. OpenAI anymore</title>
       <link>https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/</link>
       <description>&lt;p&gt;AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
     </item>
@@ -244,7 +220,7 @@
       <title>[📰] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)</title>
       <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
       <description>&lt;p&gt;Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&amp;#160;&amp;#160; OpenAI just shared its plans to spice things up with&amp;#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&amp;#160;is&amp;#160;less&amp;#160;of&amp;#160;a [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
     </item>
@@ -252,7 +228,7 @@
       <title>[📰] OpenAI poaches Uber India chief to lead its biggest market outside the US</title>
       <link>https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/</link>
       <description>&lt;p&gt;The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 18:19:36 +0000</pubDate>
     </item>
@@ -260,19 +236,9 @@
       <title>[📰] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm</title>
       <link>https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/</link>
       <description>&lt;p&gt;“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 26 Jun 2026 18:32:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</title>
-      <link>https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/"&gt;OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 26 Jun 2026 19:18:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI</title>
@@ -285,19 +251,10 @@
       <pubDate>Fri, 26 Jun 2026 20:04:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read</title>
-      <link>https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/"&gt;Meta&amp;#8217;s Astryx Brings a CLI and MCP Server to an Open-So...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 27 Jun 2026 08:38:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on</title>
       <link>https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</link>
       <description>&lt;p&gt;New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 27 Jun 2026 12:00:00 +0000</pubDate>
     </item>
@@ -305,7 +262,7 @@
       <title>[📰] The fittest founder in the room got cancer. Here’s how he used AI to fight back.</title>
       <link>https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/</link>
       <description>&lt;p&gt;When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 27 Jun 2026 14:00:00 +0000</pubDate>
     </item>
@@ -313,42 +270,41 @@
       <title>[📰] Apple Vision Pro exec is reportedly leaving for OpenAI</title>
       <link>https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/</link>
       <description>&lt;p&gt;Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 27 Jun 2026 16:45:09 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1</title>
-      <link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
-      <description>&lt;p&gt;&lt;p&gt;DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16–31% over DFlash and Eagle3; in production it speeds per-user generation 57–85% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The best response to AI slop and online noise is from Robin Williams</title>
-      <link>https://jayacunzo.com/blog/your-move-chief</link>
-      <description>&lt;p&gt;The best response to AI slop and online noise is from Robin Williams&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 295&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48703452</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 28 Jun 2026 01:28:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Wayfinder Router: deterministic routing of queries between local and hosted LLM</title>
       <link>https://github.com/itsthelore/wayfinder-router</link>
-      <description>&lt;p&gt;Wayfinder Router: deterministic routing of queries between local and hosted LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 86&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wayfinder Router: deterministic routing of queries between local and hosted LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 100&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48704373</guid>
       <category>AI News</category>
       <pubDate>Sun, 28 Jun 2026 04:31:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
-      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-230M, its smallest model yet. The 230M-parameter, open-weight model runs on-device at 213 tok/s on a Galaxy S25 Ultra and 42 on a Raspberry Pi 5. Built on the LFM2 architecture, it targets tool use and data extraction, beating larger models like Qwen3.5-0.8B and Gemma 3 1B on instruction following.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/"&gt;Liqu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] A way to exclude sensitive files issue still open for OpenAI Codex</title>
+      <link>https://github.com/openai/codex/issues/2847</link>
+      <description>&lt;p&gt;A way to exclude sensitive files issue still open for OpenAI Codex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 118&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48706714</guid>
       <category>AI News</category>
-      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 12:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google limits Meta's use of its Gemini AI models</title>
+      <link>https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html</link>
+      <description>&lt;p&gt;Google limits Meta's use of its Gemini AI models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 96&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48707103</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 28 Jun 2026 13:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Why Wall Street thinks US memory maker Micron is the next Nvidia</title>
+      <link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
+      <description>&lt;p&gt;Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 28 Jun 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
