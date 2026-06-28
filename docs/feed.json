@@ -1,14 +1,25 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60\u201385% Over MTP-1",
-    "description": "<p>DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16\u201331% over DFlash and Eagle3; in production it speeds per-user generation 57\u201385% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...",
-    "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
-    "source_link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-48703968",
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "description": "Ford hired AI and sacked humans. It backfired badly",
+    "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "source_link": "https://news.ycombinator.com/item?id=48703968",
+    "engagement": "\ud83d\udc4d 152",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-06-27T16:59:58+00:00"
+    "published": "2026-06-28T03:09:13+00:00"
+  },
+  {
+    "id": "hn-48703452",
+    "title": "The best response to AI slop and online noise is from Robin Williams",
+    "description": "The best response to AI slop and online noise is from Robin Williams",
+    "link": "https://jayacunzo.com/blog/your-move-chief",
+    "source_link": "https://news.ycombinator.com/item?id=48703452",
+    "engagement": "\ud83d\udc4d 187",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-28T01:28:10+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -38,7 +49,7 @@
     "description": "Asian AI startups launch Mythos-like models",
     "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "source_link": "https://news.ycombinator.com/item?id=48697958",
-    "engagement": "\ud83d\udc4d 152",
+    "engagement": "\ud83d\udc4d 218",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T13:10:21+00:00"
@@ -60,21 +71,10 @@
     "description": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
     "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48696585",
-    "engagement": "\ud83d\udc4d 730",
+    "engagement": "\ud83d\udc4d 754",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-27T09:18:52+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Meta\u2019s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
-    "description": "<p>Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/\">Meta&#8217;s Astryx Brings a CLI and MCP Server to an Open-So...",
-    "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
-    "source_link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-27T08:38:26+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -86,17 +86,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-26T20:04:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access",
-    "description": "<p>OpenAI's GPT-5.6 family adds tiered models with max and ultra reasoning. Here is what early-level engineers should know.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/\">OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-    "source_link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T19:18:58+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -154,17 +143,6 @@
     "published": "2026-06-26T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Build a Nanobot-Style AI Agent in Google Colab with Tool Calling, Session Memory, Skills, and MCP Servers",
-    "description": "<p>In this tutorial, we build a lightweight personal AI agent inspired by the architecture of nanobot, runnable entirely in Google Colab. We start from a provider abstraction, then add tool registration, session memory, lifecycle hooks, skills, and an MCP-style tool server. Rather than rely on an external framework, we recreate each building block ourselves to see how messages, tools, memory, and model responses fit together. The result is a provider-agnostic agent loop we can extend toward real...",
-    "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
-    "source_link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-26T08:00:07+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Repositioning retail for the AI era",
     "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
@@ -176,23 +154,12 @@
     "published": "2026-06-25T14:22:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
-    "description": "<p>Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window Attention (R-SWA) holds the KV cache constant, so memory and latency stay flat as output grows. It scores 93.23 on OmniDocBench v1.5, beating the DeepSeek OCR baseline by 6.22 points, under an MIT license.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-lo...",
-    "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-    "source_link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-25T05:39:53+00:00"
-  },
-  {
     "id": "hn-48660021",
     "title": "AI learns the \u201cdark art\u201d of RFIC design",
     "description": "AI learns the \u201cdark art\u201d of RFIC design",
     "link": "https://spectrum.ieee.org/ai-radio-chip-design",
     "source_link": "https://news.ycombinator.com/item?id=48660021",
-    "engagement": "\ud83d\udc4d 194",
+    "engagement": "\ud83d\udc4d 227",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T14:02:16+00:00"
@@ -207,17 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-24T11:59:54+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-0",
-    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-    "description": "",
-    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "source_link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-23T00:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
