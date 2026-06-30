@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:22:41 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -156,7 +156,7 @@
       <title>[📰] Shipping huggingface_hub every week with AI, open tools, and a human in the loop</title>
       <link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
+      <guid isPermaLink="false">rss-HuggingFace Blog-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -175,6 +175,41 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 25 Jun 2026 14:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1</title>
+      <link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16–31% over DFlash and Eagle3; in production it speeds per-user generation 57–85% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
+      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-230M, its smallest model yet. The 230M-parameter, open-weight model runs on-device at 213 tok/s on a Galaxy S25 Ultra and 42 on a Raspberry Pi 5. Built on the LFM2 architecture, it targets tool use and data extraction, beating larger models like Qwen3.5-0.8B and Gemma 3 1B on instruction following.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/"&gt;Liqu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Top 6 No-Code Tools for AI Engineers/Developers</title>
+      <link>https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/</link>
+      <description>&lt;p&gt;&lt;p&gt;In today’s AI-driven world, no-code tools are transforming how people create and deploy intelligent applications. They empower anyone—regardless of coding expertise—to build solutions quickly and efficiently. From developing enterprise-grade RAG systems to designing multi-agent workflows or fine-tuning hundreds of LLMs, these platforms dramatically reduce development time and effort. In this article, we’ll explore six powerful [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/20...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 03:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills</title>
+      <link>https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/</link>
+      <description>&lt;p&gt;&lt;p&gt;EverMind has open-sourced EverOS, a local-first memory runtime that stores AI agent memory as plain Markdown indexed by SQLite and LanceDB. It combines hybrid BM25 + vector retrieval, multimodal ingestion, and self-evolving Skills under an Apache 2.0 license. Here's what it is, how the architecture works, where the benchmarks stand, and where it still falls short — plus a runnable code walkthrough and an interactive demo.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/meet-e...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 10:42:47 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
@@ -204,69 +239,36 @@
       <title>[📰] DiScoFormer: One transformer for density and score, across distributions</title>
       <link>https://huggingface.co/blog/allenai/discoformer</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 18:02:48 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
-      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
-      <description>&lt;p&gt;As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
+      <title>[📰] NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery</title>
+      <link>https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA's open-source BioNeMo Agent Toolkit turns biomolecular models like OpenFold3, DiffDock, and GenMol into documented, callable skills for AI agents. Each skill describes a model's purpose, inputs, artifacts, and failure modes, so an agent can select, run, and interpret it. In NVIDIA's benchmarks with Codex CLI and GPT-5.5 fast, skills raised task completion from 57.1% to 100% and doubled token efficiency.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/nvidia-bionemo-age...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:06:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google warns EU's plans to weaken its monopoly could expose user data</title>
-      <link>https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/</link>
-      <description>&lt;p&gt;
-                        The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <title>[📰] OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway</title>
+      <link>https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenClaw's iOS and Android apps are companion nodes, not standalone chatbots. Each phone pairs to a self-hosted Gateway over WebSocket. This adds device hardware — camera, location, voice, and Canvas — to a local-first AI agent. Here is the architecture, the capabilities, and the trade-offs for builders.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/"&gt;OpenClaw Releas...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
-      <pubDate>Mon, 29 Jun 2026 18:21:31 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 23:41:29 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Gemini’s personalized AI image generation is now free for US users</title>
-      <link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
-      <description>&lt;p&gt;Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
+      <title>[📰] Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy</title>
+      <link>https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta AI releases Brain2Qwerty v2, a non-invasive MEG brain-to-text pipeline reaching 61% word accuracy with open training code.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/"&gt;Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
-      <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] South Korea to spend $1T on more memory chip production and humanoid robots</title>
-      <link>https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</link>
-      <description>&lt;p&gt;
-                        South Korea targets physical AI lead and commercial humanoid robots by 2028.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 29 Jun 2026 21:09:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vibe-coding platform Base44 launches own model as AI startups seek defensibility</title>
-      <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
-      <description>&lt;p&gt;Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The AI jobs debate just got messier</title>
-      <link>https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/</link>
-      <description>&lt;p&gt;A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 30 Jun 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Crypto exchange OKX wants AI agents to hire and pay each other</title>
-      <link>https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/</link>
-      <description>&lt;p&gt;OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 08:13:41 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Agriculture is ready for AI, but its data isn’t</title>
@@ -280,7 +282,7 @@
       <title>[📰] Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade</title>
       <link>https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/</link>
       <description>&lt;p&gt;Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
     </item>
@@ -288,7 +290,7 @@
       <title>[📰] Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</title>
       <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
       <description>&lt;p&gt;Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
     </item>
@@ -296,7 +298,7 @@
       <title>[📰] Podcasting platform Riverside enters the newsletter publishing game</title>
       <link>https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/</link>
       <description>&lt;p&gt;Users will be able use AI to create newsletters based on their recordings.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 15:00:00 +0000</pubDate>
     </item>
@@ -304,33 +306,109 @@
       <title>[📰] X now offers an MCP server to make its platform easier for AI tools to use</title>
       <link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
       <description>&lt;p&gt;X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 15:08:42 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code Is Steganographically Marking Requests</title>
+      <title>[📰] Claude Code is steganographically marking requests</title>
       <link>https://thereallo.dev/blog/claude-code-prompt-steganography</link>
-      <description>&lt;p&gt;Claude Code Is Steganographically Marking Requests&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 528&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Code is steganographically marking requests&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,080&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48734373</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 15:44:24 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Trump's plan to redesign every .gov website leads to AI-designed horrors</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/</link>
+      <description>&lt;p&gt;
+                        A year in, National Design Studio delays plan to update government web standards.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 16:59:02 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists</title>
       <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
       <description>&lt;p&gt;Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Science</title>
       <link>https://claude.com/product/claude-science</link>
-      <description>&lt;p&gt;Claude Science&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Science&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 270&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48735770</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 17:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Acti puts AI agents directly into your smartphone keyboard</title>
+      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
+      <description>&lt;p&gt;Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 17:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude Sonnet 5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>&lt;p&gt;Claude Sonnet 5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 666&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48736605</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 17:59:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <description>&lt;p&gt;Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip</title>
+      <link>https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/</link>
+      <description>&lt;p&gt;Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 18:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration</title>
+      <link>https://huggingface.co/blog/ibm-research/scarfbench</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 18:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google introduces a faster, cheaper image generator with Nano Banana 2 Lite</title>
+      <link>https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/</link>
+      <description>&lt;p&gt;Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 19:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] New attack provides one more reason why AI browsers are a bad idea</title>
+      <link>https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/</link>
+      <description>&lt;p&gt;
+                        Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 20:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The DeepMind trio who built a poker AI are now making money for quant hedge funds</title>
+      <link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
+      <description>&lt;p&gt;EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 20:33:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
