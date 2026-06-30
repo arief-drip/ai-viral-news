@@ -1,5 +1,82 @@
 [
   {
+    "id": "hn-48735770",
+    "title": "Claude Science",
+    "description": "Claude Science",
+    "link": "https://claude.com/product/claude-science",
+    "source_link": "https://news.ycombinator.com/item?id=48735770",
+    "engagement": "\ud83d\udc4d 54",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T17:07:41+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
+    "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "source_link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T17:00:00+00:00"
+  },
+  {
+    "id": "hn-48734373",
+    "title": "Claude Code Is Steganographically Marking Requests",
+    "description": "Claude Code Is Steganographically Marking Requests",
+    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "source_link": "https://news.ycombinator.com/item?id=48734373",
+    "engagement": "\ud83d\udc4d 528",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T15:44:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API. ",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "source_link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T15:08:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "description": "Users will be able use AI to create newsletters based on their recordings.",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "source_link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T15:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "source_link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T15:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
+    "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
+    "description": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities. ",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "source_link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-06-30T14:00:00+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Agriculture is ready for AI, but its data isn\u2019t",
     "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
@@ -11,7 +88,7 @@
     "published": "2026-06-30T12:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-5",
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "description": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
     "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
@@ -22,7 +99,7 @@
     "published": "2026-06-30T09:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-6",
     "title": "The AI jobs debate just got messier",
     "description": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.\u00a0",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
@@ -33,9 +110,9 @@
     "published": "2026-06-30T04:01:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+    "id": "rss-TechCrunch AI-7",
+    "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+    "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
     "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "source_link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -55,7 +132,7 @@
     "published": "2026-06-29T21:09:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-8",
     "title": "Gemini\u2019s personalized AI image generation is now free for US users",
     "description": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
     "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
@@ -77,7 +154,7 @@
     "published": "2026-06-29T18:21:31+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-9",
     "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
     "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
     "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
@@ -86,17 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-29T18:10:26+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
-    "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "source_link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-29T18:07:48+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -119,28 +185,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-29T18:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. ",
-    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "source_link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-29T17:39:17+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "source_link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-29T16:29:04+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
