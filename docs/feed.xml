@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 02:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:43:01 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -185,18 +185,54 @@
       <pubDate>Thu, 25 Jun 2026 14:22:59 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ford rehires ‘gray beard’ engineers after AI falls short</title>
-      <link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
-      <description>&lt;p&gt;"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <title>[📰] Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read</title>
+      <link>https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both engineers and AI agents build using the same API. The project is in Beta, MIT-licensed, and grew inside Meta over eight years.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/"&gt;Meta&amp;#8217;s Astryx Brings a CLI and MCP Server to an Open-So...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
-      <pubDate>Sun, 28 Jun 2026 19:05:39 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 08:38:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1</title>
+      <link>https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft backbone with a lightweight Markov head to cut suffix decay, then adds confidence-scheduled verification that tailors how many tokens get checked to real-time GPU load. Offline, accepted length rises 16–31% over DFlash and Eagle3; in production it speeds per-user generation 57–85% over the MTP-1 baseline, losslessly. The training repo, DeepSpec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 27 Jun 2026 16:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference</title>
+      <link>https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-230M, its smallest model yet. The 230M-parameter, open-weight model runs on-device at 213 tok/s on a Galaxy S25 Ultra and 42 on a Raspberry Pi 5. Built on the LFM2 architecture, it targets tool use and data extraction, beating larger models like Qwen3.5-0.8B and Gemma 3 1B on instruction following.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/"&gt;Liqu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 28 Jun 2026 04:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Top 6 No-Code Tools for AI Engineers/Developers</title>
+      <link>https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/</link>
+      <description>&lt;p&gt;&lt;p&gt;In today’s AI-driven world, no-code tools are transforming how people create and deploy intelligent applications. They empower anyone—regardless of coding expertise—to build solutions quickly and efficiently. From developing enterprise-grade RAG systems to designing multi-agent workflows or fine-tuning hundreds of LLMs, these platforms dramatically reduce development time and effort. In this article, we’ll explore six powerful [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/20...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 03:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills</title>
+      <link>https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/</link>
+      <description>&lt;p&gt;&lt;p&gt;EverMind has open-sourced EverOS, a local-first memory runtime that stores AI agent memory as plain Markdown indexed by SQLite and LanceDB. It combines hybrid BM25 + vector retrieval, multimodal ingestion, and self-evolving Skills under an Apache 2.0 license. Here's what it is, how the architecture works, where the benchmarks stand, and where it still falls short — plus a runnable code walkthrough and an interactive demo.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/meet-e...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 10:42:47 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Omen AI’s plan to optimize data centers is all wet</title>
       <link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
       <description>&lt;p&gt;Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 13:00:00 +0000</pubDate>
     </item>
@@ -219,7 +255,7 @@
     <item>
       <title>[📰] Working With AI: A concrete example</title>
       <link>https://htmx.org/essays/working-with-ai/</link>
-      <description>&lt;p&gt;Working With AI: A concrete example&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 95&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Working With AI: A concrete example&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 147&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48720064</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 14:53:41 +0000</pubDate>
@@ -228,7 +264,7 @@
       <title>[📰] TIDAL cracks down on AI music by cutting off monetization</title>
       <link>https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/</link>
       <description>&lt;p&gt;In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 16:29:04 +0000</pubDate>
     </item>
@@ -236,7 +272,7 @@
       <title>[📰] Arena, the AI leaderboard everyone uses, is now a $100M business</title>
       <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
       <description>&lt;p&gt;The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 17:39:17 +0000</pubDate>
     </item>
@@ -260,7 +296,7 @@
       <title>[📰] South Korean tech giants commit over $550B to ease ‘RAMageddon’</title>
       <link>https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/</link>
       <description>&lt;p&gt;The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 18:07:48 +0000</pubDate>
     </item>
@@ -268,7 +304,7 @@
       <title>[📰] Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price</title>
       <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
       <description>&lt;p&gt;As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
     </item>
@@ -283,10 +319,19 @@
       <pubDate>Mon, 29 Jun 2026 18:21:31 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery</title>
+      <link>https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA's open-source BioNeMo Agent Toolkit turns biomolecular models like OpenFold3, DiffDock, and GenMol into documented, callable skills for AI agents. Each skill describes a model's purpose, inputs, artifacts, and failure modes, so an agent can select, run, and interpret it. In NVIDIA's benchmarks with Codex CLI and GPT-5.5 fast, skills raised task completion from 57.1% to 100% and doubled token efficiency.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/nvidia-bionemo-age...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 19:06:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Gemini’s personalized AI image generation is now free for US users</title>
       <link>https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/</link>
       <description>&lt;p&gt;Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 29 Jun 2026 20:12:59 +0000</pubDate>
     </item>
@@ -301,12 +346,29 @@
       <pubDate>Mon, 29 Jun 2026 21:09:43 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway</title>
+      <link>https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenClaw's iOS and Android apps are companion nodes, not standalone chatbots. Each phone pairs to a self-hosted Gateway over WebSocket. This adds device hardware — camera, location, voice, and Canvas — to a local-first AI agent. Here is the architecture, the capabilities, and the trade-offs for builders.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/"&gt;OpenClaw Releas...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 29 Jun 2026 23:41:29 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Vibe coding platform Base44 launches own model as AI startups seek defensibility</title>
       <link>https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/</link>
       <description>&lt;p&gt;Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 30 Jun 2026 02:28:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The AI jobs debate just got messier</title>
+      <link>https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/</link>
+      <description>&lt;p&gt;A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 30 Jun 2026 04:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
