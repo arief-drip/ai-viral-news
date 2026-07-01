@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "description": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every time\u2014but if it&#8230;",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "source_link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T14:35:16+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said. ",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "source_link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T14:25:23+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
+    "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "source_link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T14:20:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
     "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.\u00a0",
     "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
@@ -33,18 +66,7 @@
     "published": "2026-07-01T07:48:59+00:00"
   },
   {
-    "id": "hn-48743472",
-    "title": "Godot will no longer accept AI-authored code contributions",
-    "description": "Godot will no longer accept AI-authored code contributions",
-    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "source_link": "https://news.ycombinator.com/item?id=48743472",
-    "engagement": "\ud83d\udc4d 398",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-01T07:43:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
     "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases. ",
     "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
@@ -55,7 +77,7 @@
     "published": "2026-07-01T02:16:06+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
     "description": "Wayve\u2019s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
     "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
@@ -66,18 +88,29 @@
     "published": "2026-07-01T02:04:40+00:00"
   },
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "description": "",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source_link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T00:00:00+00:00"
+  },
+  {
     "id": "hn-48740771",
     "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
     "description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
     "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
     "source_link": "https://news.ycombinator.com/item?id=48740771",
-    "engagement": "\ud83d\udc4d 807",
+    "engagement": "\ud83d\udc4d 876",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-30T23:55:12+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Claude Science is Anthropic\u2019s newest flagship product",
     "description": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
     "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
@@ -99,7 +132,7 @@
     "published": "2026-06-30T21:37:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
     "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
     "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
@@ -110,18 +143,7 @@
     "published": "2026-06-30T20:33:48+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "description": "\n                        Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.\n                    ",
-    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "source_link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T20:03:14+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
     "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. ",
     "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
@@ -132,7 +154,7 @@
     "published": "2026-06-30T19:02:38+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-HuggingFace Blog-1",
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "description": "",
     "link": "https://huggingface.co/blog/ibm-research/scarfbench",
@@ -143,62 +165,7 @@
     "published": "2026-06-30T18:32:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "source_link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T18:13:02+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "description": "Anthropic\u2019s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "source_link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T18:00:00+00:00"
-  },
-  {
-    "id": "hn-48736605",
-    "title": "Claude Sonnet 5",
-    "description": "Claude Sonnet 5",
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "source_link": "https://news.ycombinator.com/item?id=48736605",
-    "engagement": "\ud83d\udc4d 1,182",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T17:59:52+00:00"
-  },
-  {
-    "id": "hn-48735770",
-    "title": "Claude Science",
-    "description": "Claude Science",
-    "link": "https://claude.com/product/claude-science",
-    "source_link": "https://news.ycombinator.com/item?id=48735770",
-    "engagement": "\ud83d\udc4d 524",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T17:07:41+00:00"
-  },
-  {
-    "id": "hn-48734373",
-    "title": "Claude Code is steganographically marking requests",
-    "description": "Claude Code is steganographically marking requests",
-    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "source_link": "https://news.ycombinator.com/item?id=48734373",
-    "engagement": "\ud83d\udc4d 2,259",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T15:44:24+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Agriculture is ready for AI, but its data isn\u2019t",
     "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
     "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
@@ -242,7 +209,7 @@
     "published": "2026-06-29T19:06:47+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-1",
+    "id": "rss-HuggingFace Blog-2",
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "description": "",
     "link": "https://huggingface.co/blog/allenai/discoformer",
@@ -253,7 +220,7 @@
     "published": "2026-06-29T18:02:48+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "AI agents are not your \u201ccoworkers\u201d",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool\u2014one that your company nonetheless calls Alex, an&#8230;",
     "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -264,7 +231,7 @@
     "published": "2026-06-29T18:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Agent confidence on the technical frontier",
     "description": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
     "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
@@ -297,7 +264,7 @@
     "published": "2026-06-29T10:42:47+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Repositioning retail for the AI era",
     "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
     "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
@@ -308,7 +275,7 @@
     "published": "2026-06-25T14:22:59+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The emergence of the web data infrastructure layer for AI",
     "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
     "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
@@ -319,7 +286,7 @@
     "published": "2026-06-24T11:59:54+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-2",
+    "id": "rss-HuggingFace Blog-3",
     "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "description": "",
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
@@ -330,7 +297,7 @@
     "published": "2026-06-23T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. For those of you enjoying your summer unaware of Anthropic\u2019s latest feud with the US government, here\u2019s a recap: In April the company said it had built an AI model called Mythos&#8230;",
     "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -352,7 +319,7 @@
     "published": "2026-06-22T12:31:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
     "description": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing&#8230;",
     "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
