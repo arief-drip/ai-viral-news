@@ -1,6 +1,28 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+    "description": "<p>Google Research has released TabFM, a foundation model for tabular data. It performs zero-shot classification and regression through in-context learning. Predictions come from a single forward pass, with no per-dataset training, hyperparameter tuning, or feature engineering.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/\">Google AI Introduces TabFM: A Hybrid-At...",
+    "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+    "source_link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T07:48:59+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+    "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases. ",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "source_link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T02:16:06+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
     "description": "Wayve\u2019s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
     "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
@@ -16,7 +38,7 @@
     "description": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
     "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
     "source_link": "https://news.ycombinator.com/item?id=48740771",
-    "engagement": "\ud83d\udc4d 232",
+    "engagement": "\ud83d\udc4d 633",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-30T23:55:12+00:00"
@@ -33,7 +55,7 @@
     "published": "2026-06-30T21:50:04+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
     "description": "<p>Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/\">Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</a> appeared first on <a href=\"https://www.marktechpost.com...",
     "link": "https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
@@ -44,7 +66,7 @@
     "published": "2026-06-30T21:37:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
     "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
     "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
@@ -66,7 +88,7 @@
     "published": "2026-06-30T20:03:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
     "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. ",
     "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
@@ -88,7 +110,7 @@
     "published": "2026-06-30T18:32:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
     "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
     "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
@@ -99,7 +121,7 @@
     "published": "2026-06-30T18:13:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "description": "Anthropic\u2019s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
     "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
@@ -115,13 +137,13 @@
     "description": "Claude Sonnet 5",
     "link": "https://www.anthropic.com/news/claude-sonnet-5",
     "source_link": "https://news.ycombinator.com/item?id=48736605",
-    "engagement": "\ud83d\udc4d 889",
+    "engagement": "\ud83d\udc4d 1,092",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-30T17:59:52+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Acti puts AI agents directly into your smartphone keyboard",
     "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
     "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
@@ -137,13 +159,13 @@
     "description": "Claude Science",
     "link": "https://claude.com/product/claude-science",
     "source_link": "https://news.ycombinator.com/item?id=48735770",
-    "engagement": "\ud83d\udc4d 371",
+    "engagement": "\ud83d\udc4d 470",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-30T17:07:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
     "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
     "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
@@ -170,21 +192,10 @@
     "description": "Claude Code is steganographically marking requests",
     "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
     "source_link": "https://news.ycombinator.com/item?id=48734373",
-    "engagement": "\ud83d\udc4d 1,429",
+    "engagement": "\ud83d\udc4d 1,867",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-30T15:44:24+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API. ",
-    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "source_link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-06-30T15:08:42+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -198,7 +209,7 @@
     "published": "2026-06-30T12:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy",
     "description": "<p>Meta AI releases Brain2Qwerty v2, a non-invasive MEG brain-to-text pipeline reaching 61% word accuracy with open training code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/\">Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy</a> appeared first on <a href=\"https://www.marktechpost.com\"...",
     "link": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/",
@@ -209,7 +220,7 @@
     "published": "2026-06-30T08:13:41+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway",
     "description": "<p>OpenClaw's iOS and Android apps are companion nodes, not standalone chatbots. Each phone pairs to a self-hosted Gateway over WebSocket. This adds device hardware \u2014 camera, location, voice, and Canvas \u2014 to a local-first AI agent. Here is the architecture, the capabilities, and the trade-offs for builders.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/\">OpenClaw Releas...",
     "link": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
@@ -220,7 +231,7 @@
     "published": "2026-06-29T23:41:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
     "description": "<p>NVIDIA's open-source BioNeMo Agent Toolkit turns biomolecular models like OpenFold3, DiffDock, and GenMol into documented, callable skills for AI agents. Each skill describes a model's purpose, inputs, artifacts, and failure modes, so an agent can select, run, and interpret it. In NVIDIA's benchmarks with Codex CLI and GPT-5.5 fast, skills raised task completion from 57.1% to 100% and doubled token efficiency.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/29/nvidia-bionemo-age...",
     "link": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
@@ -275,7 +286,7 @@
     "published": "2026-06-29T13:03:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
     "description": "<p>EverMind has open-sourced EverOS, a local-first memory runtime that stores AI agent memory as plain Markdown indexed by SQLite and LanceDB. It combines hybrid BM25 + vector retrieval, multimodal ingestion, and self-evolving Skills under an Apache 2.0 license. Here's what it is, how the architecture works, where the benchmarks stand, and where it still falls short \u2014 plus a runnable code walkthrough and an interactive demo.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/06/29/meet-e...",
     "link": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/",
@@ -286,7 +297,7 @@
     "published": "2026-06-29T10:42:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Top 6 No-Code Tools for AI Engineers/Developers",
     "description": "<p>In today\u2019s AI-driven world, no-code tools are transforming how people create and deploy intelligent applications. They empower anyone\u2014regardless of coding expertise\u2014to build solutions quickly and efficiently. From developing enterprise-grade RAG systems to designing multi-agent workflows or fine-tuning hundreds of LLMs, these platforms dramatically reduce development time and effort. In this article, we\u2019ll explore six powerful [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/20...",
     "link": "https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/",
