@@ -1,14 +1,25 @@
 [
   {
-    "id": "hn-48772443",
-    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-    "description": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-    "link": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-    "source_link": "https://news.ycombinator.com/item?id=48772443",
-    "engagement": "\ud83d\udc4d 202",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+    "description": "<p>WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask and Act modes. Run it on local models like llama.cpp or Ollama for privacy, or connect any cloud API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/\">Meet WebBrain: An Open-Source, Local-First AI Browser Agent Tha...",
+    "link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-03T08:31:37+00:00"
+    "published": "2026-07-03T05:55:47+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma\u2019s Parallel Denoising Decoder",
+    "description": "<p>Interfaze open-sourced diffusion-gemma-asr-small, a multilingual ASR model that transcribes via diffusion, not autoregression. It adds audio to Google's frozen DiffusionGemma using a ~42M-parameter adapter. One adapter covers six languages, with transcription cost set by denoising steps, not transcript length.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongem...",
+    "link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-03T03:24:23+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -22,6 +33,17 @@
     "published": "2026-07-02T23:38:10+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+    "description": "<p>In this tutorial, we build a RAG-Anything workflow to explore how multimodal retrieval works across text, tables, equations, and images. We prepare a Colab environment, enter our OpenAI API key at runtime, and generate a synthetic report with a chart and PDF. We convert that content into RAG-Anything's direct content_list format and insert it into the retrieval system. We then configure OpenAI chat, vision, and embedding functions and test naive, local, global, and hybrid modes.</p>\n<p>The po...",
+    "link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-02T21:38:34+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
     "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
@@ -31,17 +53,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-02T20:11:59+00:00"
-  },
-  {
-    "id": "hn-48766026",
-    "title": "The short leash AI coding method for beating Fable",
-    "description": "The short leash AI coding method for beating Fable",
-    "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-    "source_link": "https://news.ycombinator.com/item?id=48766026",
-    "engagement": "\ud83d\udc4d 157",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T19:11:57+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -132,6 +143,17 @@
     "published": "2026-07-02T05:30:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier",
+    "description": "<p>Anthropic is redeploying Claude Fable 5 on July 1 after US export controls were lifted. A new safety classifier blocks the technique in the Amazon report over 99% of the time, routing flagged requests to Opus 4.8. The company also proposed a four-criteria jailbreak severity framework with Amazon, Microsoft, and Google.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/\">...",
+    "link": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+    "source_link": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T20:41:56+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-8",
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
     "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
@@ -163,6 +185,28 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-01T14:35:16+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+    "description": "<p>NVIDIA has released Nemotron-Labs-TwoTower, a diffusion language model built on a pretrained autoregressive backbone. It ships as open weights under the NVIDIA Nemotron Open Model License. The release targets a throughput bottleneck in text generation. Autoregressive (AR) models decode one token at a time. That serial process caps generation throughput. Discrete diffusion language models take [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-l...",
+    "link": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+    "source_link": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T08:10:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+    "description": "<p>Google Research has released TabFM, a foundation model for tabular data. It performs zero-shot classification and regression through in-context learning. Predictions come from a single forward pass, with no per-dataset training, hyperparameter tuning, or feature engineering.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/\">Google AI Introduces TabFM: A Hybrid-At...",
+    "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+    "source_link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-01T07:48:59+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
