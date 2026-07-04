@@ -1,6 +1,61 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "source_link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-04T16:32:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
+    "description": "<p>Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/04/anthropic-l...",
+    "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+    "source_link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-04T16:21:21+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
+    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "source_link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-04T15:51:32+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+    "description": "<p>NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on LIBERO-Pro and transfers zero-shot to unseen long-horizon tasks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/\">NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Lo...",
+    "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-04T06:32:47+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+    "description": "<p>Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The 119B mixture-of-experts activates 6.5B parameters per token. We break down its architecture, benchmarks, real bug-finding case studies, and deployment code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/\">Mistral AI...",
+    "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+    "source_link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-03T22:20:26+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "The only AI glossary you\u2019ll need this year",
     "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -11,18 +66,29 @@
     "published": "2026-07-03T21:20:00+00:00"
   },
   {
-    "id": "hn-48780056",
-    "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-    "description": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-    "link": "https://epoch.ai/data-insights/cve-severity-spike",
-    "source_link": "https://news.ycombinator.com/item?id=48780056",
-    "engagement": "\ud83d\udc4d 123",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-3",
+    "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+    "description": "<p>WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask and Act modes. Run it on local models like llama.cpp or Ollama for privacy, or connect any cloud API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/\">Meet WebBrain: An Open-Source, Local-First AI Browser Agent Tha...",
+    "link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-03T21:16:16+00:00"
+    "published": "2026-07-03T05:55:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-MarkTechPost-4",
+    "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma\u2019s Parallel Denoising Decoder",
+    "description": "<p>Interfaze open-sourced diffusion-gemma-asr-small, a multilingual ASR model that transcribes via diffusion, not autoregression. It adds audio to Google's frozen DiffusionGemma using a ~42M-parameter adapter. One adapter covers six languages, with transcription cost set by denoising steps, not transcript length.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongem...",
+    "link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-03T03:24:23+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
     "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -33,7 +99,18 @@
     "published": "2026-07-02T23:38:10+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-MarkTechPost-5",
+    "title": "RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab",
+    "description": "<p>In this tutorial, we build a RAG-Anything workflow to explore how multimodal retrieval works across text, tables, equations, and images. We prepare a Colab environment, enter our OpenAI API key at runtime, and generate a synthetic report with a chart and PDF. We convert that content into RAG-Anything's direct content_list format and insert it into the retrieval system. We then configure OpenAI chat, vision, and embedding functions and test naive, local, global, and hybrid modes.</p>\n<p>The po...",
+    "link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+    "source_link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-02T21:38:34+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
     "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
@@ -44,7 +121,7 @@
     "published": "2026-07-02T20:11:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
     "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
@@ -55,7 +132,7 @@
     "published": "2026-07-02T18:44:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
     "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
@@ -77,7 +154,7 @@
     "published": "2026-07-02T15:37:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ",
     "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
@@ -88,7 +165,7 @@
     "published": "2026-07-02T15:20:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "description": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
     "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
@@ -108,28 +185,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-02T12:51:44+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Yep, we\u2019re using OpenClaw to date now",
-    "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "source_link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T12:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "description": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
-    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "source_link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T05:30:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
