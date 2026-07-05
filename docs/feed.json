@@ -1,14 +1,25 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "LlamaIndex \u2018legal-kb\u2019: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-    "description": "<p>LlamaIndex\u2019s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/...",
-    "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-48796817",
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "description": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "source_link": "https://news.ycombinator.com/item?id=48796817",
+    "engagement": "\ud83d\udc4d 67",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-05T07:50:19+00:00"
+    "published": "2026-07-05T18:47:43+00:00"
+  },
+  {
+    "id": "hn-48795830",
+    "title": "A sociotechnical threat model for AI-driven smart home devices",
+    "description": "A sociotechnical threat model for AI-driven smart home devices",
+    "link": "https://arxiv.org/abs/2602.09239",
+    "source_link": "https://news.ycombinator.com/item?id=48795830",
+    "engagement": "\ud83d\udc4d 76",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-05T17:05:57+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -44,17 +55,6 @@
     "published": "2026-07-04T16:32:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-    "description": "<p>Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/04/anthropic-l...",
-    "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-    "source_link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T16:21:21+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-3",
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
@@ -66,28 +66,6 @@
     "published": "2026-07-04T15:51:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
-    "description": "<p>NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on LIBERO-Pro and transfers zero-shot to unseen long-horizon tasks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/\">NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Lo...",
-    "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "source_link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T06:32:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
-    "description": "<p>Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The 119B mixture-of-experts activates 6.5B parameters per token. We break down its architecture, benchmarks, real bug-finding case studies, and deployment code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/\">Mistral AI...",
-    "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
-    "source_link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-03T22:20:26+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-4",
     "title": "The only AI glossary you\u2019ll need this year",
     "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -97,28 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-03T21:20:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
-    "description": "<p>WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask and Act modes. Run it on local models like llama.cpp or Ollama for privacy, or connect any cloud API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/\">Meet WebBrain: An Open-Source, Local-First AI Browser Agent Tha...",
-    "link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
-    "source_link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-03T05:55:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma\u2019s Parallel Denoising Decoder",
-    "description": "<p>Interfaze open-sourced diffusion-gemma-asr-small, a multilingual ASR model that transcribes via diffusion, not autoregression. It adds audio to Google's frozen DiffusionGemma using a ~42M-parameter adapter. One adapter covers six languages, with transcription cost set by denoising steps, not transcript length.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongem...",
-    "link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
-    "source_link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-03T03:24:23+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -152,17 +108,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-02T18:44:02+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
-    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "source_link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T18:31:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
