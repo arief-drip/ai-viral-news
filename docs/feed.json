@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
+    "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out. ",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "source_link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T17:04:58+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Secret Claude tracker shocks users after Anthropic\u2019s anti-surveillance stance",
+    "description": "\n                        Anthropic accused of spying on users; engineer says \u201cexperiment\u201d is over.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T16:44:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sales the hardest.",
     "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
@@ -8,10 +30,32 @@
     "engagement": "\ud83d\udce1 TechCrunch AI",
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T15:08:46+00:00"
+    "published": "2026-07-06T15:32:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-48805624",
+    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "description": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "source_link": "https://news.ycombinator.com/item?id=48805624",
+    "engagement": "\ud83d\udc4d 136",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T15:01:18+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+    "description": "\n                        FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "source_link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T14:17:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
     "description": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
     "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
@@ -33,62 +77,7 @@
     "published": "2026-07-06T12:31:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Translation Tool With Translate, Proofread, and Ask Modes",
-    "description": "<p>Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/\">Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Transla...",
-    "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T05:35:09+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
-    "description": "<p>Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-wo...",
-    "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T05:07:12+00:00"
-  },
-  {
-    "id": "hn-48799614",
-    "title": "GPT-5.6 Sol Ultra will be in Codex",
-    "description": "GPT-5.6 Sol Ultra will be in Codex",
-    "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-    "source_link": "https://news.ycombinator.com/item?id=48799614",
-    "engagement": "\ud83d\udc4d 372",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T01:04:03+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
-    "description": "<p>Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-...",
-    "link": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-05T21:25:10+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "LlamaIndex \u2018legal-kb\u2019: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-    "description": "<p>LlamaIndex\u2019s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/...",
-    "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-05T07:50:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
@@ -99,7 +88,7 @@
     "published": "2026-07-04T20:55:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
     "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
@@ -110,7 +99,7 @@
     "published": "2026-07-04T18:00:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
     "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
@@ -121,18 +110,7 @@
     "published": "2026-07-04T16:32:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
-    "description": "<p>Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/04/anthropic-l...",
-    "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-    "source_link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T16:21:21+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
@@ -143,18 +121,7 @@
     "published": "2026-07-04T15:51:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
-    "description": "<p>NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on LIBERO-Pro and transfers zero-shot to unseen long-horizon tasks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/\">NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Lo...",
-    "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "source_link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T06:32:47+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "The only AI glossary you\u2019ll need this year",
     "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -163,28 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-03T21:20:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-    "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "source_link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T23:38:10+00:00"
-  },
-  {
-    "id": "hn-48767058",
-    "title": "Zuckerberg says AI agent development going slower than expected",
-    "description": "Zuckerberg says AI agent development going slower than expected",
-    "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-    "source_link": "https://news.ycombinator.com/item?id=48767058",
-    "engagement": "\ud83d\udc4d 309",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-02T20:38:06+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
