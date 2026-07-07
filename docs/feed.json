@@ -1,6 +1,72 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
+    "description": "<p>In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/06/buildin...",
+    "link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
+    "source_link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-07T01:43:28+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+    "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.\n",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source_link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T23:56:14+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "source_link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T23:21:03+00:00"
+  },
+  {
+    "id": "hn-48810533",
+    "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+    "description": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+    "source_link": "https://news.ycombinator.com/item?id=48810533",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T21:09:23+00:00"
+  },
+  {
+    "id": "hn-48809877",
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "description": "GLM 5.2 and the coming AI margin collapse",
+    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "source_link": "https://news.ycombinator.com/item?id=48809877",
+    "engagement": "\ud83d\udc4d 172",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T20:14:55+00:00"
+  },
+  {
+    "id": "hn-48809354",
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "description": "Pruning RAG context down to what the answer actually needs",
+    "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "source_link": "https://news.ycombinator.com/item?id=48809354",
+    "engagement": "\ud83d\udc4d 58",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-06T19:28:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
     "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. ",
     "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
@@ -11,7 +77,7 @@
     "published": "2026-07-06T19:01:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Every major tech layoff in 2026 that has name-checked AI",
     "description": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -33,9 +99,9 @@
     "published": "2026-07-06T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
-    "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out. ",
+    "description": "Consider this a belated PSA: A recent change to Google\u2019s privacy settings is allowing the company to store more of your data, including media such as \u201cimages, files, and audio and video recordings,\u201d to improve its AI models. ",
     "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "source_link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -49,7 +115,7 @@
     "description": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
     "link": "https://github.com/iOfficeAI/OfficeCLI",
     "source_link": "https://news.ycombinator.com/item?id=48807225",
-    "engagement": "\ud83d\udc4d 70",
+    "engagement": "\ud83d\udc4d 126",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-06T16:47:44+00:00"
@@ -66,7 +132,7 @@
     "published": "2026-07-06T16:44:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sales the hardest.",
     "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
@@ -77,7 +143,7 @@
     "published": "2026-07-06T15:32:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Reddit is using LLMs to solve a problem LLMs largely created",
     "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
     "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
@@ -93,7 +159,7 @@
     "description": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
     "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
     "source_link": "https://news.ycombinator.com/item?id=48805624",
-    "engagement": "\ud83d\udc4d 233",
+    "engagement": "\ud83d\udc4d 278",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-06T15:01:18+00:00"
@@ -110,7 +176,7 @@
     "published": "2026-07-06T14:17:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
     "description": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
     "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
@@ -132,7 +198,7 @@
     "published": "2026-07-06T12:31:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Translation Tool With Translate, Proofread, and Ask Modes",
     "description": "<p>Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/\">Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Transla...",
     "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
@@ -143,7 +209,7 @@
     "published": "2026-07-06T05:35:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
     "description": "<p>Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-wo...",
     "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
@@ -154,7 +220,7 @@
     "published": "2026-07-06T05:07:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
     "description": "<p>Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-...",
     "link": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
@@ -165,7 +231,7 @@
     "published": "2026-07-05T21:25:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "LlamaIndex \u2018legal-kb\u2019: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
     "description": "<p>LlamaIndex\u2019s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/...",
     "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
@@ -176,29 +242,7 @@
     "published": "2026-07-05T07:50:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "source_link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T20:55:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "source_link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T18:00:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
     "description": "<p>Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialists, a reviewer agent flags and corrects citations and numbers, and every figure ships with its exact code, environment, and full message history. It manages compute across local machines, HPC over SSH, and Modal, and connects to 60+ databases plus NVIDIA BioNeMo skills.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/04/anthropic-l...",
     "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
@@ -207,17 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-04T16:21:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
-    "description": "<p>NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on LIBERO-Pro and transfers zero-shot to unseen long-horizon tasks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/\">NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Lo...",
-    "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "source_link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-04T06:32:47+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
