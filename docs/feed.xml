@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 01:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:22:17 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,42 +209,6 @@
       <pubDate>Thu, 02 Jul 2026 15:37:08 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools</title>
-      <link>https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/</link>
-      <description>&lt;p&gt;&lt;p&gt;LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 05 Jul 2026 07:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention</title>
-      <link>https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 05 Jul 2026 21:25:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research</title>
-      <link>https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/</link>
-      <description>&lt;p&gt;&lt;p&gt;Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-wo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 06 Jul 2026 05:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes</title>
-      <link>https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/</link>
-      <description>&lt;p&gt;&lt;p&gt;Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/"&gt;Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Transla...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 06 Jul 2026 05:35:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -286,24 +250,6 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS</title>
-      <link>https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/06/buildin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 01:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API</title>
-      <link>https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI added two Realtime models to its API. GPT-Realtime-2.1-mini is a mini reasoning model for voice, priced like the earlier gpt-realtime-mini. OpenAI also cut p95 latency by at least 25% through improved caching. Here is what changed, how pricing compares, and how to connect over WebRTC.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/"&gt;OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 04:35:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The foundational elements of AI architecture that IT leaders need to scale</title>
       <link>https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/</link>
       <description>&lt;p&gt;With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -322,7 +268,7 @@
     <item>
       <title>[📰] Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop</title>
       <link>https://github.com/rowboatlabs/rowboat</link>
-      <description>&lt;p&gt;Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 94&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 138&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48819808</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 16:10:44 +0000</pubDate>
@@ -344,23 +290,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models</title>
-      <link>https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/20...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 16:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI Meets Cryptography 1: What AI Found in Cloudflare's Circl</title>
-      <link>https://blog.zksecurity.xyz/posts/circl-bugs/</link>
-      <description>&lt;p&gt;AI Meets Cryptography 1: What AI Found in Cloudflare's Circl&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 80&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48821749</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 18:36:35 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Discord admits AI moderation bug wrongfully banned users over harmless images</title>
@@ -387,29 +316,20 @@
       <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] We charge $10k a week to delete AI-generated code</title>
-      <link>https://odra.dev/slopfix/</link>
-      <description>&lt;p&gt;We charge $10k a week to delete AI-generated code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 194&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48823359</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 20:35:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos</title>
       <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
-      <description>&lt;p&gt;The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 22:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone</title>
-      <link>https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA's Nemotron-Labs-Audex-30B-A3B unifies audio understanding, speech recognition, translation, TTS, and audio generation in one MoE model. It keeps the text intelligence of its Nemotron-Cascade-2 backbone with marginal regression.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/"&gt;NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday</title>
+      <link>https://twitter.com/OpenAI/status/2074704958419792299</link>
+      <description>&lt;p&gt;GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 100&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48827402</guid>
       <category>AI News</category>
-      <pubDate>Wed, 08 Jul 2026 00:50:26 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 04:12:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
