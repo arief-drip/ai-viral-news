@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone",
+    "description": "<p>NVIDIA's Nemotron-Labs-Audex-30B-A3B unifies audio understanding, speech recognition, translation, TTS, and audio generation in one MoE model. It keeps the text intelligence of its Nemotron-Cascade-2 backbone with marginal regression.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/\">NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...",
+    "link": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
+    "source_link": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-08T00:50:26+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities. ",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "source_link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-07T22:18:10+00:00"
+  },
+  {
+    "id": "hn-48823359",
+    "title": "We charge $10k a week to delete AI-generated code",
+    "description": "We charge $10k a week to delete AI-generated code",
+    "link": "https://odra.dev/slopfix/",
+    "source_link": "https://news.ycombinator.com/item?id=48823359",
+    "engagement": "\ud83d\udc4d 194",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-07T20:35:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
     "description": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
     "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
@@ -11,7 +44,7 @@
     "published": "2026-07-07T20:04:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
     "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. ",
     "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
@@ -22,7 +55,7 @@
     "published": "2026-07-07T19:58:20+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
     "description": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem. ",
     "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
@@ -33,7 +66,18 @@
     "published": "2026-07-07T19:28:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "hn-48821749",
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "description": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "source_link": "https://news.ycombinator.com/item?id=48821749",
+    "engagement": "\ud83d\udc4d 80",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-07T18:36:35+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
     "description": "<p>Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source.</p>\n<p>The post <a href=\"https://www.marktechpost.com/20...",
     "link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
@@ -44,7 +88,7 @@
     "published": "2026-07-07T16:50:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Claude Cowork expands to mobile and web",
     "description": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed.\u00a0",
     "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
@@ -66,18 +110,18 @@
     "published": "2026-07-07T16:14:53+00:00"
   },
   {
-    "id": "hn-48818937",
-    "title": "Automating AI Away",
-    "description": "Automating AI Away",
-    "link": "https://replicated.live/blog/away",
-    "source_link": "https://news.ycombinator.com/item?id=48818937",
-    "engagement": "\ud83d\udc4d 73",
+    "id": "hn-48819808",
+    "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
+    "description": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
+    "link": "https://github.com/rowboatlabs/rowboat",
+    "source_link": "https://news.ycombinator.com/item?id=48819808",
+    "engagement": "\ud83d\udc4d 94",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-07T15:11:08+00:00"
+    "published": "2026-07-07T16:10:44+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
     "description": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday. ",
     "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
@@ -99,18 +143,7 @@
     "published": "2026-07-07T11:10:52+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "How AI could enable autonomous robot workers in workplaces\u2014and maybe homes",
-    "description": "\n                        Top robotics researchers and founders explain how robot autonomy is evolving.\n                    ",
-    "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "source_link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-07T11:00:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
     "description": "<p>OpenAI added two Realtime models to its API. GPT-Realtime-2.1-mini is a mini reasoning model for voice, priced like the earlier gpt-realtime-mini. OpenAI also cut p95 latency by at least 25% through improved caching. Here is what changed, how pricing compares, and how to connect over WebRTC.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/\">OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agen...",
     "link": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
@@ -121,7 +154,7 @@
     "published": "2026-07-07T04:35:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
     "description": "<p>In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/06/buildin...",
     "link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
@@ -143,7 +176,7 @@
     "published": "2026-07-07T00:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
     "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.\n",
     "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
@@ -154,7 +187,7 @@
     "published": "2026-07-06T23:56:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
     "description": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
     "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
@@ -163,17 +196,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-06T23:21:03+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
-    "description": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. ",
-    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "source_link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T19:01:59+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -198,7 +220,7 @@
     "published": "2026-07-06T12:31:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Translation Tool With Translate, Proofread, and Ask Modes",
     "description": "<p>Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/\">Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Transla...",
     "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
@@ -209,7 +231,7 @@
     "published": "2026-07-06T05:35:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
     "description": "<p>Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-wo...",
     "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
@@ -220,7 +242,7 @@
     "published": "2026-07-06T05:07:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
     "description": "<p>Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sparse Attention, with training and serving run end-to-end on domestic AI ASIC superpods. Here is the architecture, the vendor-reported benchmarks, the API access path, and what remains unverified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-...",
     "link": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
@@ -231,7 +253,7 @@
     "published": "2026-07-05T21:25:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "LlamaIndex \u2018legal-kb\u2019: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
     "description": "<p>LlamaIndex\u2019s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep as tools, with automatic per-file versioning and visual citations. The stack is TanStack Start, AI SDK 6 (ToolLoopAgent), Prisma, and WorkOS.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/...",
     "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
