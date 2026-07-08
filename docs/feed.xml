@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 20:57:44 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,20 +209,11 @@
       <pubDate>Thu, 02 Jul 2026 15:37:08 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research</title>
-      <link>https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/</link>
-      <description>&lt;p&gt;&lt;p&gt;Synthetic Sciences has released OpenScience, an Apache-2.0 AI workbench for scientific research. It works with any frontier or open-weight model, using your own API keys. It runs the full loop across machine learning, biology, physics, and chemistry. It ships 250+ editable skills and queryable scientific databases, and it runs on your own infrastructure.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-wo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 06 Jul 2026 05:07:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes</title>
       <link>https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/</link>
       <description>&lt;p&gt;&lt;p&gt;Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/"&gt;Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Transla...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 06 Jul 2026 05:35:09 +0000</pubDate>
     </item>
@@ -255,7 +246,7 @@
       <link>https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/06/buildin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 01:43:28 +0000</pubDate>
     </item>
@@ -264,7 +255,7 @@
       <link>https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI added two Realtime models to its API. GPT-Realtime-2.1-mini is a mini reasoning model for voice, priced like the earlier gpt-realtime-mini. OpenAI also cut p95 latency by at least 25% through improved caching. Here is what changed, how pricing compares, and how to connect over WebRTC.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/"&gt;OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 04:35:09 +0000</pubDate>
     </item>
@@ -281,55 +272,23 @@
       <link>https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/20...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 07 Jul 2026 16:50:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Discord admits AI moderation bug wrongfully banned users over harmless images</title>
-      <link>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</link>
-      <description>&lt;p&gt;The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 19:28:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Microsoft joins AI cost-cutting trend by relying more on its own models</title>
-      <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
-      <description>&lt;p&gt;Microsoft is the latest Silicon Valley giant to cut back on its AI spending. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 19:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why the rise of open source AI isn’t hurting Anthropic … yet</title>
-      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
-      <description>&lt;p&gt;Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 20:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos</title>
-      <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
-      <description>&lt;p&gt;The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 07 Jul 2026 22:18:10 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone</title>
       <link>https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA's Nemotron-Labs-Audex-30B-A3B unifies audio understanding, speech recognition, translation, TTS, and audio generation in one MoE model. It keeps the text intelligence of its Nemotron-Cascade-2 backbone with marginal regression.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/"&gt;NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 00:50:26 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos</title>
       <link>https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/</link>
-      <description>&lt;p&gt;GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 424&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 483&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48827858</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 05:25:35 +0000</pubDate>
@@ -340,46 +299,22 @@
       <description>&lt;p&gt;
                         "HalluSquatting" weaponizes LLMs' inability to say "I don't know."
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 07:00:51 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round</title>
-      <link>https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/</link>
-      <description>&lt;p&gt;AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <title>[📰] Your gaming data could be the secret to AGI, according to this Bezos-backed startup</title>
+      <link>https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/</link>
+      <description>&lt;p&gt;When it comes to achieving artificial general intelligence (AGI), large language models just&amp;#160;don’t&amp;#160;have what it takes. Models like ChatGPT and Claude&amp;#160;are great at text, but&amp;#160;they&amp;#8217;re&amp;#160;less skilled at understanding how things&amp;#160;actually move&amp;#160;through space and time&amp;#160;—&amp;#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&amp;#160;by&amp;#160;gaming data.&amp;#160;That&amp;#8217;s&amp;#160;the bet behind General Intuition, a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
       <category>AI News</category>
-      <pubDate>Wed, 08 Jul 2026 07:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Hot French startup ZML releases free product to speed inference across lots of AI chips</title>
-      <link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
-      <description>&lt;p&gt;ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Geosql: A Claude/Codex skill for geospatial data</title>
-      <link>https://github.com/dekart-xyz/geosql</link>
-      <description>&lt;p&gt;Geosql: A Claude/Codex skill for geospatial data&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 94&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48829242</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 08 Jul 2026 08:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Former OpenAI exec Kevin Weil is now on the board of Stoke Space</title>
-      <link>https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/</link>
-      <description>&lt;p&gt;Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Mistral's Robostral Navigate: a state of the art robotics navigation model</title>
       <link>https://mistral.ai/news/robostral-navigate/</link>
-      <description>&lt;p&gt;Mistral's Robostral Navigate: a state of the art robotics navigation model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 224&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral's Robostral Navigate: a state of the art robotics navigation model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 348&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48832212</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 14:09:17 +0000</pubDate>
@@ -388,14 +323,14 @@
       <title>[📰] These AI startups are growing  revenue at faster and faster rates</title>
       <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
       <description>&lt;p&gt;There are a lot of fast-growing AI startups, but some are growing even faster, they say.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 15:41:06 +0000</pubDate>
     </item>
     <item>
       <title>[📰] SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence</title>
       <link>https://cognition.com/blog/swe-1-7</link>
-      <description>&lt;p&gt;SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 62&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 198&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48833866</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 16:19:36 +0000</pubDate>
@@ -404,17 +339,109 @@
       <title>[📰] Prime Intellect raises $130M Series A to help enterprises build their own AI agents</title>
       <link>https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/</link>
       <description>&lt;p&gt;Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 16:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google updates Android Bench with new LLMs, but Gemini still lags behind</title>
+      <link>https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/</link>
+      <description>&lt;p&gt;
+                        Android Bench is evolving, and developers can help guide that process. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 16:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI releases new voice models for more natural live conversations</title>
+      <link>https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</link>
+      <description>&lt;p&gt;OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GPT‑Live</title>
+      <link>https://openai.com/index/introducing-gpt-live/</link>
+      <description>&lt;p&gt;GPT‑Live&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 472&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48834405</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 17:03:19 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.</title>
       <link>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</link>
       <description>&lt;p&gt;Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 08 Jul 2026 17:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: Microsoft releases Flint, a visualization language for AI agents</title>
+      <link>https://microsoft.github.io/flint-chart/#/</link>
+      <description>&lt;p&gt;Show HN: Microsoft releases Flint, a visualization language for AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 108&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48834924</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 17:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Why this CEO thinks video games make better training data than the internet</title>
+      <link>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</link>
+      <description>&lt;p&gt;When it comes to achieving artificial general intelligence (AGI), large language models just&amp;#160;don’t&amp;#160;have what it takes. Models like ChatGPT and Claude&amp;#160;are great at text, but&amp;#160;they&amp;#8217;re&amp;#160;less skilled at understanding how things&amp;#160;actually move&amp;#160;through space and time&amp;#160;—&amp;#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&amp;#160;by&amp;#160;gaming data.&amp;#160;That&amp;#8217;s&amp;#160;the bet behind General Intuition, a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 17:47:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5</title>
+      <link>https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT Voice. It uses a full-duplex architecture to listen and speak at once, and delegates search and reasoning to GPT-5.5.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/"&gt;OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5&lt;/a&gt; app...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 18:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google Photos adds a new AI ‘Video Remix’ tool</title>
+      <link>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</link>
+      <description>&lt;p&gt;The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 18:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Studio Adds ‘Import from GitHub’ to Build Mode, Turning an Existing Repo Into an Editable, Deployable App</title>
+      <link>https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. Here is what changes for developers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/"&gt;Google AI Studio Adds &amp;#8216;Import from GitHub&amp;#8217; to Build Mode, Turning an Existing Repo Into an Editable, Deployable App&lt;/a&gt; appeared first on &lt;a href=...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 18:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] This startup thinks robotics is about to have its ChatGPT moment</title>
+      <link>https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/</link>
+      <description>&lt;p&gt;General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 19:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’</title>
+      <link>https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/</link>
+      <description>&lt;p&gt;Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 19:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s deepfake detector system used to debunk McConnell hoax pic</title>
+      <link>https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/</link>
+      <description>&lt;p&gt;Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 20:37:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
