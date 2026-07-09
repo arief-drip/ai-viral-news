@@ -1,8 +1,30 @@
 [
   {
+    "id": "hn-48838772",
+    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+    "description": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+    "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+    "source_link": "https://news.ycombinator.com/item?id=48838772",
+    "engagement": "\ud83d\udc4d 63",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-08T23:27:14+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+    "description": "\n                        AI cheating leads to \"a failed society,\" professor says.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "source_link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-08T21:42:44+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
-    "description": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
     "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
     "source_link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -33,17 +55,6 @@
     "published": "2026-07-08T19:19:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Google AI Studio Adds \u2018Import from GitHub\u2019 to Build Mode, Turning an Existing Repo Into an Editable, Deployable App",
-    "description": "<p>Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. Here is what changes for developers.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/\">Google AI Studio Adds &#8216;Import from GitHub&#8217; to Build Mode, Turning an Existing Repo Into an Editable, Deployable App</a> appeared first on <a href=...",
-    "link": "https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/",
-    "source_link": "https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T18:41:57+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-3",
     "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
     "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
@@ -53,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-08T18:30:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
-    "description": "<p>OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT Voice. It uses a full-duplex architecture to listen and speak at once, and delegates search and reasoning to GPT-5.5.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/\">OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5</a> app...",
-    "link": "https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/",
-    "source_link": "https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T18:08:21+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -82,7 +82,7 @@
     "description": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "link": "https://microsoft.github.io/flint-chart/#/",
     "source_link": "https://news.ycombinator.com/item?id=48834924",
-    "engagement": "\ud83d\udc4d 108",
+    "engagement": "\ud83d\udc4d 206",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-08T17:46:12+00:00"
@@ -104,7 +104,7 @@
     "description": "GPT\u2011Live",
     "link": "https://openai.com/index/introducing-gpt-live/",
     "source_link": "https://news.ycombinator.com/item?id=48834405",
-    "engagement": "\ud83d\udc4d 472",
+    "engagement": "\ud83d\udc4d 604",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-08T17:03:19+00:00"
@@ -121,7 +121,7 @@
     "published": "2026-07-08T17:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
     "description": "\n                        Android Bench is evolving, and developers can help guide that process. \n                    ",
     "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
@@ -143,17 +143,6 @@
     "published": "2026-07-08T16:22:38+00:00"
   },
   {
-    "id": "hn-48833866",
-    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-    "description": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-    "link": "https://cognition.com/blog/swe-1-7",
-    "source_link": "https://news.ycombinator.com/item?id=48833866",
-    "engagement": "\ud83d\udc4d 198",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T16:19:36+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-8",
     "title": "These AI startups are growing  revenue at faster and faster rates",
     "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
@@ -170,65 +159,10 @@
     "description": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
     "link": "https://mistral.ai/news/robostral-navigate/",
     "source_link": "https://news.ycombinator.com/item?id=48832212",
-    "engagement": "\ud83d\udc4d 348",
+    "engagement": "\ud83d\udc4d 417",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-08T14:09:17+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Your gaming data could\u00a0be the secret to AGI, according to this Bezos-backed startup",
-    "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don\u2019t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;\u2014&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a...",
-    "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-    "source_link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T13:00:00+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "description": "\n                        \"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"\n                    ",
-    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "source_link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T07:00:51+00:00"
-  },
-  {
-    "id": "hn-48827858",
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "description": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "source_link": "https://news.ycombinator.com/item?id=48827858",
-    "engagement": "\ud83d\udc4d 483",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T05:25:35+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone",
-    "description": "<p>NVIDIA's Nemotron-Labs-Audex-30B-A3B unifies audio understanding, speech recognition, translation, TTS, and audio generation in one MoE model. It keeps the text intelligence of its Nemotron-Cascade-2 backbone with marginal regression.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/\">NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...",
-    "link": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
-    "source_link": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T00:50:26+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-    "description": "<p>Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is exhausted. Antidoom finds the token that starts the loop and retrains only that position using Final Token Preference Optimization (FTPO). On LFM2.5-2.6B, doom-loop rates fell from 10.2% to 1.4%; on Qwen3.5-4B, from 22.9% to 1%. Generation, detection, and the FTPO trainer are open source.</p>\n<p>The post <a href=\"https://www.marktechpost.com/20...",
-    "link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-    "source_link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-07T16:50:50+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -240,28 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-07T11:10:52+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API",
-    "description": "<p>OpenAI added two Realtime models to its API. GPT-Realtime-2.1-mini is a mini reasoning model for voice, priced like the earlier gpt-realtime-mini. OpenAI also cut p95 latency by at least 25% through improved caching. Here is what changed, how pricing compares, and how to connect over WebRTC.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/\">OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agen...",
-    "link": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
-    "source_link": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-07T04:35:09+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS",
-    "description": "<p>In this tutorial, we build an autonomous AI co-scientist for EGFR C797S inhibitor discovery. We resolve the target through ChEMBL and UniProt, then mine IC50 records into a clean pIC50 dataset. We use RDKit to standardize molecules, compute Morgan fingerprints, and train a scaffold-split Random Forest QSAR model. We interpret potency drivers with SHAP, then recombine BRICS fragments to generate and rank novel candidates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/06/buildin...",
-    "link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
-    "source_link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-07T01:43:28+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -295,17 +207,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-06T12:31:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Translation Tool With Translate, Proofread, and Ask Modes",
-    "description": "<p>Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English, and Chinese. Three modes ship together: Translate, Proofread, and Ask. This article breaks down each mode, the XCOMET-XL benchmark, and practical use cases.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/\">Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese\u2013English\u2013Chinese Transla...",
-    "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-    "source_link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T05:35:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
