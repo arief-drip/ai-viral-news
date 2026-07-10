@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 02:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:27:30 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,6 +209,14 @@
       <pubDate>Mon, 06 Jul 2026 12:31:05 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future</title>
+      <link>https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/</link>
+      <description>&lt;p&gt;Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48805598</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 06 Jul 2026 14:59:21 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Your family’s $300 stake in OpenAI</title>
       <link>https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/</link>
       <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -233,9 +241,45 @@
       <pubDate>Tue, 07 Jul 2026 11:10:52 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5</title>
+      <link>https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT Voice. It uses a full-duplex architecture to listen and speak at once, and delegates search and reasoning to GPT-5.5.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/"&gt;OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5&lt;/a&gt; app...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 18:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Milliseconds by Splitting Cassandra Partitions Per ID</title>
+      <link>https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/</link>
+      <description>&lt;p&gt;&lt;p&gt;Netflix engineers detailed how they handle wide partitions in Apache Cassandra for the TimeSeries Abstraction. Two approaches work together: Time Slice re-partitioning tunes future partitions at the table level, while dynamic partitioning detects and splits oversized partitions per TimeSeries ID on the read path. Detection runs via byte counting and Kafka, splits are checksum-validated, and Bloom filters route reads to parallel child partitions. Average read latency dropped from seconds to lo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 08 Jul 2026 21:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling</title>
+      <link>https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/</link>
+      <description>&lt;p&gt;&lt;p&gt;Datalab&amp;#8217;s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped JSON directly. Instead of converting a document to Markdown first and then asking another model to extract fields, Lift reads rendered page images and attempts to emit the final [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llama...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 07:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Studio Adds Import from GitHub to Build a Deployable App</title>
+      <link>https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/"&gt;Google AI Studio Adds Import from GitHub to Build a Deployable App&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 07:58:06 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] GPT-5.6</title>
       <link>https://openai.com/index/gpt-5-6/</link>
-      <description>&lt;p&gt;GPT-5.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,072&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,212&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48849066</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 17:04:14 +0000</pubDate>
@@ -267,6 +311,15 @@
       <pubDate>Thu, 09 Jul 2026 19:05:58 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput</title>
+      <link>https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 19:31:25 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Meta enters the crowded AI coding battle with Muse Spark 1.1</title>
       <link>https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/</link>
       <description>&lt;p&gt;Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -281,6 +334,22 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API</title>
+      <link>https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 20:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building a real-time AI tutor for 5-year-olds</title>
+      <link>https://www.ello.com/blog/teaching-a-child-in-1000-ms</link>
+      <description>&lt;p&gt;Building a real-time AI tutor for 5-year-olds&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 81&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48852199</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 20:51:06 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI wants its new tool to do your work for you and with you</title>
@@ -323,6 +392,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 22:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API</title>
+      <link>https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 09 Jul 2026 22:26:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Fidji Simo steps down from OpenAI’s no. 2 role</title>
