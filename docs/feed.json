@@ -1,8 +1,63 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source_link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T20:32:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+    "description": "<p>MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...",
+    "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "source_link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T20:21:08+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
+    "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source_link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T19:00:00+00:00"
+  },
+  {
+    "id": "hn-48863707",
+    "title": "How the terrorist group Boko Haram uses frontier AI",
+    "description": "How the terrorist group Boko Haram uses frontier AI",
+    "link": "https://casp.ac/reports/ai-enabled-terrorism",
+    "source_link": "https://news.ycombinator.com/item?id=48863707",
+    "engagement": "\ud83d\udc4d 63",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T18:49:26+00:00"
+  },
+  {
+    "id": "hn-48863490",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "description": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "source_link": "https://news.ycombinator.com/item?id=48863490",
+    "engagement": "\ud83d\udc4d 176",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T18:29:19+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+    "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
     "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "source_link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -11,18 +66,18 @@
     "published": "2026-07-10T17:17:12+00:00"
   },
   {
-    "id": "hn-48856904",
-    "title": "AI-generated videos to maximally drive a target brain region",
-    "description": "AI-generated videos to maximally drive a target brain region",
-    "link": "https://nevo-project.epfl.ch/",
-    "source_link": "https://news.ycombinator.com/item?id=48856904",
-    "engagement": "\ud83d\udc4d 222",
-    "source": "Hacker News",
+    "id": "rss-TechCrunch AI-3",
+    "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+    "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "source_link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T07:39:11+00:00"
+    "published": "2026-07-10T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
     "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. ",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
@@ -33,7 +88,7 @@
     "published": "2026-07-10T00:16:54+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
     "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.\n",
     "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
@@ -44,7 +99,7 @@
     "published": "2026-07-09T23:38:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
     "description": "<p>Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.</p>\n<p>The post <a href=\"https://www.marktech...",
     "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
@@ -55,7 +110,7 @@
     "published": "2026-07-09T22:26:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. ",
     "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
@@ -66,7 +121,7 @@
     "published": "2026-07-09T22:24:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "An AI agent startup just let its agent run its $100M fundraise",
     "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
     "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
@@ -77,7 +132,7 @@
     "published": "2026-07-09T22:08:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-8",
     "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
     "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.\u00a0",
     "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
@@ -88,29 +143,7 @@
     "published": "2026-07-09T22:03:54+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Can AI answer the $3 trillion question?",
-    "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "source_link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T21:47:50+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "OpenAI wants its new tool to do your work for you and with you",
-    "description": "\n                        Rebranded Codex promises independent workflows that can run \"for hours if needed.\"\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-    "source_link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T21:25:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
     "description": "<p>OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...",
     "link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
@@ -132,18 +165,7 @@
     "published": "2026-07-09T20:22:28+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "source_link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T19:40:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput",
     "description": "<p>NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
     "link": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
@@ -154,29 +176,7 @@
     "published": "2026-07-09T19:31:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "source_link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T19:05:58+00:00"
-  },
-  {
-    "id": "hn-48849066",
-    "title": "GPT-5.6",
-    "description": "GPT-5.6",
-    "link": "https://openai.com/index/gpt-5-6/",
-    "source_link": "https://news.ycombinator.com/item?id=48849066",
-    "engagement": "\ud83d\udc4d 1,482",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T17:04:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
     "description": "<p>Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. </p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/\">Google AI Studio Adds Import from GitHub to Build a Deployable App</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
@@ -187,7 +187,7 @@
     "published": "2026-07-09T07:58:06+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling",
     "description": "<p>Datalab&#8217;s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped JSON directly. Instead of converting a document to Markdown first and then asking another model to extract fields, Lift reads rendered page images and attempts to emit the final [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llama...",
     "link": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
@@ -196,17 +196,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-09T07:50:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Milliseconds by Splitting Cassandra Partitions Per ID",
-    "description": "<p>Netflix engineers detailed how they handle wide partitions in Apache Cassandra for the TimeSeries Abstraction. Two approaches work together: Time Slice re-partitioning tunes future partitions at the table level, while dynamic partitioning detects and splits oversized partitions per TimeSeries ID on the read path. Detection runs via byte counting and Kafka, splits are checksum-validated, and Bloom filters route reads to parallel child partitions. Average read latency dropped from seconds to lo...",
-    "link": "https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/",
-    "source_link": "https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-08T21:00:58+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -240,17 +229,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-06T18:00:00+00:00"
-  },
-  {
-    "id": "hn-48805598",
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "description": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "source_link": "https://news.ycombinator.com/item?id=48805598",
-    "engagement": "\ud83d\udc4d 171",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-06T14:59:21+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
