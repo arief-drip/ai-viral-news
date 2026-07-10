@@ -1,5 +1,82 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+    "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. ",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "source_link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T00:16:54+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+    "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.\n",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source_link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T23:38:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. ",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "source_link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T22:24:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "source_link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T22:08:58+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.\u00a0",
+    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "source_link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T22:03:54+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
+    "title": "Can AI answer the $3 trillion question?",
+    "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "source_link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T21:47:50+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "description": "\n                        Rebranded Codex promises independent workflows that can run \"for hours if needed.\"\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "source_link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T21:25:55+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
@@ -11,7 +88,7 @@
     "published": "2026-07-09T20:22:28+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-6",
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
     "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
@@ -22,7 +99,7 @@
     "published": "2026-07-09T19:40:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-7",
     "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
     "description": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
     "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
@@ -33,7 +110,7 @@
     "published": "2026-07-09T19:05:58+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
     "description": "\n                        OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
@@ -44,7 +121,7 @@
     "published": "2026-07-09T18:57:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-8",
     "title": "Google will now disclose which ads are made with AI",
     "description": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
     "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
@@ -55,103 +132,15 @@
     "published": "2026-07-09T18:40:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "description": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "source_link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T18:34:35+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
-    "description": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "source_link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T18:22:39+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
-    "description": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-    "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "source_link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T17:56:47+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Meta\u2019s new AI chips will begin production in September",
-    "description": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "source_link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T17:17:37+00:00"
-  },
-  {
     "id": "hn-48849066",
     "title": "GPT-5.6",
     "description": "GPT-5.6",
     "link": "https://openai.com/index/gpt-5-6/",
     "source_link": "https://news.ycombinator.com/item?id=48849066",
-    "engagement": "\ud83d\udc4d 792",
+    "engagement": "\ud83d\udc4d 1,072",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-09T17:04:14+00:00"
-  },
-  {
-    "id": "hn-48849059",
-    "title": "ChatGPT Work",
-    "description": "ChatGPT Work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "source_link": "https://news.ycombinator.com/item?id=48849059",
-    "engagement": "\ud83d\udc4d 283",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T17:03:53+00:00"
-  },
-  {
-    "id": "hn-48847940",
-    "title": "AI content is everywhere on social media, especially LinkedIn",
-    "description": "AI content is everywhere on social media, especially LinkedIn",
-    "link": "https://www.pangram.com/blog/ai-in-your-feed",
-    "source_link": "https://news.ycombinator.com/item?id=48847940",
-    "engagement": "\ud83d\udc4d 128",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T15:50:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Anthropic\u2019s new Claude feature is quietly selling you on AI",
-    "description": "Claude\u2019s new Reflect dashboard doesn\u2019t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic\u2019s chatbot.",
-    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "source_link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T14:53:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "description": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "source_link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-09T14:51:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
