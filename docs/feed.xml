@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:18:42 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -229,7 +229,7 @@
       <link>https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/</link>
       <description>&lt;p&gt;&lt;p&gt;Datalab&amp;#8217;s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped JSON directly. Instead of converting a document to Markdown first and then asking another model to extract fields, Lift reads rendered page images and attempts to emit the final [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llama...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 07:50:47 +0000</pubDate>
     </item>
@@ -239,14 +239,14 @@
       <description>&lt;p&gt;&lt;p&gt;Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. &lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/"&gt;Google AI Studio Adds Import from GitHub to Build a Deployable App&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 07:58:06 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI 2040: Plan A</title>
       <link>https://ai-2040.com/</link>
-      <description>&lt;p&gt;AI 2040: Plan A&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 212&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI 2040: Plan A&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 258&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48848425</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 16:21:44 +0000</pubDate>
@@ -256,7 +256,7 @@
       <link>https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 19:31:25 +0000</pubDate>
     </item>
@@ -272,7 +272,7 @@
       <title>[📰] OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API</title>
       <link>https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 20:45:42 +0000</pubDate>
     </item>
@@ -305,7 +305,7 @@
       <link>https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 22:26:16 +0000</pubDate>
     </item>
@@ -345,7 +345,7 @@
     <item>
       <title>[📰] GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
       <link>https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</link>
-      <description>&lt;p&gt;GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 412&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 450&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48863490</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 18:29:19 +0000</pubDate>
@@ -363,14 +363,14 @@
       <link>https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/</link>
       <description>&lt;p&gt;&lt;p&gt;MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 20:21:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Apple sues OpenAI, accuses ex-employees of stealing trade secrets</title>
       <link>https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/</link>
-      <description>&lt;p&gt;Apple sues OpenAI, accuses ex-employees of stealing trade secrets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 853&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apple sues OpenAI, accuses ex-employees of stealing trade secrets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,036&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48865019</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 20:47:09 +0000</pubDate>
@@ -390,6 +390,14 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI</title>
+      <link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
+      <description>&lt;p&gt;&lt;p&gt;Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.&lt;/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
