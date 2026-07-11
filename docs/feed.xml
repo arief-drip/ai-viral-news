@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 12:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:44:03 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,40 +225,12 @@
       <pubDate>Tue, 07 Jul 2026 11:10:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling</title>
-      <link>https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/</link>
-      <description>&lt;p&gt;&lt;p&gt;Datalab&amp;#8217;s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped JSON directly. Instead of converting a document to Markdown first and then asking another model to extract fields, Lift reads rendered page images and attempts to emit the final [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llama...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 07:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google AI Studio Adds Import from GitHub to Build a Deployable App</title>
-      <link>https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterate on it, deploy it, and more. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/"&gt;Google AI Studio Adds Import from GitHub to Build a Deployable App&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 07:58:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] AI 2040: Plan A</title>
       <link>https://ai-2040.com/</link>
-      <description>&lt;p&gt;AI 2040: Plan A&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 301&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI 2040: Plan A&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 352&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48848425</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 16:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput</title>
-      <link>https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 19:31:25 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic found a hidden space where Claude puzzles over concepts</title>
@@ -269,26 +241,10 @@
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API</title>
-      <link>https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 20:45:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI is shutting down Atlas, but its AI browser ambitions are still growing</title>
-      <link>https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/</link>
-      <description>&lt;p&gt;OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 22:03:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] An AI agent startup just let its agent run its $100M fundraise</title>
       <link>https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/</link>
       <description>&lt;p&gt;Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 22:08:58 +0000</pubDate>
     </item>
@@ -296,25 +252,16 @@
       <title>[📰] OpenAI launches its new family of models with GPT-5.6</title>
       <link>https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/</link>
       <description>&lt;p&gt;OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 22:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API</title>
-      <link>https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 22:26:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Fidji Simo steps down from OpenAI’s No. 2 role</title>
       <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
       <description>&lt;p&gt;OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 23:38:00 +0000</pubDate>
     </item>
@@ -322,7 +269,7 @@
       <title>[📰] OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</title>
       <link>https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/</link>
       <description>&lt;p&gt;OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 00:16:54 +0000</pubDate>
     </item>
@@ -330,7 +277,7 @@
       <title>[📰] Hugging Face’s CEO on why companies are done renting their AI</title>
       <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
       <description>&lt;p&gt;Open source AI is booming, according to&amp;#160;Hugging Face&amp;#160;CEO&amp;#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
     </item>
@@ -338,39 +285,22 @@
       <title>[📰] SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs</title>
       <link>https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/</link>
       <description>&lt;p&gt;The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 17:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
-      <link>https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf</link>
-      <description>&lt;p&gt;GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 476&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48863490</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 18:29:19 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
       <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
       <description>&lt;p&gt;Open source AI is booming, according to&amp;#160;Hugging Face&amp;#160;CEO&amp;#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI</title>
-      <link>https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/</link>
-      <description>&lt;p&gt;&lt;p&gt;MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 20:21:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Apple sues OpenAI, accuses ex-employees of stealing trade secrets</title>
       <link>https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/</link>
-      <description>&lt;p&gt;Apple sues OpenAI, accuses ex-employees of stealing trade secrets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,204&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apple sues OpenAI, accuses ex-employees of stealing trade secrets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,395&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48865019</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 20:47:09 +0000</pubDate>
@@ -379,7 +309,7 @@
       <title>[📰] Apple sues OpenAI over alleged trade secret theft</title>
       <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
       <description>&lt;p&gt;Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
     </item>
@@ -387,17 +317,25 @@
       <title>[📰] Meta removes controversial AI feature on Instagram after backlash</title>
       <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
       <description>&lt;p&gt;"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI</title>
-      <link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
-      <description>&lt;p&gt;&lt;p&gt;Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.&lt;/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] Ghost Font: A font that humans can read but AI cannot</title>
+      <link>https://www.mixfont.com/ghost-font</link>
+      <description>&lt;p&gt;Ghost Font: A font that humans can read but AI cannot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 114&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48870381</guid>
       <category>AI News</category>
-      <pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 09:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI bets on families as ChatGPT goes deeper into households</title>
+      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
+      <description>&lt;p&gt;ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
