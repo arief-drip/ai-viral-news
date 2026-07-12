@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 20:35:48 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,29 +225,12 @@
       <pubDate>Tue, 07 Jul 2026 11:10:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput</title>
-      <link>https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 19:31:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Anthropic found a hidden space where Claude puzzles over concepts</title>
       <link>https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/</link>
       <description>&lt;p&gt;The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API</title>
-      <link>https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 20:45:42 +0000</pubDate>
     </item>
     <item>
       <title>[📰] An AI agent startup just let its agent run its $100M fundraise</title>
@@ -264,15 +247,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 09 Jul 2026 22:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API</title>
-      <link>https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 09 Jul 2026 22:26:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Fidji Simo steps down from OpenAI’s No. 2 role</title>
@@ -316,15 +290,6 @@
       <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI</title>
-      <link>https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/</link>
-      <description>&lt;p&gt;&lt;p&gt;MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 20:21:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Apple sues OpenAI over alleged trade secret theft</title>
       <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
       <description>&lt;p&gt;Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -341,14 +306,6 @@
       <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI</title>
-      <link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
-      <description>&lt;p&gt;&lt;p&gt;Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.&lt;/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI bets on families as ChatGPT goes deeper into households</title>
       <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
       <description>&lt;p&gt;ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -357,29 +314,20 @@
       <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mesh LLM: distributed AI computing on iroh</title>
-      <link>https://www.iroh.computer/blog/mesh-llm</link>
-      <description>&lt;p&gt;Mesh LLM: distributed AI computing on iroh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 312&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48876505</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 11 Jul 2026 22:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights</title>
-      <link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
-      <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab published "The Future Worth Building Is Human." The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/"&gt;Mira Murati&amp;#821...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI Boosts Research Careers but Flattens Scientific Discovery</title>
+      <title>[📰] AI boosts research careers but narrow the span of ideas explored: study</title>
       <link>https://spectrum.ieee.org/ai-science-research-flattens-discovery</link>
-      <description>&lt;p&gt;AI Boosts Research Careers but Flattens Scientific Discovery&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 84&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI boosts research careers but narrow the span of ideas explored: study&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48881043</guid>
       <category>AI News</category>
       <pubDate>Sun, 12 Jul 2026 13:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</title>
+      <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
+      <description>&lt;p&gt;Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 234&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48883275</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 12 Jul 2026 18:25:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
