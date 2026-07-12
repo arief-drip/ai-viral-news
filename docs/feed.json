@@ -1,11 +1,33 @@
 [
   {
+    "id": "hn-48881043",
+    "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+    "description": "AI Boosts Research Careers but Flattens Scientific Discovery",
+    "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "source_link": "https://news.ycombinator.com/item?id=48881043",
+    "engagement": "\ud83d\udc4d 84",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T13:26:13+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Mira Murati\u2019s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
+    "description": "<p>Thinking Machines Lab published \"The Future Worth Building Is Human.\" The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/\">Mira Murati&#821...",
+    "link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "source_link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T00:46:13+00:00"
+  },
+  {
     "id": "hn-48876505",
     "title": "Mesh LLM: distributed AI computing on iroh",
     "description": "Mesh LLM: distributed AI computing on iroh",
     "link": "https://www.iroh.computer/blog/mesh-llm",
     "source_link": "https://news.ycombinator.com/item?id=48876505",
-    "engagement": "\ud83d\udc4d 278",
+    "engagement": "\ud83d\udc4d 312",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-11T22:38:57+00:00"
@@ -20,6 +42,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-11T14:13:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Ant Group\u2019s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+    "description": "<p>Ant Group's Robbyant has released the LingBot-VA 2.0 technical report \u2014 a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.</...",
+    "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+    "source_link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-11T07:56:11+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -42,6 +75,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-10T21:00:29+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+    "description": "<p>MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...",
+    "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "source_link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T20:21:08+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -99,6 +143,17 @@
     "published": "2026-07-09T23:38:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+    "description": "<p>Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.</p>\n<p>The post <a href=\"https://www.marktech...",
+    "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+    "source_link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T22:26:16+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-8",
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "description": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity. ",
@@ -121,6 +176,17 @@
     "published": "2026-07-09T22:08:58+00:00"
   },
   {
+    "id": "rss-MarkTechPost-4",
+    "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+    "description": "<p>OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$15, and Luna is $1/$6. Sol sets the Artificial Analysis Coding Agent Index at 80, 2.8 points above Claude Fable 5, and reaches 62.6% on OSWorld 2.0 using 85% fewer output tokens than Opus 4.8. The substantive developer change is Programmatic Tool Calling, which runs model-written JavaScript in an isolated V8 runtime to orchestrate tools without ...",
+    "link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+    "source_link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T20:45:42+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "description": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
@@ -130,6 +196,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-09T20:22:28+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput",
+    "description": "<p>NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural compression with short knowledge distillation recovery phases. The model drops from 120.7B total / 12.8B active parameters to 75.3B / 9.3B. On a single 8xB200 node it delivers 2.03x Super's total throughput at 100 tok/s per user. On one H100, 1M-token concurrency rises from 1 request to 8.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
+    "link": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
+    "source_link": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T19:31:25+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
