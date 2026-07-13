@@ -1,25 +1,47 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Guide to Loop Engineering: How \u2018autoresearch\u2019 and \u2018Bilevel Autoresearch\u2019 Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
+    "description": "<p>Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/\">Guide to Loop Engineering: How &...",
+    "link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+    "source_link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T20:07:02+00:00"
+  },
+  {
     "id": "hn-48883275",
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "description": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
     "source_link": "https://news.ycombinator.com/item?id=48883275",
-    "engagement": "\ud83d\udc4d 234",
+    "engagement": "\ud83d\udc4d 468",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-12T18:25:51+00:00"
   },
   {
-    "id": "hn-48881043",
-    "title": "AI boosts research careers but narrow the span of ideas explored: study",
-    "description": "AI boosts research careers but narrow the span of ideas explored: study",
-    "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "source_link": "https://news.ycombinator.com/item?id=48881043",
-    "engagement": "\ud83d\udc4d 129",
+    "id": "hn-48882716",
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "description": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "source_link": "https://news.ycombinator.com/item?id=48882716",
+    "engagement": "\ud83d\udc4d 142",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-12T13:26:13+00:00"
+    "published": "2026-07-12T17:13:07+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Mira Murati\u2019s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
+    "description": "<p>Thinking Machines Lab published \"The Future Worth Building Is Human.\" The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/\">Mira Murati&#821...",
+    "link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "source_link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T00:46:13+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -31,6 +53,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-11T14:13:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Ant Group\u2019s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+    "description": "<p>Ant Group's Robbyant has released the LingBot-VA 2.0 technical report \u2014 a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.</...",
+    "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+    "source_link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-11T07:56:11+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -53,6 +86,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-10T21:00:29+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+    "description": "<p>MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...",
+    "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "source_link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-10T20:21:08+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -108,6 +152,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-09T23:38:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+    "description": "<p>Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning model built for agentic tasks, with a 1,000,000-token context window the model actively compacts, zero-shot generalization to new tools and MCP servers, and multi-agent delegation across parallel subagents. Meta's own launch table shows it leading tool use while trailing Opus 4.8 and GPT-5.5 on coding.</p>\n<p>The post <a href=\"https://www.marktech...",
+    "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+    "source_link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-09T22:26:16+00:00"
   },
   {
     "id": "rss-TechCrunch AI-8",
