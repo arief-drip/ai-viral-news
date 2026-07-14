@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder",
+    "description": "<p>Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/\">Meet Blume: An Open-Source, Zero-Config...",
+    "link": "https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/",
+    "source_link": "https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T08:15:29+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera",
+    "description": "<p>Mistral AI introduced Robostral Navigate, an 8B embodied navigation model. It moves robots from a plain-language instruction using only a single RGB camera, with no LiDAR or depth sensors. The model reaches 76.6% success on R2R-CE validation unseen through a pointing method, prefix-caching training, and CISPO online reinforcement learning.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-env...",
+    "link": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
+    "source_link": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T07:20:38+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
@@ -9,6 +31,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-14T02:46:42+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "description": "<p>Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/\">Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</a> appeared first on <a href=\"https://www.marktechpost.com...",
+    "link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+    "source_link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T00:58:47+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -22,15 +55,15 @@
     "published": "2026-07-14T00:45:00+00:00"
   },
   {
-    "id": "hn-48899321",
-    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "description": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "link": "https://arxiv.org/abs/2607.01418",
-    "source_link": "https://news.ycombinator.com/item?id=48899321",
-    "engagement": "\ud83d\udc4d 51",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-3",
+    "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
+    "description": "<p>MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...",
+    "link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
+    "source_link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-13T21:43:51+00:00"
+    "published": "2026-07-13T22:37:53+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -42,17 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-13T20:59:00+00:00"
-  },
-  {
-    "id": "hn-48897975",
-    "title": "Show HN: I implemented a neural network in SQL",
-    "description": "Show HN: I implemented a neural network in SQL",
-    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "source_link": "https://news.ycombinator.com/item?id=48897975",
-    "engagement": "\ud83d\udc4d 77",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-13T20:00:10+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -99,17 +121,6 @@
     "published": "2026-07-13T16:31:23+00:00"
   },
   {
-    "id": "hn-48894630",
-    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "description": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "link": "https://github.com/jbwinters/jacquard-lang",
-    "source_link": "https://news.ycombinator.com/item?id=48894630",
-    "engagement": "\ud83d\udc4d 74",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-13T15:56:02+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-5",
     "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
     "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
@@ -130,6 +141,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-13T14:18:16+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Guide to Loop Engineering: How \u2018autoresearch\u2019 and \u2018Bilevel Autoresearch\u2019 Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
+    "description": "<p>Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/\">Guide to Loop Engineering: How &...",
+    "link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+    "source_link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T20:07:02+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Mira Murati\u2019s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
+    "description": "<p>Thinking Machines Lab published \"The Future Worth Building Is Human.\" The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/\">Mira Murati&#821...",
+    "link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "source_link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-12T00:46:13+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",

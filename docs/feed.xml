@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:48:04 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,6 +225,24 @@
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights</title>
+      <link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
+      <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab published "The Future Worth Building Is Human." The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/"&gt;Mira Murati&amp;#821...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops</title>
+      <link>https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/</link>
+      <description>&lt;p&gt;&lt;p&gt;Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&amp;#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/"&gt;Guide to Loop Engineering: How &amp;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 12 Jul 2026 20:07:02 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Waze adds new AI-powered features and customization updates</title>
       <link>https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/</link>
       <description>&lt;p&gt;Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -239,14 +257,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Show HN: Jacquard, a programming language for AI-written, human-reviewed code</title>
-      <link>https://github.com/jbwinters/jacquard-lang</link>
-      <description>&lt;p&gt;Show HN: Jacquard, a programming language for AI-written, human-reviewed code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 74&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48894630</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 15:56:02 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Should AI help you get away with killing your spouse?</title>
@@ -283,14 +293,6 @@
       <pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: I implemented a neural network in SQL</title>
-      <link>https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</link>
-      <description>&lt;p&gt;Show HN: I implemented a neural network in SQL&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 77&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48897975</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Satya Nadella has issued a shocking warning to companies using AI</title>
       <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
       <description>&lt;p&gt;Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -299,12 +301,13 @@
       <pubDate>Mon, 13 Jul 2026 20:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI</title>
-      <link>https://arxiv.org/abs/2607.01418</link>
-      <description>&lt;p&gt;A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 51&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48899321</guid>
+      <title>[📰] Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity</title>
+      <link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
+      <description>&lt;p&gt;&lt;p&gt;MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 21:43:51 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”</title>
@@ -315,12 +318,39 @@
       <pubDate>Tue, 14 Jul 2026 00:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</title>
+      <link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/"&gt;Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Already rich, already successful, why the last wave of tech winners is grinding again</title>
       <link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
       <description>&lt;p&gt;They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera</title>
+      <link>https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/</link>
+      <description>&lt;p&gt;&lt;p&gt;Mistral AI introduced Robostral Navigate, an 8B embodied navigation model. It moves robots from a plain-language instruction using only a single RGB camera, with no LiDAR or depth sensors. The model reaches 76.6% success on R2R-CE validation unseen through a pointing method, prefix-caching training, and CISPO online reinforcement learning.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-env...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 07:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder</title>
+      <link>https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/</link>
+      <description>&lt;p&gt;&lt;p&gt;Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/"&gt;Meet Blume: An Open-Source, Zero-Config...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 08:15:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
