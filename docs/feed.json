@@ -1,5 +1,71 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
+    "description": "<p>Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/\">Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</a> appeared first on <a href=\"https://www.marktechpost.com...",
+    "link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+    "source_link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T00:58:47+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
+    "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "source_link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T00:45:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity",
+    "description": "<p>MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...",
+    "link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
+    "source_link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-13T22:37:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley \u2014 that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "source_link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-13T20:59:00+00:00"
+  },
+  {
+    "id": "hn-48897991",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
+    "description": "Samsung Health app threatens data deletion if users opt out AI training",
+    "link": "https://neow.in/cWsyMTV3",
+    "source_link": "https://news.ycombinator.com/item?id=48897991",
+    "engagement": "\ud83d\udc4d 270",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-13T20:01:43+00:00"
+  },
+  {
+    "id": "hn-48897975",
+    "title": "Show HN: I implemented a neural network in SQL",
+    "description": "Show HN: I implemented a neural network in SQL",
+    "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "source_link": "https://news.ycombinator.com/item?id=48897975",
+    "engagement": "\ud83d\udc4d 57",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-13T20:00:10+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
     "description": "\n                        OpenAI accused of conspiring with former Apple employees to steal trade secrets.\n                    ",
@@ -11,7 +77,7 @@
     "published": "2026-07-13T19:17:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
     "description": "Apple\u2019s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple\u2019s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint\u2019s most eye-catching claims.",
     "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -33,7 +99,7 @@
     "published": "2026-07-13T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Should AI help you get away with killing your spouse?",
     "description": "What does a world of total user-aligned AI actually look like?",
     "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
@@ -44,7 +110,7 @@
     "published": "2026-07-13T16:31:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
     "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
     "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
@@ -55,7 +121,7 @@
     "published": "2026-07-13T15:34:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Waze adds new AI-powered features and customization updates",
     "description": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
     "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
@@ -66,7 +132,7 @@
     "published": "2026-07-13T14:18:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Guide to Loop Engineering: How \u2018autoresearch\u2019 and \u2018Bilevel Autoresearch\u2019 Turn AI Agents Into Autonomous Machine Learning ML Research Loops",
     "description": "<p>Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/\">Guide to Loop Engineering: How &...",
     "link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
@@ -77,7 +143,7 @@
     "published": "2026-07-12T20:07:02+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Mira Murati\u2019s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
     "description": "<p>Thinking Machines Lab published \"The Future Worth Building Is Human.\" The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/\">Mira Murati&#821...",
     "link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
@@ -88,7 +154,7 @@
     "published": "2026-07-12T00:46:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. ",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -99,7 +165,7 @@
     "published": "2026-07-11T14:13:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Ant Group\u2019s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
     "description": "<p>Ant Group's Robbyant has released the LingBot-VA 2.0 technical report \u2014 a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.</...",
     "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
@@ -108,61 +174,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-11T07:56:11+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "description": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "source_link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T23:55:07+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "description": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "source_link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T21:00:29+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
-    "description": "<p>MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...",
-    "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
-    "source_link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T20:21:08+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
-    "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "source_link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T19:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "source_link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-10T17:17:12+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",

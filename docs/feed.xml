@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 01:43:15 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,51 +225,10 @@
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs</title>
-      <link>https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/</link>
-      <description>&lt;p&gt;The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 17:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Open source AI matters more than ever, according to Hugging Face’s Clem Delangue</title>
-      <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
-      <description>&lt;p&gt;Open source AI is booming, according to&amp;#160;Hugging Face&amp;#160;CEO&amp;#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI</title>
-      <link>https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/</link>
-      <description>&lt;p&gt;&lt;p&gt;MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcribes full multi-instrument mixes into MIDI. The article covers its three-stage pipeline, benchmarks against YourMT3+, instrument conditioning, and setup, with an interactive explainer demo.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 20:21:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Apple sues OpenAI over alleged trade secret theft</title>
-      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
-      <description>&lt;p&gt;Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 21:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta removes controversial AI feature on Instagram after backlash</title>
-      <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
-      <description>&lt;p&gt;"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the feedback that this feature missed the mark, so it's no longer available."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 10 Jul 2026 23:55:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI</title>
       <link>https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/</link>
       <description>&lt;p&gt;&lt;p&gt;Ant Group's Robbyant has released the LingBot-VA 2.0 technical report — a Physical AI video-action foundation model built from scratch for embodiment rather than fine-tuned from a video generator. It predicts future states ahead of execution through Foresight Reasoning, re-grounds on every real observation, and reaches 225 Hz asynchronous control. We break down the causal DiT, the sparse-MoE video stream, the semantic visual-action tokenizer, and where the paper's own numbers don't line up.&lt;/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 11 Jul 2026 07:56:11 +0000</pubDate>
     </item>
@@ -277,7 +236,7 @@
       <title>[📰] OpenAI bets on families as ChatGPT goes deeper into households</title>
       <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
       <description>&lt;p&gt;ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Sat, 11 Jul 2026 14:13:00 +0000</pubDate>
     </item>
@@ -286,7 +245,7 @@
       <link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
       <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab published "The Future Worth Building Is Human." The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/"&gt;Mira Murati&amp;#821...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
     </item>
@@ -295,7 +254,7 @@
       <link>https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/</link>
       <description>&lt;p&gt;&lt;p&gt;Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&amp;#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/"&gt;Guide to Loop Engineering: How &amp;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sun, 12 Jul 2026 20:07:02 +0000</pubDate>
     </item>
@@ -303,7 +262,7 @@
       <title>[📰] Waze adds new AI-powered features and customization updates</title>
       <link>https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/</link>
       <description>&lt;p&gt;Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 14:18:16 +0000</pubDate>
     </item>
@@ -311,7 +270,7 @@
       <title>[📰] Anthropic starts localizing Claude pricing for India, its biggest market after the US</title>
       <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
       <description>&lt;p&gt;Claude users in India are starting to see Indian rupee-denominated subscription plans.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
     </item>
@@ -319,7 +278,7 @@
       <title>[📰] Should AI help you get away with killing your spouse?</title>
       <link>https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/</link>
       <description>&lt;p&gt;What does a world of total user-aligned AI actually look like?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 16:31:23 +0000</pubDate>
     </item>
@@ -335,7 +294,7 @@
       <title>[📰] The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
       <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
       <description>&lt;p&gt;Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 18:22:10 +0000</pubDate>
     </item>
@@ -348,6 +307,56 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: I implemented a neural network in SQL</title>
+      <link>https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py</link>
+      <description>&lt;p&gt;Show HN: I implemented a neural network in SQL&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 57&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48897975</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 13 Jul 2026 20:00:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Samsung Health app threatens data deletion if users opt out AI training</title>
+      <link>https://neow.in/cWsyMTV3</link>
+      <description>&lt;p&gt;Samsung Health app threatens data deletion if users opt out AI training&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 270&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48897991</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 13 Jul 2026 20:01:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Satya Nadella has issued a shocking warning to companies using AI</title>
+      <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
+      <description>&lt;p&gt;Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 13 Jul 2026 20:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity</title>
+      <link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
+      <description>&lt;p&gt;&lt;p&gt;MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”</title>
+      <link>https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/</link>
+      <description>&lt;p&gt;Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 00:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</title>
+      <link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/"&gt;Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
