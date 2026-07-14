@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:51:14 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,24 +225,6 @@
       <pubDate>Thu, 09 Jul 2026 20:22:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mira Murati’s Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights</title>
-      <link>https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/</link>
-      <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab published "The Future Worth Building Is Human." The essay frames human participation, model ownership, and decentralized alignment as technical challenges. It ties them to interaction models and Tinker's LoRA fine-tuning, where teams train and keep their own model weights.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/"&gt;Mira Murati&amp;#821...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 12 Jul 2026 00:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops</title>
-      <link>https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/</link>
-      <description>&lt;p&gt;&lt;p&gt;Most people still use AI like a 2015 search box. You type, you read, you type again. A newer pattern replaces that manual back-and-forth with a loop. This guide explains loop engineering using two verified artifacts. The sources are Andrej Karpathy&amp;#8217;s autoresearch repository and the Bilevel Autoresearch paper. The framing follows a write-up by @0xCodila. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/"&gt;Guide to Loop Engineering: How &amp;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 12 Jul 2026 20:07:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] What Anthropic’s latest AI discovery does—and doesn’t—show</title>
       <link>https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/</link>
       <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -251,96 +233,26 @@
       <pubDate>Mon, 13 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</link>
-      <description>&lt;p&gt;
-                        OpenAI accused of conspiring with former Apple employees to steal trade secrets.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <title>[📰] Demis Hassabis has a plan to harness AI safely</title>
+      <link>https://twitter.com/demishassabis/status/2076957440109625718</link>
+      <description>&lt;p&gt;Demis Hassabis has a plan to harness AI safely&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 111&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48904095</guid>
       <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 19:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity</title>
-      <link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
-      <description>&lt;p&gt;&lt;p&gt;MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’</title>
-      <link>https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/</link>
-      <description>&lt;p&gt;Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 00:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</title>
-      <link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/"&gt;Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Already rich, already successful, why the last wave of tech winners is grinding again</title>
-      <link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
-      <description>&lt;p&gt;They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 02:46:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera</title>
-      <link>https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/</link>
-      <description>&lt;p&gt;&lt;p&gt;Mistral AI introduced Robostral Navigate, an 8B embodied navigation model. It moves robots from a plain-language instruction using only a single RGB camera, with no LiDAR or depth sensors. The model reaches 76.6% success on R2R-CE validation unseen through a pointing method, prefix-caching training, and CISPO online reinforcement learning.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-env...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 07:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder</title>
-      <link>https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/</link>
-      <description>&lt;p&gt;&lt;p&gt;Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/"&gt;Meet Blume: An Open-Source, Zero-Config...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 08:15:29 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:20:07 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How to stop Claude from saying load-bearing</title>
       <link>https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing</link>
-      <description>&lt;p&gt;How to stop Claude from saying load-bearing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 148&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How to stop Claude from saying load-bearing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 329&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48905248</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 11:46:02 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Superhuman’s new auto-draft feature almost makes me like AI replies</title>
-      <link>https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/</link>
-      <description>&lt;p&gt;Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Spotify expands its AI push with a ChatGPT-like music assistant</title>
-      <link>https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/</link>
-      <description>&lt;p&gt;Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 14:06:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The real AI race may no longer be at the frontier</title>
       <link>https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/</link>
       <description>&lt;p&gt;Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 14:24:53 +0000</pubDate>
     </item>
@@ -348,7 +260,7 @@
       <title>[📰] Reflection inks $1B compute deal with Nebius</title>
       <link>https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/</link>
       <description>&lt;p&gt;Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 14:37:48 +0000</pubDate>
     </item>
@@ -358,7 +270,7 @@
       <description>&lt;p&gt;
                         New York’s data center moratorium may become the blueprint for anti-AI movement.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 15:06:28 +0000</pubDate>
     </item>
@@ -366,14 +278,14 @@
       <title>[📰] New York State halts construction of all new data centers</title>
       <link>https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/</link>
       <description>&lt;p&gt;New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 15:17:59 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Are we offloading too much of our thinking to AI?</title>
       <link>https://www.artfish.ai/p/offloading-thinking-to-ai</link>
-      <description>&lt;p&gt;Are we offloading too much of our thinking to AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 156&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Are we offloading too much of our thinking to AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 292&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48908178</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 15:18:13 +0000</pubDate>
@@ -382,9 +294,59 @@
       <title>[📰] Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer</title>
       <link>https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/</link>
       <description>&lt;p&gt;Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 14 Jul 2026 16:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google revamps image search for its 25th anniversary with more images and more AI</title>
+      <link>https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/</link>
+      <description>&lt;p&gt;
+                        The new Google image search will use your "unique interests" to create an always-updated gallery.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 16:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepMind CEO calls for an independent standards body to regulate frontier AI</title>
+      <link>https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/</link>
+      <description>&lt;p&gt;DeepMind CEO Demis Hassabis is proposing an AI "standards body" modeled after FINRA, to test frontier models and develop best practices for their release.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 17:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google faces another AI training lawsuit from major publishers</title>
+      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
+      <description>&lt;p&gt;Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 18:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The founder of Hinge raised $18M to build a new AI dating service, Overtone</title>
+      <link>https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/</link>
+      <description>&lt;p&gt;Overtone describes itself as "a voice- and audio-forward service, enabled by AI, that provides highly curated introductions."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 19:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic’s newest ad is creeping people out</title>
+      <link>https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/</link>
+      <description>&lt;p&gt;Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 19:41:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple opens its new Siri AI to everyone with the iOS 27 public beta</title>
+      <link>https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/</link>
+      <description>&lt;p&gt;If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 14 Jul 2026 19:42:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
