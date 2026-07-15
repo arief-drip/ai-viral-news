@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:07:01 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -225,50 +225,6 @@
       <pubDate>Mon, 13 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity</title>
-      <link>https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/</link>
-      <description>&lt;p&gt;&lt;p&gt;MORPHEUS from Skyfall AI is a persistent enterprise simulation platform for continual reinforcement learning. It runs worlds that never reset, using parameterisable regime shifts and a six-metric evaluation protocol. Across the platform, PPO, HER, EWC, and LCM all remain far below the theoretical upper bound.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-nec...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 13 Jul 2026 22:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</title>
-      <link>https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/"&gt;Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 00:58:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera</title>
-      <link>https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/</link>
-      <description>&lt;p&gt;&lt;p&gt;Mistral AI introduced Robostral Navigate, an 8B embodied navigation model. It moves robots from a plain-language instruction using only a single RGB camera, with no LiDAR or depth sensors. The model reaches 76.6% success on R2R-CE validation unseen through a pointing method, prefix-caching training, and CISPO online reinforcement learning.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-env...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 07:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder</title>
-      <link>https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/</link>
-      <description>&lt;p&gt;&lt;p&gt;Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/"&gt;Meet Blume: An Open-Source, Zero-Config...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 08:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to stop Claude from saying load-bearing</title>
-      <link>https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing</link>
-      <description>&lt;p&gt;How to stop Claude from saying load-bearing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 566&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48905248</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 11:46:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google revamps image search for its 25th anniversary with more images and more AI</title>
       <link>https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/</link>
       <description>&lt;p&gt;
@@ -289,48 +245,6 @@
       <pubDate>Tue, 14 Jul 2026 20:05:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task</title>
-      <link>https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/</link>
-      <description>&lt;p&gt;&lt;p&gt;See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/"&gt;Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 20:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI’s new flagship model deletes files on its own, people keep warning</title>
-      <link>https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/</link>
-      <description>&lt;p&gt;A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 21:50:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI pushes back on Apple trade secret lawsuit</title>
-      <link>https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/</link>
-      <description>&lt;p&gt;OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 22:07:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI’s first hardware device is reportedly a screenless speaker that can move</title>
-      <link>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</link>
-      <description>&lt;p&gt;The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’s ChatGPT."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 22:22:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Lorde says AI glasses are ‘not sexy’</title>
-      <link>https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/</link>
-      <description>&lt;p&gt;"Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 14 Jul 2026 23:10:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Introducing Real World VoiceEQ: Measuring the human quality of voice AI</title>
       <link>https://huggingface.co/blog/real-world-voiceeq</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
@@ -342,23 +256,15 @@
       <title>[📰] OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</title>
       <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
       <description>&lt;p&gt;The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 15 Jul 2026 00:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] I tricked Claude into leaking your deepest, darkest secrets</title>
-      <link>https://www.ayush.digital/blog/the-memory-heist</link>
-      <description>&lt;p&gt;I tricked Claude into leaking your deepest, darkest secrets&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 457&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48916975</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 15 Jul 2026 06:28:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Vint Cerf is working on a plan to unleash AI agents on the open internet</title>
       <link>https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/</link>
       <description>&lt;p&gt;The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
@@ -366,7 +272,7 @@
       <title>[📰] Indian AI coding startup Emergent becomes a unicorn with $130M Series C</title>
       <link>https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/</link>
       <description>&lt;p&gt;The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
@@ -374,17 +280,65 @@
       <title>[📰] Reelful’s AI turns your camera roll into short-form videos for social media</title>
       <link>https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/</link>
       <description>&lt;p&gt;The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models</title>
+      <title>[📰] Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</title>
       <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
       <description>&lt;p&gt;Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 15 Jul 2026 13:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence</title>
+      <link>https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</link>
+      <description>&lt;p&gt;The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 110&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48920432</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 13:18:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI loses trademark dispute at EU court</title>
+      <link>https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/</link>
+      <description>&lt;p&gt;OpenAI loses trademark dispute at EU court&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 87&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48921461</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 14:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple Intelligence approved for launch in China with Alibaba’s Qwen AI</title>
+      <link>https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
+      <description>&lt;p&gt;Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 15:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft patches record number of security vulnerabilities, citing its use of AI</title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</link>
+      <description>&lt;p&gt;Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 16:20:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Whatnot acquires Shaped to power real-time live shopping recommendations</title>
+      <link>https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/</link>
+      <description>&lt;p&gt;Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Hack suggests AI music generator Suno scraped YouTube for training data</title>
+      <link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
+      <description>&lt;p&gt;The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 17:00:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
