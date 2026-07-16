@@ -1,6 +1,94 @@
 [
   {
     "id": "rss-VentureBeat AI-0",
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "description": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price \u2014 which is fort...",
+    "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "source_link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T19:16:48+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-1",
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "description": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for a...",
+    "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "source_link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T19:02:38+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
+    "description": "<p>OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel \"Fake Chain-of-Thought\" attack class, and cut GPT-5.6 Sol's failures 6x on OpenAI's hardest direct injection benchmark. OpenAI concedes it still struggles with multi-turn and image-based attacks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/16/o...",
+    "link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
+    "source_link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T18:48:04+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "source_link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T18:32:54+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. ",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "source_link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T18:22:06+00:00"
+  },
+  {
+    "id": "hn-48937756",
+    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "description": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "source_link": "https://news.ycombinator.com/item?id=48937756",
+    "engagement": "\ud83d\udc4d 85",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T17:44:46+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-2",
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+    "description": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category \u2014 yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the...",
+    "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "source_link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T17:06:08+00:00"
+  },
+  {
+    "id": "hn-48936880",
+    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "description": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "source_link": "https://news.ycombinator.com/item?id=48936880",
+    "engagement": "\ud83d\udc4d 106",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T16:41:37+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-3",
     "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
     "description": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to p...",
     "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
@@ -11,7 +99,18 @@
     "published": "2026-07-16T16:40:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "hn-48936451",
+    "title": "NotebookLM is now Gemini Notebook",
+    "description": "NotebookLM is now Gemini Notebook",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "source_link": "https://news.ycombinator.com/item?id=48936451",
+    "engagement": "\ud83d\udc4d 152",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T16:08:13+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
     "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
     "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
@@ -33,7 +132,7 @@
     "published": "2026-07-16T15:48:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Yes, you can now order DoorDash from the command line",
     "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
     "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
@@ -44,7 +143,7 @@
     "published": "2026-07-16T15:38:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Why is OpenAI selling a ChatGPT basketball?",
     "description": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
     "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
@@ -55,7 +154,29 @@
     "published": "2026-07-16T15:31:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "hn-48935905",
+    "title": "Schema Harness Achieves ~99% on Arc\u2011AGI\u20113 Public",
+    "description": "Schema Harness Achieves ~99% on Arc\u2011AGI\u20113 Public",
+    "link": "https://schema-harness.github.io/",
+    "source_link": "https://news.ycombinator.com/item?id=48935905",
+    "engagement": "\ud83d\udc4d 68",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T15:29:12+00:00"
+  },
+  {
+    "id": "hn-48935687",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "description": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "source_link": "https://news.ycombinator.com/item?id=48935687",
+    "engagement": "\ud83d\udc4d 70",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T15:13:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
     "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
     "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
@@ -66,7 +187,7 @@
     "published": "2026-07-16T15:02:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
     "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word.",
     "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
@@ -77,7 +198,7 @@
     "published": "2026-07-16T14:40:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
     "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.\u00a0",
     "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
@@ -88,7 +209,7 @@
     "published": "2026-07-16T14:26:29+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
     "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. ",
     "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
@@ -99,18 +220,7 @@
     "published": "2026-07-16T13:17:59+00:00"
   },
   {
-    "id": "hn-48931588",
-    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-    "description": "Where are YC founders now? OpenAI and Anthropic, mostly",
-    "link": "https://joinedanthropic.com",
-    "source_link": "https://news.ycombinator.com/item?id=48931588",
-    "engagement": "\ud83d\udc4d 280",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T08:03:35+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-9",
     "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
     "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
     "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
@@ -121,18 +231,18 @@
     "published": "2026-07-16T04:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. ",
-    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "source_link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-1",
+    "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
+    "description": "<p>Thinking Machines Lab released Inkling on July 15, 2026, its first model trained from scratch. The full weights ship under Apache 2.0. It is a 975B-parameter Mixture-of-Experts transformer with 41B active parameters, a 1M-token context window, and native text, image, and audio input. The lab states plainly that Inkling is not the strongest model available, open or closed. It is positioned instead as a customization base, with controllable thinking effort as the practical differentiator.</p>\n<...",
+    "link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+    "source_link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T23:59:44+00:00"
+    "published": "2026-07-15T23:48:58+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-1",
+    "id": "rss-VentureBeat AI-4",
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
     "description": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms \u2014 Anthropic\u2019s Claude leads by a wide margin \u2014 chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed \u201cagents\u201d are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.</p><p>This wave of Ven...",
     "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
@@ -143,15 +253,15 @@
     "published": "2026-07-15T22:24:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. ",
-    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "source_link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-2",
+    "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
+    "description": "<p>Soofi S 30B-A3B is an open Mamba-Transformer MoE model activating 3.2B of 31.6B parameters for German and English</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/\">Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>...",
+    "link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
+    "source_link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T19:41:38+00:00"
+    "published": "2026-07-15T21:02:48+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -174,6 +284,17 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-15T00:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
+    "description": "<p>See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/\">Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
+    "source_link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-14T20:52:41+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -385,7 +506,7 @@
     "published": "2026-05-04T12:32:09+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-2",
+    "id": "rss-VentureBeat AI-5",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "description": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>...",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
@@ -394,38 +515,5 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-01-22T14:00:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-3",
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "description": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> \u2014 ranging from $20 to $200 per month depending on usage \u2014 has sparked a growing rebellion among the very programmers it aims...",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "source_link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-19T14:00:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-4",
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "description": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 \u2014 a fifth of his marketing budget \u2014 on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi...",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "source_link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-16T14:01:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-5",
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "description": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a...",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "source_link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-13T13:00:00+00:00"
   }
 ]
