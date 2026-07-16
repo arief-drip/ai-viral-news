@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "source_link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T04:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. ",
     "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -9,17 +20,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-15T23:59:44+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
-    "description": "<p>Thinking Machines Lab released Inkling on July 15, 2026, its first model trained from scratch. The full weights ship under Apache 2.0. It is a 975B-parameter Mixture-of-Experts transformer with 41B active parameters, a 1M-token context window, and native text, image, and audio input. The lab states plainly that Inkling is not the strongest model available, open or closed. It is positioned instead as a customization base, with controllable thinking effort as the practical differentiator.</p>\n<...",
-    "link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
-    "source_link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T23:48:58+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
@@ -33,40 +33,29 @@
     "published": "2026-07-15T22:24:17+00:00"
   },
   {
+    "id": "hn-48927915",
+    "title": "LLM Networking with MikroTik",
+    "description": "LLM Networking with MikroTik",
+    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "source_link": "https://news.ycombinator.com/item?id=48927915",
+    "engagement": "\ud83d\udc4d 69",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-15T22:23:27+00:00"
+  },
+  {
     "id": "hn-48927095",
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "description": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "source_link": "https://news.ycombinator.com/item?id=48927095",
-    "engagement": "\ud83d\udc4d 87",
+    "engagement": "\ud83d\udc4d 148",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-15T21:16:36+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
-    "description": "<p>Soofi S 30B-A3B is an open Mamba-Transformer MoE model activating 3.2B of 31.6B parameters for German and English</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/\">Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>...",
-    "link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
-    "source_link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T21:02:48+00:00"
-  },
-  {
-    "id": "hn-48926085",
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "description": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "link": "https://brainless.swerdlow.dev",
-    "source_link": "https://news.ycombinator.com/item?id=48926085",
-    "engagement": "\ud83d\udc4d 90",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T19:42:53+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. ",
     "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
@@ -77,7 +66,7 @@
     "published": "2026-07-15T19:41:38+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
     "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
     "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
@@ -99,7 +88,7 @@
     "published": "2026-07-15T17:09:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
     "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
@@ -110,7 +99,7 @@
     "published": "2026-07-15T17:00:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
     "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and discovery features as it expands into new product categories.",
     "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
@@ -121,7 +110,7 @@
     "published": "2026-07-15T17:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
     "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
@@ -143,7 +132,7 @@
     "published": "2026-07-15T16:00:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
     "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. ",
     "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
@@ -154,7 +143,7 @@
     "published": "2026-07-15T15:29:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
     "description": "Can a handful of engineers really do the work of an army of consultants?&#160;That\u2019s&#160;the bet behind Ode with Anthropic \u2014&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode\u2019s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded...",
     "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
@@ -163,17 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-15T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "source_link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T13:10:47+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -185,50 +163,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-15T00:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
-    "description": "<p>See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/\">Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
-    "source_link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-14T20:52:41+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder",
-    "description": "<p>Developer Hayden Bleasel has released Blume, an open-source, MIT-licensed documentation framework. It reads a folder of Markdown or MDX and generates a hidden Astro project, shipping static, AI-ready docs with local search, 30+ MDX components, llms.txt, and a built-in MCP server.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/\">Meet Blume: An Open-Source, Zero-Config...",
-    "link": "https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/",
-    "source_link": "https://www.marktechpost.com/2026/07/14/meet-blume-an-open-source-zero-config-documentation-framework-that-ships-ai-ready-docs-from-a-markdown-folder/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-14T08:15:29+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Mistral AI Releases Robostral Navigate: An 8B Model Enabling Robots to Navigate Complex Environments Using a Single RGB Camera",
-    "description": "<p>Mistral AI introduced Robostral Navigate, an 8B embodied navigation model. It moves robots from a plain-language instruction using only a single RGB camera, with no LiDAR or depth sensors. The model reaches 76.6% success on R2R-CE validation unseen through a pointing method, prefix-caching training, and CISPO online reinforcement learning.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-env...",
-    "link": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
-    "source_link": "https://www.marktechpost.com/2026/07/14/mistral-ai-releases-robostral-navigate-an-8b-model-enabling-robots-to-navigate-complex-environments-using-a-single-rgb-camera/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-14T07:20:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared",
-    "description": "<p>Anthropic's Claude Sonnet 5 narrows the gap to Opus 4.8 on agentic coding, at cheaper Sonnet token pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/\">Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared</a> appeared first on <a href=\"https://www.marktechpost.com...",
-    "link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
-    "source_link": "https://www.marktechpost.com/2026/07/13/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-14T00:58:47+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
