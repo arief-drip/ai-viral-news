@@ -1,5 +1,60 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context",
+    "description": "<p>Moonshot AI released Kimi K3 on July 16, 2026. It is a 2.8-trillion-parameter open MoE model built on Kimi Delta Attention and Attention Residuals, activating 16 of 896 experts. </p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/\">Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context</a> appeared first on <a href=...",
+    "link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
+    "source_link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T23:47:05+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "It's official: EU will force Google to share search data and open up AI on Android",
+    "description": "\n                        Google says these changes could endanger user privacy and security. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "source_link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T20:41:45+00:00"
+  },
+  {
+    "id": "hn-48939662",
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "description": "LM Studio Bionic: the AI agent for open models",
+    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "source_link": "https://news.ycombinator.com/item?id=48939662",
+    "engagement": "\ud83d\udc4d 160",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T20:18:15+00:00"
+  },
+  {
+    "id": "hn-48939524",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "description": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "source_link": "https://news.ycombinator.com/item?id=48939524",
+    "engagement": "\ud83d\udc4d 130",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T20:03:23+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+    "description": "\n                        Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "source_link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-16T19:18:23+00:00"
+  },
+  {
     "id": "rss-VentureBeat AI-0",
     "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
     "description": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price \u2014 which is fort...",
@@ -22,7 +77,7 @@
     "published": "2026-07-16T19:02:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
     "description": "<p>OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel \"Fake Chain-of-Thought\" attack class, and cut GPT-5.6 Sol's failures 6x on OpenAI's hardest direct injection benchmark. OpenAI concedes it still struggles with multi-turn and image-based attacks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/16/o...",
     "link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
@@ -55,17 +110,6 @@
     "published": "2026-07-16T18:22:06+00:00"
   },
   {
-    "id": "hn-48937756",
-    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "description": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "source_link": "https://news.ycombinator.com/item?id=48937756",
-    "engagement": "\ud83d\udc4d 85",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T17:44:46+00:00"
-  },
-  {
     "id": "rss-VentureBeat AI-2",
     "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
     "description": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category \u2014 yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the...",
@@ -82,7 +126,7 @@
     "description": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
     "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
     "source_link": "https://news.ycombinator.com/item?id=48936880",
-    "engagement": "\ud83d\udc4d 106",
+    "engagement": "\ud83d\udc4d 158",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-16T16:41:37+00:00"
@@ -104,7 +148,7 @@
     "description": "NotebookLM is now Gemini Notebook",
     "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
     "source_link": "https://news.ycombinator.com/item?id=48936451",
-    "engagement": "\ud83d\udc4d 152",
+    "engagement": "\ud83d\udc4d 240",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-16T16:08:13+00:00"
@@ -119,17 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-16T16:00:00+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "description": "\n                        Companies coming to market are raising money at fastest pace this century.\n                    ",
-    "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-    "source_link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T15:48:21+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -154,23 +187,12 @@
     "published": "2026-07-16T15:31:09+00:00"
   },
   {
-    "id": "hn-48935905",
-    "title": "Schema Harness Achieves ~99% on Arc\u2011AGI\u20113 Public",
-    "description": "Schema Harness Achieves ~99% on Arc\u2011AGI\u20113 Public",
-    "link": "https://schema-harness.github.io/",
-    "source_link": "https://news.ycombinator.com/item?id=48935905",
-    "engagement": "\ud83d\udc4d 68",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T15:29:12+00:00"
-  },
-  {
     "id": "hn-48935687",
     "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
     "description": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
     "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
     "source_link": "https://news.ycombinator.com/item?id=48935687",
-    "engagement": "\ud83d\udc4d 70",
+    "engagement": "\ud83d\udc4d 98",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-16T15:13:00+00:00"
@@ -231,7 +253,7 @@
     "published": "2026-07-16T04:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
     "description": "<p>Thinking Machines Lab released Inkling on July 15, 2026, its first model trained from scratch. The full weights ship under Apache 2.0. It is a 975B-parameter Mixture-of-Experts transformer with 41B active parameters, a 1M-token context window, and native text, image, and audio input. The lab states plainly that Inkling is not the strongest model available, open or closed. It is positioned instead as a customization base, with controllable thinking effort as the practical differentiator.</p>\n<...",
     "link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
@@ -253,7 +275,7 @@
     "published": "2026-07-15T22:24:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
     "description": "<p>Soofi S 30B-A3B is an open Mamba-Transformer MoE model activating 3.2B of 31.6B parameters for German and English</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/\">Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>...",
     "link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
@@ -286,7 +308,7 @@
     "published": "2026-07-15T00:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
     "description": "<p>See how Vibe, Claude Code, Cursor, and Codex compare on cost, open weights, self-hosting, and async agent surfaces.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/\">Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
