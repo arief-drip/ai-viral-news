@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 09:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:07:49 +0000</lastBuildDate>
     <item>
       <title>[📰] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -177,6 +177,15 @@
       <pubDate>Wed, 15 Jul 2026 17:09:37 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English</title>
+      <link>https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/</link>
+      <description>&lt;p&gt;&lt;p&gt;Soofi S 30B-A3B is an open Mamba-Transformer MoE model activating 3.2B of 31.6B parameters for German and English&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/"&gt;Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 15 Jul 2026 21:02:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</title>
       <link>https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents</link>
       <description>&lt;p&gt;&lt;p&gt;Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.&lt;/p&gt;&lt;p&gt;This wave of Ven...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
@@ -185,17 +194,18 @@
       <pubDate>Wed, 15 Jul 2026 22:24:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Applied Computing wants to give oil and gas operators an AI model for the entire plant</title>
-      <link>https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/</link>
-      <description>&lt;p&gt;Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
+      <title>[📰] Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort</title>
+      <link>https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/</link>
+      <description>&lt;p&gt;&lt;p&gt;Thinking Machines Lab released Inkling on July 15, 2026, its first model trained from scratch. The full weights ship under Apache 2.0. It is a 975B-parameter Mixture-of-Experts transformer with 41B active parameters, a 1M-token context window, and native text, image, and audio input. The lab states plainly that Inkling is not the strongest model available, open or closed. It is positioned instead as a customization base, with controllable thinking effort as the practical differentiator.&lt;/p&gt;
+&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 23:48:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The LLM Critics Are Right. I Use LLMs Anyway</title>
       <link>https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</link>
-      <description>&lt;p&gt;The LLM Critics Are Right. I Use LLMs Anyway&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 229&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The LLM Critics Are Right. I Use LLMs Anyway&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 256&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48933310</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 11:59:01 +0000</pubDate>
@@ -204,7 +214,7 @@
       <title>[📰] Apple Intelligence approved for launch in China with Alibaba and Baidu</title>
       <link>https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
       <description>&lt;p&gt;The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 13:17:59 +0000</pubDate>
     </item>
@@ -212,7 +222,7 @@
       <title>[📰] Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8</title>
       <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
       <description>&lt;p&gt;The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 14:26:29 +0000</pubDate>
     </item>
@@ -220,7 +230,7 @@
       <title>[📰] Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’</title>
       <link>https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/</link>
       <description>&lt;p&gt;While everyone in AI is chasing "superintelligence," Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 14:40:00 +0000</pubDate>
     </item>
@@ -228,23 +238,15 @@
       <title>[📰] How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product</title>
       <link>https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/</link>
       <description>&lt;p&gt;Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM</title>
-      <link>https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model</link>
-      <description>&lt;p&gt;How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 134&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48935687</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 16 Jul 2026 15:13:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Why is OpenAI selling a ChatGPT basketball?</title>
       <link>https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/</link>
       <description>&lt;p&gt;You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 15:31:09 +0000</pubDate>
     </item>
@@ -252,7 +254,7 @@
       <title>[📰] Yes, you can now order DoorDash from the command line</title>
       <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
       <description>&lt;p&gt;DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 15:38:55 +0000</pubDate>
     </item>
@@ -260,14 +262,14 @@
       <title>[📰] Google’s AI Mode now lets you link and interact with select apps</title>
       <link>https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/</link>
       <description>&lt;p&gt;With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 16:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NotebookLM is now Gemini Notebook</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</link>
-      <description>&lt;p&gt;NotebookLM is now Gemini Notebook&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 307&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;NotebookLM is now Gemini Notebook&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 332&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48936451</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 16:08:13 +0000</pubDate>
@@ -283,7 +285,7 @@
     <item>
       <title>[📰] Detecting LLM-Generated Texts with “Classical” Machine Learning</title>
       <link>https://blog.lyc8503.net/en/post/llm-classifier/</link>
-      <description>&lt;p&gt;Detecting LLM-Generated Texts with “Classical” Machine Learning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 199&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Detecting LLM-Generated Texts with “Classical” Machine Learning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48936880</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 16:41:37 +0000</pubDate>
@@ -300,7 +302,7 @@
       <title>[📰] Roblox launches an AI-powered game-creation feature in its mobile app</title>
       <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
       <description>&lt;p&gt;Roblox's new "Build" feature lets users generate basic games using a single text prompt. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
     </item>
@@ -308,9 +310,18 @@
       <title>[📰] Google Vids now lets you star in your own AI videos</title>
       <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
       <description>&lt;p&gt;Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 18:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection</title>
+      <link>https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel "Fake Chain-of-Thought" attack class, and cut GPT-5.6 Sol's failures 6x on OpenAI's hardest direct injection benchmark. OpenAI concedes it still struggles with multi-turn and image-based attacks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/16/o...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 16 Jul 2026 18:48:04 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</title>
@@ -331,7 +342,7 @@
     <item>
       <title>[📰] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</title>
       <link>https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</link>
-      <description>&lt;p&gt;$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 271&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 310&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48939524</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 20:03:23 +0000</pubDate>
@@ -339,7 +350,7 @@
     <item>
       <title>[📰] LM Studio Bionic: the AI agent for open models</title>
       <link>https://lmstudio.ai/blog/introducing-lm-studio-bionic</link>
-      <description>&lt;p&gt;LM Studio Bionic: the AI agent for open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 250&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;LM Studio Bionic: the AI agent for open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 282&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48939662</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 20:18:15 +0000</pubDate>
@@ -353,6 +364,40 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 20:41:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context</title>
+      <link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
+      <description>&lt;p&gt;&lt;p&gt;Moonshot AI released Kimi K3 on July 16, 2026. It is a 2.8-trillion-parameter open MoE model built on Kimi Delta Attention and Attention Residuals, activating 16 of 896 experts. &lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/"&gt;Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context&lt;/a&gt; appeared first on &lt;a href=...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 16 Jul 2026 23:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB</title>
+      <link>https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation from the 8B teacher. NVFP4 retains 99%+ of BF16 retrieval accuracy at up to 2x Blackwell throughput. All three run 32,768-token inputs under OpenMDW-1.1.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 17 Jul 2026 07:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</title>
+      <link>https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423</link>
+      <description>&lt;p&gt;Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 219&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48946010</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 17 Jul 2026 11:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
+      <link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
+      <description>&lt;p&gt;A $400 million chip-backed loan points to the next wave of AI infrastructure deals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
