@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-48956949",
+    "title": "What AI did to stackoverflow in a graph",
+    "description": "What AI did to stackoverflow in a graph",
+    "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "source_link": "https://news.ycombinator.com/item?id=48956949",
+    "engagement": "\ud83d\udc4d 79",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-18T11:12:46+00:00"
+  },
+  {
+    "id": "hn-48956924",
+    "title": "Why do AI company logos look like buttholes? (2025)",
+    "description": "Why do AI company logos look like buttholes? (2025)",
+    "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "source_link": "https://news.ycombinator.com/item?id=48956924",
+    "engagement": "\ud83d\udc4d 260",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-18T11:06:50+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Google Cloud\u2019s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
     "description": "<p>Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...",
@@ -42,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-17T22:55:09+00:00"
-  },
-  {
-    "id": "hn-48952880",
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-    "description": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "source_link": "https://news.ycombinator.com/item?id=48952880",
-    "engagement": "\ud83d\udc4d 505",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T22:26:30+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -108,17 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-17T15:21:17+00:00"
-  },
-  {
-    "id": "hn-48947825",
-    "title": "The state of open source AI",
-    "description": "The state of open source AI",
-    "link": "https://stateofopensource.ai/",
-    "source_link": "https://news.ycombinator.com/item?id=48947825",
-    "engagement": "\ud83d\udc4d 435",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T14:31:10+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
