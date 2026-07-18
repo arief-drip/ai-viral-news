@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 12:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:45:09 +0000</lastBuildDate>
     <item>
       <title>[📰] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -201,15 +201,6 @@
       <pubDate>Thu, 16 Jul 2026 17:06:08 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection</title>
-      <link>https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel "Fake Chain-of-Thought" attack class, and cut GPT-5.6 Sol's failures 6x on OpenAI's hardest direct injection benchmark. OpenAI concedes it still struggles with multi-turn and image-based attacks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/16/o...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 16 Jul 2026 18:48:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</title>
       <link>https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials</link>
       <description>&lt;p&gt;&lt;p&gt;Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
@@ -224,24 +215,6 @@
       <guid isPermaLink="false">rss-VentureBeat AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 16 Jul 2026 19:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context</title>
-      <link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;Moonshot AI released Kimi K3 on July 16, 2026. It is a 2.8-trillion-parameter open MoE model built on Kimi Delta Attention and Attention Residuals, activating 16 of 896 experts. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/"&gt;Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context&lt;/a&gt; appeared first on &lt;a href=...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 16 Jul 2026 23:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB</title>
-      <link>https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation from the 8B teacher. NVFP4 retains 99%+ of BF16 retrieval accuracy at up to 2x Blackwell throughput. All three run 32,768-token inputs under OpenMDW-1.1.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 17 Jul 2026 07:53:02 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Why the first GPU financiers are turning to inference chips in a $400 million deal</title>
@@ -284,15 +257,6 @@
       <pubDate>Fri, 17 Jul 2026 20:09:27 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds</title>
-      <link>https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/</link>
-      <description>&lt;p&gt;&lt;p&gt;Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE holds or improves while the input range widens.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inpu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 17 Jul 2026 21:35:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Databricks hits $188B valuation, extending its run as AI’s favorite second act</title>
       <link>https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/</link>
       <description>&lt;p&gt;Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -317,38 +281,38 @@
       <pubDate>Sat, 18 Jul 2026 04:47:25 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Sakana AI’s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation</title>
-      <link>https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/</link>
-      <description>&lt;p&gt;&lt;p&gt;Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream excitatory/inhibitory networks that obey Dale's principle. This piece breaks down how modulo error routing scales the rule from MNIST to CIFAR-10 and reinforcement learning, and what its task-dependent ablations reveal.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <title>[📰] Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
+      <link>https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</link>
+      <description>&lt;p&gt;Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 136&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48956879</guid>
       <category>AI News</category>
-      <pubDate>Sat, 18 Jul 2026 06:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite</title>
-      <link>https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 18 Jul 2026 07:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why do AI company logos look like buttholes? (2025)</title>
-      <link>https://velvetshark.com/ai-company-logos-that-look-like-buttholes</link>
-      <description>&lt;p&gt;Why do AI company logos look like buttholes? (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 260&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48956924</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 18 Jul 2026 11:06:50 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 11:00:29 +0000</pubDate>
     </item>
     <item>
       <title>[📰] What AI did to stackoverflow in a graph</title>
       <link>https://data.stackexchange.com/stackoverflow/query/1953768#graph</link>
-      <description>&lt;p&gt;What AI did to stackoverflow in a graph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 79&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;What AI did to stackoverflow in a graph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 224&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48956949</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 11:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Will AI fix prior authorization—or make it worse?</title>
+      <link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
+      <description>&lt;p&gt;
+                        The government is piloting a program that uses AI for insurance-coverage decisions.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 18 Jul 2026 11:18:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+      <description>&lt;p&gt;GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 263&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48957779</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 18 Jul 2026 13:00:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

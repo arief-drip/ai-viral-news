@@ -1,47 +1,47 @@
 [
   {
+    "id": "hn-48957779",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "description": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "source_link": "https://news.ycombinator.com/item?id=48957779",
+    "engagement": "\ud83d\udc4d 263",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-18T13:00:52+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Will AI fix prior authorization\u2014or make it worse?",
+    "description": "\n                        The government is piloting a program that uses AI for insurance-coverage decisions.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "source_link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-18T11:18:25+00:00"
+  },
+  {
     "id": "hn-48956949",
     "title": "What AI did to stackoverflow in a graph",
     "description": "What AI did to stackoverflow in a graph",
     "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
     "source_link": "https://news.ycombinator.com/item?id=48956949",
-    "engagement": "\ud83d\udc4d 79",
+    "engagement": "\ud83d\udc4d 224",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T11:12:46+00:00"
   },
   {
-    "id": "hn-48956924",
-    "title": "Why do AI company logos look like buttholes? (2025)",
-    "description": "Why do AI company logos look like buttholes? (2025)",
-    "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "source_link": "https://news.ycombinator.com/item?id=48956924",
-    "engagement": "\ud83d\udc4d 260",
+    "id": "hn-48956879",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "description": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "source_link": "https://news.ycombinator.com/item?id=48956879",
+    "engagement": "\ud83d\udc4d 136",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T11:06:50+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Google Cloud\u2019s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
-    "description": "<p>Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...",
-    "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-    "source_link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T07:57:51+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Sakana AI\u2019s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
-    "description": "<p>Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream excitatory/inhibitory networks that obey Dale's principle. This piece breaks down how modulo error routing scales the rule from MNIST to CIFAR-10 and reinforcement learning, and what its task-dependent ablations reveal.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-co...",
-    "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T06:32:43+00:00"
+    "published": "2026-07-18T11:00:29+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -75,17 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-17T22:12:56+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
-    "description": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE holds or improves while the input range widens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inpu...",
-    "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T21:35:27+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -143,28 +132,6 @@
     "published": "2026-07-17T12:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
-    "description": "<p>NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation from the 8B teacher. NVFP4 retains 99%+ of BF16 retrieval accuracy at up to 2x Blackwell throughput. All three run 32,768-token inputs under OpenMDW-1.1.</p>\n<p>The post <a href=\"https://www.marktech...",
-    "link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T07:53:02+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context",
-    "description": "<p>Moonshot AI released Kimi K3 on July 16, 2026. It is a 2.8-trillion-parameter open MoE model built on Kimi Delta Attention and Attention Residuals, activating 16 of 896 experts. </p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/\">Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context</a> appeared first on <a href=...",
-    "link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
-    "source_link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T23:47:05+00:00"
-  },
-  {
     "id": "rss-VentureBeat AI-0",
     "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
     "description": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price \u2014 which is fort...",
@@ -185,17 +152,6 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-16T19:02:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
-    "description": "<p>OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human red-teamers 84% to 13% on a replicated indirect prompt injection arena, found a novel \"Fake Chain-of-Thought\" attack class, and cut GPT-5.6 Sol's failures 6x on OpenAI's hardest direct injection benchmark. OpenAI concedes it still struggles with multi-turn and image-based attacks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/16/o...",
-    "link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
-    "source_link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-16T18:48:04+00:00"
   },
   {
     "id": "rss-VentureBeat AI-2",
