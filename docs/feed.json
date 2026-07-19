@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
+    "description": "<p>Perplexity's WANDR is an open benchmark and evaluation harness with 500 evidence-heavy tasks. It tests whether research agents can discover many qualifying entities and back each one with cited, re-verifiable evidence. Perplexity Search as Code leads at 0.363 soft F1 and 0.133 hard F1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/\">Perplexity AI Releases WANDR: An Open ...",
+    "link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
+    "source_link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-19T07:19:14+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
     "description": "<p>Retrieval, agents, and workflows now ship as visual and plain-English tools. This roundup covers 10 open-source no-code and low-code platforms for building LLM apps, RAG systems, and AI agents, each with its verified license, repository, and best-fit use case.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/\">10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents...",
     "link": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
@@ -11,7 +22,7 @@
     "published": "2026-07-19T05:53:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
     "description": "<p>Three open MoE flagships face off on measured intelligence, MIT versus Modified MIT weights, and real serving cost</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/\">Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
     "link": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
@@ -27,24 +38,24 @@
     "description": "AI Mania Is Eviscerating Global Decision-Making",
     "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
     "source_link": "https://news.ycombinator.com/item?id=48964185",
-    "engagement": "\ud83d\udc4d 138",
+    "engagement": "\ud83d\udc4d 207",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-19T01:29:19+00:00"
   },
   {
     "id": "hn-48962983",
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "description": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "description": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
     "source_link": "https://news.ycombinator.com/item?id=48962983",
-    "engagement": "\ud83d\udc4d 396",
+    "engagement": "\ud83d\udc4d 468",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T22:13:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
     "description": "<p>NVIDIA DeepStream 9.1 introduces 13 agentic skills that let coding agents like Claude Code and Codex build multi-camera video analytics pipelines from natural-language prompts. Multi-View 3D Tracking (MV3DT) fuses per-camera detections into one shared 3D world with a globally consistent object ID, while AutoMagicCalib (AMC) removes manual camera calibration. The release also adds JetPack 7.2 support and a unified open-source GitHub monorepo.</p>\n<p>The post <a href=\"https://www.marktechpost.c...",
     "link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
@@ -71,7 +82,7 @@
     "description": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
     "link": "https://ykdojo.github.io/claude-controls-mac/",
     "source_link": "https://news.ycombinator.com/item?id=48959392",
-    "engagement": "\ud83d\udc4d 213",
+    "engagement": "\ud83d\udc4d 232",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T16:12:08+00:00"
@@ -82,7 +93,7 @@
     "description": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
     "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
     "source_link": "https://news.ycombinator.com/item?id=48957779",
-    "engagement": "\ud83d\udc4d 541",
+    "engagement": "\ud83d\udc4d 561",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T13:00:52+00:00"
@@ -104,13 +115,13 @@
     "description": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
     "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
     "source_link": "https://news.ycombinator.com/item?id=48956879",
-    "engagement": "\ud83d\udc4d 233",
+    "engagement": "\ud83d\udc4d 240",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T11:00:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Cloud\u2019s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
     "description": "<p>Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...",
     "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
@@ -121,7 +132,7 @@
     "published": "2026-07-18T07:57:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Sakana AI\u2019s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
     "description": "<p>Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream excitatory/inhibitory networks that obey Dale's principle. This piece breaks down how modulo error routing scales the rule from MNIST to CIFAR-10 and reinforcement learning, and what its task-dependent ablations reveal.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-co...",
     "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
@@ -165,7 +176,7 @@
     "published": "2026-07-17T22:12:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
     "description": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE holds or improves while the input range widens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inpu...",
     "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
@@ -218,17 +229,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-17T14:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
-    "description": "<p>NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation from the 8B teacher. NVFP4 retains 99%+ of BF16 retrieval accuracy at up to 2x Blackwell throughput. All three run 32,768-token inputs under OpenMDW-1.1.</p>\n<p>The post <a href=\"https://www.marktech...",
-    "link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T07:53:02+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
