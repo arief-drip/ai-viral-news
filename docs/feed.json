@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-48966569",
+    "title": "Claude Code uses Bun written in Rust now",
+    "description": "Claude Code uses Bun written in Rust now",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "source_link": "https://news.ycombinator.com/item?id=48966569",
+    "engagement": "\ud83d\udc4d 119",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-19T10:03:23+00:00"
+  },
+  {
+    "id": "hn-48965850",
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "description": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "link": "https://github.com/openai/codex/pull/33972/files",
+    "source_link": "https://news.ycombinator.com/item?id=48965850",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-19T07:54:39+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
     "description": "<p>Perplexity's WANDR is an open benchmark and evaluation harness with 500 evidence-heavy tasks. It tests whether research agents can discover many qualifying entities and back each one with cited, re-verifiable evidence. Perplexity Search as Code leads at 0.363 soft F1 and 0.133 hard F1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/\">Perplexity AI Releases WANDR: An Open ...",
@@ -33,23 +55,12 @@
     "published": "2026-07-19T01:41:33+00:00"
   },
   {
-    "id": "hn-48964185",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "description": "AI Mania Is Eviscerating Global Decision-Making",
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "source_link": "https://news.ycombinator.com/item?id=48964185",
-    "engagement": "\ud83d\udc4d 207",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-19T01:29:19+00:00"
-  },
-  {
     "id": "hn-48962983",
     "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "description": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
     "source_link": "https://news.ycombinator.com/item?id=48962983",
-    "engagement": "\ud83d\udc4d 468",
+    "engagement": "\ud83d\udc4d 498",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T22:13:39+00:00"
@@ -77,28 +88,6 @@
     "published": "2026-07-18T18:51:07+00:00"
   },
   {
-    "id": "hn-48959392",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "description": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "link": "https://ykdojo.github.io/claude-controls-mac/",
-    "source_link": "https://news.ycombinator.com/item?id=48959392",
-    "engagement": "\ud83d\udc4d 232",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T16:12:08+00:00"
-  },
-  {
-    "id": "hn-48957779",
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "description": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "source_link": "https://news.ycombinator.com/item?id=48957779",
-    "engagement": "\ud83d\udc4d 561",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T13:00:52+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-0",
     "title": "Will AI fix prior authorization\u2014or make it worse?",
     "description": "\n                        The government is piloting a program that uses AI for insurance-coverage decisions.\n                    ",
@@ -108,17 +97,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-18T11:18:25+00:00"
-  },
-  {
-    "id": "hn-48956879",
-    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-    "description": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "source_link": "https://news.ycombinator.com/item?id=48956879",
-    "engagement": "\ud83d\udc4d 240",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T11:00:29+00:00"
   },
   {
     "id": "rss-MarkTechPost-4",
