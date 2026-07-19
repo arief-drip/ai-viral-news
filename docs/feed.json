@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+    "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "source_link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-19T19:24:45+00:00"
+  },
+  {
+    "id": "hn-48969291",
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "description": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "source_link": "https://news.ycombinator.com/item?id=48969291",
+    "engagement": "\ud83d\udc4d 121",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-19T16:02:25+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
     "description": "\"Everybody knows the Greeks are inside.\"",
     "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
@@ -11,7 +33,7 @@
     "published": "2026-07-19T14:52:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
     "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more. ",
     "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
@@ -27,7 +49,7 @@
     "description": "Claude Code uses Bun written in Rust now",
     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "source_link": "https://news.ycombinator.com/item?id=48966569",
-    "engagement": "\ud83d\udc4d 190",
+    "engagement": "\ud83d\udc4d 322",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-19T10:03:23+00:00"
@@ -38,57 +60,13 @@
     "description": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "link": "https://github.com/openai/codex/pull/33972/files",
     "source_link": "https://news.ycombinator.com/item?id=48965850",
-    "engagement": "\ud83d\udc4d 170",
+    "engagement": "\ud83d\udc4d 260",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-19T07:54:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
-    "description": "<p>Perplexity's WANDR is an open benchmark and evaluation harness with 500 evidence-heavy tasks. It tests whether research agents can discover many qualifying entities and back each one with cited, re-verifiable evidence. Perplexity Search as Code leads at 0.363 soft F1 and 0.133 hard F1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/\">Perplexity AI Releases WANDR: An Open ...",
-    "link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
-    "source_link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-19T07:19:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents",
-    "description": "<p>Retrieval, agents, and workflows now ship as visual and plain-English tools. This roundup covers 10 open-source no-code and low-code platforms for building LLM apps, RAG systems, and AI agents, each with its verified license, repository, and best-fit use case.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/\">10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents...",
-    "link": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
-    "source_link": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-19T05:53:19+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost",
-    "description": "<p>Three open MoE flagships face off on measured intelligence, MIT versus Modified MIT weights, and real serving cost</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/\">Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
-    "link": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
-    "source_link": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-19T01:41:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
-    "description": "<p>NVIDIA DeepStream 9.1 introduces 13 agentic skills that let coding agents like Claude Code and Codex build multi-camera video analytics pipelines from natural-language prompts. Multi-View 3D Tracking (MV3DT) fuses per-camera detections into one shared 3D world with a globally consistent object ID, while AutoMagicCalib (AMC) removes manual camera calibration. The release also adds JetPack 7.2 support and a unified open-source GitHub monorepo.</p>\n<p>The post <a href=\"https://www.marktechpost.c...",
-    "link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
-    "source_link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T19:16:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Kimi: Threat or menace?",
     "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
     "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
@@ -110,29 +88,7 @@
     "published": "2026-07-18T11:18:25+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google Cloud\u2019s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
-    "description": "<p>Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...",
-    "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-    "source_link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T07:57:51+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Sakana AI\u2019s Error Diffusion Trains Dale-Compliant Dual-Stream Networks, Reaching 96.7% MNIST and 61.7% CIFAR-10 Without Backpropagation",
-    "description": "<p>Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream excitatory/inhibitory networks that obey Dale's principle. This piece breaks down how modulo error routing scales the rule from MNIST to CIFAR-10 and reinforcement learning, and what its task-dependent ablations reveal.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-co...",
-    "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-18T06:32:43+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Neil Rimer thinks the AI money is coming back out",
     "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
@@ -143,7 +99,7 @@
     "published": "2026-07-18T04:47:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
     "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
     "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
@@ -154,7 +110,7 @@
     "published": "2026-07-17T22:55:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
     "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
@@ -165,18 +121,7 @@
     "published": "2026-07-17T22:12:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
-    "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
-    "description": "<p>Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE holds or improves while the input range widens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inpu...",
-    "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-    "source_link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T21:35:27+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
     "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
     "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
@@ -185,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-17T20:09:27+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
-    "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
-    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "source_link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-17T17:45:46+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
