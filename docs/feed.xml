@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 01:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:23:34 +0000</lastBuildDate>
     <item>
       <title>[📰] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -217,20 +217,11 @@
       <pubDate>Thu, 16 Jul 2026 19:16:48 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context</title>
-      <link>https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;Moonshot AI released Kimi K3 on July 16, 2026. It is a 2.8-trillion-parameter open MoE model built on Kimi Delta Attention and Attention Residuals, activating 16 of 896 experts. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/"&gt;Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context&lt;/a&gt; appeared first on &lt;a href=...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 16 Jul 2026 23:47:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB</title>
       <link>https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16, and Nemotron-3-Embed-1B-NVFP4. The 8B ranks #1 on RTEB at 78.46 average NDCG@10. The 1B came from ModelOpt NAS pruning plus COS+MSE distillation from the 8B teacher. NVFP4 retains 99%+ of BF16 retrieval accuracy at up to 2x Blackwell throughput. All three run 32,768-token inputs under OpenMDW-1.1.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 17 Jul 2026 07:53:02 +0000</pubDate>
     </item>
@@ -271,7 +262,7 @@
       <link>https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/</link>
       <description>&lt;p&gt;&lt;p&gt;Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples scalp-EEG across arbitrary channel layouts. It accepts variable-length inputs from 0.5 to 30 seconds, against ZUNA1's fixed five seconds. Reported NMSE holds or improves while the input range widens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inpu...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 17 Jul 2026 21:35:27 +0000</pubDate>
     </item>
@@ -304,7 +295,7 @@
       <link>https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/</link>
       <description>&lt;p&gt;&lt;p&gt;Backpropagation relies on weight transport, which biological circuits likely cannot implement. Sakana AI's Error Diffusion sidesteps that constraint, training dual-stream excitatory/inhibitory networks that obey Dale's principle. This piece breaks down how modulo error routing scales the rule from MNIST to CIFAR-10 and reinforcement learning, and what its task-dependent ablations reveal.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 06:32:43 +0000</pubDate>
     </item>
@@ -313,25 +304,17 @@
       <link>https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud's generative-ai repository ships the Always-On Memory Agent, a reference implementation that treats memory as a running process. Built on Google ADK and Gemini 3.1 Flash-Lite, it uses no vector database and no embeddings. Instead, an orchestrator routes to Ingest, Consolidate, and Query sub-agents that read, connect, and write structured memory into SQLite 24/7.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 07:57:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
       <link>https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</link>
-      <description>&lt;p&gt;Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 233&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48956879</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 11:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] What AI did to stackoverflow in a graph</title>
-      <link>https://data.stackexchange.com/stackoverflow/query/1953768#graph</link>
-      <description>&lt;p&gt;What AI did to stackoverflow in a graph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 364&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-48956949</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 18 Jul 2026 11:12:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Will AI fix prior authorization—or make it worse?</title>
@@ -346,7 +329,7 @@
     <item>
       <title>[📰] GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
       <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
-      <description>&lt;p&gt;GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 500&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.6 used a prompt to close a 30-year gap in convex optimization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 541&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48957779</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 13:00:52 +0000</pubDate>
@@ -354,7 +337,7 @@
     <item>
       <title>[📰] Setting up your spare Mac for Claude Code to control, a step-by-step guide</title>
       <link>https://ykdojo.github.io/claude-controls-mac/</link>
-      <description>&lt;p&gt;Setting up your spare Mac for Claude Code to control, a step-by-step guide&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 177&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Setting up your spare Mac for Claude Code to control, a step-by-step guide&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48959392</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 16:12:08 +0000</pubDate>
@@ -372,26 +355,43 @@
       <link>https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA DeepStream 9.1 introduces 13 agentic skills that let coding agents like Claude Code and Codex build multi-camera video analytics pipelines from natural-language prompts. Multi-View 3D Tracking (MV3DT) fuses per-camera detections into one shared 3D world with a globally consistent object ID, while AutoMagicCalib (AMC) removes manual camera calibration. The release also adds JetPack 7.2 support and a unified open-source GitHub monorepo.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 19:16:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Mayor Mamdani Says Landlords Can't Use AI Images to Advertise</title>
       <link>https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</link>
-      <description>&lt;p&gt;Mayor Mamdani Says Landlords Can't Use AI Images to Advertise&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 201&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mayor Mamdani Says Landlords Can't Use AI Images to Advertise&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 396&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-48962983</guid>
       <category>AI News</category>
       <pubDate>Sat, 18 Jul 2026 22:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</link>
+      <description>&lt;p&gt;AI Mania Is Eviscerating Global Decision-Making&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 138&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-48964185</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 19 Jul 2026 01:29:19 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost</title>
       <link>https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/</link>
       <description>&lt;p&gt;&lt;p&gt;Three open MoE flagships face off on measured intelligence, MIT versus Modified MIT weights, and real serving cost&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/"&gt;Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models Compared on Benchmarks, License, and Serving Cost&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Sun, 19 Jul 2026 01:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] 10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents</title>
+      <link>https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Retrieval, agents, and workflows now ship as visual and plain-English tools. This roundup covers 10 open-source no-code and low-code platforms for building LLM apps, RAG systems, and AI agents, each with its verified license, repository, and best-fit use case.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/"&gt;10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 19 Jul 2026 05:53:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
