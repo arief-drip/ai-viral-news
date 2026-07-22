@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 17:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:55:49 +0000</lastBuildDate>
     <item>
       <title>[📰] Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</title>
       <link>https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud</link>
@@ -185,24 +185,6 @@
       <pubDate>Thu, 16 Jul 2026 19:16:48 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared</title>
-      <link>https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/</link>
-      <description>&lt;p&gt;&lt;p&gt;A single 24GB GPU is the practical floor for serious local inference. This guide compares six open-weight models that fit one card at Q4_K_M. It covers Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b, and DeepSeek-R1-Distill. Each entry lists VRAM fit, licensing, and the job it does best.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/"&gt;Best Local LLMs You Can Run on a Single 24GB GPU ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 20 Jul 2026 01:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model</title>
-      <link>https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;A community developer fine-tuned OpenBMB's MiniCPM5-1B on Claude Fable 5 traces into a 1B model that runs fully local — a 657MB smallest build, 128K context, and visible reasoning. We verify every spec against the Hugging Face cards, separate what a fine-tune actually inherits from real capability, and flag the licensing question the model card leaves open.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 20 Jul 2026 01:56:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] AI is more likely than humans to form biases when hiring</title>
       <link>https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/</link>
       <description>&lt;p&gt;The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -227,39 +209,12 @@
       <pubDate>Mon, 20 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device</title>
-      <link>https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Cosmos 3 Edge, a 4-billion-parameter open world model built to run on-device. It helps robots and vision AI agents understand surroundings, reason in real time, and generate robot actions locally. The Cosmos 3 family included Cosmos 3 Nano (16B) and Cosmos 3 Super (64B) shipped on May 31, 2026 at GTC Taipei. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-rob...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 21 Jul 2026 07:48:28 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Advancing next-gen AI with materials science innovation</title>
       <link>https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/</link>
       <description>&lt;p&gt;The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 21 Jul 2026 10:37:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis</title>
-      <link>https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore NVIDIA’s srt-slurm framework and learn how we use srtctl to convert declarative YAML configurations into reproducible SLURM benchmark workflows for distributed LLM serving. We set up the project in Google Colab, inspect its internal architecture, define a cluster configuration, dry-run built-in and custom recipes, and model a disaggregated prefill-and-decode deployment [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/21/validating-distribute...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 21 Jul 2026 16:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads</title>
-      <link>https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber on July 21, 2026. The Flash tier gets cheaper and more token-efficient, with 3.6 Flash cutting output tokens 17% and dropping its output price to $7.50 per 1M. Flash-Lite runs at 350 tokens/sec, while gated Flash Cyber powers CodeMender for vulnerability finding. The flagship 3.5 Pro remains delayed.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 21 Jul 2026 17:45:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The State of Simulation for Physical AI: An Overview</title>
@@ -270,85 +225,28 @@
       <pubDate>Tue, 21 Jul 2026 20:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI says Hugging Face was breached by its pre-release models</title>
-      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/</link>
-      <description>&lt;p&gt;OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 21 Jul 2026 20:56:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta is testing an AI bedtime story app for people with no imagination</title>
-      <link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
-      <description>&lt;p&gt;At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 21 Jul 2026 23:55:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Anthropic-Physical Intelligence rumor roiling AI Twitter</title>
-      <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
-      <description>&lt;p&gt;Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 03:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases</title>
-      <link>https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerability Localization Benchmark, above GLM-5.2 at 753B parameters and Gemini 3 Pro. The untrained Granite 4.0 checkpoints score near zero under the same protocol, so post-training supplies almost all of the capability. A full 500-task sweep runs in roughly 13 minutes on a single H100 for under a dol...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 06:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Synthesia’s AI training platform is moving beyond videos into live coaching</title>
-      <link>https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/</link>
-      <description>&lt;p&gt;Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU</title>
-      <link>https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/</link>
-      <description>&lt;p&gt;&lt;p&gt;Four open source projects dominate LLM fine-tuning today. Unsloth, Axolotl, TRL, and LLaMA-Factory all wrap the same underlying PyTorch and Hugging Face stack. They diverge on where they spend engineering effort. Unsloth rewrites kernels. Axolotl composes parallelism strategies. TRL defines the trainer APIs the others build on. LLaMA-Factory optimizes for breadth of model coverage and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 09:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era</title>
-      <link>https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/</link>
-      <description>&lt;p&gt;Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Unlimited AI tokens aren't unlimited after all as US Army burns through supply</title>
       <link>https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/</link>
       <description>&lt;p&gt;
                         Troops received an email informing them that they were rapidly depleting their AI tokens.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 22 Jul 2026 13:35:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Most Americans say "not in my backyard" to AI data centers</title>
-      <link>https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/</link>
-      <description>&lt;p&gt;Most Americans say "not in my backyard" to AI data centers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 57&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49007525</guid>
+      <title>[📰] Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently</title>
+      <link>https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/</link>
+      <description>&lt;p&gt;Anthropic&amp;#160;leaped to&amp;#160;a&amp;#160;$47 billion&amp;#160;revenue run rate&amp;#160;by May,&amp;#160;compared to&amp;#160;$9 billion&amp;#160;in 2025.&amp;#160;It’s&amp;#160;the kind of growth that&amp;#160;Menlo Ventures&amp;#8217;&amp;#160;Matt Murphy&amp;#160;says&amp;#160;he&amp;#8217;s&amp;#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&amp;#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
-      <pubDate>Wed, 22 Jul 2026 14:34:27 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI’s AI spending spree has ballooned to $750B</title>
       <link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/</link>
       <description>&lt;p&gt;OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 22 Jul 2026 16:13:30 +0000</pubDate>
     </item>
@@ -356,7 +254,7 @@
       <title>[📰] Substack’s new tool tells you who’s been writing their newsletters with AI</title>
       <link>https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/</link>
       <description>&lt;p&gt;Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 22 Jul 2026 16:23:09 +0000</pubDate>
     </item>
@@ -364,9 +262,75 @@
       <title>[📰] Arcee, a US open source AI lab, says Chinese models are not inherently dangerous</title>
       <link>https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/</link>
       <description>&lt;p&gt;As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 22 Jul 2026 16:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face</title>
+      <link>https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/</link>
+      <description>&lt;p&gt;
+                        "This is day one for cybersecurity in the age of agents," Hugging Face CEO says.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 16:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Are AI Labs Pelicanmaxxing?</title>
+      <link>https://dylancastillo.co/posts/pelicanmaxxing.html</link>
+      <description>&lt;p&gt;Are AI Labs Pelicanmaxxing?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 217&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49010129</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 17:17:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample</title>
+      <link>https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56</link>
+      <description>&lt;p&gt;Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 384&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49010345</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 17:30:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Monday.com lays off hundreds to focus on AI</title>
+      <link>https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/</link>
+      <description>&lt;p&gt;The company said it is reducing its headcount by 20%, or about 630 staff, to "support a leaner, more focused operating model" as it focuses on its AI Work Platform. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 17:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Yope raises $12.3M to build a private social network without algorithms or ads</title>
+      <link>https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/</link>
+      <description>&lt;p&gt;Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 18:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Travis Kalanick’s robotics company raises $1.7B, led by a16z</title>
+      <link>https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/</link>
+      <description>&lt;p&gt;Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 18:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How OpenAI’s human mistake led to the AI-powered hack on Hugging Face</title>
+      <link>https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/</link>
+      <description>&lt;p&gt;OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 19:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</title>
+      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
+      <description>&lt;p&gt;Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 20:49:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
