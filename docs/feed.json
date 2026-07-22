@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source_link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-22T03:20:57+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Meta is testing an AI bedtime story app for people with no imagination",
     "description": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
     "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
@@ -11,18 +22,29 @@
     "published": "2026-07-21T23:55:10+00:00"
   },
   {
+    "id": "hn-48998606",
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "description": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "source_link": "https://news.ycombinator.com/item?id=48998606",
+    "engagement": "\ud83d\udc4d 65",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-21T21:27:54+00:00"
+  },
+  {
     "id": "hn-48998404",
     "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
     "description": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
     "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
     "source_link": "https://news.ycombinator.com/item?id=48998404",
-    "engagement": "\ud83d\udc4d 111",
+    "engagement": "\ud83d\udc4d 165",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T21:13:20+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "OpenAI says Hugging Face was breached by its pre-release models",
     "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
     "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
@@ -38,7 +60,7 @@
     "description": "OpenAI and Hugging Face address security incident during model evaluation",
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "source_link": "https://news.ycombinator.com/item?id=48997548",
-    "engagement": "\ud83d\udc4d 719",
+    "engagement": "\ud83d\udc4d 957",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T20:09:52+00:00"
@@ -55,7 +77,7 @@
     "published": "2026-07-21T20:00:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
     "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
     "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
@@ -66,7 +88,7 @@
     "published": "2026-07-21T19:43:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "AI and the rise of the universal entertainment app",
     "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
     "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
@@ -82,7 +104,7 @@
     "description": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
     "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
     "source_link": "https://news.ycombinator.com/item?id=48996652",
-    "engagement": "\ud83d\udc4d 119",
+    "engagement": "\ud83d\udc4d 262",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T19:04:39+00:00"
@@ -93,7 +115,7 @@
     "description": "Advertise in ChatGPT",
     "link": "https://ads.openai.com/",
     "source_link": "https://news.ycombinator.com/item?id=48996571",
-    "engagement": "\ud83d\udc4d 307",
+    "engagement": "\ud83d\udc4d 598",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T18:58:44+00:00"
@@ -115,13 +137,13 @@
     "description": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
     "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
     "source_link": "https://news.ycombinator.com/item?id=48995213",
-    "engagement": "\ud83d\udc4d 246",
+    "engagement": "\ud83d\udc4d 294",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T17:14:06+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
     "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
     "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
@@ -154,7 +176,7 @@
     "published": "2026-07-21T16:29:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "US threatens sanctions against Chinese AI models over IP theft",
     "description": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
     "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
@@ -170,13 +192,13 @@
     "description": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
     "source_link": "https://news.ycombinator.com/item?id=48993414",
-    "engagement": "\ud83d\udc4d 618",
+    "engagement": "\ud83d\udc4d 656",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T15:17:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "description": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
     "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
@@ -207,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-21T07:48:28+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-    "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models. ",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "source_link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-21T00:12:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
