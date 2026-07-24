@@ -22,17 +22,6 @@
     "published": "2026-07-23T20:33:02+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-    "description": "<p>Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns...",
-    "link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-    "source_link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T19:31:59+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-0",
     "title": "Forgot your Google password? Now you can log in with a selfie.",
     "description": "\n                        Google's selfie videos can be used for account access, AI Avatars, and age verification.\n                    ",
@@ -77,17 +66,6 @@
     "published": "2026-07-23T18:38:34+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "You Didn\u2019t Get the AI Model You Paid For",
-    "description": "<p>The line in the response object You call the API. You pass model: &#8220;claude-fable-5&#8221;. You get back a completion, a token count, and a field that reads &#8220;model&#8221;: &#8220;claude-opus-4-8&#8221;. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-y...",
-    "link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-    "source_link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T18:07:55+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-4",
     "title": "Runway launches AI model router as generative media gets crowded",
     "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
@@ -97,17 +75,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T17:07:35+00:00"
-  },
-  {
-    "id": "hn-49024882",
-    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-    "description": "Show HN: Claude-thermos keeps your Claude session warm for you",
-    "link": "https://github.com/izeigerman/claude-thermos",
-    "source_link": "https://news.ycombinator.com/item?id=49024882",
-    "engagement": "\ud83d\udc4d 69",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T17:06:22+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -126,7 +93,7 @@
     "description": "The arguments against open source AI are bad",
     "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
     "source_link": "https://news.ycombinator.com/item?id=49024643",
-    "engagement": "\ud83d\udc4d 203",
+    "engagement": "\ud83d\udc4d 248",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T16:49:57+00:00"
@@ -159,7 +126,7 @@
     "description": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
     "link": "https://github.com/onecli/onecli",
     "source_link": "https://news.ycombinator.com/item?id=49023427",
-    "engagement": "\ud83d\udc4d 80",
+    "engagement": "\ud83d\udc4d 88",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T15:42:40+00:00"
@@ -170,7 +137,7 @@
     "description": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "source_link": "https://news.ycombinator.com/item?id=49023016",
-    "engagement": "\ud83d\udc4d 723",
+    "engagement": "\ud83d\udc4d 847",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T15:18:40+00:00"
@@ -181,7 +148,7 @@
     "description": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
     "link": "https://github.com/palmier-io/palmier-pro",
     "source_link": "https://news.ycombinator.com/item?id=49022911",
-    "engagement": "\ud83d\udc4d 119",
+    "engagement": "\ud83d\udc4d 138",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T15:11:37+00:00"
@@ -225,21 +192,10 @@
     "description": "DARPA, U.S. Air Force fly AI-controlled F-16",
     "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
     "source_link": "https://news.ycombinator.com/item?id=49021597",
-    "engagement": "\ud83d\udc4d 181",
+    "engagement": "\ud83d\udc4d 215",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T13:51:36+00:00"
-  },
-  {
-    "id": "hn-49020999",
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "description": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-    "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "source_link": "https://news.ycombinator.com/item?id=49020999",
-    "engagement": "\ud83d\udc4d 595",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T13:09:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -253,34 +209,12 @@
     "published": "2026-07-23T12:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-    "description": "<p>Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-...",
-    "link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-    "source_link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T08:01:22+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
-    "description": "<p>Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool&#8217;s versatility upon announcement, highlighting its capability to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-cla...",
-    "link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-    "source_link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-23T06:12:05+00:00"
-  },
-  {
     "id": "hn-49015639",
     "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
     "description": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
     "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
     "source_link": "https://news.ycombinator.com/item?id=49015639",
-    "engagement": "\ud83d\udc4d 382",
+    "engagement": "\ud83d\udc4d 464",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T01:16:14+00:00"
@@ -295,39 +229,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T00:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
-    "description": "<p>In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/22/research...",
-    "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-    "source_link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-22T21:53:58+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU",
-    "description": "<p>Four open source projects dominate LLM fine-tuning today. Unsloth, Axolotl, TRL, and LLaMA-Factory all wrap the same underlying PyTorch and Hugging Face stack. They diverge on where they spend engineering effort. Unsloth rewrites kernels. Axolotl composes parallelism strategies. TRL defines the trainer APIs the others build on. LLaMA-Factory optimizes for breadth of model coverage and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama...",
-    "link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
-    "source_link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-22T09:16:40+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
-    "description": "<p>Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerability Localization Benchmark, above GLM-5.2 at 753B parameters and Gemini 3 Pro. The untrained Granite 4.0 checkpoints score near zero under the same protocol, so post-training supplies almost all of the capability. A full 500-task sweep runs in roughly 13 minutes on a single H100 for under a dol...",
-    "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-    "source_link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-22T06:27:02+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-1",
