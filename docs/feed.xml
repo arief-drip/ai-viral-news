@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 01:53:27 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,12 +217,64 @@
       <pubDate>Tue, 21 Jul 2026 20:00:27 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases</title>
+      <link>https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerability Localization Benchmark, above GLM-5.2 at 753B parameters and Gemini 3 Pro. The untrained Granite 4.0 checkpoints score near zero under the same protocol, so post-training supplies almost all of the capability. A full 500-task sweep runs in roughly 13 minutes on a single H100 for under a dol...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 06:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU</title>
+      <link>https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/</link>
+      <description>&lt;p&gt;&lt;p&gt;Four open source projects dominate LLM fine-tuning today. Unsloth, Axolotl, TRL, and LLaMA-Factory all wrap the same underlying PyTorch and Hugging Face stack. They diverge on where they spend engineering effort. Unsloth rewrites kernels. Axolotl composes parallelism strategies. TRL defines the trainer APIs the others build on. LLaMA-Factory optimizes for breadth of model coverage and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 09:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics</title>
+      <link>https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/22/research...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 22 Jul 2026 21:53:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Bringing Nunchaku 4-bit Diffusion Inference to Diffusers</title>
       <link>https://huggingface.co/blog/nunchaku-diffusers</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI’s accidental attack against Hugging Face is science fiction that happened</title>
+      <link>https://simonwillison.net/2026/Jul/22/openai-cyberattack/</link>
+      <description>&lt;p&gt;OpenAI’s accidental attack against Hugging Face is science fiction that happened&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 382&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49015639</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 01:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal</title>
+      <link>https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool&amp;#8217;s versatility upon announcement, highlighting its capability to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-cla...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 06:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers</title>
+      <link>https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/</link>
+      <description>&lt;p&gt;&lt;p&gt;Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 08:01:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How AI helps scientists design the next generation of medicines</title>
@@ -235,7 +287,7 @@
     <item>
       <title>[📰] AI Companies Are Trying to Hide a Staggering Amount of Debt</title>
       <link>https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet</link>
-      <description>&lt;p&gt;AI Companies Are Trying to Hide a Staggering Amount of Debt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 488&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI Companies Are Trying to Hide a Staggering Amount of Debt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 595&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49020999</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 13:09:10 +0000</pubDate>
@@ -243,7 +295,7 @@
     <item>
       <title>[📰] DARPA, U.S. Air Force fly AI-controlled F-16</title>
       <link>https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16</link>
-      <description>&lt;p&gt;DARPA, U.S. Air Force fly AI-controlled F-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 119&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DARPA, U.S. Air Force fly AI-controlled F-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 181&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49021597</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 13:51:36 +0000</pubDate>
@@ -254,7 +306,7 @@
       <description>&lt;p&gt;
                         Aggressive training techniques sharpens threat of bad behavior by leading models.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 14:45:05 +0000</pubDate>
     </item>
@@ -262,7 +314,7 @@
       <title>[📰] Google’s Gemini nears billion-user milestone</title>
       <link>https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/</link>
       <description>&lt;p&gt;Gemini had over 750 million monthly users in February.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 14:52:44 +0000</pubDate>
     </item>
@@ -270,14 +322,14 @@
       <title>[📰] AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors </title>
       <link>https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/</link>
       <description>&lt;p&gt;Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Show HN: Palmier Pro – Open-source macOS video editor built for AI</title>
       <link>https://github.com/palmier-io/palmier-pro</link>
-      <description>&lt;p&gt;Show HN: Palmier Pro – Open-source macOS video editor built for AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 72&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Palmier Pro – Open-source macOS video editor built for AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 119&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49022911</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 15:11:37 +0000</pubDate>
@@ -285,7 +337,7 @@
     <item>
       <title>[📰] Startup founders urge U.S. government not to shut off Chinese open weight AI</title>
       <link>https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992</link>
-      <description>&lt;p&gt;Startup founders urge U.S. government not to shut off Chinese open weight AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 568&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Startup founders urge U.S. government not to shut off Chinese open weight AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 723&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49023016</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 15:18:40 +0000</pubDate>
@@ -293,18 +345,10 @@
     <item>
       <title>[📰] Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents</title>
       <link>https://github.com/onecli/onecli</link>
-      <description>&lt;p&gt;Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 58&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 80&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49023427</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 15:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Free way to get your data out of ChatGPT Business accounts</title>
-      <link>https://github.com/Conradqh/scrapemychats</link>
-      <description>&lt;p&gt;Free way to get your data out of ChatGPT Business accounts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 68&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49023486</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 23 Jul 2026 15:45:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google just had its first negative cash flow quarter due to massive AI spending</title>
@@ -312,7 +356,7 @@
       <description>&lt;p&gt;
                         Google continues to report big quarterly revenue, but its AI spending has skyrocketed.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 16:04:19 +0000</pubDate>
     </item>
@@ -320,14 +364,14 @@
       <title>[📰] Meta launched a new AI optimism ad set to a song about human extinction</title>
       <link>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</link>
       <description>&lt;p&gt;David Bowie's song "Five Years," which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 16:28:50 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The arguments against open source AI are bad</title>
       <link>https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/</link>
-      <description>&lt;p&gt;The arguments against open source AI are bad&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 122&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The arguments against open source AI are bad&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 203&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49024643</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 16:49:57 +0000</pubDate>
@@ -336,23 +380,40 @@
       <title>[📰] OpenAI makes ChatGPT Health available to all US users</title>
       <link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/</link>
       <description>&lt;p&gt;Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: Claude-thermos keeps your Claude session warm for you</title>
+      <link>https://github.com/izeigerman/claude-thermos</link>
+      <description>&lt;p&gt;Show HN: Claude-thermos keeps your Claude session warm for you&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49024882</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 17:06:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Runway launches AI model router as generative media gets crowded</title>
       <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
       <description>&lt;p&gt;The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] You Didn’t Get the AI Model You Paid For</title>
+      <link>https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/</link>
+      <description>&lt;p&gt;&lt;p&gt;The line in the response object You call the API. You pass model: &amp;#8220;claude-fable-5&amp;#8221;. You get back a completion, a token count, and a field that reads &amp;#8220;model&amp;#8221;: &amp;#8220;claude-opus-4-8&amp;#8221;. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-y...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 18:07:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing</title>
       <link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
       <description>&lt;p&gt;AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 18:38:34 +0000</pubDate>
     </item>
@@ -360,17 +421,54 @@
       <title>[📰] Anthropic updates Claude voice mode with more capable models</title>
       <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
       <description>&lt;p&gt;Claude's new voice model will let you reschedule your meeting or draft an email.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AMD takes on Nvidia with its Helios AI rack scale system</title>
+      <title>[📰] AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/</link>
+      <description>&lt;p&gt;
+                        Bill would let Homeland Security chief decide when an AI should be shut down.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 19:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Forgot your Google password? Now you can log in with a selfie.</title>
+      <link>https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/</link>
+      <description>&lt;p&gt;
+                        Google's selfie videos can be used for account access, AI Avatars, and age verification.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 19:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat</title>
+      <link>https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/</link>
+      <description>&lt;p&gt;&lt;p&gt;Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 19:31:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AMD takes on Nvidia with its Helios AI rack-scale system</title>
       <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
       <description>&lt;p&gt;AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How AI guardrails are impeding the work of offensive cybersecurity researchers</title>
+      <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
+      <description>&lt;p&gt;We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 24 Jul 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
