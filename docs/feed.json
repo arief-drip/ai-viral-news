@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+    "description": "<p>A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an action-conditioned latent dynamics model, rollout generation, and FVD scoring. reactor-team/open-dreamer holds a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/meet-open-dre...",
+    "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-25T18:59:54+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
     "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
@@ -9,6 +20,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-25T16:00:00+00:00"
+  },
+  {
+    "id": "hn-49048034",
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "description": "Open-weight AI is having its Kubernetes moment",
+    "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "source_link": "https://news.ycombinator.com/item?id=49048034",
+    "engagement": "\ud83d\udc4d 222",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-25T14:49:49+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -22,15 +44,26 @@
     "published": "2026-07-25T13:05:00+00:00"
   },
   {
-    "id": "hn-49045040",
-    "title": "ARC-AGI Leaderboard",
-    "description": "ARC-AGI Leaderboard",
-    "link": "https://arcprize.org/leaderboard",
-    "source_link": "https://news.ycombinator.com/item?id=49045040",
-    "engagement": "\ud83d\udc4d 157",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-1",
+    "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+    "description": "<p>OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target \u2014 they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explai...",
+    "link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T06:31:40+00:00"
+    "published": "2026-07-25T09:03:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+    "description": "<p>Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow\u2014from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage\u2014empowering you to build more efficient, reusable agent systems.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/\">Building Self-Evolving AI Agents w...",
+    "link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-25T07:54:21+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -53,6 +86,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-24T22:25:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+    "description": "<p>Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/\">M...",
+    "link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+    "source_link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-24T21:50:46+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -119,6 +163,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-24T14:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+    "description": "<p>Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns...",
+    "link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+    "source_link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-23T19:31:59+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "You Didn\u2019t Get the AI Model You Paid For",
+    "description": "<p>The line in the response object You call the API. You pass model: &#8220;claude-fable-5&#8221;. You get back a completion, a token count, and a field that reads &#8220;model&#8221;: &#8220;claude-opus-4-8&#8221;. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-y...",
+    "link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+    "source_link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-23T18:07:55+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",

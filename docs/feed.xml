@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 16:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:40:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -233,6 +233,24 @@
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] You Didn’t Get the AI Model You Paid For</title>
+      <link>https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/</link>
+      <description>&lt;p&gt;&lt;p&gt;The line in the response object You call the API. You pass model: &amp;#8220;claude-fable-5&amp;#8221;. You get back a completion, a token count, and a field that reads &amp;#8220;model&amp;#8221;: &amp;#8220;claude-opus-4-8&amp;#8221;. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-y...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 18:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat</title>
+      <link>https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/</link>
+      <description>&lt;p&gt;&lt;p&gt;Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 23 Jul 2026 19:31:59 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] ‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street</title>
       <link>https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/</link>
       <description>&lt;p&gt;Chinese AI lab Moonshot&amp;#8217;s&amp;#160;open model Kimi went viral this week&amp;#160;for reasons that had less to do with the model itself and more to do with&amp;#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real&amp;#160;security breach at Hugging Face&amp;#160;— a reminder [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -283,6 +301,15 @@
       <pubDate>Fri, 24 Jul 2026 21:25:15 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing</title>
+      <link>https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/</link>
+      <description>&lt;p&gt;&lt;p&gt;Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/"&gt;M...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 24 Jul 2026 21:50:46 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M</title>
       <link>https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</link>
       <description>&lt;p&gt;The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -299,12 +326,22 @@
       <pubDate>Sat, 25 Jul 2026 00:23:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ARC-AGI Leaderboard</title>
-      <link>https://arcprize.org/leaderboard</link>
-      <description>&lt;p&gt;ARC-AGI Leaderboard&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 157&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49045040</guid>
+      <title>[📰] Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse</title>
+      <link>https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/</link>
+      <description>&lt;p&gt;&lt;p&gt;Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/"&gt;Building Self-Evolving AI Agents w...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Sat, 25 Jul 2026 06:31:40 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 07:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers</title>
+      <link>https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explai...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 25 Jul 2026 09:03:27 +0000</pubDate>
     </item>
     <item>
       <title>[📰] One fallen power line exposed a growing AI data center problem. Here’s how to fix it.</title>
@@ -315,12 +352,29 @@
       <pubDate>Sat, 25 Jul 2026 13:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Open-weight AI is having its Kubernetes moment</title>
+      <link>https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</link>
+      <description>&lt;p&gt;Open-weight AI is having its Kubernetes moment&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 222&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49048034</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 25 Jul 2026 14:49:49 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech</title>
       <link>https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/</link>
       <description>&lt;p&gt;At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 25 Jul 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published</title>
+      <link>https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/</link>
+      <description>&lt;p&gt;&lt;p&gt;A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an action-conditioned latent dynamics model, rollout generation, and FVD scoring. reactor-team/open-dreamer holds a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/meet-open-dre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 25 Jul 2026 18:59:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
