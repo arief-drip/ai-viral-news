@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Making sense of the panic over Chinese AI",
+    "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source_link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-26T19:40:57+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
     "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
@@ -11,7 +22,29 @@
     "published": "2026-07-26T16:33:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49057877",
+    "title": "The New AI Superpowers: Focus and Followthrough",
+    "description": "The New AI Superpowers: Focus and Followthrough",
+    "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+    "source_link": "https://news.ycombinator.com/item?id=49057877",
+    "engagement": "\ud83d\udc4d 85",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-26T13:13:03+00:00"
+  },
+  {
+    "id": "hn-49056620",
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "description": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "link": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "source_link": "https://news.ycombinator.com/item?id=49056620",
+    "engagement": "\ud83d\udc4d 83",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-26T10:32:35+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
     "description": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -22,51 +55,29 @@
     "published": "2026-07-26T01:30:00+00:00"
   },
   {
-    "id": "hn-49052912",
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "description": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "source_link": "https://news.ycombinator.com/item?id=49052912",
-    "engagement": "\ud83d\udc4d 217",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-0",
+    "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+    "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/\">Sakana AI Releases Fugu-Cyber: An Orc...",
+    "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T23:32:50+00:00"
+    "published": "2026-07-26T00:12:57+00:00"
   },
   {
-    "id": "hn-49052570",
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "description": "What is happening to jobs? Separating AI hype from reality",
-    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "source_link": "https://news.ycombinator.com/item?id=49052570",
-    "engagement": "\ud83d\udc4d 193",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-1",
+    "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+    "description": "<p>A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an action-conditioned latent dynamics model, rollout generation, and FVD scoring. reactor-team/open-dreamer holds a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/meet-open-dre...",
+    "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T22:51:10+00:00"
+    "published": "2026-07-25T18:59:54+00:00"
   },
   {
-    "id": "hn-49052564",
-    "title": "Cloudflare's new AI traffic options for customers",
-    "description": "Cloudflare's new AI traffic options for customers",
-    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "source_link": "https://news.ycombinator.com/item?id=49052564",
-    "engagement": "\ud83d\udc4d 166",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T22:50:49+00:00"
-  },
-  {
-    "id": "hn-49051361",
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "description": "The new rules of context engineering for Claude 5 generation models",
-    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "source_link": "https://news.ycombinator.com/item?id=49051361",
-    "engagement": "\ud83d\udc4d 423",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T20:42:35+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
     "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
@@ -77,7 +88,7 @@
     "published": "2026-07-25T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
     "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
@@ -88,7 +99,29 @@
     "published": "2026-07-25T13:05:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-MarkTechPost-2",
+    "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+    "description": "<p>OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target \u2014 they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explai...",
+    "link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-25T09:03:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+    "description": "<p>Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow\u2014from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage\u2014empowering you to build more efficient, reusable agent systems.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/\">Building Self-Evolving AI Agents w...",
+    "link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-25T07:54:21+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
     "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it. ",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -99,7 +132,7 @@
     "published": "2026-07-25T00:23:11+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case. ",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
@@ -121,7 +154,7 @@
     "published": "2026-07-24T21:25:15+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "description": "The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
     "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
@@ -132,7 +165,7 @@
     "published": "2026-07-24T18:07:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
     "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
     "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
@@ -143,15 +176,15 @@
     "published": "2026-07-24T15:51:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
-    "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "source_link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-49024980",
+    "title": "Rethinking legal education in the AI era",
+    "description": "Rethinking legal education in the AI era",
+    "link": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "source_link": "https://news.ycombinator.com/item?id=49024980",
+    "engagement": "\ud83d\udc4d 127",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-24T15:13:57+00:00"
+    "published": "2026-07-23T17:12:48+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
