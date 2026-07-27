@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+    "description": "\n                        Meme generator may have screwed up by using templates in outputs, expert says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T10:50:37+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Are brain waves the next unlock for physical AI?",
     "description": "Forget YouTube videos\u2014frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. ",
@@ -31,17 +42,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-26T16:33:13+00:00"
-  },
-  {
-    "id": "hn-49057877",
-    "title": "The New AI Superpowers: Focus and Followthrough",
-    "description": "The New AI Superpowers: Focus and Followthrough",
-    "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-    "source_link": "https://news.ycombinator.com/item?id=49057877",
-    "engagement": "\ud83d\udc4d 189",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-26T13:13:03+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -143,7 +143,7 @@
     "published": "2026-07-24T22:25:58+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Canadian legislator reads out apparent LLM response in floor speech",
     "description": "\n                        \"Here\u2019s a more natural, flowing version of that section...\"\n                    ",
     "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
@@ -185,17 +185,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-23T00:00:00+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-1",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "description": "",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "source_link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-21T20:00:27+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -253,7 +242,7 @@
     "published": "2026-07-15T17:09:37+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-2",
+    "id": "rss-HuggingFace Blog-1",
     "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
     "description": "",
     "link": "https://huggingface.co/blog/real-world-voiceeq",
