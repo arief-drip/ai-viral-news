@@ -1,11 +1,44 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "source_link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T14:00:00+00:00"
+  },
+  {
+    "id": "hn-49083239",
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "description": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "source_link": "https://news.ycombinator.com/item?id=49083239",
+    "engagement": "\ud83d\udc4d 86",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T13:07:14+00:00"
+  },
+  {
+    "id": "hn-49082550",
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "description": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "source_link": "https://news.ycombinator.com/item?id=49082550",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T12:02:57+00:00"
+  },
+  {
     "id": "hn-49081644",
     "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
     "description": "Google's Beyond Zero: Enterprise Security for the AI Era",
     "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
     "source_link": "https://news.ycombinator.com/item?id=49081644",
-    "engagement": "\ud83d\udc4d 52",
+    "engagement": "\ud83d\udc4d 107",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-28T09:59:13+00:00"
@@ -33,7 +66,7 @@
     "published": "2026-07-28T07:53:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
     "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -55,7 +88,7 @@
     "published": "2026-07-27T21:56:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "description": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
@@ -77,7 +110,7 @@
     "published": "2026-07-27T20:48:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "description": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
@@ -99,7 +132,7 @@
     "published": "2026-07-27T18:48:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -132,7 +165,7 @@
     "published": "2026-07-27T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
     "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
     "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
@@ -143,7 +176,7 @@
     "published": "2026-07-27T17:28:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Threads users can now chat with Meta AI in their DMs",
     "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. ",
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
@@ -163,28 +196,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T16:32:47+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-    "description": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "source_link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T15:57:12+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026\u00a0",
-    "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "source_link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T15:30:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
