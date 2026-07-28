@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:42:39 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -177,6 +177,15 @@
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM</title>
+      <link>https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/"&gt;Sakana AI Releases Fugu-Cyber: An Orc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 26 Jul 2026 00:12:57 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Building the enterprise environment for agentic AI</title>
       <link>https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/</link>
       <description>&lt;p&gt;For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -225,22 +234,21 @@
       <pubDate>Mon, 27 Jul 2026 15:57:12 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents</title>
+      <link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fetch — and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/"&gt;Perplexity Releases pplx, a Single-Binary...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Threads users can now chat with Meta AI in their DMs</title>
       <link>https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/</link>
       <description>&lt;p&gt;Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 16:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] ChatGPT starts blocking direct requests to copy an author's style</title>
-      <link>https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</link>
-      <description>&lt;p&gt;
-                        New behavior capturing a writer's "broad qualities" could have legal implications.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Jul 2026 16:58:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI’s Hugging Face breach has reignited the debate over alignment and control</title>
@@ -257,6 +265,15 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables</title>
+      <link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository’s SKILL.md files into a searchable [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
@@ -285,6 +302,15 @@
       <pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3</title>
+      <link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
+      <description>&lt;p&gt;&lt;p&gt;Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/"&gt;Kimi AI and kvcache-ai Open Sources &amp;#8216;AgentENV&amp;#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Satya Nadella says companies that trust one AI for everything may not survive</title>
       <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/</link>
       <description>&lt;p&gt;Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -309,6 +335,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows</title>
+      <link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model’s Q1_0_g128 GGUF quantization format&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/"&gt;Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows&lt;/a&gt; app...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 07:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym</title>
+      <link>https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 256k context window. The model does not ship as a standalone endpoint — it runs inside MDASH, Microsoft's multi-model agentic scanning harness, where it handles up to 90% of tasks and pushes the system to 95.95% on CyberGym.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cybe...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 08:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google's Beyond Zero: Enterprise Security for the AI Era</title>
+      <link>https://spawn-queue.acm.org/doi/10.1145/3819083</link>
+      <description>&lt;p&gt;Google's Beyond Zero: Enterprise Security for the AI Era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49081644</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 09:59:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

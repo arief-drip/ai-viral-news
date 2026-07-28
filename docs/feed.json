@@ -1,5 +1,38 @@
 [
   {
+    "id": "hn-49081644",
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "description": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "source_link": "https://news.ycombinator.com/item?id=49081644",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T09:59:13+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+    "description": "<p>Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 256k context window. The model does not ship as a standalone endpoint \u2014 it runs inside MDASH, Microsoft's multi-model agentic scanning harness, where it handles up to 90% of tasks and pushes the system to 95.95% on CyberGym.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cybe...",
+    "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+    "source_link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T08:33:30+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows",
+    "description": "<p>In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model\u2019s Q1_0_g128 GGUF quantization format</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/\">Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows</a> app...",
+    "link": "https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/",
+    "source_link": "https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T07:53:48+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
     "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
@@ -31,6 +64,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T21:17:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Kimi AI and kvcache-ai Open Sources \u2018AgentENV\u2019: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
+    "description": "<p>Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/\">Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...",
+    "link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T20:48:53+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -66,6 +110,17 @@
     "published": "2026-07-27T18:32:11+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+    "description": "<p>In this tutorial, we build an advanced workflow around Anthropic\u2019s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository\u2019s SKILL.md files into a searchable [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
+    "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T18:08:24+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.\u00a0",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
@@ -88,17 +143,6 @@
     "published": "2026-07-27T17:28:42+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "description": "\n                        New behavior capturing a writer's \"broad qualities\" could have legal implications.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "source_link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T16:58:46+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-5",
     "title": "Threads users can now chat with Meta AI in their DMs",
     "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. ",
@@ -108,6 +152,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T16:45:24+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
+    "description": "<p>Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands \u2014 pplx search web and pplx content fetch \u2014 and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/\">Perplexity Releases pplx, a Single-Binary...",
+    "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T16:32:47+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -174,6 +229,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T11:32:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+    "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/\">Sakana AI Releases Fugu-Cyber: An Orc...",
+    "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-26T00:12:57+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
