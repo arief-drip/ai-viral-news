@@ -33,17 +33,6 @@
     "published": "2026-07-27T21:17:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Kimi AI and kvcache-ai Open Sources \u2018AgentENV\u2019: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
-    "description": "<p>Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/\">Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...",
-    "link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
-    "source_link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T20:48:53+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-2",
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "description": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
@@ -75,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T18:32:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-    "description": "<p>In this tutorial, we build an advanced workflow around Anthropic\u2019s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository\u2019s SKILL.md files into a searchable [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
-    "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-    "source_link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T18:08:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -132,17 +110,6 @@
     "published": "2026-07-27T16:45:24+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-    "description": "<p>Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands \u2014 pplx search web and pplx content fetch \u2014 and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/\">Perplexity Releases pplx, a Single-Binary...",
-    "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-    "source_link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T16:32:47+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-6",
     "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
     "description": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
@@ -163,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T15:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.\u00a0",
-    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "source_link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T15:01:50+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -218,28 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T11:32:58+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
-    "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/\">Sakana AI Releases Fugu-Cyber: An Orc...",
-    "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
-    "source_link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-26T00:12:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
-    "description": "<p>A small group of AI researchers (Francesco Sacco, Diego Mart\u00ed, and Edward Hu) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. The research is sponsored by Reactor. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dre...",
-    "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
-    "source_link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-25T18:59:54+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",

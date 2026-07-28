@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 01:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:18:51 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -185,24 +185,6 @@
       <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published</title>
-      <link>https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/</link>
-      <description>&lt;p&gt;&lt;p&gt;A small group of AI researchers (Francesco Sacco, Diego Martí, and Edward Hu) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. The research is sponsored by Reactor. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 25 Jul 2026 18:59:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM</title>
-      <link>https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/</link>
-      <description>&lt;p&gt;&lt;p&gt;Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/"&gt;Sakana AI Releases Fugu-Cyber: An Orc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 26 Jul 2026 00:12:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building the enterprise environment for agentic AI</title>
       <link>https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/</link>
       <description>&lt;p&gt;For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -235,14 +217,6 @@
       <pubDate>Mon, 27 Jul 2026 13:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research</title>
-      <link>https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/</link>
-      <description>&lt;p&gt;After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Jul 2026 15:01:50 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 </title>
       <link>https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/</link>
       <description>&lt;p&gt;At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -257,15 +231,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 15:57:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents</title>
-      <link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
-      <description>&lt;p&gt;&lt;p&gt;Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fetch — and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/"&gt;Perplexity Releases pplx, a Single-Binary...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Threads users can now chat with Meta AI in their DMs</title>
@@ -302,15 +267,6 @@
       <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables</title>
-      <link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository’s SKILL.md files into a searchable [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
       <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
       <description>&lt;p&gt;Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -335,15 +291,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3</title>
-      <link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
-      <description>&lt;p&gt;&lt;p&gt;Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/"&gt;Kimi AI and kvcache-ai Open Sources &amp;#8216;AgentENV&amp;#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Satya Nadella says companies that trust one AI for everything may not survive</title>
