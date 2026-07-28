@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-49087091",
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "description": "Discovering Cryptographic Weaknesses with Claude",
+    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "source_link": "https://news.ycombinator.com/item?id=49087091",
+    "engagement": "\ud83d\udc4d 107",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T17:22:16+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
     "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
@@ -11,37 +22,15 @@
     "published": "2026-07-28T14:00:00+00:00"
   },
   {
-    "id": "hn-49083239",
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "description": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "source_link": "https://news.ycombinator.com/item?id=49083239",
-    "engagement": "\ud83d\udc4d 86",
-    "source": "Hacker News",
+    "id": "rss-TechCrunch AI-1",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "description": "Recursive\u2019s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.\u00a0",
+    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "source_link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T13:07:14+00:00"
-  },
-  {
-    "id": "hn-49082550",
-    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-    "description": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-    "source_link": "https://news.ycombinator.com/item?id=49082550",
-    "engagement": "\ud83d\udc4d 50",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T12:02:57+00:00"
-  },
-  {
-    "id": "hn-49081644",
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "description": "Google's Beyond Zero: Enterprise Security for the AI Era",
-    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "source_link": "https://news.ycombinator.com/item?id=49081644",
-    "engagement": "\ud83d\udc4d 107",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T09:59:13+00:00"
+    "published": "2026-07-28T13:19:17+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -66,7 +55,7 @@
     "published": "2026-07-28T07:53:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
     "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -88,7 +77,7 @@
     "published": "2026-07-27T21:56:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "description": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
@@ -110,7 +99,7 @@
     "published": "2026-07-27T20:48:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "description": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
@@ -121,18 +110,7 @@
     "published": "2026-07-27T20:19:42+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-    "description": "\n                        Telecom expects AI revenue from dark fiber deals and retrofitted data centers.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "source_link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T18:48:41+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -163,28 +141,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T18:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
-    "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "source_link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T17:28:42+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. ",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "source_link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T16:45:24+00:00"
   },
   {
     "id": "rss-MarkTechPost-4",
@@ -317,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-20T08:39:01+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-1",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "description": "",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
-    "source_link": "https://huggingface.co/blog/real-world-voiceeq",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-15T00:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
