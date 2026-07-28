@@ -1,6 +1,50 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source_link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-28T00:13:33+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "description": "\n                        Microsoft says tools cost less than competing ones and outperform them, too.\n                    ",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source_link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T21:56:14+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "description": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source_link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T21:17:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Kimi AI and kvcache-ai Open Sources \u2018AgentENV\u2019: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
+    "description": "<p>Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/\">Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...",
+    "link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T20:48:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "description": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
     "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
@@ -11,7 +55,7 @@
     "published": "2026-07-27T20:19:42+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
     "description": "\n                        Telecom expects AI revenue from dark fiber deals and retrofitted data centers.\n                    ",
     "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
@@ -22,7 +66,7 @@
     "published": "2026-07-27T18:48:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -31,6 +75,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T18:32:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
+    "description": "<p>In this tutorial, we build an advanced workflow around Anthropic\u2019s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository\u2019s SKILL.md files into a searchable [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
+    "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T18:08:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -44,7 +99,7 @@
     "published": "2026-07-27T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
     "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
     "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
@@ -55,7 +110,7 @@
     "published": "2026-07-27T17:28:42+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "ChatGPT starts blocking direct requests to copy an author's style",
     "description": "\n                        New behavior capturing a writer's \"broad qualities\" could have legal implications.\n                    ",
     "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
@@ -66,7 +121,7 @@
     "published": "2026-07-27T16:58:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Threads users can now chat with Meta AI in their DMs",
     "description": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant. ",
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
@@ -77,7 +132,18 @@
     "published": "2026-07-27T16:45:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-MarkTechPost-2",
+    "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
+    "description": "<p>Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands \u2014 pplx search web and pplx content fetch \u2014 and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/\">Perplexity Releases pplx, a Single-Binary...",
+    "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+    "source_link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-27T16:32:47+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-6",
     "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
     "description": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
     "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
@@ -88,7 +154,7 @@
     "published": "2026-07-27T15:57:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026\u00a0",
     "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
     "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
@@ -99,7 +165,7 @@
     "published": "2026-07-27T15:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
     "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.\u00a0",
     "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
@@ -154,26 +220,26 @@
     "published": "2026-07-27T11:32:58+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-    "description": "\n                        Meme generator may have screwed up by using templates in outputs, expert says.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "rss-MarkTechPost-3",
+    "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+    "description": "<p>Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Plan. Here is what the numbers actually mean.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/\">Sakana AI Releases Fugu-Cyber: An Orc...",
+    "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T10:50:37+00:00"
+    "published": "2026-07-26T00:12:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Are brain waves the next unlock for physical AI?",
-    "description": "Forget YouTube videos \u2014 frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings. ",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source_link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "rss-MarkTechPost-4",
+    "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+    "description": "<p>A small group of AI researchers (Francesco Sacco, Diego Mart\u00ed, and Edward Hu) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. The research is sponsored by Reactor. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal video tokenizer, an [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dre...",
+    "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "source_link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T00:19:14+00:00"
+    "published": "2026-07-25T18:59:54+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
