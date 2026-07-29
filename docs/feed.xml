@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 13:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:05:25 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -236,14 +236,6 @@
       <pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI</title>
-      <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
-      <description>&lt;p&gt;Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows</title>
       <link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model’s Q1_0_g128 GGUF quantization format&lt;/p&gt;
@@ -265,7 +257,7 @@
       <title>[📰] Recursive Superintelligence signs $410M compute deal with Amazon</title>
       <link>https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/</link>
       <description>&lt;p&gt;Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 13:19:17 +0000</pubDate>
     </item>
@@ -273,19 +265,9 @@
       <title>[📰] Fish Audio raises $52M seed to build AI voice models for creators and enterprises</title>
       <link>https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/</link>
       <description>&lt;p&gt;Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Despite AI hype, Google's data shows workers aren't automating themselves away</title>
-      <link>https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/</link>
-      <description>&lt;p&gt;
-                        Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 28 Jul 2026 20:20:20 +0000</pubDate>
     </item>
     <item>
       <title>[📰] We now have a better understanding how OpenAI hacked into Hugging Face</title>
@@ -293,7 +275,7 @@
       <description>&lt;p&gt;
                         10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 21:36:39 +0000</pubDate>
     </item>
@@ -319,25 +301,9 @@
       <title>[📰] Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</title>
       <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
       <description>&lt;p&gt;The deal is Cyera's third acquisition this year. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</title>
-      <link>https://learnvector.ai/</link>
-      <description>&lt;p&gt;LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 230&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49092499</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 01:49:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design</title>
-      <link>https://transformer-transformer.github.io/</link>
-      <description>&lt;p&gt;Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 67&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49093232</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 03:52:29 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The AI Hype Index: Unsexy AI</title>
@@ -360,27 +326,53 @@
       <title>[📰] As AI content floods the internet, Pangram raises $9M to detect it</title>
       <link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
       <description>&lt;p&gt;Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation</title>
+      <title>[📰] Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation</title>
       <link>https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/</link>
       <description>&lt;p&gt;
                         Deciding what's real on the Internet won't be easy in the future. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 11:00:39 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Document-borne AI worms can self-propagate through Copilot for Word</title>
       <link>https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</link>
-      <description>&lt;p&gt;Document-borne AI worms can self-propagate through Copilot for Word&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Document-borne AI worms can self-propagate through Copilot for Word&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 224&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49096188</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 11:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] What happens when you put AI to work deciphering lost languages?</title>
+      <link>https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/</link>
+      <description>&lt;p&gt;
+                        AI is fantastic at spotting patterns, but human insight is the key.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 29 Jul 2026 13:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Encore AI raises $30M to build AI agents that learn from customer calls</title>
+      <link>https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/</link>
+      <description>&lt;p&gt;The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 29 Jul 2026 14:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners</title>
+      <link>https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/</link>
+      <description>&lt;p&gt;AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 29 Jul 2026 15:35:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

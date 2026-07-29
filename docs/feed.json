@@ -1,18 +1,51 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source_link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-29T15:35:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source_link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-29T14:41:06+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "What happens when you put AI to work deciphering lost languages?",
+    "description": "\n                        AI is fantastic at spotting patterns, but human insight is the key.\n                    ",
+    "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "source_link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-29T13:23:31+00:00"
+  },
+  {
     "id": "hn-49096188",
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "description": "Document-borne AI worms can self-propagate through Copilot for Word",
     "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
     "source_link": "https://news.ycombinator.com/item?id=49096188",
-    "engagement": "\ud83d\udc4d 129",
+    "engagement": "\ud83d\udc4d 224",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T11:44:33+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "id": "rss-Ars Technica AI-1",
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
     "description": "\n                        Deciding what's real on the Internet won't be easy in the future. \n                    ",
     "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
     "source_link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
@@ -22,7 +55,7 @@
     "published": "2026-07-29T11:00:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. ",
     "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
@@ -55,29 +88,7 @@
     "published": "2026-07-29T08:42:57+00:00"
   },
   {
-    "id": "hn-49093232",
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "description": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "link": "https://transformer-transformer.github.io/",
-    "source_link": "https://news.ycombinator.com/item?id=49093232",
-    "engagement": "\ud83d\udc4d 67",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-29T03:52:29+00:00"
-  },
-  {
-    "id": "hn-49092499",
-    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-    "description": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
-    "link": "https://learnvector.ai/",
-    "source_link": "https://news.ycombinator.com/item?id=49092499",
-    "engagement": "\ud83d\udc4d 230",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-29T01:49:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "description": "The deal is Cyera's third acquisition this year. ",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -110,7 +121,7 @@
     "published": "2026-07-28T22:45:56+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
     "description": "\n                        10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.\n                    ",
     "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
@@ -121,18 +132,7 @@
     "published": "2026-07-28T21:36:39+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-    "description": "\n                        Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "source_link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T20:20:20+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
     "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
     "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
@@ -143,7 +143,7 @@
     "published": "2026-07-28T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
     "description": "Recursive\u2019s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.\u00a0",
     "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
@@ -174,17 +174,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-28T07:53:48+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
-    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "source_link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T00:13:33+00:00"
   },
   {
     "id": "rss-MarkTechPost-5",
