@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 01:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:24:35 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,6 +193,14 @@
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Truth is not a direction: a Tarski attack on LLM probes</title>
+      <link>https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html</link>
+      <description>&lt;p&gt;Truth is not a direction: a Tarski attack on LLM probes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49069033</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 12:56:36 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-MrVmhb.png?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -201,12 +209,39 @@
       <pubDate>Mon, 27 Jul 2026 13:30:53 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents</title>
+      <link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fetch — and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/"&gt;Perplexity Releases pplx, a Single-Binary...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. </title>
       <link>https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/</link>
       <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables</title>
+      <link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository’s SKILL.md files into a searchable [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3</title>
+      <link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
+      <description>&lt;p&gt;&lt;p&gt;Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/"&gt;Kimi AI and kvcache-ai Open Sources &amp;#8216;AgentENV&amp;#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Satya Nadella says companies that trust one AI for everything may not survive</title>
@@ -223,6 +258,24 @@
       <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows</title>
+      <link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model’s Q1_0_g128 GGUF quantization format&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/"&gt;Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows&lt;/a&gt; app...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 07:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym</title>
+      <link>https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 256k context window. The model does not ship as a standalone endpoint — it runs inside MDASH, Microsoft's multi-model agentic scanning harness, where it handles up to 90% of tasks and pushes the system to 95.95% on CyberGym.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cybe...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 08:33:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Recursive Superintelligence signs $410M compute deal with Amazon</title>
@@ -243,7 +296,7 @@
     <item>
       <title>[📰] Discovering Cryptographic Weaknesses with Claude</title>
       <link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
-      <description>&lt;p&gt;Discovering Cryptographic Weaknesses with Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 180&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Discovering Cryptographic Weaknesses with Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 201&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49087091</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 17:22:16 +0000</pubDate>
@@ -269,12 +322,38 @@
       <pubDate>Tue, 28 Jul 2026 21:36:39 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-Control Layer That Moves Routine Coding Work to Open-Weight Models</title>
+      <link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
+      <description>&lt;p&gt;&lt;p&gt;Fireworks AI has released Fireworks Nexus, an AI management and routing platform aimed at engineering organizations. It connects the coding tools developers already use to a managed layer of open-weight models. The problem it targets is well documented. Forbes reported that Uber exhausted its entire 2026 AI budget in four months. Claude Code had reached [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory</title>
+      <link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we configure and operate Kimi CLI as a fully non-interactive AI coding agent. We install the CLI through uv with an isolated Python 3.13 environment, configure Moonshot API authentication through a TOML-based provider and model definition, and build a reusable Python wrapper for executing non-interactive CLI commands. We then apply Kimi to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonsho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents</title>
       <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
       <description>&lt;p&gt;The deal is Cyera's third acquisition this year. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 00:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences</title>
+      <link>https://learnvector.ai/</link>
+      <description>&lt;p&gt;LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 141&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49092499</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 29 Jul 2026 01:49:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
