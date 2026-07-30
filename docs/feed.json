@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
+    "description": "<p>Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98\u20132.40\u00d7 speedup over autoregressive decoding across concurrency 4 to 64.</p>\n<p>The post <a href=\"https://www.markte...",
+    "link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+    "source_link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-30T10:08:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+    "description": "<p>Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/\">Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%</a> appeared first on <a href=\"https://www.marktechpost....",
+    "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
+    "source_link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-30T07:43:29+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
     "description": "<p>Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...",
     "link": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
@@ -11,7 +33,7 @@
     "published": "2026-07-30T05:45:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training",
     "description": "<p>Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balance...",
     "link": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
@@ -49,7 +71,7 @@
     "description": "LLM Honeypot",
     "link": "https://llm2human.pages.dev/",
     "source_link": "https://news.ycombinator.com/item?id=49104117",
-    "engagement": "\ud83d\udc4d 149",
+    "engagement": "\ud83d\udc4d 260",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T22:51:03+00:00"
@@ -82,7 +104,7 @@
     "description": "AI's top startups are barely publishing their research",
     "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "source_link": "https://news.ycombinator.com/item?id=49103285",
-    "engagement": "\ud83d\udc4d 344",
+    "engagement": "\ud83d\udc4d 476",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T21:25:40+00:00"
@@ -108,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T21:07:48+00:00"
-  },
-  {
-    "id": "hn-49101529",
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-    "description": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-    "link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "source_link": "https://news.ycombinator.com/item?id=49101529",
-    "engagement": "\ud83d\udc4d 75",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-29T18:57:10+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -154,7 +165,7 @@
     "published": "2026-07-29T14:41:06+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU",
     "description": "<p>Liquid AI released two open-weight bidirectional encoders, LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. Both carry an 8,192-token context and are built on the LFM2 hybrid backbone. The 350M ranks fourth of 14 models on a 17-task GLUE, SuperGLUE, and multilingual suite, behind only larger models. The 230M clears one 8K-token forward pass on CPU in about 28 seconds.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bi...",
     "link": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/",
@@ -176,7 +187,7 @@
     "published": "2026-07-29T08:42:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Building Non-Interactive Agentic Coding Workflows with Moonshot AI\u2019s Kimi CLI, JSONL Streaming, Testing, and Session Memory",
     "description": "<p>In this tutorial, we configure and operate Kimi CLI as a fully non-interactive AI coding agent. We install the CLI through uv with an isolated Python 3.13 environment, configure Moonshot API authentication through a TOML-based provider and model definition, and build a reusable Python wrapper for executing non-interactive CLI commands. We then apply Kimi to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonsho...",
     "link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
@@ -187,7 +198,7 @@
     "published": "2026-07-28T23:04:44+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-Control Layer That Moves Routine Coding Work to Open-Weight Models",
     "description": "<p>Fireworks AI has released Fireworks Nexus, an AI management and routing platform aimed at engineering organizations. It connects the coding tools developers already use to a managed layer of open-weight models. The problem it targets is well documented. Forbes reported that Uber exhausted its entire 2026 AI budget in four months. Claude Code had reached [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-c...",
     "link": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
@@ -198,7 +209,7 @@
     "published": "2026-07-28T22:45:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-7",
     "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
     "description": "<p>Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 256k context window. The model does not ship as a standalone endpoint \u2014 it runs inside MDASH, Microsoft's multi-model agentic scanning harness, where it handles up to 90% of tasks and pushes the system to 95.95% on CyberGym.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cybe...",
     "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
@@ -209,7 +220,7 @@
     "published": "2026-07-28T08:33:30+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-8",
     "title": "Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows",
     "description": "<p>In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model\u2019s Q1_0_g128 GGUF quantization format</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/\">Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows</a> app...",
     "link": "https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/",
@@ -220,7 +231,7 @@
     "published": "2026-07-28T07:53:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
+    "id": "rss-MarkTechPost-9",
     "title": "Kimi AI and kvcache-ai Open Sources \u2018AgentENV\u2019: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
     "description": "<p>Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/\">Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...",
     "link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
@@ -229,17 +240,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T20:48:53+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-8",
-    "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-    "description": "<p>In this tutorial, we build an advanced workflow around Anthropic\u2019s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository\u2019s SKILL.md files into a searchable [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
-    "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-    "source_link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T18:08:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -251,17 +251,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T18:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-9",
-    "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-    "description": "<p>Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands \u2014 pplx search web and pplx content fetch \u2014 and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/\">Perplexity Releases pplx, a Single-Binary...",
-    "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-    "source_link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T16:32:47+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
