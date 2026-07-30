@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 01:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:20:06 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -205,7 +205,7 @@
       <link>https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/</link>
       <description>&lt;p&gt;&lt;p&gt;Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fetch — and returns exactly one JSON object on stdout. It ships as a checksum-verified single binary for macOS arm64 and Linux, alongside an Agent Skill for Claude Code, Codex CLI and any harness that can read a URL.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/"&gt;Perplexity Releases pplx, a Single-Binary...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-9</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 16:32:47 +0000</pubDate>
     </item>
@@ -222,7 +222,7 @@
       <link>https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure Python. We begin by installing the required libraries, cloning the repository, and programmatically mapping its agents, vertical plugins, partner integrations, managed-agent cookbooks, and financial analysis skills. We then parse the repository’s SKILL.md files into a searchable [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 18:08:24 +0000</pubDate>
     </item>
@@ -231,7 +231,7 @@
       <link>https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/</link>
       <description>&lt;p&gt;&lt;p&gt;Moonshot AI's Kimi team and kvcache-ai open-sourced AgentENV (AENV) under MIT, as part of Kimi K3 Open Day. It runs agent sandboxes as Firecracker microVMs with millisecond snapshot, resume, and 16-way fork, behind an E2B-compatible API.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/"&gt;Kimi AI and kvcache-ai Open Sources &amp;#8216;AgentENV&amp;#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Mon, 27 Jul 2026 20:48:53 +0000</pubDate>
     </item>
@@ -240,7 +240,7 @@
       <link>https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we deploy the 1-bit Bonsai-27B language model using the PrismML fork of llama.cpp, which provides the specialized CUDA kernels required to decode the model’s Q1_0_g128 GGUF quantization format&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/"&gt;Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows&lt;/a&gt; app...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 07:53:48 +0000</pubDate>
     </item>
@@ -249,7 +249,7 @@
       <link>https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune of MAI-Code-1-Flash with a 256k context window. The model does not ship as a standalone endpoint — it runs inside MDASH, Microsoft's multi-model agentic scanning harness, where it handles up to 90% of tasks and pushes the system to 95.95% on CyberGym.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cybe...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 08:33:30 +0000</pubDate>
     </item>
@@ -258,7 +258,7 @@
       <link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
       <description>&lt;p&gt;&lt;p&gt;Fireworks AI has released Fireworks Nexus, an AI management and routing platform aimed at engineering organizations. It connects the coding tools developers already use to a managed layer of open-weight models. The problem it targets is well documented. Forbes reported that Uber exhausted its entire 2026 AI budget in four months. Claude Code had reached [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
     </item>
@@ -267,7 +267,7 @@
       <link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we configure and operate Kimi CLI as a fully non-interactive AI coding agent. We install the CLI through uv with an isolated Python 3.13 environment, configure Moonshot API authentication through a TOML-based provider and model definition, and build a reusable Python wrapper for executing non-interactive CLI commands. We then apply Kimi to [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonsho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
     </item>
@@ -284,23 +284,15 @@
       <link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released two open-weight bidirectional encoders, LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. Both carry an 8,192-token context and are built on the LFM2 hybrid backbone. The 350M ranks fourth of 14 models on a 17-task GLUE, SuperGLUE, and multilingual suite, behind only larger models. The 230M clears one 8K-token forward pass on CPU in about 28 seconds.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Document-borne AI worms can self-propagate through Copilot for Word</title>
-      <link>https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</link>
-      <description>&lt;p&gt;Document-borne AI worms can self-propagate through Copilot for Word&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 345&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49096188</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 11:44:33 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Encore AI raises $30M to build AI agents that learn from customer calls</title>
       <link>https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/</link>
       <description>&lt;p&gt;The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 14:41:06 +0000</pubDate>
     </item>
@@ -308,7 +300,7 @@
       <title>[📰] Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners</title>
       <link>https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/</link>
       <description>&lt;p&gt;AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 15:35:09 +0000</pubDate>
     </item>
@@ -316,34 +308,17 @@
       <title>[📰] Claude Opus 5 became downright ruthless when tasked with running a vending machine</title>
       <link>https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/</link>
       <description>&lt;p&gt;Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 18:45:27 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals</title>
       <link>https://www.emergingtrajectories.com/lh/commodification-and-circularity/</link>
-      <description>&lt;p&gt;Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 75&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49101529</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 18:57:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</title>
-      <link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/</link>
-      <description>&lt;p&gt;&lt;p&gt;Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 19:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Hugging Face AI break-in, as told through an increasingly committed bear metaphor</title>
-      <link>https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/</link>
-      <description>&lt;p&gt;Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 19:44:49 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI</title>
@@ -364,7 +339,7 @@
     <item>
       <title>[📰] AI's top startups are barely publishing their research</title>
       <link>https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</link>
-      <description>&lt;p&gt;AI's top startups are barely publishing their research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 197&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI's top startups are barely publishing their research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 344&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49103285</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 21:25:40 +0000</pubDate>
@@ -386,6 +361,14 @@
       <pubDate>Wed, 29 Jul 2026 22:46:03 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] LLM Honeypot</title>
+      <link>https://llm2human.pages.dev/</link>
+      <description>&lt;p&gt;LLM Honeypot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 149&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49104117</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 29 Jul 2026 22:51:03 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Mark Zuckerberg predicts that billions of people will have personal AI agents in five years</title>
       <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
       <description>&lt;p&gt;As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -400,6 +383,24 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 00:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training</title>
+      <link>https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/</link>
+      <description>&lt;p&gt;&lt;p&gt;Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balance...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 30 Jul 2026 05:28:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</title>
+      <link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/</link>
+      <description>&lt;p&gt;&lt;p&gt;Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 30 Jul 2026 05:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
