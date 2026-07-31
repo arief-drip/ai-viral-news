@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+    "description": "<p>JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios comple...",
+    "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+    "source_link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-31T10:32:53+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block\u2019s Open Source Nostr Workspace for Humans and Agents",
     "description": "<p>Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...",
     "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
@@ -11,12 +22,23 @@
     "published": "2026-07-31T09:08:13+00:00"
   },
   {
+    "id": "hn-49120299",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "description": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "source_link": "https://news.ycombinator.com/item?id=49120299",
+    "engagement": "\ud83d\udc4d 173",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-31T07:59:11+00:00"
+  },
+  {
     "id": "hn-49120097",
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "link": "https://blog.google/security/chrome-stronger-with-every-update/",
     "source_link": "https://news.ycombinator.com/item?id=49120097",
-    "engagement": "\ud83d\udc4d 83",
+    "engagement": "\ud83d\udc4d 213",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T07:29:22+00:00"
@@ -27,24 +49,13 @@
     "description": "DeepSeek-V4-Flash Update",
     "link": "https://api-docs.deepseek.com/updates/",
     "source_link": "https://news.ycombinator.com/item?id=49119559",
-    "engagement": "\ud83d\udc4d 299",
+    "engagement": "\ud83d\udc4d 422",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T06:08:36+00:00"
   },
   {
-    "id": "hn-49119274",
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "description": "Show HN: What should the GUI for AI agents look like?",
-    "link": "https://marbleos.com/demo",
-    "source_link": "https://news.ycombinator.com/item?id=49119274",
-    "engagement": "\ud83d\udc4d 58",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T05:17:29+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response",
     "description": "<p>PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/polyai-r...",
     "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
@@ -82,7 +93,7 @@
     "description": "The AI Aesthetic",
     "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
     "source_link": "https://news.ycombinator.com/item?id=49117099",
-    "engagement": "\ud83d\udc4d 309",
+    "engagement": "\ud83d\udc4d 341",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T23:22:16+00:00"
@@ -148,7 +159,7 @@
     "description": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
     "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
     "source_link": "https://news.ycombinator.com/item?id=49113599",
-    "engagement": "\ud83d\udc4d 127",
+    "engagement": "\ud83d\udc4d 145",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T18:13:06+00:00"
@@ -165,7 +176,7 @@
     "published": "2026-07-30T18:05:21+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
     "description": "<p>Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adapts to new robot bodies in hours. One checkpoint drives Apptronik Apollo 2 and a Franka Duo. Only ER 2 is publicly available.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/google-...",
     "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
@@ -203,7 +214,7 @@
     "description": "Gemini Robotics 2 brings whole body intelligence to robots",
     "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source_link": "https://news.ycombinator.com/item?id=49111237",
-    "engagement": "\ud83d\udc4d 562",
+    "engagement": "\ud83d\udc4d 585",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T15:15:48+00:00"
@@ -225,7 +236,7 @@
     "description": "GCC steering committee announces AI policy",
     "link": "https://lwn.net/Articles/1086041/",
     "source_link": "https://news.ycombinator.com/item?id=49108685",
-    "engagement": "\ud83d\udc4d 298",
+    "engagement": "\ud83d\udc4d 317",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T11:45:44+00:00"
@@ -242,7 +253,7 @@
     "published": "2026-07-30T10:15:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
     "description": "<p>Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98\u20132.40\u00d7 speedup over autoregressive decoding across concurrency 4 to 64.</p>\n<p>The post <a href=\"https://www.markte...",
     "link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
@@ -253,7 +264,7 @@
     "published": "2026-07-30T10:08:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
     "description": "<p>Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/\">Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%</a> appeared first on <a href=\"https://www.marktechpost....",
     "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
@@ -264,7 +275,7 @@
     "published": "2026-07-30T07:43:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
     "description": "<p>Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...",
     "link": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
@@ -275,7 +286,7 @@
     "published": "2026-07-30T05:45:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training",
     "description": "<p>Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balance...",
     "link": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
@@ -286,7 +297,7 @@
     "published": "2026-07-30T05:28:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
+    "id": "rss-MarkTechPost-8",
     "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU",
     "description": "<p>Liquid AI released two open-weight bidirectional encoders, LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. Both carry an 8,192-token context and are built on the LFM2 hybrid backbone. The 350M ranks fourth of 14 models on a 17-task GLUE, SuperGLUE, and multilingual suite, behind only larger models. The 230M clears one 8K-token forward pass on CPU in about 28 seconds.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bi...",
     "link": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/",
@@ -306,17 +317,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T08:42:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-8",
-    "title": "Building Non-Interactive Agentic Coding Workflows with Moonshot AI\u2019s Kimi CLI, JSONL Streaming, Testing, and Session Memory",
-    "description": "<p>In this tutorial, we configure and operate Kimi CLI as a fully non-interactive AI coding agent. We install the CLI through uv with an isolated Python 3.13 environment, configure Moonshot API authentication through a TOML-based provider and model definition, and build a reusable Python wrapper for executing non-interactive CLI commands. We then apply Kimi to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonsho...",
-    "link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
-    "source_link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-28T23:04:44+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
