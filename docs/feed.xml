@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 13:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:20:44 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,51 +209,6 @@
       <pubDate>Wed, 29 Jul 2026 08:42:57 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU</title>
-      <link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI released two open-weight bidirectional encoders, LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. Both carry an 8,192-token context and are built on the LFM2 hybrid backbone. The 350M ranks fourth of 14 models on a 17-task GLUE, SuperGLUE, and multilingual suite, behind only larger models. The 230M clears one 8K-token forward pass on CPU in about 28 seconds.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training</title>
-      <link>https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/</link>
-      <description>&lt;p&gt;&lt;p&gt;Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balance...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 05:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer</title>
-      <link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/</link>
-      <description>&lt;p&gt;&lt;p&gt;Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 05:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%</title>
-      <link>https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/</link>
-      <description>&lt;p&gt;&lt;p&gt;Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/"&gt;Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 07:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models</title>
-      <link>https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/</link>
-      <description>&lt;p&gt;&lt;p&gt;Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98–2.40× speedup over autoregressive decoding across concurrency 4 to 64.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.markte...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 10:08:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] A fundamental flaw leaves LLMs strikingly vulnerable to attack</title>
       <link>https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/</link>
       <description>&lt;p&gt;It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -262,85 +217,10 @@
       <pubDate>Thu, 30 Jul 2026 10:15:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] GCC steering committee announces AI policy</title>
-      <link>https://lwn.net/Articles/1086041/</link>
-      <description>&lt;p&gt;GCC steering committee announces AI policy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 317&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49108685</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 11:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] New MCP specification addresses the main barrier to enterprise adoption</title>
-      <link>https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/</link>
-      <description>&lt;p&gt;
-                        Plus, a new policy for the AI protocol ensures features aren't removed suddenly.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 14:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Gemini Robotics 2 brings whole body intelligence to robots</title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
-      <description>&lt;p&gt;Gemini Robotics 2 brings whole body intelligence to robots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 585&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49111237</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 15:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta says AI is making it easier to build new apps — and more are coming</title>
-      <link>https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/</link>
-      <description>&lt;p&gt;Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 15:41:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Okta buys AI security startup Permiso — source says for about $200M</title>
-      <link>https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/</link>
-      <description>&lt;p&gt;The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 16:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration</title>
-      <link>https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adapts to new robot bodies in hours. One checkpoint drives Apptronik Apollo 2 and a Franka Duo. Only ER 2 is publicly available.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/google-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] LinkedIn adds a button to report AI-generated ‘slop’</title>
-      <link>https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/</link>
-      <description>&lt;p&gt;LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 18:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it</title>
-      <link>https://www.ctgt.ai/research/distillation-censorship-transfer</link>
-      <description>&lt;p&gt;Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 145&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49113599</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI</title>
-      <link>https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/</link>
-      <description>&lt;p&gt;As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 18:57:58 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag</title>
       <link>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/</link>
       <description>&lt;p&gt;Friend, the AI wearable, can now talk to its users — for an enhanced price. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 19:44:16 +0000</pubDate>
     </item>
@@ -348,7 +228,7 @@
       <title>[📰] Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label</title>
       <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
       <description>&lt;p&gt;A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 20:26:38 +0000</pubDate>
     </item>
@@ -356,7 +236,7 @@
       <title>[📰] Investors love AI, as long as you’re a cloud host</title>
       <link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/</link>
       <description>&lt;p&gt;Amazon isn't slowing down on data center spending — but investors don't seem to mind.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 22:41:41 +0000</pubDate>
     </item>
@@ -364,47 +244,38 @@
       <title>[📰] Reddit reports a solid quarter but shows signs of AI’s impact</title>
       <link>https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/</link>
       <description>&lt;p&gt;Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 23:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The AI Aesthetic</title>
-      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <description>&lt;p&gt;The AI Aesthetic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 341&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49117099</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 23:22:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares</title>
       <link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
       <description>&lt;p&gt;The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 23:25:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic says its own AI models breached three companies during security tests</title>
       <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
-      <description>&lt;p&gt;After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <description>&lt;p&gt;After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response</title>
-      <link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
-      <description>&lt;p&gt;&lt;p&gt;PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/polyai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <title>[📰] Show HN: What should the GUI for AI agents look like?</title>
+      <link>https://marbleos.com/demo</link>
+      <description>&lt;p&gt;Show HN: What should the GUI for AI agents look like?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 81&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49119274</guid>
       <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 05:06:43 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 05:17:29 +0000</pubDate>
     </item>
     <item>
       <title>[📰] DeepSeek-V4-Flash Update</title>
       <link>https://api-docs.deepseek.com/updates/</link>
-      <description>&lt;p&gt;DeepSeek-V4-Flash Update&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 422&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek-V4-Flash Update&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 544&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49119559</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 06:08:36 +0000</pubDate>
@@ -412,35 +283,86 @@
     <item>
       <title>[📰] Google fixed more Chrome bugs in June than over the past two years, thanks to AI</title>
       <link>https://blog.google/security/chrome-stronger-with-every-update/</link>
-      <description>&lt;p&gt;Google fixed more Chrome bugs in June than over the past two years, thanks to AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google fixed more Chrome bugs in June than over the past two years, thanks to AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 405&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49120097</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 07:29:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</title>
-      <link>https://artificialanalysis.ai/models/deepseek-v4-flash-ga</link>
-      <description>&lt;p&gt;DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 173&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <link>https://artificialanalysis.ai/models/deepseek-v4-flash</link>
+      <description>&lt;p&gt;DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 397&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49120299</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 07:59:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents</title>
-      <link>https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <title>[📰] How a Yale AI-cheating dispute became a 13-count federal lawsuit</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</link>
+      <description>&lt;p&gt;
+                        A disputed exam, an unreliable detector, and one very late Apple Pages file.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 09:08:13 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 11:00:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI</title>
-      <link>https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/</link>
-      <description>&lt;p&gt;&lt;p&gt;JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios comple...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] The Maxwell Conjecture Is False (GPT 5.6 Sol)</title>
+      <link>https://arxiv.org/abs/2607.27197</link>
+      <description>&lt;p&gt;The Maxwell Conjecture Is False (GPT 5.6 Sol)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 111&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49121868</guid>
       <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 10:32:53 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 11:37:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Situational Awareness down 67% in July in AI stock rout</title>
+      <link>https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</link>
+      <description>&lt;p&gt;Situational Awareness down 67% in July in AI stock rout&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 108&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49122994</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 13:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI scammers outperform humans when it comes to building trust</title>
+      <link>https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/</link>
+      <description>&lt;p&gt;
+                        The AI chatbot was more effective at creating “exploitable trust” than the humans.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 14:01:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human</title>
+      <link>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</link>
+      <description>&lt;p&gt;The startup is building voice models designed to make AI phone calls pass the Turing test.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 14:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Is AI reasoning right for the wrong reasons?</title>
+      <link>https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</link>
+      <description>&lt;p&gt;Is AI reasoning right for the wrong reasons?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 72&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49124358</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 15:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Siri AI could come with a paywall for power users</title>
+      <link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
+      <description>&lt;p&gt;Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 16:08:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Snapchat no longer rewards fully AI-generated Spotlight content</title>
+      <link>https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/</link>
+      <description>&lt;p&gt;Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 16:49:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
