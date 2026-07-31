@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:29:21 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -201,20 +201,11 @@
       <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-Control Layer That Moves Routine Coding Work to Open-Weight Models</title>
-      <link>https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/</link>
-      <description>&lt;p&gt;&lt;p&gt;Fireworks AI has released Fireworks Nexus, an AI management and routing platform aimed at engineering organizations. It connects the coding tools developers already use to a managed layer of open-weight models. The problem it targets is well documented. Forbes reported that Uber exhausted its entire 2026 AI budget in four months. Claude Code had reached [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 28 Jul 2026 22:45:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory</title>
       <link>https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we configure and operate Kimi CLI as a fully non-interactive AI coding agent. We install the CLI through uv with an isolated Python 3.13 environment, configure Moonshot API authentication through a TOML-based provider and model definition, and build a reusable Python wrapper for executing non-interactive CLI commands. We then apply Kimi to [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonsho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 28 Jul 2026 23:04:44 +0000</pubDate>
     </item>
@@ -231,7 +222,7 @@
       <link>https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released two open-weight bidirectional encoders, LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. Both carry an 8,192-token context and are built on the LFM2 hybrid backbone. The 350M ranks fourth of 14 models on a 17-task GLUE, SuperGLUE, and multilingual suite, behind only larger models. The 230M clears one 8K-token forward pass on CPU in about 28 seconds.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 29 Jul 2026 09:38:42 +0000</pubDate>
     </item>
@@ -240,7 +231,7 @@
       <link>https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/</link>
       <description>&lt;p&gt;&lt;p&gt;Moonshot AI has open-sourced MoonEP, an Expert Parallelism (EP) communication library for distributed Mixture-of-Experts (MoE) workloads. The team announced the release as a library built to make expert-parallel communication more efficient at scale. It ships under an MIT license. MoonEP arrived as part of Kimi K3 Open Day. Alongside the K3 model weights and technical [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balance...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 05:28:39 +0000</pubDate>
     </item>
@@ -249,7 +240,7 @@
       <link>https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/</link>
       <description>&lt;p&gt;&lt;p&gt;Three terms now compete for the same line in AI engineering job descriptions. Prompt engineering is the established one. Loop engineering entered the AI vocabulary in late 2025 and dominated developer discussion through June 2026. Graph engineering followed roughly six weeks later. They get used interchangeably. Should they be? The three are not competing techniques. [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 05:45:53 +0000</pubDate>
     </item>
@@ -258,7 +249,7 @@
       <link>https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/</link>
       <description>&lt;p&gt;&lt;p&gt;Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/"&gt;Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 07:43:29 +0000</pubDate>
     </item>
@@ -267,7 +258,7 @@
       <link>https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/</link>
       <description>&lt;p&gt;&lt;p&gt;Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98–2.40× speedup over autoregressive decoding across concurrency 4 to 64.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.markte...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 10:08:18 +0000</pubDate>
     </item>
@@ -282,7 +273,7 @@
     <item>
       <title>[📰] GCC steering committee announces AI policy</title>
       <link>https://lwn.net/Articles/1086041/</link>
-      <description>&lt;p&gt;GCC steering committee announces AI policy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 274&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GCC steering committee announces AI policy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 298&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49108685</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 11:45:44 +0000</pubDate>
@@ -300,7 +291,7 @@
     <item>
       <title>[📰] Gemini Robotics 2 brings whole body intelligence to robots</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
-      <description>&lt;p&gt;Gemini Robotics 2 brings whole body intelligence to robots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 529&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini Robotics 2 brings whole body intelligence to robots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 562&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49111237</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 15:15:48 +0000</pubDate>
@@ -322,19 +313,11 @@
       <pubDate>Thu, 30 Jul 2026 16:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Advancing the price-performance frontier with GPT‑5.6</title>
-      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</link>
-      <description>&lt;p&gt;Advancing the price-performance frontier with GPT‑5.6&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 545&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49112867</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 30 Jul 2026 17:15:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration</title>
       <link>https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/</link>
       <description>&lt;p&gt;&lt;p&gt;Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adapts to new robot bodies in hours. One checkpoint drives Apptronik Apollo 2 and a Franka Duo. Only ER 2 is publicly available.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/google-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
     </item>
@@ -349,7 +332,7 @@
     <item>
       <title>[📰] Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it</title>
       <link>https://www.ctgt.ai/research/distillation-censorship-transfer</link>
-      <description>&lt;p&gt;Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 111&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49113599</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 18:13:06 +0000</pubDate>
@@ -397,7 +380,7 @@
     <item>
       <title>[📰] The AI Aesthetic</title>
       <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <description>&lt;p&gt;The AI Aesthetic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 266&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The AI Aesthetic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 309&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49117099</guid>
       <category>AI News</category>
       <pubDate>Thu, 30 Jul 2026 23:22:16 +0000</pubDate>
@@ -423,9 +406,42 @@
       <link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
       <description>&lt;p&gt;&lt;p&gt;PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/30/polyai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 05:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: What should the GUI for AI agents look like?</title>
+      <link>https://marbleos.com/demo</link>
+      <description>&lt;p&gt;Show HN: What should the GUI for AI agents look like?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 58&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49119274</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 05:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek-V4-Flash Update</title>
+      <link>https://api-docs.deepseek.com/updates/</link>
+      <description>&lt;p&gt;DeepSeek-V4-Flash Update&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 299&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49119559</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 06:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google fixed more Chrome bugs in June than over the past two years, thanks to AI</title>
+      <link>https://blog.google/security/chrome-stronger-with-every-update/</link>
+      <description>&lt;p&gt;Google fixed more Chrome bugs in June than over the past two years, thanks to AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 83&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49120097</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 07:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents</title>
+      <link>https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 31 Jul 2026 09:08:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
