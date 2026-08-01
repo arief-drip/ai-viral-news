@@ -1,11 +1,33 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+    "description": "<p>Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks \u2014 building schemas, debugging Edge Functions, fixing RLS policies \u2014 inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-rea...",
+    "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T09:52:49+00:00"
+  },
+  {
+    "id": "hn-49132130",
+    "title": "AI doesn't generate working products, that's still your job",
+    "description": "AI doesn't generate working products, that's still your job",
+    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "source_link": "https://news.ycombinator.com/item?id=49132130",
+    "engagement": "\ud83d\udc4d 200",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T07:52:10+00:00"
+  },
+  {
     "id": "hn-49130604",
     "title": "Flint: A Visualization Language for the AI Era",
     "description": "Flint: A Visualization Language for the AI Era",
     "link": "https://microsoft.github.io/flint-chart/",
     "source_link": "https://news.ycombinator.com/item?id=49130604",
-    "engagement": "\ud83d\udc4d 120",
+    "engagement": "\ud83d\udc4d 153",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-01T02:45:09+00:00"
@@ -22,7 +44,7 @@
     "published": "2026-07-31T22:47:26+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
     "description": "<p>DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-training, not a new design. The checkpoint ships with the [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-...",
     "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
@@ -88,17 +110,6 @@
     "published": "2026-07-31T19:04:56+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-4",
-    "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-    "description": "\n                        Gaps in laws may help Pennsylvania high school escape AI nudes scandal.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T18:11:55+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-2",
     "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
     "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it\u2019s&#160;time for the AI industry to \u201cpace\u201d itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;\u2014&#160;though as Equity\u2019s hosts point out, sloppy security seems to have [&#8230;]",
@@ -154,7 +165,7 @@
     "published": "2026-07-31T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
     "description": "<p>JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios comple...",
     "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
@@ -165,7 +176,7 @@
     "published": "2026-07-31T10:32:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block\u2019s Open Source Nostr Workspace for Humans and Agents",
     "description": "<p>Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...",
     "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
@@ -176,18 +187,7 @@
     "published": "2026-07-31T09:08:13+00:00"
   },
   {
-    "id": "hn-49120097",
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "description": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "source_link": "https://news.ycombinator.com/item?id=49120097",
-    "engagement": "\ud83d\udc4d 518",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T07:29:22+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response",
     "description": "<p>PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/polyai-r...",
     "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
@@ -209,7 +209,7 @@
     "published": "2026-07-31T01:06:54+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
     "description": "<p>Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-language-action model for whole body humanoid control, Gemini Robotics ER 2 for embodied reasoning and task orchestration, and an on-device VLA that adapts to new robot bodies in hours. One checkpoint drives Apptronik Apollo 2 and a Franka Duo. Only ER 2 is publicly available.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/google-...",
     "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
@@ -231,7 +231,7 @@
     "published": "2026-07-30T10:15:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
     "description": "<p>Tencent has released AngelSpec, an open-source torch-native framework for training speculative-decoding draft models across six architectures. It introduces DFly, a block-diffusion drafter with hybrid target conditioning and a hidden-correction autoregressive head, and integrates D-cut for runtime-adaptive verification budgeting. On HY3-295B-A21B with TP=8, DFly-8 delivers a 1.98\u20132.40\u00d7 speedup over autoregressive decoding across concurrency 4 to 64.</p>\n<p>The post <a href=\"https://www.markte...",
     "link": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
@@ -240,17 +240,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T10:08:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-    "description": "<p>Marktechpost AI has released Token Saver, an open-source MCP extension for Claude Desktop that uses local Hybrid RAG to slash PDF token consumption by up to 99% while ensuring absolute document privacy.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/\">Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%</a> appeared first on <a href=\"https://www.marktechpost....",
-    "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
-    "source_link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-30T07:43:29+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
