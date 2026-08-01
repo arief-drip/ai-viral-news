@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 12:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:50:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -235,14 +235,6 @@
       <pubDate>Thu, 30 Jul 2026 17:20:50 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic says its own AI models breached three companies during security tests</title>
-      <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
-      <description>&lt;p&gt;After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response</title>
       <link>https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/</link>
       <description>&lt;p&gt;&lt;p&gt;PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllable, and runs as a request-based LLM rather than an always-on stream. PolyAI reports sub-300ms responses in live deployments.&lt;/p&gt;
@@ -309,16 +301,6 @@
       <pubDate>Fri, 31 Jul 2026 17:26:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Would you get tattooed just to interview at a 7-days-a-week AI startup?</title>
-      <link>https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/</link>
-      <description>&lt;p&gt;
-                        LemonLime’s CEO got “carried away” with tattoo gimmick.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 19:04:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation</title>
       <link>https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/</link>
       <description>&lt;p&gt;A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -327,22 +309,12 @@
       <pubDate>Fri, 31 Jul 2026 19:47:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Earth risked ruin with retracted AI tool for making fake satellite pics</title>
-      <link>https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/</link>
-      <description>&lt;p&gt;
-                        “What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 20:21:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Claude published malicious code to the Internet and attacked 3 real companies</title>
       <link>https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</link>
       <description>&lt;p&gt;
                         Had the hacks used conventional methods, someone would likely go to prison. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
     </item>
@@ -352,7 +324,7 @@
       <description>&lt;p&gt;
                         Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 21:19:39 +0000</pubDate>
     </item>
@@ -376,18 +348,10 @@
     <item>
       <title>[📰] Flint: A Visualization Language for the AI Era</title>
       <link>https://microsoft.github.io/flint-chart/</link>
-      <description>&lt;p&gt;Flint: A Visualization Language for the AI Era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 153&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Flint: A Visualization Language for the AI Era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 219&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49130604</guid>
       <category>AI News</category>
       <pubDate>Sat, 01 Aug 2026 02:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI doesn't generate working products, that's still your job</title>
-      <link>https://weeraman.com/the-prototype-isnt-the-product/</link>
-      <description>&lt;p&gt;AI doesn't generate working products, that's still your job&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 200&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49132130</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 01 Aug 2026 07:52:10 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks</title>
@@ -397,6 +361,24 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 01 Aug 2026 09:52:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] As Reddit stock falls, CEO questions value of Google's AI Overviews</title>
+      <link>https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/</link>
+      <description>&lt;p&gt;
+                        Reddit may still be considering ending its licensing deal with Google.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 01 Aug 2026 12:30:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Charlie Stross – On the non-use of AI in my writing process</title>
+      <link>https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html</link>
+      <description>&lt;p&gt;Charlie Stross – On the non-use of AI in my writing process&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 57&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49134038</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 01 Aug 2026 12:56:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

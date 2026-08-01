@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-49134038",
+    "title": "Charlie Stross \u2013 On the non-use of AI in my writing process",
+    "description": "Charlie Stross \u2013 On the non-use of AI in my writing process",
+    "link": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "source_link": "https://news.ycombinator.com/item?id=49134038",
+    "engagement": "\ud83d\udc4d 57",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T12:56:54+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "description": "\n                        Reddit may still be considering ending its licensing deal with Google.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "source_link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T12:30:36+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
     "description": "<p>Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks \u2014 building schemas, debugging Edge Functions, fixing RLS policies \u2014 inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-rea...",
@@ -11,23 +33,12 @@
     "published": "2026-08-01T09:52:49+00:00"
   },
   {
-    "id": "hn-49132130",
-    "title": "AI doesn't generate working products, that's still your job",
-    "description": "AI doesn't generate working products, that's still your job",
-    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "source_link": "https://news.ycombinator.com/item?id=49132130",
-    "engagement": "\ud83d\udc4d 200",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-01T07:52:10+00:00"
-  },
-  {
     "id": "hn-49130604",
     "title": "Flint: A Visualization Language for the AI Era",
     "description": "Flint: A Visualization Language for the AI Era",
     "link": "https://microsoft.github.io/flint-chart/",
     "source_link": "https://news.ycombinator.com/item?id=49130604",
-    "engagement": "\ud83d\udc4d 153",
+    "engagement": "\ud83d\udc4d 219",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-01T02:45:09+00:00"
@@ -55,7 +66,7 @@
     "published": "2026-07-31T22:03:39+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Reddit keeps its strange DMCA fight over Google search results alive",
     "description": "\n                        Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
@@ -66,7 +77,7 @@
     "published": "2026-07-31T21:19:39+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Claude published malicious code to the Internet and attacked 3 real companies",
     "description": "\n                        Had the hacks used conventional methods, someone would likely go to prison. \n                    ",
     "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
@@ -75,17 +86,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T20:39:14+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-    "description": "\n                        \u201cWhat on earth is Google doing?\u201d Misinformation fears spur walk-back of AI tool.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-    "source_link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T20:21:05+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -97,17 +97,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T19:47:28+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-    "description": "\n                        LemonLime\u2019s CEO got \u201ccarried away\u201d with tattoo gimmick.\n                    ",
-    "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "source_link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T19:04:56+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -196,17 +185,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T05:06:43+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "description": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "source_link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-31T01:06:54+00:00"
   },
   {
     "id": "rss-MarkTechPost-5",
