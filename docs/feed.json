@@ -1,11 +1,22 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
+    "description": "<p>Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. The agent stays ordinary Python, trajectories stay token-exact, and throughput comes out statistically comparable to a Megatron-based stack.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026...",
+    "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+    "source_link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-02T06:21:26+00:00"
+  },
+  {
     "id": "hn-49139102",
     "title": "AI financial advice is surprisingly good, especially if you ask right questions",
     "description": "AI financial advice is surprisingly good, especially if you ask right questions",
     "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
     "source_link": "https://news.ycombinator.com/item?id=49139102",
-    "engagement": "\ud83d\udc4d 258",
+    "engagement": "\ud83d\udc4d 298",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-01T22:25:12+00:00"
@@ -20,6 +31,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-01T19:45:45+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+    "description": "<p>AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/\">AMD Releases Instella-MoE-16B...",
+    "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+    "source_link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T19:01:42+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+    "description": "<p>Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch with practical code examples and performance analysis.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-b...",
+    "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+    "source_link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T18:31:15+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -44,6 +77,17 @@
     "published": "2026-08-01T12:30:36+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+    "description": "<p>Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks \u2014 building schemas, debugging Edge Functions, fixing RLS policies \u2014 inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-rea...",
+    "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-01T09:52:49+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-2",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. ",
@@ -53,6 +97,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T22:47:26+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+    "description": "<p>DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-training, not a new design. The checkpoint ships with the [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-...",
+    "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+    "source_link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-31T22:03:39+00:00"
   },
   {
     "id": "rss-Ars Technica AI-1",
@@ -108,6 +163,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-31T16:08:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+    "description": "<p>JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios comple...",
+    "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+    "source_link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-31T10:32:53+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block\u2019s Open Source Nostr Workspace for Humans and Agents",
+    "description": "<p>Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...",
+    "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+    "source_link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-07-31T09:08:13+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
