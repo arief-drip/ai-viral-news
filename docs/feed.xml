@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 16:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 20:43:25 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,23 +217,6 @@
       <pubDate>Thu, 30 Jul 2026 10:15:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents</title>
-      <link>https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals, and cron delivery.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-hum...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 09:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI</title>
-      <link>https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/</link>
-      <description>&lt;p&gt;&lt;p&gt;JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios comple...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 10:32:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Siri AI could come with a paywall for power users</title>
       <link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
       <description>&lt;p&gt;Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -276,30 +259,12 @@
       <pubDate>Fri, 31 Jul 2026 21:19:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains</title>
-      <link>https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/</link>
-      <description>&lt;p&gt;&lt;p&gt;DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-training, not a new design. The checkpoint ships with the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 31 Jul 2026 22:03:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI reportedly finds evidence that more of its agents ran amok</title>
       <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
       <description>&lt;p&gt;OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 31 Jul 2026 22:47:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks</title>
-      <link>https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/</link>
-      <description>&lt;p&gt;&lt;p&gt;Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-rea...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 01 Aug 2026 09:52:49 +0000</pubDate>
     </item>
     <item>
       <title>[📰] As Reddit stock falls, CEO questions value of Google's AI Overviews</title>
@@ -320,24 +285,6 @@
       <pubDate>Sat, 01 Aug 2026 17:07:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking</title>
-      <link>https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/</link>
-      <description>&lt;p&gt;&lt;p&gt;Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch with practical code examples and performance analysis.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-b...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 01 Aug 2026 18:31:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs</title>
-      <link>https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/</link>
-      <description>&lt;p&gt;&lt;p&gt;AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/"&gt;AMD Releases Instella-MoE-16B...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 01 Aug 2026 19:01:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] YouTuber Hank Green says his AI usage is ‘not healthy’</title>
       <link>https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/</link>
       <description>&lt;p&gt;Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -346,18 +293,9 @@
       <pubDate>Sat, 01 Aug 2026 19:45:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework</title>
-      <link>https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/</link>
-      <description>&lt;p&gt;&lt;p&gt;Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. The agent stays ordinary Python, trajectories stay token-exact, and throughput comes out statistically comparable to a Megatron-based stack.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 02 Aug 2026 06:21:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</title>
       <link>https://publicdomainreview.org/essay/ars-notoria/</link>
-      <description>&lt;p&gt;Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 114&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49143001</guid>
       <category>AI News</category>
       <pubDate>Sun, 02 Aug 2026 10:18:24 +0000</pubDate>
