@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:28:11 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -209,6 +209,33 @@
       <pubDate>Sun, 02 Aug 2026 20:54:22 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN</title>
+      <link>https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, downloading raster imagery and vector labels, and inspecting their spatial properties before generating georeferenced image chips and segmentation masks. We then train a U-Net model with a ResNet-34 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-design...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 02 Aug 2026 21:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines</title>
+      <link>https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-mode...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 03 Aug 2026 00:49:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths</title>
+      <link>https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cogent AI team released Cogent VR-1, a reasoning model post-trained specifically for cybersecurity rather than picking up cyber capability as a side effect of general coding strength. It ships with two companions: IntrusionBench, a benchmark that scores agents on completed enterprise intrusions, and the Cogent AI Harness, a governed runtime for security agents. The launch [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/"&gt;Cogent AI Team Re...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 03 Aug 2026 07:28:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Here’s why AI agents lie and cheat to reach their goals</title>
       <link>https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/</link>
       <description>&lt;p&gt;MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -219,7 +246,7 @@
     <item>
       <title>[📰] Prevent cognitive debt by manually retyping LLM-generated code</title>
       <link>https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</link>
-      <description>&lt;p&gt;Prevent cognitive debt by manually retyping LLM-generated code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 447&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Prevent cognitive debt by manually retyping LLM-generated code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 488&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49153374</guid>
       <category>AI News</category>
       <pubDate>Mon, 03 Aug 2026 09:32:07 +0000</pubDate>
@@ -291,6 +318,15 @@
       <pubDate>Mon, 03 Aug 2026 19:28:57 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] How to Secure AI Agents, MCP Servers, and LLM Apps in Production</title>
+      <link>https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/</link>
+      <description>&lt;p&gt;&lt;p&gt;AI agents, MCP servers, and LLM apps break the core AppSec assumption that applications do what their code says. This guide walks through a practical see-fix-protect framework: a five-layer agentic AI attack surface map, a 12-point misconfiguration checklist, an evidence-based triage matrix, runtime guardrails, and system prompt hardening — plus a maturity self-assessment aligned to NIST AI RMF, OWASP AIMA, ISO/IEC 42001, and the EU AI Act.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 03 Aug 2026 20:16:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own</title>
       <link>https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</link>
       <description>&lt;p&gt;
@@ -307,6 +343,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 03 Aug 2026 23:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF</title>
+      <link>https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/</link>
+      <description>&lt;p&gt;&lt;p&gt;Genspark has open sourced GenOffice under the Apache License 2.0. It is an AI-native office suite for macOS and Windows, covering Docs, Sheets, Slides and PDF as five Electron apps over one shared engine layer. The notable engineering claim is a byte-preserving round trip: only edited paragraphs are regenerated as OOXML and spliced back into the original file, so untouched blocks keep their original bytes and layout survives in Word. Sheets pairs the open-source Univer core with an in-house R...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 03:46:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web</title>
+      <link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
+      <description>&lt;p&gt;&lt;p&gt;Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates</title>
+      <link>https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/</link>
+      <description>&lt;p&gt;&lt;p&gt;Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 08:12:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

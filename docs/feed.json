@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+    "description": "<p>Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...",
+    "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+    "source_link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T08:12:36+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+    "description": "<p>Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.</p>\n<p>The post <a href=\"https://www.marktechpost...",
+    "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+    "source_link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T04:17:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF",
+    "description": "<p>Genspark has open sourced GenOffice under the Apache License 2.0. It is an AI-native office suite for macOS and Windows, covering Docs, Sheets, Slides and PDF as five Electron apps over one shared engine layer. The notable engineering claim is a byte-preserving round trip: only edited paragraphs are regenerated as OOXML and spliced back into the original file, so untouched blocks keep their original bytes and layout survives in Word. Sheets pairs the open-source Univer core with an in-house R...",
+    "link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+    "source_link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T03:46:16+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
     "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -20,6 +53,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T22:11:39+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
+    "description": "<p>AI agents, MCP servers, and LLM apps break the core AppSec assumption that applications do what their code says. This guide walks through a practical see-fix-protect framework: a five-layer agentic AI attack surface map, a 12-point misconfiguration checklist, an evidence-based triage matrix, runtime guardrails, and system prompt hardening \u2014 plus a maturity self-assessment aligned to NIST AI RMF, OWASP AIMA, ISO/IEC 42001, and the EU AI Act.</p>\n<p>The post <a href=\"https://www.marktechpost.co...",
+    "link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
+    "source_link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-03T20:16:56+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -115,7 +159,7 @@
     "description": "Prevent cognitive debt by manually retyping LLM-generated code",
     "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
     "source_link": "https://news.ycombinator.com/item?id=49153374",
-    "engagement": "\ud83d\udc4d 447",
+    "engagement": "\ud83d\udc4d 488",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T09:32:07+00:00"
@@ -130,6 +174,39 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T08:30:05+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths",
+    "description": "<p>Cogent AI team released Cogent VR-1, a reasoning model post-trained specifically for cybersecurity rather than picking up cyber capability as a side effect of general coding strength. It ships with two companions: IntrusionBench, a benchmark that scores agents on completed enterprise intrusions, and the Cogent AI Harness, a governed runtime for security agents. The launch [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/\">Cogent AI Team Re...",
+    "link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
+    "source_link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-03T07:28:14+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World\u2019s Best E-commerce Search Engines",
+    "description": "<p>Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-mode...",
+    "link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
+    "source_link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-03T00:49:50+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN",
+    "description": "<p>In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, downloading raster imagery and vector labels, and inspecting their spatial properties before generating georeferenced image chips and segmentation masks. We then train a U-Net model with a ResNet-34 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-design...",
+    "link": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
+    "source_link": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-02T21:19:48+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
