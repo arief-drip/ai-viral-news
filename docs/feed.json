@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "source_link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T13:00:00+00:00"
+  },
+  {
+    "id": "hn-49167113",
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "description": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "source_link": "https://news.ycombinator.com/item?id=49167113",
+    "engagement": "\ud83d\udc4d 386",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T11:30:17+00:00"
+  },
+  {
+    "id": "hn-49166386",
+    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "description": "DeepSeek V4 Flash on a Single AMD MI300X",
+    "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+    "source_link": "https://news.ycombinator.com/item?id=49166386",
+    "engagement": "\ud83d\udc4d 152",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T10:00:55+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
     "description": "<p>Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...",
@@ -33,7 +66,7 @@
     "published": "2026-08-04T03:46:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
     "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -66,7 +99,7 @@
     "published": "2026-08-03T20:16:56+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
     "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
     "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
@@ -77,7 +110,7 @@
     "published": "2026-08-03T19:28:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
     "description": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.\u00a0",
     "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
@@ -99,7 +132,7 @@
     "published": "2026-08-03T19:00:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
     "description": "Apple\u2019s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
     "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
@@ -121,7 +154,7 @@
     "published": "2026-08-03T18:43:30+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Congress\u2019 favorite AI tool? ChatGPT",
     "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
     "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
@@ -143,7 +176,7 @@
     "published": "2026-08-03T13:31:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler. ",
     "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -152,17 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T10:00:00+00:00"
-  },
-  {
-    "id": "hn-49153374",
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "description": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "source_link": "https://news.ycombinator.com/item?id=49153374",
-    "engagement": "\ud83d\udc4d 488",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T09:32:07+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -209,7 +231,7 @@
     "published": "2026-08-02T21:19:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Sam Altman and AI\u2019s decel debate",
     "description": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -218,17 +240,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-02T20:54:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
-    "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "source_link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-01T19:45:45+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
