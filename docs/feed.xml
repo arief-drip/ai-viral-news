@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 01:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:20:01 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,6 +217,15 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] How to Secure AI Agents, MCP Servers, and LLM Apps in Production</title>
+      <link>https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/</link>
+      <description>&lt;p&gt;&lt;p&gt;AI agents, MCP servers, and LLM apps break the core AppSec assumption that applications do what their code says. This guide walks through a practical see-fix-protect framework: a five-layer agentic AI attack surface map, a 12-point misconfiguration checklist, an evidence-based triage matrix, runtime guardrails, and system prompt hardening — plus a maturity self-assessment aligned to NIST AI RMF, OWASP AIMA, ISO/IEC 42001, and the EU AI Act.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 03 Aug 2026 20:16:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own</title>
       <link>https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/</link>
       <description>&lt;p&gt;
@@ -227,12 +236,30 @@
       <pubDate>Mon, 03 Aug 2026 22:11:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] DeepSeek V4 Flash on a Single AMD MI300X</title>
-      <link>https://github.com/ryanzhou/deepseek-v4-flash-mi300x</link>
-      <description>&lt;p&gt;DeepSeek V4 Flash on a Single AMD MI300X&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 366&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49166386</guid>
+      <title>[📰] Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF</title>
+      <link>https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/</link>
+      <description>&lt;p&gt;&lt;p&gt;Genspark has open sourced GenOffice under the Apache License 2.0. It is an AI-native office suite for macOS and Windows, covering Docs, Sheets, Slides and PDF as five Electron apps over one shared engine layer. The notable engineering claim is a byte-preserving round trip: only edited paragraphs are regenerated as OOXML and spliced back into the original file, so untouched blocks keep their original bytes and layout survives in Word. Sheets pairs the open-source Univer core with an in-house R...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Tue, 04 Aug 2026 10:00:55 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 03:46:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web</title>
+      <link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
+      <description>&lt;p&gt;&lt;p&gt;Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates</title>
+      <link>https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/</link>
+      <description>&lt;p&gt;&lt;p&gt;Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 08:12:36 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Is the future of data centers portable? Runware builds a pod to find out</title>
@@ -279,7 +306,7 @@
     <item>
       <title>[📰] When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation</title>
       <link>https://arxiv.org/abs/2602.16763</link>
-      <description>&lt;p&gt;When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 80&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49170915</guid>
       <category>AI News</category>
       <pubDate>Tue, 04 Aug 2026 16:10:39 +0000</pubDate>
@@ -287,7 +314,7 @@
     <item>
       <title>[📰] Mistral's Shieldstral: 3B open-weights model for multimodal moderation</title>
       <link>https://mistral.ai/news/shieldstral/</link>
-      <description>&lt;p&gt;Mistral's Shieldstral: 3B open-weights model for multimodal moderation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 307&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral's Shieldstral: 3B open-weights model for multimodal moderation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 363&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49171268</guid>
       <category>AI News</category>
       <pubDate>Tue, 04 Aug 2026 16:36:05 +0000</pubDate>
@@ -337,10 +364,19 @@
     <item>
       <title>[📰] AI fuels more than half of cybercrime in Africa as scams surge – Interpol</title>
       <link>https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/</link>
-      <description>&lt;p&gt;AI fuels more than half of cybercrime in Africa as scams surge – Interpol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 137&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI fuels more than half of cybercrime in Africa as scams surge – Interpol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 188&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49175826</guid>
       <category>AI News</category>
       <pubDate>Tue, 04 Aug 2026 22:01:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Pixel-Native RAG: A Practical Guide to Visual Document Indexing</title>
+      <link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
+      <description>&lt;p&gt;&lt;p&gt;Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multimodal embedding and hybrid search—enabling developers to build high-performance, visual document retrieval systems&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/"&gt;Pixel-Native RAG: A Practical Guide to Visual Docume...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 22:27:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
