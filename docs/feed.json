@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-49175826",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
+    "description": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
+    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "source_link": "https://news.ycombinator.com/item?id=49175826",
+    "engagement": "\ud83d\udc4d 137",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-04T22:01:41+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Texas halts data center connections to power grid amid overwhelming demand",
     "description": "\n                        Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.\n                    ",
@@ -60,7 +71,7 @@
     "description": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
     "link": "https://mistral.ai/news/shieldstral/",
     "source_link": "https://news.ycombinator.com/item?id=49171268",
-    "engagement": "\ud83d\udc4d 138",
+    "engagement": "\ud83d\udc4d 307",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-04T16:36:05+00:00"
@@ -71,7 +82,7 @@
     "description": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
     "link": "https://arxiv.org/abs/2602.16763",
     "source_link": "https://news.ycombinator.com/item?id=49170915",
-    "engagement": "\ud83d\udc4d 55",
+    "engagement": "\ud83d\udc4d 80",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-04T16:10:39+00:00"
@@ -88,20 +99,9 @@
     "published": "2026-08-04T15:50:06+00:00"
   },
   {
-    "id": "hn-49170479",
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "description": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "source_link": "https://news.ycombinator.com/item?id=49170479",
-    "engagement": "\ud83d\udc4d 263",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-04T15:37:42+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-5",
     "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "description": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
     "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "source_link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -148,43 +148,10 @@
     "description": "DeepSeek V4 Flash on a Single AMD MI300X",
     "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
     "source_link": "https://news.ycombinator.com/item?id=49166386",
-    "engagement": "\ud83d\udc4d 338",
+    "engagement": "\ud83d\udc4d 366",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-04T10:00:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
-    "description": "<p>Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...",
-    "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
-    "source_link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-04T08:12:36+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
-    "description": "<p>Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.</p>\n<p>The post <a href=\"https://www.marktechpost...",
-    "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
-    "source_link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-04T04:17:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF",
-    "description": "<p>Genspark has open sourced GenOffice under the Apache License 2.0. It is an AI-native office suite for macOS and Windows, covering Docs, Sheets, Slides and PDF as five Electron apps over one shared engine layer. The notable engineering claim is a byte-preserving round trip: only edited paragraphs are regenerated as OOXML and spliced back into the original file, so untouched blocks keep their original bytes and layout survives in Word. Sheets pairs the open-source Univer core with an in-house R...",
-    "link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
-    "source_link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-04T03:46:16+00:00"
   },
   {
     "id": "rss-Ars Technica AI-2",
@@ -196,17 +163,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T22:11:39+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production",
-    "description": "<p>AI agents, MCP servers, and LLM apps break the core AppSec assumption that applications do what their code says. This guide walks through a practical see-fix-protect framework: a five-layer agentic AI attack surface map, a 12-point misconfiguration checklist, an evidence-based triage matrix, runtime guardrails, and system prompt hardening \u2014 plus a maturity self-assessment aligned to NIST AI RMF, OWASP AIMA, ISO/IEC 42001, and the EU AI Act.</p>\n<p>The post <a href=\"https://www.marktechpost.co...",
-    "link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
-    "source_link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T20:16:56+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -240,28 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T08:30:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That Composes and Verifies Enterprise Attack Paths",
-    "description": "<p>Cogent AI team released Cogent VR-1, a reasoning model post-trained specifically for cybersecurity rather than picking up cyber capability as a side effect of general coding strength. It ships with two companions: IntrusionBench, a benchmark that scores agents on completed enterprise intrusions, and the Cogent AI Harness, a governed runtime for security agents. The launch [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/\">Cogent AI Team Re...",
-    "link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
-    "source_link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T07:28:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World\u2019s Best E-commerce Search Engines",
-    "description": "<p>Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-mode...",
-    "link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
-    "source_link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T00:49:50+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
