@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel",
+    "description": "<p>Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06...",
+    "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
+    "source_link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-06T09:00:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Microsoft\u2019s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
     "description": "<p>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type \u2014 102% on spreadsheets, 10% on math \u2014 which is what makes the result worth reading closely.</p>\n<p>The post <a hre...",
     "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
@@ -33,7 +44,7 @@
     "published": "2026-08-05T20:47:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
     "description": "<p>Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.</p>\n...",
     "link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
@@ -93,7 +104,7 @@
     "description": "Born Against, or why hobby programming communities are against LLM usage",
     "link": "https://blog.fogus.me/llm/born-against.html",
     "source_link": "https://news.ycombinator.com/item?id=49187061",
-    "engagement": "\ud83d\udc4d 207",
+    "engagement": "\ud83d\udc4d 277",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-05T18:37:49+00:00"
@@ -104,7 +115,7 @@
     "description": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
     "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
     "source_link": "https://news.ycombinator.com/item?id=49186762",
-    "engagement": "\ud83d\udc4d 276",
+    "engagement": "\ud83d\udc4d 322",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-05T18:18:56+00:00"
@@ -115,7 +126,7 @@
     "description": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
     "link": "https://arxiv.org/abs/2510.01395",
     "source_link": "https://news.ycombinator.com/item?id=49186720",
-    "engagement": "\ud83d\udc4d 98",
+    "engagement": "\ud83d\udc4d 128",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-05T18:17:03+00:00"
@@ -176,7 +187,7 @@
     "published": "2026-08-05T11:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
     "description": "<p>NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 \u2014 a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/05/nvidia-al...",
     "link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
@@ -187,7 +198,7 @@
     "published": "2026-08-05T08:25:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
     "description": "<p>Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline\u2014from rendering and tiling to multimodal embedding and hybrid search\u2014enabling developers to build high-performance, visual document retrieval systems</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/\">Pixel-Native RAG: A Practical Guide to Visual Docume...",
     "link": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
@@ -198,7 +209,7 @@
     "published": "2026-08-04T22:27:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
     "description": "<p>Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...",
     "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
@@ -207,17 +218,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-04T08:12:36+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
-    "description": "<p>Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.</p>\n<p>The post <a href=\"https://www.marktechpost...",
-    "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
-    "source_link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-04T04:17:18+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
