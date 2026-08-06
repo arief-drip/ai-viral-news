@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 01:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:23:02 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,6 +217,42 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web</title>
+      <link>https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/</link>
+      <description>&lt;p&gt;&lt;p&gt;Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 04:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates</title>
+      <link>https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/</link>
+      <description>&lt;p&gt;&lt;p&gt;Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 08:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Pixel-Native RAG: A Practical Guide to Visual Document Indexing</title>
+      <link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
+      <description>&lt;p&gt;&lt;p&gt;Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multimodal embedding and hybrid search—enabling developers to build high-performance, visual document retrieval systems&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/"&gt;Pixel-Native RAG: A Practical Guide to Visual Docume...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 04 Aug 2026 22:27:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1</title>
+      <link>https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/05/nvidia-al...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 05 Aug 2026 08:25:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] AI makes weather prediction better. Can WindBorne make it lucrative?</title>
       <link>https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/</link>
       <description>&lt;p&gt;WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -259,7 +295,7 @@
     <item>
       <title>[📰] Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)</title>
       <link>https://arxiv.org/abs/2510.01395</link>
-      <description>&lt;p&gt;Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 72&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 98&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49186720</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 18:17:03 +0000</pubDate>
@@ -267,7 +303,7 @@
     <item>
       <title>[📰] Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</title>
       <link>https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</link>
-      <description>&lt;p&gt;Beating GPT-5.6 Sol on retrieval with 100x cheaper open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 223&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Beating GPT-5.6 Sol on retrieval with 100x cheaper open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 276&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49186762</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
@@ -275,7 +311,7 @@
     <item>
       <title>[📰] Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
-      <description>&lt;p&gt;Born Against, or why hobby programming communities are against LLM usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Born Against, or why hobby programming communities are against LLM usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 207&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49187061</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
@@ -317,6 +353,15 @@
       <pubDate>Wed, 05 Aug 2026 20:05:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model</title>
+      <link>https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.&lt;/p&gt;
+...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 05 Aug 2026 20:07:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Anthropic’s AI used fake identities, malware in rogue attack on GitHub project</title>
       <link>https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/</link>
       <description>&lt;p&gt;
@@ -333,6 +378,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
+      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
+      <description>&lt;p&gt;&lt;p&gt;Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type — 102% on spreadsheets, 10% on math — which is what makes the result worth reading closely.&lt;/p&gt;
+&lt;p&gt;The post &lt;a hre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
