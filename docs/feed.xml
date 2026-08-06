@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:43:41 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,84 +217,17 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates</title>
-      <link>https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/</link>
-      <description>&lt;p&gt;&lt;p&gt;Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-lang...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 04 Aug 2026 08:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Pixel-Native RAG: A Practical Guide to Visual Document Indexing</title>
-      <link>https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/</link>
-      <description>&lt;p&gt;&lt;p&gt;Move beyond traditional text-based parsing with PixelRAG, an end-to-end system that treats web pages and PDFs as images. This tutorial explores the complete pipeline—from rendering and tiling to multimodal embedding and hybrid search—enabling developers to build high-performance, visual document retrieval systems&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/"&gt;Pixel-Native RAG: A Practical Guide to Visual Docume...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 04 Aug 2026 22:27:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1</title>
-      <link>https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/05/nvidia-al...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 08:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI makes weather prediction better. Can WindBorne make it lucrative?</title>
-      <link>https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/</link>
-      <description>&lt;p&gt;WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] MacPaw taps Liquid AI to offer on-device inference to devs building for its app store</title>
-      <link>https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/</link>
-      <description>&lt;p&gt;MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 12:28:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic is hiring an AI chip design team</title>
-      <link>https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/</link>
-      <description>&lt;p&gt;Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 14:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals </title>
-      <link>https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/</link>
-      <description>&lt;p&gt;On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 15:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Shopify says AI search is driving more traffic and sales, not replacing Google</title>
       <link>https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/</link>
       <description>&lt;p&gt;Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 15:56:14 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)</title>
-      <link>https://arxiv.org/abs/2510.01395</link>
-      <description>&lt;p&gt;Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 128&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49186720</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 18:17:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</title>
       <link>https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</link>
-      <description>&lt;p&gt;Beating GPT-5.6 Sol on retrieval with 100x cheaper open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 322&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Beating GPT-5.6 Sol on retrieval with 100x cheaper open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 357&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49186762</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
@@ -302,7 +235,7 @@
     <item>
       <title>[📰] Born Against, or why hobby programming communities are against LLM usage</title>
       <link>https://blog.fogus.me/llm/born-against.html</link>
-      <description>&lt;p&gt;Born Against, or why hobby programming communities are against LLM usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 277&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Born Against, or why hobby programming communities are against LLM usage&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 316&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49187061</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 18:37:49 +0000</pubDate>
@@ -313,7 +246,7 @@
       <description>&lt;p&gt;
                         Google's AI brain drain continues. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 19:05:58 +0000</pubDate>
     </item>
@@ -321,7 +254,7 @@
       <title>[📰] Jeff Dean and other top AI researchers are leaving Google to launch their own startup</title>
       <link>https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/</link>
       <description>&lt;p&gt;The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 19:30:19 +0000</pubDate>
     </item>
@@ -331,7 +264,7 @@
       <description>&lt;p&gt;
                         "Slop" isn't the only problem.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 19:51:40 +0000</pubDate>
     </item>
@@ -339,18 +272,9 @@
       <title>[📰] Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders</title>
       <link>https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/</link>
       <description>&lt;p&gt;The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 20:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model</title>
-      <link>https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.&lt;/p&gt;
-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 05 Aug 2026 20:07:32 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic’s AI used fake identities, malware in rogue attack on GitHub project</title>
@@ -358,7 +282,7 @@
       <description>&lt;p&gt;
                         Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 20:47:11 +0000</pubDate>
     </item>
@@ -366,27 +290,35 @@
       <title>[📰] Meta launches Muse Code, an AI agent for large code bases</title>
       <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
       <description>&lt;p&gt;Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
-      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
-      <description>&lt;p&gt;&lt;p&gt;Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type — 102% on spreadsheets, 10% on math — which is what makes the result worth reading closely.&lt;/p&gt;
-&lt;p&gt;The post &lt;a hre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <title>[📰] AI isn’t enough to protect social media communities from AI</title>
+      <link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
+      <description>&lt;p&gt;
+                        Why humans need to moderate humans.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
-      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 11:00:44 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel</title>
-      <link>https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/</link>
-      <description>&lt;p&gt;&lt;p&gt;Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/06...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI</title>
+      <link>https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/</link>
+      <description>&lt;p&gt;Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
-      <pubDate>Thu, 06 Aug 2026 09:00:08 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce</title>
+      <link>https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/</link>
+      <description>&lt;p&gt;The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
