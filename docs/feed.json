@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source_link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T16:16:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source_link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T14:22:49+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "description": "\n                        Clinicians and researchers say AI companies need to open up their safety data.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "source_link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T13:49:37+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "description": "\n                        TikTok owner training a model with 10 trillion parameters.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "source_link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T13:29:22+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
     "description": "<p>Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything \u2014 detecting the language, test framework, existing conventions, and the real build and test commands \u2014 then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...",
@@ -22,18 +66,7 @@
     "published": "2026-08-07T03:42:27+00:00"
   },
   {
-    "id": "hn-49204546",
-    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
-    "description": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
-    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "source_link": "https://news.ycombinator.com/item?id=49204546",
-    "engagement": "\ud83d\udc4d 65",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T00:37:30+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
     "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -44,18 +77,7 @@
     "published": "2026-08-06T22:43:53+00:00"
   },
   {
-    "id": "hn-49202852",
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "description": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "source_link": "https://news.ycombinator.com/item?id=49202852",
-    "engagement": "\ud83d\udc4d 122",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T21:30:21+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "Suno hopes to go legit with watermarks for AI-generated music",
     "description": "\n                        Suno plans watermarks and download limits to stop \"large-scale abuse.\"\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
@@ -64,17 +86,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T20:17:36+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Anthropic will design its own hardware to power Claude",
-    "description": "\n                        Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "source_link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T20:03:44+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -88,18 +99,7 @@
     "published": "2026-08-06T19:35:32+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Large genome models used to design new viruses",
-    "description": "\n                        The AI system makes genetically distant versions of a bacteria-killing virus.\n                    ",
-    "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "source_link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T19:04:57+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "ChatGPT brings unlimited text chats to free users",
     "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
     "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
@@ -115,13 +115,13 @@
     "description": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
     "source_link": "https://news.ycombinator.com/item?id=49199357",
-    "engagement": "\ud83d\udc4d 259",
+    "engagement": "\ud83d\udc4d 289",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T17:02:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
     "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker. ",
     "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
@@ -132,7 +132,7 @@
     "published": "2026-08-06T15:53:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
     "description": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a former engineer\u2019s iCloud account after he left the company \u2014undermine its claims that the allegedly stolen information was properly protected.",
     "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
@@ -143,7 +143,7 @@
     "published": "2026-08-06T15:10:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
     "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.\u00a0",
     "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
@@ -152,28 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T13:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "source_link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T13:00:00+00:00"
-  },
-  {
-    "id": "hn-49195468",
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "description": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "source_link": "https://news.ycombinator.com/item?id=49195468",
-    "engagement": "\ud83d\udc4d 316",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T11:58:07+00:00"
   },
   {
     "id": "rss-MarkTechPost-3",
