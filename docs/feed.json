@@ -1,5 +1,60 @@
 [
   {
+    "id": "hn-49214468",
+    "title": "Databricks drove down AI coding spend 70%",
+    "description": "Databricks drove down AI coding spend 70%",
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source_link": "https://news.ycombinator.com/item?id=49214468",
+    "engagement": "\ud83d\udc4d 80",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T18:25:17+00:00"
+  },
+  {
+    "id": "hn-49214008",
+    "title": "DeepSeek V4 Flash 0731",
+    "description": "DeepSeek V4 Flash 0731",
+    "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "source_link": "https://news.ycombinator.com/item?id=49214008",
+    "engagement": "\ud83d\udc4d 222",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T17:56:20+00:00"
+  },
+  {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "description": "",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "source_link": "https://huggingface.co/blog/allenai/tutormoments",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T17:53:32+00:00"
+  },
+  {
+    "id": "hn-49213754",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "description": "Oracle bans AI-generated code from OpenJDK",
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "source_link": "https://news.ycombinator.com/item?id=49213754",
+    "engagement": "\ud83d\udc4d 250",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T17:36:30+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
+    "description": "\n                        Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff. \n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "source_link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T17:36:22+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
@@ -22,7 +77,18 @@
     "published": "2026-08-07T14:22:49+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-TechCrunch AI-2",
+    "title": "Jill Lepore on the \u2018Artificial State\u2019 and why Silicon Valley\u2019s leaders are bad sci-fi readers",
+    "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old \u201ctown hall in your pocket\u201d or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;Th...",
+    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "source_link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T14:00:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "AI chatbots have failed people in crisis. Can that be fixed?",
     "description": "\n                        Clinicians and researchers say AI companies need to open up their safety data.\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
@@ -33,7 +99,7 @@
     "published": "2026-08-07T13:49:37+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "ByteDance trains massive AI model in bid to rival Anthropic",
     "description": "\n                        TikTok owner training a model with 10 trillion parameters.\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
@@ -44,29 +110,7 @@
     "published": "2026-08-07T13:29:22+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
-    "description": "<p>Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything \u2014 detecting the language, test framework, existing conventions, and the real build and test commands \u2014 then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...",
-    "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
-    "source_link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T05:42:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
-    "description": "<p>Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on an M5 Max in under 2.5 GB. Open weights ship in GGUF, MLX, and ONNX.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/\">Liquid AI Relea...",
-    "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
-    "source_link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T03:42:27+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
     "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -77,29 +121,7 @@
     "published": "2026-08-06T22:43:53+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Suno hopes to go legit with watermarks for AI-generated music",
-    "description": "\n                        Suno plans watermarks and download limits to stop \"large-scale abuse.\"\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "source_link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T20:17:36+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
-    "description": "<p>Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, with no Chromium underneath. The browser drops human-facing features like tabs and extensions in favor of what agents need: machine-readable content, scalability, and isolation. Built in 12 weeks using Rust components like Blitz, Stylo, and Boa JS, it already passes 215,000+ Web Platform Tests. Benchmarks show 3.1\u20133.8\u00d7 less CPU and 4.7\u20137.0\u00d7 less m...",
-    "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
-    "source_link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T19:35:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "ChatGPT brings unlimited text chats to free users",
     "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
     "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
@@ -110,18 +132,7 @@
     "published": "2026-08-06T17:34:42+00:00"
   },
   {
-    "id": "hn-49199357",
-    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-    "description": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "source_link": "https://news.ycombinator.com/item?id=49199357",
-    "engagement": "\ud83d\udc4d 289",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T17:02:04+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
     "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker. ",
     "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
@@ -132,7 +143,7 @@
     "published": "2026-08-06T15:53:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
     "description": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a former engineer\u2019s iCloud account after he left the company \u2014undermine its claims that the allegedly stolen information was properly protected.",
     "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
@@ -141,61 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T15:10:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.\u00a0",
-    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "source_link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T13:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel",
-    "description": "<p>Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06...",
-    "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
-    "source_link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T09:00:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Microsoft\u2019s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-    "description": "<p>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type \u2014 102% on spreadsheets, 10% on math \u2014 which is what makes the result worth reading closely.</p>\n<p>The post <a hre...",
-    "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
-    "source_link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T00:37:42+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
-    "description": "<p>Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.</p>\n...",
-    "link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
-    "source_link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-05T20:07:32+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-    "description": "<p>NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 \u2014 a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/05/nvidia-al...",
-    "link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
-    "source_link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-05T08:25:11+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -319,7 +275,7 @@
     "published": "2026-07-23T12:00:00+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
+    "id": "rss-HuggingFace Blog-1",
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "description": "",
     "link": "https://huggingface.co/blog/nunchaku-diffusers",
