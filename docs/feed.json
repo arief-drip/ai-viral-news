@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+    "description": "<p>Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything \u2014 detecting the language, test framework, existing conventions, and the real build and test commands \u2014 then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...",
+    "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+    "source_link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T05:42:45+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
+    "description": "<p>Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on an M5 Max in under 2.5 GB. Open weights ship in GGUF, MLX, and ONNX.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/\">Liquid AI Relea...",
+    "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+    "source_link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T03:42:27+00:00"
+  },
+  {
+    "id": "hn-49204546",
+    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+    "description": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "source_link": "https://news.ycombinator.com/item?id=49204546",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T00:37:30+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
     "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -16,7 +49,7 @@
     "description": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
     "link": "https://www.aleksagordic.com/blog/vllm",
     "source_link": "https://news.ycombinator.com/item?id=49202852",
-    "engagement": "\ud83d\udc4d 83",
+    "engagement": "\ud83d\udc4d 101",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T21:30:21+00:00"
@@ -42,6 +75,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T20:03:44+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+    "description": "<p>Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, with no Chromium underneath. The browser drops human-facing features like tabs and extensions in favor of what agents need: machine-readable content, scalability, and isolation. Built in 12 weeks using Rust components like Blitz, Stylo, and Boa JS, it already passes 215,000+ Web Platform Tests. Benchmarks show 3.1\u20133.8\u00d7 less CPU and 4.7\u20137.0\u00d7 less m...",
+    "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+    "source_link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-06T19:35:32+00:00"
   },
   {
     "id": "rss-Ars Technica AI-2",
@@ -71,7 +115,7 @@
     "description": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
     "source_link": "https://news.ycombinator.com/item?id=49199357",
-    "engagement": "\ud83d\udc4d 194",
+    "engagement": "\ud83d\udc4d 233",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T17:02:04+00:00"
@@ -126,10 +170,54 @@
     "description": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
     "source_link": "https://news.ycombinator.com/item?id=49195468",
-    "engagement": "\ud83d\udc4d 275",
+    "engagement": "\ud83d\udc4d 297",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T11:58:07+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel",
+    "description": "<p>Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06...",
+    "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
+    "source_link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-06T09:00:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Microsoft\u2019s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+    "description": "<p>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type \u2014 102% on spreadsheets, 10% on math \u2014 which is what makes the result worth reading closely.</p>\n<p>The post <a hre...",
+    "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
+    "source_link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-06T00:37:42+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
+    "description": "<p>Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.</p>\n...",
+    "link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+    "source_link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-05T20:07:32+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+    "description": "<p>NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 \u2014 a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/05/nvidia-al...",
+    "link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
+    "source_link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-05T08:25:11+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:47:10 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,9 +217,45 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1</title>
+      <link>https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA released Alpamayo 2 Super, a 34B vision-language-action model for autonomous driving, under OpenMDW-1.1 — a permissive license covering fine-tuning, derivatives and commercial redistribution. It pairs a 32B Cosmos 3 Super Reasoner backbone with a 2.3B diffusion action decoder, scores 79.2 on LingoQA, and emits trajectories, Chain-of-Causation traces, meta-actions, auto-labels and grounded VQA from a single pass.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/05/nvidia-al...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 05 Aug 2026 08:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model</title>
+      <link>https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta Superintelligence Labs has released Muse Code, a terminal coding agent in beta, powered by the new Muse Spark 1.2 model. Muse Code plans changes, writes code, and validates results across large repositories. Async background agents stay active for the whole session instead of spawning per task. A local append-only event log makes the runtime replay-exact and restart-safe after a crash. Muse Spark 1.2 was co-trained with the harness and trained on long-horizon, repository-scale work.&lt;/p&gt;
+...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 05 Aug 2026 20:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
+      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
+      <description>&lt;p&gt;&lt;p&gt;Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type — 102% on spreadsheets, 10% on math — which is what makes the result worth reading closely.&lt;/p&gt;
+&lt;p&gt;The post &lt;a hre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel</title>
+      <link>https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/</link>
+      <description>&lt;p&gt;&lt;p&gt;Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/06...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 06 Aug 2026 09:00:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Humans missed 1 in 3 threats approving AI agent commands across 40k game runs</title>
       <link>https://scalex.dev/blog/ai-agent-permissions-stats/</link>
-      <description>&lt;p&gt;Humans missed 1 in 3 threats approving AI agent commands across 40k game runs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 275&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Humans missed 1 in 3 threats approving AI agent commands across 40k game runs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 297&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49195468</guid>
       <category>AI News</category>
       <pubDate>Thu, 06 Aug 2026 11:58:07 +0000</pubDate>
@@ -259,7 +295,7 @@
     <item>
       <title>[📰] Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users</title>
       <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</link>
-      <description>&lt;p&gt;Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 194&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 233&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49199357</guid>
       <category>AI News</category>
       <pubDate>Thu, 06 Aug 2026 17:02:04 +0000</pubDate>
@@ -281,6 +317,14 @@
       <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 06 Aug 2026 19:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers</title>
+      <link>https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, with no Chromium underneath. The browser drops human-facing features like tabs and extensions in favor of what agents need: machine-readable content, scalability, and isolation. Built in 12 weeks using Rust components like Blitz, Stylo, and Boa JS, it already passes 215,000+ Web Platform Tests. Benchmarks show 3.1–3.8× less CPU and 4.7–7.0× less m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 06 Aug 2026 19:35:32 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic will design its own hardware to power Claude</title>
@@ -305,7 +349,7 @@
     <item>
       <title>[📰] Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</title>
       <link>https://www.aleksagordic.com/blog/vllm</link>
-      <description>&lt;p&gt;Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 83&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 101&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49202852</guid>
       <category>AI News</category>
       <pubDate>Thu, 06 Aug 2026 21:30:21 +0000</pubDate>
@@ -317,6 +361,31 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 06 Aug 2026 22:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software</title>
+      <link>https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</link>
+      <description>&lt;p&gt;New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 56&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49204546</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 00:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights</title>
+      <link>https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on an M5 Max in under 2.5 GB. Open weights ship in GGUF, MLX, and ONNX.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/"&gt;Liquid AI Relea...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 03:42:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot</title>
+      <link>https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything — detecting the language, test framework, existing conventions, and the real build and test commands — then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 05:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
