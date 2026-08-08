@@ -1,17 +1,61 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "description": "NextSlide says its team members are now working on ChatGPT.",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source_link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T19:41:13+00:00"
+  },
+  {
+    "id": "hn-49224294",
+    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "description": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "source_link": "https://news.ycombinator.com/item?id=49224294",
+    "engagement": "\ud83d\udc4d 231",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T18:09:31+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+    "description": "<p>Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
+    "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+    "source_link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T17:04:39+00:00"
+  },
+  {
     "id": "hn-49221864",
     "title": "Gentoo bugzilla closed due AI bot scraper overload",
     "description": "Gentoo bugzilla closed due AI bot scraper overload",
     "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
     "source_link": "https://news.ycombinator.com/item?id=49221864",
-    "engagement": "\ud83d\udc4d 71",
+    "engagement": "\ud83d\udc4d 123",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-08T13:55:42+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "hn-49220609",
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "description": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "source_link": "https://news.ycombinator.com/item?id=49220609",
+    "engagement": "\ud83d\udc4d 250",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T10:57:44+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7\u00d7 Its Size",
     "description": "<p>Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass \u2014 no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....",
     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
@@ -22,7 +66,7 @@
     "published": "2026-08-08T04:36:26+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -33,7 +77,7 @@
     "published": "2026-08-07T22:48:24+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
     "description": "<p>Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets \u2014 Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.</p>\n<p>The post <a href=\"https://www....",
     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
@@ -44,7 +88,7 @@
     "published": "2026-08-07T21:52:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -55,7 +99,7 @@
     "published": "2026-08-07T21:30:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
     "description": "<p>In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-re...",
     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
@@ -66,7 +110,7 @@
     "published": "2026-08-07T21:13:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
     "description": "<p>NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the actions the model can take. Fields are agent state. Docstrings are prompts. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python...",
     "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
@@ -82,21 +126,10 @@
     "description": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
     "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
     "source_link": "https://news.ycombinator.com/item?id=49215786",
-    "engagement": "\ud83d\udc4d 76",
+    "engagement": "\ud83d\udc4d 144",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T20:25:04+00:00"
-  },
-  {
-    "id": "hn-49214468",
-    "title": "Managing AI Coding Costs at Scale",
-    "description": "Managing AI Coding Costs at Scale",
-    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "source_link": "https://news.ycombinator.com/item?id=49214468",
-    "engagement": "\ud83d\udc4d 282",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T18:25:17+00:00"
   },
   {
     "id": "hn-49214008",
@@ -104,7 +137,7 @@
     "description": "DeepSeek V4 Flash 0731",
     "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "source_link": "https://news.ycombinator.com/item?id=49214008",
-    "engagement": "\ud83d\udc4d 714",
+    "engagement": "\ud83d\udc4d 740",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T17:56:20+00:00"
@@ -132,7 +165,7 @@
     "published": "2026-08-07T17:36:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
     "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
@@ -143,7 +176,7 @@
     "published": "2026-08-07T16:16:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
     "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
@@ -154,7 +187,7 @@
     "published": "2026-08-07T14:22:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Jill Lepore on the \u2018Artificial State\u2019 and why Silicon Valley\u2019s leaders are bad sci-fi readers",
     "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old \u201ctown hall in your pocket\u201d or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;Th...",
     "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
@@ -165,7 +198,7 @@
     "published": "2026-08-07T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
     "description": "<p>Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything \u2014 detecting the language, test framework, existing conventions, and the real build and test commands \u2014 then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...",
     "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
@@ -176,7 +209,7 @@
     "published": "2026-08-07T05:42:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
     "description": "<p>Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on an M5 Max in under 2.5 GB. Open weights ship in GGUF, MLX, and ONNX.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/\">Liquid AI Relea...",
     "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
@@ -187,7 +220,7 @@
     "published": "2026-08-07T03:42:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
     "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -198,7 +231,7 @@
     "published": "2026-08-06T22:43:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
     "description": "<p>Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, with no Chromium underneath. The browser drops human-facing features like tabs and extensions in favor of what agents need: machine-readable content, scalability, and isolation. Built in 12 weeks using Rust components like Blitz, Stylo, and Boa JS, it already passes 215,000+ Web Platform Tests. Benchmarks show 3.1\u20133.8\u00d7 less CPU and 4.7\u20137.0\u00d7 less m...",
     "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
@@ -209,7 +242,7 @@
     "published": "2026-08-06T19:35:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "ChatGPT brings unlimited text chats to free users",
     "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
     "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
@@ -218,28 +251,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T17:34:42+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker. ",
-    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "source_link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T15:53:03+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel",
-    "description": "<p>Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/06...",
-    "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
-    "source_link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T09:00:08+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
