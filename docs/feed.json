@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-49221864",
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "description": "Gentoo bugzilla closed due AI bot scraper overload",
+    "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "source_link": "https://news.ycombinator.com/item?id=49221864",
+    "engagement": "\ud83d\udc4d 71",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T13:55:42+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7\u00d7 Its Size",
     "description": "<p>Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass \u2014 no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....",
@@ -66,12 +77,23 @@
     "published": "2026-08-07T20:42:02+00:00"
   },
   {
+    "id": "hn-49215786",
+    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+    "description": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+    "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "source_link": "https://news.ycombinator.com/item?id=49215786",
+    "engagement": "\ud83d\udc4d 76",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-07T20:25:04+00:00"
+  },
+  {
     "id": "hn-49214468",
     "title": "Managing AI Coding Costs at Scale",
     "description": "Managing AI Coding Costs at Scale",
     "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
     "source_link": "https://news.ycombinator.com/item?id=49214468",
-    "engagement": "\ud83d\udc4d 256",
+    "engagement": "\ud83d\udc4d 282",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T18:25:17+00:00"
@@ -82,7 +104,7 @@
     "description": "DeepSeek V4 Flash 0731",
     "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "source_link": "https://news.ycombinator.com/item?id=49214008",
-    "engagement": "\ud83d\udc4d 665",
+    "engagement": "\ud83d\udc4d 714",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T17:56:20+00:00"
@@ -97,17 +119,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T17:53:32+00:00"
-  },
-  {
-    "id": "hn-49213754",
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "description": "Oracle bans AI-generated code from OpenJDK",
-    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "source_link": "https://news.ycombinator.com/item?id=49213754",
-    "engagement": "\ud83d\udc4d 488",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T17:36:30+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
