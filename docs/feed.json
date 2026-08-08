@@ -71,7 +71,7 @@
     "description": "Managing AI Coding Costs at Scale",
     "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
     "source_link": "https://news.ycombinator.com/item?id=49214468",
-    "engagement": "\ud83d\udc4d 229",
+    "engagement": "\ud83d\udc4d 256",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T18:25:17+00:00"
@@ -82,7 +82,7 @@
     "description": "DeepSeek V4 Flash 0731",
     "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "source_link": "https://news.ycombinator.com/item?id=49214008",
-    "engagement": "\ud83d\udc4d 602",
+    "engagement": "\ud83d\udc4d 665",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T17:56:20+00:00"
@@ -104,7 +104,7 @@
     "description": "Oracle bans AI-generated code from OpenJDK",
     "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
     "source_link": "https://news.ycombinator.com/item?id=49213754",
-    "engagement": "\ud83d\udc4d 460",
+    "engagement": "\ud83d\udc4d 488",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T17:36:30+00:00"
@@ -229,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-06T09:00:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-8",
-    "title": "Microsoft\u2019s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-    "description": "<p>Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type \u2014 102% on spreadsheets, 10% on math \u2014 which is what makes the result worth reading closely.</p>\n<p>The post <a hre...",
-    "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
-    "source_link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-06T00:37:42+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",

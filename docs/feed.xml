@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:28:40 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,15 +217,6 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses</title>
-      <link>https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/</link>
-      <description>&lt;p&gt;&lt;p&gt;Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps working in environments it was never trained on. A Codex-trained SpreadsheetBench skill lifted Claude Code from 22.1 to 81.8, slightly above the 80.4 that harness reached training its own skill. Retention varies sharply by task type — 102% on spreadsheets, 10% on math — which is what makes the result worth reading closely.&lt;/p&gt;
-&lt;p&gt;The post &lt;a hre...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 06 Aug 2026 00:37:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel</title>
       <link>https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/</link>
       <description>&lt;p&gt;&lt;p&gt;Prime Intellect has open-sourced Prime Agent, a coding and research harness built on two abstractions: the Recursive Language Model, which turns sub-agent calls into functions inside a persistent IPython kernel, and the Continual Harness, which lets the agent edit its own prompts, skills, memory, and sub-agent specs mid-run. With Opus 5 it reports 95.5% RHAE Best@1 on ARC-AGI-3, above the reported human expert baseline of 95.4%.&lt;/p&gt;
@@ -320,7 +311,7 @@
     <item>
       <title>[📰] Oracle bans AI-generated code from OpenJDK</title>
       <link>https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</link>
-      <description>&lt;p&gt;Oracle bans AI-generated code from OpenJDK&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 460&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Oracle bans AI-generated code from OpenJDK&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 488&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49213754</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 17:36:30 +0000</pubDate>
@@ -336,7 +327,7 @@
     <item>
       <title>[📰] DeepSeek V4 Flash 0731</title>
       <link>https://arcprize.org/results/deepseek-v4-flash-0731</link>
-      <description>&lt;p&gt;DeepSeek V4 Flash 0731&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 602&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek V4 Flash 0731&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 665&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49214008</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 17:56:20 +0000</pubDate>
@@ -344,7 +335,7 @@
     <item>
       <title>[📰] Managing AI Coding Costs at Scale</title>
       <link>https://www.databricks.com/blog/managing-ai-coding-costs-scale</link>
-      <description>&lt;p&gt;Managing AI Coding Costs at Scale&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 229&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Managing AI Coding Costs at Scale&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 256&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49214468</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 18:25:17 +0000</pubDate>
