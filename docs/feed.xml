@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 12:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:23:32 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -217,26 +217,27 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ChatGPT brings unlimited text chats to free users</title>
-      <link>https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/</link>
-      <description>&lt;p&gt;OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <title>[📰] Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights</title>
+      <link>https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model pairs 22 double-gated short convolution blocks with 8 GQA blocks across 30 layers, handles 131,072 tokens of context, and decodes at 220 tokens/s on an M5 Max in under 2.5 GB. Open weights ship in GGUF, MLX, and ONNX.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/"&gt;Liquid AI Relea...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
-      <pubDate>Thu, 06 Aug 2026 17:34:42 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 03:42:27 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400</title>
-      <link>https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/</link>
-      <description>&lt;p&gt;Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <title>[📰] Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot</title>
+      <link>https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything — detecting the language, test framework, existing conventions, and the real build and test commands — then plans, writes, runs and validates the tests it produces. On Microsoft's internal 152-task benchmark it completed 140 tasks against 120 for stock GitHub Copilot on the same model, with the gain concentrated almo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
-      <pubDate>Thu, 06 Aug 2026 22:43:53 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 05:42:45 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers</title>
       <link>https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/</link>
       <description>&lt;p&gt;Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&amp;#160;almost as&amp;#160;if&amp;#160;they&amp;#8217;re&amp;#160;forming a new government. And whether&amp;#160;you&amp;#8217;re&amp;#160;thinking of Twitter&amp;#8217;s old “town hall in your pocket” or&amp;#160;Anthropic&amp;#8217;s Claude constitution,&amp;#160;it&amp;#8217;s&amp;#160;a theory that&amp;#160;doesn&amp;#8217;t&amp;#160;paint Silicon Valley in a very flattering light.&amp;#160;&amp;#160; In&amp;#160;Lepore&amp;#8217;s&amp;#160;upcoming book,&amp;#160;Th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
     </item>
@@ -244,7 +245,7 @@
       <title>[📰] Airbnb says AI is helping it ship features faster as it tests a new search function</title>
       <link>https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/</link>
       <description>&lt;p&gt;Airbnb will debut a new AI-powered search experience with a toggle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 14:22:49 +0000</pubDate>
     </item>
@@ -252,7 +253,7 @@
       <title>[📰] Cloudflare launches Kitesurf, a browser built for AI agents</title>
       <link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
       <description>&lt;p&gt;Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 16:16:09 +0000</pubDate>
     </item>
@@ -275,28 +276,79 @@
       <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class</title>
+      <link>https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the actions the model can take. Fields are agent state. Docstrings are prompts. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 20:42:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation</title>
+      <link>https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-re...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 21:13:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] After Rippling blew millions on AI in months, it built an employee ROI tool</title>
       <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
       <description>&lt;p&gt;After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 21:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents</title>
+      <link>https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/</link>
+      <description>&lt;p&gt;&lt;p&gt;Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 07 Aug 2026 21:52:48 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI says it slowed Astra model development over security concerns</title>
       <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
       <description>&lt;p&gt;OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 22:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size</title>
+      <link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
+      <description>&lt;p&gt;&lt;p&gt;Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass — no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary</title>
+      <link>https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/</link>
+      <description>&lt;p&gt;&lt;p&gt;Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 08 Aug 2026 17:04:39 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI acquires presentation startup NextSlide</title>
       <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
       <description>&lt;p&gt;NextSlide says its team members are now working on ChatGPT.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 08 Aug 2026 19:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The AI safety test is becoming a safety risk</title>
+      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
+      <description>&lt;p&gt;AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
