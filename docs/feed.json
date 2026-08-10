@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "source_link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T20:04:24+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "source_link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T20:00:00+00:00"
+  },
+  {
+    "id": "hn-49246057",
+    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "description": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "link": "https://www.stoaexchange.com",
+    "source_link": "https://news.ycombinator.com/item?id=49246057",
+    "engagement": "\ud83d\udc4d 53",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T16:35:27+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
     "description": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
     "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -11,23 +44,78 @@
     "published": "2026-08-10T16:20:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
-    "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-    "source_link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "rss-Ars Technica AI-0",
+    "title": "Valve slowly expands SteamOS support on non-Valve hardware",
+    "description": "\n                        New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.\n                    ",
+    "link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+    "source_link": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T15:11:51+00:00"
+    "published": "2026-08-10T16:01:04+00:00"
+  },
+  {
+    "id": "hn-49244569",
+    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "description": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "source_link": "https://news.ycombinator.com/item?id=49244569",
+    "engagement": "\ud83d\udc4d 116",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T14:56:32+00:00"
+  },
+  {
+    "id": "hn-49244308",
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "description": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "source_link": "https://news.ycombinator.com/item?id=49244308",
+    "engagement": "\ud83d\udc4d 64",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T14:38:20+00:00"
+  },
+  {
+    "id": "hn-49244085",
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "description": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "source_link": "https://news.ycombinator.com/item?id=49244085",
+    "engagement": "\ud83d\udc4d 55",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T14:20:41+00:00"
+  },
+  {
+    "id": "hn-49243880",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "description": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "source_link": "https://news.ycombinator.com/item?id=49243880",
+    "engagement": "\ud83d\udc4d 201",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T14:06:22+00:00"
+  },
+  {
+    "id": "hn-49243474",
+    "title": "Humanising LLM Outputs Is Dumb",
+    "description": "Humanising LLM Outputs Is Dumb",
+    "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "source_link": "https://news.ycombinator.com/item?id=49243474",
+    "engagement": "\ud83d\udc4d 70",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T13:35:40+00:00"
   },
   {
     "id": "hn-49243397",
-    "title": "Mistral Patent for \"Code implemented tool calls\"",
-    "description": "Mistral Patent for \"Code implemented tool calls\"",
+    "title": "Mistral Patent for \u201cCode implemented tool calls\u201d",
+    "description": "Mistral Patent for \u201cCode implemented tool calls\u201d",
     "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
     "source_link": "https://news.ycombinator.com/item?id=49243397",
-    "engagement": "\ud83d\udc4d 117",
+    "engagement": "\ud83d\udc4d 176",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T13:29:12+00:00"
@@ -44,18 +132,7 @@
     "published": "2026-08-10T12:32:20+00:00"
   },
   {
-    "id": "hn-49242739",
-    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-    "description": "Over 181,000 AI meeting recordings left wide open in note taking app",
-    "link": "https://bobdahacker.com/blog/tldv-hack",
-    "source_link": "https://news.ycombinator.com/item?id=49242739",
-    "engagement": "\ud83d\udc4d 314",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T12:26:05+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
     "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -66,7 +143,7 @@
     "published": "2026-08-10T12:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Peer review is overwhelmed\u2014can it survive in the AI era?",
     "description": "\n                        As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.\n                    ",
     "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
@@ -77,7 +154,7 @@
     "published": "2026-08-10T11:00:47+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "AI for science needs reasoning, not just data",
     "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -88,7 +165,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "These startups are chasing the next big thing in LLMs",
     "description": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
@@ -104,24 +181,13 @@
     "description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "link": "https://www.docker.com/products/docker-sandboxes/",
     "source_link": "https://news.ycombinator.com/item?id=49239751",
-    "engagement": "\ud83d\udc4d 473",
+    "engagement": "\ud83d\udc4d 575",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T06:02:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
-    "description": "<p>ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...",
-    "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
-    "source_link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T05:48:17+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "description": "The AI-focused hedge fund is still making some big bets.",
     "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -132,7 +198,7 @@
     "published": "2026-08-09T20:35:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
     "description": "Programming with Claude Code will soon require even less human oversight.",
     "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -143,20 +209,9 @@
     "published": "2026-08-09T19:20:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
-    "description": "<p>A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/\">Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
-    "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
-    "source_link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-09T18:15:30+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "The AI safety test is becoming a safety risk",
-    "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
     "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "source_link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -165,9 +220,20 @@
     "published": "2026-08-09T14:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+    "description": "AI has already had a significant impact on Amazon\u2019s carbon emissions, which it reported were up 16% last year \u2014 the wrong direction for a company that pledged to eliminate its carbon emissions by 2040. ",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source_link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T21:24:02+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI acquires presentation startup NextSlide",
-    "description": "NextSlide says its team members are now working on ChatGPT.",
+    "description": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "source_link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -176,29 +242,7 @@
     "published": "2026-08-08T19:41:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
-    "description": "<p>Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
-    "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-    "source_link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-08T17:04:39+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7\u00d7 Its Size",
-    "description": "<p>Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass \u2014 no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....",
-    "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
-    "source_link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-08T04:36:26+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -207,28 +251,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T22:48:24+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
-    "description": "<p>Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets \u2014 Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.</p>\n<p>The post <a href=\"https://www....",
-    "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
-    "source_link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T21:52:48+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "source_link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T21:30:11+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -242,7 +264,7 @@
     "published": "2026-08-07T17:53:32+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Trump\u2019s AI protectionism has come for robotics",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
@@ -264,7 +286,7 @@
     "published": "2026-08-03T13:31:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -275,7 +297,7 @@
     "published": "2026-08-03T08:30:05+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
     "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
@@ -286,7 +308,7 @@
     "published": "2026-07-30T10:15:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The AI Hype Index: Unsexy AI",
     "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
     "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
@@ -297,7 +319,7 @@
     "published": "2026-07-29T08:42:57+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.\u00a0",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
     "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
@@ -319,7 +341,7 @@
     "published": "2026-07-27T13:30:53+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "The path to artificial superintelligence",
     "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
     "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
@@ -328,17 +350,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-27T12:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years\u2014a phenomenon known as Eroom\u2019s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "source_link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T11:40:16+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-1",
