@@ -1,6 +1,61 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
+    "description": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "source_link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T16:20:13+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+    "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "source_link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T15:11:51+00:00"
+  },
+  {
+    "id": "hn-49243397",
+    "title": "Mistral Patent for \"Code implemented tool calls\"",
+    "description": "Mistral Patent for \"Code implemented tool calls\"",
+    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "source_link": "https://news.ycombinator.com/item?id=49243397",
+    "engagement": "\ud83d\udc4d 117",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T13:29:12+00:00"
+  },
+  {
+    "id": "rss-Import AI (Jack Clark)-0",
+    "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+    "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
+    "link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+    "source_link": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+    "engagement": "\ud83d\udce1 Import AI (Jack Clark)",
+    "source": "Import AI (Jack Clark)",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T12:32:20+00:00"
+  },
+  {
+    "id": "hn-49242739",
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "description": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "link": "https://bobdahacker.com/blog/tldv-hack",
+    "source_link": "https://news.ycombinator.com/item?id=49242739",
+    "engagement": "\ud83d\udc4d 314",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T12:26:05+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
     "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -49,13 +104,13 @@
     "description": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "link": "https://www.docker.com/products/docker-sandboxes/",
     "source_link": "https://news.ycombinator.com/item?id=49239751",
-    "engagement": "\ud83d\udc4d 319",
+    "engagement": "\ud83d\udc4d 473",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T06:02:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
     "description": "<p>ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...",
     "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
@@ -66,29 +121,7 @@
     "published": "2026-08-10T05:48:17+00:00"
   },
   {
-    "id": "hn-49239021",
-    "title": "Auto mode is now the default in Claude Code",
-    "description": "Auto mode is now the default in Claude Code",
-    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "source_link": "https://news.ycombinator.com/item?id=49239021",
-    "engagement": "\ud83d\udc4d 246",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T03:50:00+00:00"
-  },
-  {
-    "id": "hn-49238851",
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "description": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "link": "https://www.whodunnitai.com/",
-    "source_link": "https://news.ycombinator.com/item?id=49238851",
-    "engagement": "\ud83d\udc4d 124",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T03:18:40+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "description": "The AI-focused hedge fund is still making some big bets.",
     "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -99,7 +132,7 @@
     "published": "2026-08-09T20:35:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
     "description": "Programming with Claude Code will soon require even less human oversight.",
     "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -110,7 +143,7 @@
     "published": "2026-08-09T19:20:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
     "description": "<p>A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/\">Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
     "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
@@ -121,7 +154,7 @@
     "published": "2026-08-09T18:15:30+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "The AI safety test is becoming a safety risk",
     "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
     "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -132,7 +165,7 @@
     "published": "2026-08-09T14:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI acquires presentation startup NextSlide",
     "description": "NextSlide says its team members are now working on ChatGPT.",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
@@ -143,7 +176,7 @@
     "published": "2026-08-08T19:41:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
     "description": "<p>Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
     "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
@@ -154,7 +187,7 @@
     "published": "2026-08-08T17:04:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7\u00d7 Its Size",
     "description": "<p>Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass \u2014 no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....",
     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
@@ -165,7 +198,7 @@
     "published": "2026-08-08T04:36:26+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -176,7 +209,7 @@
     "published": "2026-08-07T22:48:24+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
     "description": "<p>Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets \u2014 Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.</p>\n<p>The post <a href=\"https://www....",
     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
@@ -187,7 +220,7 @@
     "published": "2026-08-07T21:52:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -196,17 +229,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-07T21:30:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
-    "description": "<p>In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-re...",
-    "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
-    "source_link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T21:13:38+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -220,17 +242,6 @@
     "published": "2026-08-07T17:53:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "source_link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-07T16:16:09+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-2",
     "title": "Trump\u2019s AI protectionism has come for robotics",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
@@ -242,7 +253,7 @@
     "published": "2026-08-03T18:43:30+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-0",
+    "id": "rss-Import AI (Jack Clark)-1",
     "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-2OSHWi.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
     "link": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
@@ -297,9 +308,9 @@
     "published": "2026-07-27T18:00:00+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-1",
+    "id": "rss-Import AI (Jack Clark)-2",
     "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI\u2019s accidental AI hacker",
-    "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-MrVmhb.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
+    "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-MrVmhb.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
     "source_link": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
     "engagement": "\ud83d\udce1 Import AI (Jack Clark)",
@@ -341,7 +352,7 @@
     "published": "2026-07-23T00:00:00+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-2",
+    "id": "rss-Import AI (Jack Clark)-3",
     "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis\u2019 big policy plan",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-jWGEYJ.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
@@ -352,7 +363,7 @@
     "published": "2026-07-20T12:31:45+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-3",
+    "id": "rss-Import AI (Jack Clark)-4",
     "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
@@ -363,7 +374,7 @@
     "published": "2026-07-06T12:31:05+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-4",
+    "id": "rss-Import AI (Jack Clark)-5",
     "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Andj0c.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
@@ -374,7 +385,7 @@
     "published": "2026-06-29T13:03:27+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-5",
+    "id": "rss-Import AI (Jack Clark)-6",
     "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
@@ -385,7 +396,7 @@
     "published": "2026-06-22T12:31:45+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-6",
+    "id": "rss-Import AI (Jack Clark)-7",
     "title": "Import AI 461: \u201cAlignment is not on track\u201d; FrontierCode; and synthetic research interns",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-9AySH4.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/",
@@ -396,7 +407,7 @@
     "published": "2026-06-15T11:30:53+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-7",
+    "id": "rss-Import AI (Jack Clark)-8",
     "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Iz1a69.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
@@ -407,7 +418,7 @@
     "published": "2026-06-08T12:31:32+00:00"
   },
   {
-    "id": "rss-Import AI (Jack Clark)-8",
+    "id": "rss-Import AI (Jack Clark)-9",
     "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-14YrP0.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
     "link": "https://jack-clark.net/2026/06/01/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/",
@@ -416,17 +427,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-01T13:31:56+00:00"
-  },
-  {
-    "id": "rss-Import AI (Jack Clark)-9",
-    "title": "Import AI 458: Reckoning with the future; and a singularity story",
-    "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-gTwoS6.jpg?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
-    "link": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
-    "source_link": "https://jack-clark.net/2026/05/26/import-ai-458-reckoning-with-the-future-and-a-singularity-story/",
-    "engagement": "\ud83d\udce1 Import AI (Jack Clark)",
-    "source": "Import AI (Jack Clark)",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-05-26T12:32:03+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
