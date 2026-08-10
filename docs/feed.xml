@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:08:22 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -251,20 +251,11 @@
       <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class</title>
-      <link>https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the actions the model can take. Fields are agent state. Docstrings are prompts. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 07 Aug 2026 20:42:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation</title>
       <link>https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/</link>
       <description>&lt;p&gt;&lt;p&gt;In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then extend the workflow with hosted NVIDIA NIM endpoints to detect page [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-re...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 21:13:38 +0000</pubDate>
     </item>
@@ -281,7 +272,7 @@
       <link>https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/</link>
       <description>&lt;p&gt;&lt;p&gt;Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 07 Aug 2026 21:52:48 +0000</pubDate>
     </item>
@@ -297,7 +288,7 @@
       <title>[📰] Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size</title>
       <link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
       <description>&lt;p&gt;&lt;p&gt;Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass — no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
     </item>
@@ -305,7 +296,7 @@
       <title>[📰] Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary</title>
       <link>https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/</link>
       <description>&lt;p&gt;&lt;p&gt;Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 08 Aug 2026 17:04:39 +0000</pubDate>
     </item>
@@ -330,7 +321,7 @@
       <link>https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/</link>
       <description>&lt;p&gt;&lt;p&gt;A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/"&gt;Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkT...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Sun, 09 Aug 2026 18:15:30 +0000</pubDate>
     </item>
@@ -345,7 +336,7 @@
     <item>
       <title>[📰] The tragedy of the commons, AI edition</title>
       <link>https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</link>
-      <description>&lt;p&gt;The tragedy of the commons, AI edition&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 97&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The tragedy of the commons, AI edition&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 122&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49235011</guid>
       <category>AI News</category>
       <pubDate>Sun, 09 Aug 2026 19:43:52 +0000</pubDate>
@@ -359,12 +350,37 @@
       <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Show HN: Voice driven murder mystery, Interview AI suspects with your voice</title>
+      <link>https://www.whodunnitai.com/</link>
+      <description>&lt;p&gt;Show HN: Voice driven murder mystery, Interview AI suspects with your voice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 74&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49238851</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 10 Aug 2026 03:18:40 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Auto mode is now the default in Claude Code</title>
       <link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
-      <description>&lt;p&gt;Auto mode is now the default in Claude Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 57&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Auto mode is now the default in Claude Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 194&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49239021</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 03:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model</title>
+      <link>https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;ByteDance&amp;#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 10 Aug 2026 05:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Docker Sandboxes – Disposable, isolated sandboxes for AI agents</title>
+      <link>https://www.docker.com/products/docker-sandboxes/</link>
+      <description>&lt;p&gt;Docker Sandboxes – Disposable, isolated sandboxes for AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 165&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49239751</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 10 Aug 2026 06:02:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
