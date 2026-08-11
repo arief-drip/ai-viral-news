@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 01:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:58:33 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,46 +193,12 @@
       <pubDate>Fri, 07 Aug 2026 17:53:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents</title>
-      <link>https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/</link>
-      <description>&lt;p&gt;&lt;p&gt;Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, Hermes and CodeBuddy. The differentiator is not retrieval but governance: ACL-based visibility decides which agent gets which asset, and which version is valid.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 07 Aug 2026 21:52:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size</title>
-      <link>https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/</link>
-      <description>&lt;p&gt;&lt;p&gt;Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated safety score from one forward pass — no retraining required to re-target the model. Built on Ministral-3-3B-Base-2512 with a Pixtral vision encoder and trained on roughly 54.1M samples, it reports 84....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 08 Aug 2026 04:36:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary</title>
-      <link>https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/</link>
-      <description>&lt;p&gt;&lt;p&gt;Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 08 Aug 2026 17:04:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The AI safety test is becoming a safety risk</title>
       <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
       <description>&lt;p&gt;AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Sun, 09 Aug 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</title>
-      <link>https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/</link>
-      <description>&lt;p&gt;&lt;p&gt;A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/"&gt;Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkT...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 09 Aug 2026 18:15:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic is turning Claude Code’s auto mode on by default</title>
@@ -249,15 +215,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 09 Aug 2026 20:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model</title>
-      <link>https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;ByteDance&amp;#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 10 Aug 2026 05:48:17 +0000</pubDate>
     </item>
     <item>
       <title>[📰] These startups are chasing the next big thing in LLMs</title>
@@ -292,17 +249,9 @@
       <pubDate>Mon, 10 Aug 2026 12:32:20 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mistral Patent for “Code implemented tool calls”</title>
-      <link>https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</link>
-      <description>&lt;p&gt;Mistral Patent for “Code implemented tool calls”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 208&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49243397</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 10 Aug 2026 13:29:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Humanising LLM Outputs Is Dumb</title>
       <link>https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb</link>
-      <description>&lt;p&gt;Humanising LLM Outputs Is Dumb&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 150&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Humanising LLM Outputs Is Dumb&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 184&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49243474</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 13:35:40 +0000</pubDate>
@@ -310,7 +259,7 @@
     <item>
       <title>[📰] Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models</title>
       <link>https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</link>
-      <description>&lt;p&gt;Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 353&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 432&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49243880</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 14:06:22 +0000</pubDate>
@@ -318,7 +267,7 @@
     <item>
       <title>[📰] Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines</title>
       <link>https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs</link>
-      <description>&lt;p&gt;Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 94&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49244085</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 14:20:41 +0000</pubDate>
@@ -326,20 +275,10 @@
     <item>
       <title>[📰] Letter to Governor Abbott on responsible AI infrastructure in Texas</title>
       <link>https://openai.com/index/responsible-ai-infrastructure-texas/</link>
-      <description>&lt;p&gt;Letter to Governor Abbott on responsible AI infrastructure in Texas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 88&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Letter to Governor Abbott on responsible AI infrastructure in Texas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 102&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49244308</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 14:38:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</title>
-      <link>https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/"&gt;Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 10 Aug 2026 15:11:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Valve slowly expands SteamOS support on non-Valve hardware</title>
@@ -362,7 +301,7 @@
     <item>
       <title>[📰] Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers</title>
       <link>https://www.stoaexchange.com</link>
-      <description>&lt;p&gt;Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 63&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 70&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49246057</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 16:35:27 +0000</pubDate>
@@ -370,7 +309,7 @@
     <item>
       <title>[📰] Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</title>
       <link>https://cactuscompute.com/needle</link>
-      <description>&lt;p&gt;Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 154&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 239&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49246804</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 17:22:07 +0000</pubDate>
