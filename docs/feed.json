@@ -1,25 +1,69 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. ",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "source_link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T19:15:35+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Google\u2019s Gemini app surges to one billion users",
+    "description": "Gemini is keeping pace with OpenAI\u2019s ChatGPT, which hit 1 billion monthly active users back in June.\u00a0",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "source_link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T18:49:12+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+    "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "source_link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T17:41:34+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "source_link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T17:41:22+00:00"
+  },
+  {
+    "id": "hn-49261133",
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "description": "Go is an ideal language for AI-assisted software engineering",
+    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "source_link": "https://news.ycombinator.com/item?id=49261133",
+    "engagement": "\ud83d\udc4d 174",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T16:57:09+00:00"
+  },
+  {
     "id": "hn-49259339",
-    "title": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
-    "description": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
+    "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+    "description": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
     "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
     "source_link": "https://news.ycombinator.com/item?id=49259339",
-    "engagement": "\ud83d\udc4d 108",
+    "engagement": "\ud83d\udc4d 261",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T14:50:33+00:00"
-  },
-  {
-    "id": "hn-49258581",
-    "title": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
-    "description": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
-    "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-    "source_link": "https://news.ycombinator.com/item?id=49258581",
-    "engagement": "\ud83d\udc4d 68",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-11T14:03:18+00:00"
   },
   {
     "id": "hn-49257876",
@@ -27,13 +71,13 @@
     "description": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "link": "https://stolen-thoughts.com/",
     "source_link": "https://news.ycombinator.com/item?id=49257876",
-    "engagement": "\ud83d\udc4d 162",
+    "engagement": "\ud83d\udc4d 360",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T13:22:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-4",
     "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
     "description": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
     "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
@@ -44,7 +88,18 @@
     "published": "2026-08-11T13:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49257160",
+    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "description": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "source_link": "https://news.ycombinator.com/item?id=49257160",
+    "engagement": "\ud83d\udc4d 128",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-11T12:23:07+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic says it will watermark text generated by its AI models",
     "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
     "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
@@ -60,13 +115,13 @@
     "description": "What I learned by putting GitHub Copilot behind a MitM proxy",
     "link": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
     "source_link": "https://news.ycombinator.com/item?id=49256057",
-    "engagement": "\ud83d\udc4d 80",
+    "engagement": "\ud83d\udc4d 126",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T10:40:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI reportedly completed a $7 billion employee tender offer",
     "description": "San Francisco's housing market is in trouble again. ",
     "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -77,7 +132,7 @@
     "published": "2026-08-11T00:03:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-7",
     "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
     "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
     "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
@@ -93,7 +148,7 @@
     "description": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "link": "https://thewalrus.ca/google-search-is-dying/",
     "source_link": "https://news.ycombinator.com/item?id=49250836",
-    "engagement": "\ud83d\udc4d 674",
+    "engagement": "\ud83d\udc4d 819",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T22:36:30+00:00"
@@ -110,18 +165,7 @@
     "published": "2026-08-10T22:13:03+00:00"
   },
   {
-    "id": "hn-49250109",
-    "title": "How Claude marks AI-generated content",
-    "description": "How Claude marks AI-generated content",
-    "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "source_link": "https://news.ycombinator.com/item?id=49250109",
-    "engagement": "\ud83d\udc4d 348",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T21:36:56+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-8",
     "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
     "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. ",
     "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
@@ -130,28 +174,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T20:53:02+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Amazon backs power plant that may become top source of US climate pollution",
-    "description": "\n                        Amazon announces first off-the-grid data center in race to reap AI profits.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T20:45:52+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "source_link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T20:04:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -170,21 +192,10 @@
     "description": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "link": "https://cactuscompute.com/needle",
     "source_link": "https://news.ycombinator.com/item?id=49246804",
-    "engagement": "\ud83d\udc4d 468",
+    "engagement": "\ud83d\udc4d 498",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T17:22:07+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
-    "description": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "source_link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T16:20:13+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -198,17 +209,6 @@
     "published": "2026-08-10T15:11:51+00:00"
   },
   {
-    "id": "hn-49243880",
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "description": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "source_link": "https://news.ycombinator.com/item?id=49243880",
-    "engagement": "\ud83d\udc4d 591",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T14:06:22+00:00"
-  },
-  {
     "id": "rss-Import AI (Jack Clark)-0",
     "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
@@ -218,17 +218,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T12:32:20+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "source_link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T12:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -264,17 +253,6 @@
     "published": "2026-08-10T05:48:17+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "description": "The AI-focused hedge fund is still making some big bets.",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "source_link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-09T20:35:17+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-2",
     "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
     "description": "<p>A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/\">Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
@@ -284,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-09T18:15:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
-    "description": "<p>Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
-    "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-    "source_link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-08T17:04:39+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
