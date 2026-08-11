@@ -22,6 +22,17 @@
     "published": "2026-08-10T23:56:15+00:00"
   },
   {
+    "id": "hn-49250836",
+    "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "description": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "link": "https://thewalrus.ca/google-search-is-dying/",
+    "source_link": "https://news.ycombinator.com/item?id=49250836",
+    "engagement": "\ud83d\udc4d 237",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T22:36:30+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
     "description": "\n                        Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.\n                    ",
@@ -31,6 +42,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T22:13:03+00:00"
+  },
+  {
+    "id": "hn-49250109",
+    "title": "How Claude marks AI-generated content",
+    "description": "How Claude marks AI-generated content",
+    "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "source_link": "https://news.ycombinator.com/item?id=49250109",
+    "engagement": "\ud83d\udc4d 158",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T21:36:56+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -77,26 +99,26 @@
     "published": "2026-08-10T20:00:00+00:00"
   },
   {
+    "id": "hn-49247070",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "description": "Learning more about Claude's mathematical capabilities",
+    "link": "https://www.anthropic.com/research/riemann-zeta",
+    "source_link": "https://news.ycombinator.com/item?id=49247070",
+    "engagement": "\ud83d\udc4d 189",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T17:41:13+00:00"
+  },
+  {
     "id": "hn-49246804",
     "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "description": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "link": "https://cactuscompute.com/needle",
     "source_link": "https://news.ycombinator.com/item?id=49246804",
-    "engagement": "\ud83d\udc4d 239",
+    "engagement": "\ud83d\udc4d 316",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T17:22:07+00:00"
-  },
-  {
-    "id": "hn-49246057",
-    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-    "description": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-    "link": "https://www.stoaexchange.com",
-    "source_link": "https://news.ycombinator.com/item?id=49246057",
-    "engagement": "\ud83d\udc4d 70",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T16:35:27+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -121,26 +143,15 @@
     "published": "2026-08-10T16:01:04+00:00"
   },
   {
-    "id": "hn-49244308",
-    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "description": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-    "source_link": "https://news.ycombinator.com/item?id=49244308",
-    "engagement": "\ud83d\udc4d 102",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-0",
+    "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+    "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "source_link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T14:38:20+00:00"
-  },
-  {
-    "id": "hn-49244085",
-    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-    "description": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-    "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-    "source_link": "https://news.ycombinator.com/item?id=49244085",
-    "engagement": "\ud83d\udc4d 130",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T14:20:41+00:00"
+    "published": "2026-08-10T15:11:51+00:00"
   },
   {
     "id": "hn-49243880",
@@ -148,7 +159,7 @@
     "description": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "source_link": "https://news.ycombinator.com/item?id=49243880",
-    "engagement": "\ud83d\udc4d 432",
+    "engagement": "\ud83d\udc4d 499",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T14:06:22+00:00"
@@ -159,7 +170,7 @@
     "description": "Humanising LLM Outputs Is Dumb",
     "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "source_link": "https://news.ycombinator.com/item?id=49243474",
-    "engagement": "\ud83d\udc4d 184",
+    "engagement": "\ud83d\udc4d 210",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T13:35:40+00:00"
@@ -209,6 +220,17 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+    "description": "<p>ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...",
+    "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+    "source_link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T05:48:17+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-6",
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "description": "The AI-focused hedge fund is still making some big bets.",
@@ -231,6 +253,17 @@
     "published": "2026-08-09T19:20:32+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+    "description": "<p>A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/\">Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
+    "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+    "source_link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-09T18:15:30+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-8",
     "title": "The AI safety test is becoming a safety risk",
     "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
@@ -240,6 +273,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-09T14:30:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+    "description": "<p>Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second on Terminal-Bench 2.1. Prefill reaches 137,200 tokens/s at full context on a single B200, with decode flat near 335 tokens/s. Weights are not published; deployment is licensed into VPC, on-premises,...",
+    "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+    "source_link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-08T17:04:39+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
