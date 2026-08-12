@@ -1,11 +1,44 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+    "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "source_link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T11:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+    "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+    "source_link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T06:59:40+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Xiaomi\u2019s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
+    "description": "<p>Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...",
+    "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
+    "source_link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T05:05:52+00:00"
+  },
+  {
     "id": "hn-49267928",
     "title": "llama.cpp",
     "description": "llama.cpp",
     "link": "https://llama.app",
     "source_link": "https://news.ycombinator.com/item?id=49267928",
-    "engagement": "\ud83d\udc4d 191",
+    "engagement": "\ud83d\udc4d 285",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T04:51:59+00:00"
@@ -22,7 +55,7 @@
     "published": "2026-08-11T19:48:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "OpenAI launches ChatGPT desktop app for Linux",
     "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems. ",
     "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -33,7 +66,7 @@
     "published": "2026-08-11T19:15:35+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Google\u2019s Gemini app surges to 1 billion users",
     "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.\u00a0",
     "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
@@ -44,7 +77,7 @@
     "published": "2026-08-11T18:49:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
     "description": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
     "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
@@ -55,7 +88,7 @@
     "published": "2026-08-11T17:41:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
     "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
     "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
@@ -66,29 +99,18 @@
     "published": "2026-08-11T17:41:22+00:00"
   },
   {
-    "id": "hn-49261133",
-    "title": "Go is an ideal language for AI-assisted software engineering",
-    "description": "Go is an ideal language for AI-assisted software engineering",
-    "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "source_link": "https://news.ycombinator.com/item?id=49261133",
-    "engagement": "\ud83d\udc4d 370",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-11T16:57:09+00:00"
-  },
-  {
     "id": "hn-49257876",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "description": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "link": "https://stolen-thoughts.com/",
     "source_link": "https://news.ycombinator.com/item?id=49257876",
-    "engagement": "\ud83d\udc4d 614",
+    "engagement": "\ud83d\udc4d 646",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T13:22:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
     "description": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
     "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
@@ -104,13 +126,13 @@
     "description": "OpenAI\u2019s head of ethics leaves less than a year after joining",
     "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
     "source_link": "https://news.ycombinator.com/item?id=49257160",
-    "engagement": "\ud83d\udc4d 427",
+    "engagement": "\ud83d\udc4d 465",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T12:23:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Anthropic says it will watermark text generated by its AI models",
     "description": "Anthropic will extend support for watermarking AI generations for older models as well.",
     "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
@@ -121,7 +143,7 @@
     "published": "2026-08-11T12:13:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI reportedly completed a $7 billion employee tender offer",
     "description": "San Francisco's housing market is in trouble again. ",
     "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -130,17 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-11T00:03:18+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "source_link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T23:56:15+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -152,6 +163,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T20:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+    "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "source_link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T15:11:51+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -185,6 +207,28 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T09:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+    "description": "<p>ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...",
+    "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+    "source_link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-10T05:48:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+    "description": "<p>A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/\">Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
+    "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+    "source_link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-09T18:15:30+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
