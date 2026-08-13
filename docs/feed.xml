@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:03:44 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -169,15 +169,6 @@
       <pubDate>Mon, 03 Aug 2026 18:43:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model</title>
-      <link>https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;ByteDance&amp;#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 10 Aug 2026 05:48:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] These startups are chasing the next big thing in LLMs</title>
       <link>https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/</link>
       <description>&lt;p&gt;MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&amp;#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -207,7 +198,7 @@
       <description>&lt;p&gt;&lt;p&gt;Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/"&gt;Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 10 Aug 2026 15:11:51 +0000</pubDate>
     </item>
@@ -224,7 +215,7 @@
       <link>https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/</link>
       <description>&lt;p&gt;&lt;p&gt;Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 05:05:52 +0000</pubDate>
     </item>
@@ -234,30 +225,22 @@
       <description>&lt;p&gt;&lt;p&gt;NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/"&gt;NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 06:59:40 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
       <link>https://discoveredmaterials.com/research/</link>
-      <description>&lt;p&gt;Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 135&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49269090</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI is removing the middle class of software engineering?</title>
-      <link>https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html</link>
-      <description>&lt;p&gt;AI is removing the middle class of software engineering?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 806&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49271994</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 13:20:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</title>
       <link>https://knownagents.com/insights</link>
-      <description>&lt;p&gt;Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 257&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 275&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49272569</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 14:02:46 +0000</pubDate>
@@ -283,7 +266,7 @@
     <item>
       <title>[📰] DeepSeek V4 Pro 0813</title>
       <link>https://openrouter.ai/deepseek/deepseek-v4-pro-0813</link>
-      <description>&lt;p&gt;DeepSeek V4 Pro 0813&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 831&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek V4 Pro 0813&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 910&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49274600</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 16:04:50 +0000</pubDate>
@@ -317,7 +300,7 @@
       <link>https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/</link>
       <description>&lt;p&gt;&lt;p&gt;Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 17:37:37 +0000</pubDate>
     </item>
@@ -382,6 +365,23 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ChatGPT Desktop (Codex Desktop) for Linux</title>
+      <link>https://openai.com/codex/</link>
+      <description>&lt;p&gt;ChatGPT Desktop (Codex Desktop) for Linux&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 84&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49281916</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 04:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work</title>
+      <link>https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/</link>
+      <description>&lt;p&gt;&lt;p&gt;SpaceXAI released Grok 4.6 on August 12, 2026 — a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/"&gt;SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 06:18:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

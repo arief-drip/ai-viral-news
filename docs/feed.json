@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
+    "description": "<p>SpaceXAI released Grok 4.6 on August 12, 2026 \u2014 a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/\">SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...",
+    "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
+    "source_link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T06:18:14+00:00"
+  },
+  {
+    "id": "hn-49281916",
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "description": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "link": "https://openai.com/codex/",
+    "source_link": "https://news.ycombinator.com/item?id=49281916",
+    "engagement": "\ud83d\udc4d 84",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T04:53:41+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
     "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -77,7 +99,7 @@
     "published": "2026-08-12T17:41:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
     "description": "<p>Build a custom LLM post-training pipeline using AllenAI\u2019s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...",
     "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
@@ -126,7 +148,7 @@
     "description": "DeepSeek V4 Pro 0813",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "source_link": "https://news.ycombinator.com/item?id=49274600",
-    "engagement": "\ud83d\udc4d 831",
+    "engagement": "\ud83d\udc4d 910",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T16:04:50+00:00"
@@ -159,21 +181,10 @@
     "description": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
     "link": "https://knownagents.com/insights",
     "source_link": "https://news.ycombinator.com/item?id=49272569",
-    "engagement": "\ud83d\udc4d 257",
+    "engagement": "\ud83d\udc4d 275",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T14:02:46+00:00"
-  },
-  {
-    "id": "hn-49271994",
-    "title": "AI is removing the middle class of software engineering?",
-    "description": "AI is removing the middle class of software engineering?",
-    "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "source_link": "https://news.ycombinator.com/item?id=49271994",
-    "engagement": "\ud83d\udc4d 806",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T13:20:05+00:00"
   },
   {
     "id": "hn-49269090",
@@ -181,13 +192,13 @@
     "description": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
     "link": "https://discoveredmaterials.com/research/",
     "source_link": "https://news.ycombinator.com/item?id=49269090",
-    "engagement": "\ud83d\udc4d 129",
+    "engagement": "\ud83d\udc4d 135",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T07:51:20+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
     "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
@@ -198,7 +209,7 @@
     "published": "2026-08-12T06:59:40+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Xiaomi\u2019s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
     "description": "<p>Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...",
     "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
@@ -220,7 +231,7 @@
     "published": "2026-08-10T20:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
     "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
@@ -262,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
-    "description": "<p>ByteDance&#8217;s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified architecture. It interacts in real time over continuous multimodal streams, rather than one turn at a time. Seed positions it as a step toward omni-modal interaction, and claims three breakthroughs: joint audio-visual understanding, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealt...",
-    "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
-    "source_link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T05:48:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
