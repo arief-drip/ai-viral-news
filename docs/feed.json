@@ -1,14 +1,25 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
-    "description": "<p>SpaceXAI released Grok 4.6 on August 12, 2026 \u2014 a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/\">SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...",
-    "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-    "source_link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "rss-Ars Technica AI-0",
+    "title": "Claude's new Scarlet Letter watermark is invisible \u2014 for now",
+    "description": "\n                        The mark flags anything Claude processed, even human writing it only edited.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T06:18:14+00:00"
+    "published": "2026-08-13T11:10:18+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "How kids feel about AI, in their own words",
+    "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "source_link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T09:00:00+00:00"
   },
   {
     "id": "hn-49281916",
@@ -16,7 +27,7 @@
     "description": "ChatGPT Desktop (Codex Desktop) for Linux",
     "link": "https://openai.com/codex/",
     "source_link": "https://news.ycombinator.com/item?id=49281916",
-    "engagement": "\ud83d\udc4d 84",
+    "engagement": "\ud83d\udc4d 249",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T04:53:41+00:00"
@@ -33,7 +44,7 @@
     "published": "2026-08-12T22:26:37+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "The web\u2019s newest weapon against AI scrapers is a font",
     "description": "\n                        \u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
@@ -44,7 +55,7 @@
     "published": "2026-08-12T22:02:25+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Terabytes of credentials leaked in massive supply-chain attack",
     "description": "\n                        The data was scraped and exfiltrated from 2,500 users of a compromised AI package.\n                    ",
     "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
@@ -55,7 +66,7 @@
     "published": "2026-08-12T21:43:21+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-3",
     "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
     "description": "\n                        Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
@@ -99,17 +110,6 @@
     "published": "2026-08-12T17:41:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
-    "description": "<p>Build a custom LLM post-training pipeline using AllenAI\u2019s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...",
-    "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
-    "source_link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T17:37:37+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-4",
     "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
     "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. ",
@@ -121,7 +121,7 @@
     "published": "2026-08-12T16:57:58+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
     "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -148,21 +148,10 @@
     "description": "DeepSeek V4 Pro 0813",
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "source_link": "https://news.ycombinator.com/item?id=49274600",
-    "engagement": "\ud83d\udc4d 910",
+    "engagement": "\ud83d\udc4d 968",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T16:04:50+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "description": "\n                        AI firms quietly bulk buying rare books face resistance from booksellers.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T15:19:17+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -181,7 +170,7 @@
     "description": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
     "link": "https://knownagents.com/insights",
     "source_link": "https://news.ycombinator.com/item?id=49272569",
-    "engagement": "\ud83d\udc4d 275",
+    "engagement": "\ud83d\udc4d 287",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T14:02:46+00:00"
@@ -192,35 +181,13 @@
     "description": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
     "link": "https://discoveredmaterials.com/research/",
     "source_link": "https://news.ycombinator.com/item?id=49269090",
-    "engagement": "\ud83d\udc4d 135",
+    "engagement": "\ud83d\udc4d 147",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T07:51:20+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "source_link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T06:59:40+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Xiaomi\u2019s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
-    "description": "<p>Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...",
-    "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-    "source_link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T05:05:52+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "AI professors are negotiating the new realities of academic research",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -229,17 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T20:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
-    "description": "<p>Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/\">Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-    "source_link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T15:11:51+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -253,7 +209,7 @@
     "published": "2026-08-10T12:32:20+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "AI for science needs reasoning, not just data",
     "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -264,7 +220,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "These startups are chasing the next big thing in LLMs",
     "description": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
@@ -275,7 +231,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Trump\u2019s AI protectionism has come for robotics",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
@@ -297,7 +253,7 @@
     "published": "2026-08-03T13:31:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -308,7 +264,7 @@
     "published": "2026-08-03T08:30:05+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
     "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
@@ -319,7 +275,7 @@
     "published": "2026-07-30T10:15:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "The AI Hype Index: Unsexy AI",
     "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
     "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
@@ -328,17 +284,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-29T08:42:57+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.\u00a0",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "source_link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-27T18:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
