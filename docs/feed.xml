@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 12:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:45:41 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,42 +193,29 @@
       <pubDate>Mon, 10 Aug 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials</title>
-      <link>https://discoveredmaterials.com/research/</link>
-      <description>&lt;p&gt;Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 147&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49269090</guid>
+      <title>[📰] Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark</title>
+      <link>https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/</link>
+      <description>&lt;p&gt;&lt;p&gt;Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 07:51:20 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 05:05:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</title>
-      <link>https://knownagents.com/insights</link>
-      <description>&lt;p&gt;Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 287&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49272569</guid>
+      <title>[📰] NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</title>
+      <link>https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/"&gt;NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 14:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard</title>
-      <link>https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/</link>
-      <description>&lt;p&gt;AI notetaking hardware has taken off&amp;#160;over&amp;#160;the past&amp;#160;couple of years, with credit-card-sized devices, pendants, pins,&amp;#160;and&amp;#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&amp;#160; One of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] DeepSeek V4 Pro 0813</title>
-      <link>https://openrouter.ai/deepseek/deepseek-v4-pro-0813</link>
-      <description>&lt;p&gt;DeepSeek V4 Pro 0813&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 968&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49274600</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 16:04:50 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 06:59:40 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Why Stream ring-maker Sandbar says the future of AI wearables is voice</title>
       <link>https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/</link>
       <description>&lt;p&gt;AI notetaking hardware has taken off&amp;#160;over&amp;#160;the past&amp;#160;couple of years, with credit-card-sized devices, pendants, pins,&amp;#160;and&amp;#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&amp;#160; One of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 16:46:02 +0000</pubDate>
     </item>
@@ -244,15 +231,24 @@
       <title>[📰] Mesh, Automattic’s CRM for everyone, comes to Android</title>
       <link>https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/</link>
       <description>&lt;p&gt;Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 16:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation</title>
+      <link>https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/</link>
+      <description>&lt;p&gt;&lt;p&gt;Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 12 Aug 2026 17:37:37 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise</title>
       <link>https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/</link>
       <description>&lt;p&gt;Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 17:41:29 +0000</pubDate>
     </item>
@@ -260,7 +256,7 @@
       <title>[📰] As AI safety concerns mount, three pioneers make the case for staying open</title>
       <link>https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/</link>
       <description>&lt;p&gt;At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 17:51:00 +0000</pubDate>
     </item>
@@ -268,7 +264,7 @@
       <title>[📰] AI coding startup Cognition reportedly already in talks to raise at $40B valuation</title>
       <link>https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/</link>
       <description>&lt;p&gt;Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 18:19:12 +0000</pubDate>
     </item>
@@ -278,7 +274,7 @@
       <description>&lt;p&gt;
                         Streaming platform says user-generated content "may be used for future Gen AI model improvements."
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 21:00:30 +0000</pubDate>
     </item>
@@ -288,7 +284,7 @@
       <description>&lt;p&gt;
                         The data was scraped and exfiltrated from 2,500 users of a compromised AI package.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 21:43:21 +0000</pubDate>
     </item>
@@ -298,7 +294,7 @@
       <description>&lt;p&gt;
                         “ShieldFont” aims to poison AI training data without making pages unreadable for people.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 22:02:25 +0000</pubDate>
     </item>
@@ -306,17 +302,26 @@
       <title>[📰] Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
       <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
       <description>&lt;p&gt;Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ChatGPT Desktop (Codex Desktop) for Linux</title>
-      <link>https://openai.com/codex/</link>
-      <description>&lt;p&gt;ChatGPT Desktop (Codex Desktop) for Linux&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 249&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <title>[📰] Codex in ChatGPT desktop app for Linux is now in preview</title>
+      <link>https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027</link>
+      <description>&lt;p&gt;Codex in ChatGPT desktop app for Linux is now in preview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 370&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49281916</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 04:53:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work</title>
+      <link>https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/</link>
+      <description>&lt;p&gt;&lt;p&gt;SpaceXAI released Grok 4.6 on August 12, 2026 — a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/"&gt;SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 06:18:14 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How kids feel about AI, in their own words</title>
@@ -327,14 +332,65 @@
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude's new Scarlet Letter watermark is invisible — for now</title>
+      <title>[📰] Claude's new Scarlet Letter watermark is invisible—for now</title>
       <link>https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/</link>
       <description>&lt;p&gt;
                         The mark flags anything Claude processed, even human writing it only edited.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 11:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek Harness developer preview</title>
+      <link>https://deepseek.com/harness/en/</link>
+      <description>&lt;p&gt;DeepSeek Harness developer preview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 363&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49285244</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 12:58:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Choosing an AI model: one prompt, 11 models, different results</title>
+      <link>https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</link>
+      <description>&lt;p&gt;Choosing an AI model: one prompt, 11 models, different results&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 101&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49285327</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 13:05:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic could be worth $2 trillion when it goes public</title>
+      <link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</link>
+      <description>&lt;p&gt;
+                        Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 13:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs</title>
+      <link>https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/</link>
+      <description>&lt;p&gt;Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 15:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft kills off unsuccessful AI features while merging its separate Copilot apps</title>
+      <link>https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</link>
+      <description>&lt;p&gt;Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device</title>
+      <link>https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/"&gt;Liquid AI Releases LFM2.5-VL-3B...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 15:56:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
