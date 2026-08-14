@@ -1,16 +1,5 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-    "description": "<p>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline\u2014from dataset analysis and heuristic cleaning to efficient training and inference\u2014enabling the development of specialized small models without excessive resource requirements</p>\n<p>T...",
-    "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-    "source_link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T03:09:45+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -38,7 +27,7 @@
     "description": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
     "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
     "source_link": "https://news.ycombinator.com/item?id=49290768",
-    "engagement": "\ud83d\udc4d 88",
+    "engagement": "\ud83d\udc4d 105",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T19:25:38+00:00"
@@ -82,21 +71,10 @@
     "description": "Accelerating GPT-5.6 Sol Ultrafast",
     "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "source_link": "https://news.ycombinator.com/item?id=49289844",
-    "engagement": "\ud83d\udc4d 507",
+    "engagement": "\ud83d\udc4d 581",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T18:10:02+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "description": "<p>Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more \u2014 GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...",
-    "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-    "source_link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T17:47:41+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -115,7 +93,7 @@
     "description": "Gemini 3.7 Flash",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "source_link": "https://news.ycombinator.com/item?id=49289112",
-    "engagement": "\ud83d\udc4d 716",
+    "engagement": "\ud83d\udc4d 813",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T17:23:22+00:00"
@@ -137,7 +115,7 @@
     "description": "Mistral OCR 4.1",
     "link": "https://docs.mistral.ai/models/ocr-4-1",
     "source_link": "https://news.ycombinator.com/item?id=49288889",
-    "engagement": "\ud83d\udc4d 283",
+    "engagement": "\ud83d\udc4d 336",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T17:05:12+00:00"
@@ -152,28 +130,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T17:00:13+00:00"
-  },
-  {
-    "id": "hn-49288293",
-    "title": "AI At Home Part 1: A Box Of Scraps",
-    "description": "AI At Home Part 1: A Box Of Scraps",
-    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "source_link": "https://news.ycombinator.com/item?id=49288293",
-    "engagement": "\ud83d\udc4d 110",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T16:22:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
-    "description": "<p>Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/\">Liquid AI Releases LFM2.5-VL-3B...",
-    "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-    "source_link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T15:56:03+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
@@ -198,34 +154,12 @@
     "published": "2026-08-13T15:08:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Anthropic could be worth $2 trillion when it goes public",
-    "description": "\n                        Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "source_link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T13:58:56+00:00"
-  },
-  {
-    "id": "hn-49285327",
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "description": "Choosing an AI model: one prompt, 11 models, different results",
-    "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "source_link": "https://news.ycombinator.com/item?id=49285327",
-    "engagement": "\ud83d\udc4d 187",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T13:05:29+00:00"
-  },
-  {
     "id": "hn-49285244",
     "title": "DeepSeek Harness developer preview",
     "description": "DeepSeek Harness developer preview",
     "link": "https://deepseek.com/harness/en/",
     "source_link": "https://news.ycombinator.com/item?id=49285244",
-    "engagement": "\ud83d\udc4d 604",
+    "engagement": "\ud83d\udc4d 652",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T12:58:02+00:00"
@@ -242,17 +176,6 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
-    "description": "<p>SpaceXAI released Grok 4.6 on August 12, 2026 \u2014 a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/\">SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...",
-    "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-    "source_link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T06:18:14+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-8",
     "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
     "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -264,17 +187,6 @@
     "published": "2026-08-12T22:26:37+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
-    "description": "<p>Build a custom LLM post-training pipeline using AllenAI\u2019s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...",
-    "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
-    "source_link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T17:37:37+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
@@ -284,28 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T16:51:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "source_link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T06:59:40+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Xiaomi\u2019s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
-    "description": "<p>Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...",
-    "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-    "source_link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T05:05:52+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",

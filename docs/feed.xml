@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 05:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:59:17 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -193,25 +193,6 @@
       <pubDate>Mon, 10 Aug 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark</title>
-      <link>https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/</link>
-      <description>&lt;p&gt;&lt;p&gt;Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 05:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</title>
-      <link>https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/"&gt;NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 06:59:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Scaling AI agents with trustworthy data</title>
       <link>https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/</link>
       <description>&lt;p&gt;Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -220,30 +201,12 @@
       <pubDate>Wed, 12 Aug 2026 16:51:57 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation</title>
-      <link>https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/</link>
-      <description>&lt;p&gt;&lt;p&gt;Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 17:37:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</title>
       <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
       <description>&lt;p&gt;Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work</title>
-      <link>https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/</link>
-      <description>&lt;p&gt;&lt;p&gt;SpaceXAI released Grok 4.6 on August 12, 2026 — a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/"&gt;SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 06:18:14 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How kids feel about AI, in their own words</title>
@@ -256,28 +219,10 @@
     <item>
       <title>[📰] DeepSeek Harness developer preview</title>
       <link>https://deepseek.com/harness/en/</link>
-      <description>&lt;p&gt;DeepSeek Harness developer preview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 604&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek Harness developer preview&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 652&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49285244</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 12:58:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Choosing an AI model: one prompt, 11 models, different results</title>
-      <link>https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</link>
-      <description>&lt;p&gt;Choosing an AI model: one prompt, 11 models, different results&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 187&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49285327</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 13:05:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic could be worth $2 trillion when it goes public</title>
-      <link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/</link>
-      <description>&lt;p&gt;
-                        Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 13:58:56 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs</title>
@@ -296,23 +241,6 @@
       <pubDate>Thu, 13 Aug 2026 15:30:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device</title>
-      <link>https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/"&gt;Liquid AI Releases LFM2.5-VL-3B...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 15:56:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI At Home Part 1: A Box Of Scraps</title>
-      <link>https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html</link>
-      <description>&lt;p&gt;AI At Home Part 1: A Box Of Scraps&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 110&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49288293</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 16:22:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google announces Gemini 3.7 Flash just three weeks after previous release</title>
       <link>https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/</link>
       <description>&lt;p&gt;
@@ -325,7 +253,7 @@
     <item>
       <title>[📰] Mistral OCR 4.1</title>
       <link>https://docs.mistral.ai/models/ocr-4-1</link>
-      <description>&lt;p&gt;Mistral OCR 4.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 283&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral OCR 4.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 336&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49288889</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 17:05:12 +0000</pubDate>
@@ -341,7 +269,7 @@
     <item>
       <title>[📰] Gemini 3.7 Flash</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
-      <description>&lt;p&gt;Gemini 3.7 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 716&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.7 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 813&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49289112</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 17:23:22 +0000</pubDate>
@@ -357,17 +285,9 @@
       <pubDate>Thu, 13 Aug 2026 17:32:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens</title>
-      <link>https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more — GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 13 Aug 2026 17:47:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Accelerating GPT-5.6 Sol Ultrafast</title>
       <link>https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</link>
-      <description>&lt;p&gt;Accelerating GPT-5.6 Sol Ultrafast&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 507&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Accelerating GPT-5.6 Sol Ultrafast&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 581&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49289844</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 18:10:02 +0000</pubDate>
@@ -399,7 +319,7 @@
     <item>
       <title>[📰] How Organizations Use AI: Evidence from ChatGPT [pdf]</title>
       <link>https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</link>
-      <description>&lt;p&gt;How Organizations Use AI: Evidence from ChatGPT [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 88&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How Organizations Use AI: Evidence from ChatGPT [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 105&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49290768</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 19:25:38 +0000</pubDate>
@@ -419,15 +339,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus</title>
-      <link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
-      <description>&lt;p&gt;&lt;p&gt;This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements&lt;/p&gt;
-&lt;p&gt;T...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
