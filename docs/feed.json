@@ -1,14 +1,47 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "description": "\n                        Judge warns pro se litigants are using chatbots wrong and getting desperate.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T17:26:53+00:00"
+  },
+  {
+    "id": "hn-49300800",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "description": "Maximizing the value of your Claude Code sessions",
+    "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "source_link": "https://news.ycombinator.com/item?id=49300800",
+    "engagement": "\ud83d\udc4d 82",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T16:15:21+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "source_link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-14T16:13:40+00:00"
+  },
+  {
+    "id": "hn-49300568",
+    "title": "AI by Hand",
+    "description": "AI by Hand",
+    "link": "https://www.byhand.ai/",
+    "source_link": "https://news.ycombinator.com/item?id=49300568",
+    "engagement": "\ud83d\udc4d 93",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T15:58:59+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -22,26 +55,15 @@
     "published": "2026-08-14T15:43:28+00:00"
   },
   {
-    "id": "hn-49299282",
-    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-    "description": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-    "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-    "source_link": "https://news.ycombinator.com/item?id=49299282",
-    "engagement": "\ud83d\udc4d 132",
+    "id": "hn-49300314",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "description": "Google is making private AI practical with homomorphic encryption",
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "source_link": "https://news.ycombinator.com/item?id=49300314",
+    "engagement": "\ud83d\udc4d 153",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T14:34:49+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "description": "\n                        US groups release cheaper models after new challenges to their trillion-dollar ambitions.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "source_link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T14:27:14+00:00"
+    "published": "2026-08-14T15:43:10+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -71,10 +93,32 @@
     "description": "DeepSeek peak/off-peak pricing update",
     "link": "https://api-docs.deepseek.com/news/news260813/",
     "source_link": "https://news.ycombinator.com/item?id=49296627",
-    "engagement": "\ud83d\udc4d 189",
+    "engagement": "\ud83d\udc4d 228",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-14T09:55:33+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+    "description": "<p>Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.</p>\n<p>The post <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T08:03:22+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
+    "description": "<p>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline\u2014from dataset analysis and heuristic cleaning to efficient training and inference\u2014enabling the development of specialized small models without excessive resource requirements</p>\n<p>T...",
+    "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
+    "source_link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T03:09:45+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -132,6 +176,28 @@
     "published": "2026-08-13T18:28:14+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+    "description": "<p>Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more \u2014 GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...",
+    "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+    "source_link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T17:47:41+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
+    "description": "<p>Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/\">Liquid AI Releases LFM2.5-VL-3B...",
+    "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
+    "source_link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T15:56:03+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "How kids feel about AI, in their own words",
     "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
@@ -143,6 +209,28 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-4",
+    "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
+    "description": "<p>SpaceXAI released Grok 4.6 on August 12, 2026 \u2014 a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/\">SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...",
+    "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
+    "source_link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T06:18:14+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
+    "description": "<p>Build a custom LLM post-training pipeline using AllenAI\u2019s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...",
+    "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+    "source_link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T17:37:37+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
@@ -152,6 +240,28 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T16:51:57+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
+    "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+    "source_link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T06:59:40+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-7",
+    "title": "Xiaomi\u2019s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
+    "description": "<p>Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structural: erasure is an ill-posed, one-to-many task, so no single ground truth exists to [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object...",
+    "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
+    "source_link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-12T05:05:52+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
