@@ -1,25 +1,47 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
+    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source_link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-15T18:58:39+00:00"
+  },
+  {
+    "id": "hn-49312845",
+    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+    "description": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "source_link": "https://news.ycombinator.com/item?id=49312845",
+    "engagement": "\ud83d\udc4d 213",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-15T18:13:02+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "source_link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-15T16:30:00+00:00"
+  },
+  {
     "id": "hn-49309451",
     "title": "Working with AI Feels More Like Leadership Than Coding",
     "description": "Working with AI Feels More Like Leadership Than Coding",
     "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
     "source_link": "https://news.ycombinator.com/item?id=49309451",
-    "engagement": "\ud83d\udc4d 94",
+    "engagement": "\ud83d\udc4d 203",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-15T10:39:41+00:00"
-  },
-  {
-    "id": "hn-49307700",
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-    "description": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
-    "link": "https://chenxiachan.github.io/thoughtdag/",
-    "source_link": "https://news.ycombinator.com/item?id=49307700",
-    "engagement": "\ud83d\udc4d 87",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-15T04:42:07+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -33,7 +55,7 @@
     "published": "2026-08-14T17:26:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -44,7 +66,7 @@
     "published": "2026-08-14T16:13:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
     "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;\u2014 a contrast to&#160;Muse&#160;Spark, the company\u2019s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs, but as Equity\u2019s [&#8230;]",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -55,18 +77,7 @@
     "published": "2026-08-14T15:43:28+00:00"
   },
   {
-    "id": "hn-49300314",
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "description": "Google is making private AI practical with homomorphic encryption",
-    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "source_link": "https://news.ycombinator.com/item?id=49300314",
-    "engagement": "\ud83d\udc4d 458",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T15:43:10+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
     "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
     "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
@@ -77,7 +88,7 @@
     "published": "2026-08-14T14:05:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong\u00a0",
     "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;\u2014 a contrast to&#160;Muse&#160;Spark, the company\u2019s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs, but as Equity\u2019s [&#8230;]",
     "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
@@ -110,7 +121,7 @@
     "published": "2026-08-14T03:09:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -121,7 +132,7 @@
     "published": "2026-08-13T21:13:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -132,7 +143,7 @@
     "published": "2026-08-13T20:14:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. ",
     "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -141,28 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-13T19:22:40+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "source_link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T19:19:49+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today\u2019s safety tests capture the risks of multi-agent systems.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "source_link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T18:28:14+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
