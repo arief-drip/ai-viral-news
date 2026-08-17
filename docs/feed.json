@@ -1,6 +1,72 @@
 [
   {
+    "id": "hn-49336573",
+    "title": "AI;DR (AI; Didn't Read)",
+    "description": "AI;DR (AI; Didn't Read)",
+    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source_link": "https://news.ycombinator.com/item?id=49336573",
+    "engagement": "\ud83d\udc4d 106",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T19:47:15+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "What Flock\u2019s defenders are missing",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source_link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T19:16:09+00:00"
+  },
+  {
+    "id": "hn-49336050",
+    "title": "AirTag reveals Amazon is trashing rare books to train AI",
+    "description": "AirTag reveals Amazon is trashing rare books to train AI",
+    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "source_link": "https://news.ycombinator.com/item?id=49336050",
+    "engagement": "\ud83d\udc4d 78",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T19:06:11+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+    "description": "\n                        Amazon\u2019s team uses a <em>T. rex</em> preparing to devour a book as its logo.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T18:13:47+00:00"
+  },
+  {
+    "id": "hn-49335216",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "description": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source_link": "https://news.ycombinator.com/item?id=49335216",
+    "engagement": "\ud83d\udc4d 71",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T18:10:16+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source_link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T16:38:44+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
     "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -11,7 +77,18 @@
     "published": "2026-08-17T16:15:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49332751",
+    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "description": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "link": "https://speko.ai/",
+    "source_link": "https://news.ycombinator.com/item?id=49332751",
+    "engagement": "\ud83d\udc4d 75",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T15:36:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -23,11 +100,11 @@
   },
   {
     "id": "hn-49331423",
-    "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-    "description": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+    "description": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "source_link": "https://news.ycombinator.com/item?id=49331423",
-    "engagement": "\ud83d\udc4d 87",
+    "engagement": "\ud83d\udc4d 249",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:18:38+00:00"
@@ -38,10 +115,21 @@
     "description": "How to disable or avoid intrusive AI",
     "link": "https://www.librarian.net/notoai/",
     "source_link": "https://news.ycombinator.com/item?id=49331220",
-    "engagement": "\ud83d\udc4d 64",
+    "engagement": "\ud83d\udc4d 191",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:07:56+00:00"
+  },
+  {
+    "id": "hn-49330215",
+    "title": "Show HN: Sokoban AI Solver",
+    "description": "Show HN: Sokoban AI Solver",
+    "link": "https://mkornreich.me/projects/sokoban/",
+    "source_link": "https://news.ycombinator.com/item?id=49330215",
+    "engagement": "\ud83d\udc4d 59",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T13:07:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -60,24 +148,35 @@
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source_link": "https://news.ycombinator.com/item?id=49329575",
-    "engagement": "\ud83d\udc4d 171",
+    "engagement": "\ud83d\udc4d 254",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T12:09:42+00:00"
   },
   {
+    "id": "hn-49325789",
+    "title": "On AI regulation and messaging",
+    "description": "On AI regulation and messaging",
+    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "source_link": "https://news.ycombinator.com/item?id=49325789",
+    "engagement": "\ud83d\udc4d 218",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T01:59:56+00:00"
+  },
+  {
     "id": "hn-49324087",
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-    "description": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
+    "description": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
     "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "source_link": "https://news.ycombinator.com/item?id=49324087",
-    "engagement": "\ud83d\udc4d 588",
+    "engagement": "\ud83d\udc4d 737",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-16T21:53:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -88,7 +187,7 @@
     "published": "2026-08-16T20:57:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
     "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg\u2019s vision.",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -99,7 +198,7 @@
     "published": "2026-08-16T20:32:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
     "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -110,18 +209,7 @@
     "published": "2026-08-16T16:53:51+00:00"
   },
   {
-    "id": "hn-49319556",
-    "title": "Claude: System Prompts",
-    "description": "Claude: System Prompts",
-    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "source_link": "https://news.ycombinator.com/item?id=49319556",
-    "engagement": "\ud83d\udc4d 729",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-16T12:48:21+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -132,7 +220,7 @@
     "published": "2026-08-15T21:29:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
     "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -143,7 +231,7 @@
     "published": "2026-08-15T18:58:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "SpaceX officially closes its Cursor acquisition",
     "description": "AI coding startup Cursor is now officially a part of SpaceX.",
     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -154,18 +242,7 @@
     "published": "2026-08-15T16:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source_link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T16:13:40+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "How kids feel about AI, in their own words",
     "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -176,7 +253,7 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
     "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -187,7 +264,7 @@
     "published": "2026-08-12T16:51:57+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "AI professors are negotiating the new realities of academic research",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -209,7 +286,7 @@
     "published": "2026-08-10T12:32:20+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "AI for science needs reasoning, not just data",
     "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -220,7 +297,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "These startups are chasing the next big thing in LLMs",
     "description": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
@@ -231,7 +308,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Trump\u2019s AI protectionism has come for robotics",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
@@ -253,7 +330,7 @@
     "published": "2026-08-03T13:31:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -262,17 +339,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T08:30:05+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "source_link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-30T10:15:19+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-3",
