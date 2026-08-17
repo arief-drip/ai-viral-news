@@ -1,11 +1,22 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
+    "description": "<p>DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/\">DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPo...",
+    "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "source_link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T09:06:32+00:00"
+  },
+  {
     "id": "hn-49325714",
     "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
     "description": "AGI-64 Brings Sierra Adventures to the Commodore 64",
     "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
     "source_link": "https://news.ycombinator.com/item?id=49325714",
-    "engagement": "\ud83d\udc4d 77",
+    "engagement": "\ud83d\udc4d 99",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T01:45:36+00:00"
@@ -16,7 +27,7 @@
     "description": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
     "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "source_link": "https://news.ycombinator.com/item?id=49324087",
-    "engagement": "\ud83d\udc4d 210",
+    "engagement": "\ud83d\udc4d 383",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-16T21:53:43+00:00"
@@ -49,7 +60,7 @@
     "description": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
     "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
     "source_link": "https://news.ycombinator.com/item?id=49323136",
-    "engagement": "\ud83d\udc4d 54",
+    "engagement": "\ud83d\udc4d 79",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-16T20:01:13+00:00"
@@ -71,7 +82,7 @@
     "description": "The AI Credit Resale Economy",
     "link": "https://vectoral.com/blog/who-are-the-token-brokers",
     "source_link": "https://news.ycombinator.com/item?id=49320611",
-    "engagement": "\ud83d\udc4d 277",
+    "engagement": "\ud83d\udc4d 301",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-16T14:44:55+00:00"
@@ -82,7 +93,7 @@
     "description": "Claude: System Prompts",
     "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
     "source_link": "https://news.ycombinator.com/item?id=49319556",
-    "engagement": "\ud83d\udc4d 642",
+    "engagement": "\ud83d\udc4d 688",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-16T12:48:21+00:00"
@@ -165,7 +176,7 @@
     "published": "2026-08-14T14:05:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
     "description": "<p>Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.</p>\n<p>The post <a href=\"https://www...",
     "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
@@ -176,7 +187,7 @@
     "published": "2026-08-14T08:03:22+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
     "description": "<p>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline\u2014from dataset analysis and heuristic cleaning to efficient training and inference\u2014enabling the development of specialized small models without excessive resource requirements</p>\n<p>T...",
     "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
@@ -187,7 +198,7 @@
     "published": "2026-08-14T03:09:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
     "description": "<p>Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more \u2014 GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...",
     "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
@@ -198,7 +209,7 @@
     "published": "2026-08-13T17:47:41+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
     "description": "<p>Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/\">Liquid AI Releases LFM2.5-VL-3B...",
     "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
@@ -220,7 +231,7 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work",
     "description": "<p>SpaceXAI released Grok 4.6 on August 12, 2026 \u2014 a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/\">SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...",
     "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
@@ -231,7 +242,7 @@
     "published": "2026-08-13T06:18:14+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
     "description": "<p>Build a custom LLM post-training pipeline using AllenAI\u2019s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...",
     "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
@@ -251,17 +262,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-12T16:51:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "description": "<p>NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/\">NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "source_link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-12T06:59:40+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -350,17 +350,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-07-30T10:15:19+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "The AI Hype Index: Unsexy AI",
-    "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "source_link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-07-29T08:42:57+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 08:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:24:21 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -121,14 +121,6 @@
       <pubDate>Mon, 27 Jul 2026 13:30:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The AI Hype Index: Unsexy AI</title>
-      <link>https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/</link>
-      <description>&lt;p&gt;It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 29 Jul 2026 08:42:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] A fundamental flaw leaves LLMs strikingly vulnerable to attack</title>
       <link>https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/</link>
       <description>&lt;p&gt;It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -193,16 +185,6 @@
       <pubDate>Mon, 10 Aug 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router</title>
-      <link>https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/"&gt;NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 12 Aug 2026 06:59:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Scaling AI agents with trustworthy data</title>
       <link>https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/</link>
       <description>&lt;p&gt;Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -215,7 +197,7 @@
       <link>https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/</link>
       <description>&lt;p&gt;&lt;p&gt;Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on 16GB hardware without needing heavy distributed computing infrastructure.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifie...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 12 Aug 2026 17:37:37 +0000</pubDate>
     </item>
@@ -224,7 +206,7 @@
       <link>https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/</link>
       <description>&lt;p&gt;&lt;p&gt;SpaceXAI released Grok 4.6 on August 12, 2026 — a post-training upgrade over Grok 4.5, not a larger base model. It ties GPT-5.6 Sol Max at 61 on the Artificial Analysis Intelligence Index, ships 500K context and a new xhigh reasoning level, and holds pricing at $2/$6 per million tokens. The coding benchmarks are where it still loses.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/"&gt;SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 06:18:14 +0000</pubDate>
     </item>
@@ -241,7 +223,7 @@
       <link>https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts RefCOCO grounding from 57.1 to 87.9. Function calling is new to the VL line, with ToolSandbox moving from 26.4 to 59.5. The model fits in roughly 3 GB and decodes 228 tokens/s on an Apple M5 Max.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/"&gt;Liquid AI Releases LFM2.5-VL-3B...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 15:56:03 +0000</pubDate>
     </item>
@@ -249,7 +231,7 @@
       <title>[📰] Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens</title>
       <link>https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/</link>
       <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more — GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 13 Aug 2026 17:47:41 +0000</pubDate>
     </item>
@@ -258,7 +240,7 @@
       <link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
       <description>&lt;p&gt;&lt;p&gt;This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements&lt;/p&gt;
 &lt;p&gt;T...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
     </item>
@@ -267,7 +249,7 @@
       <link>https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/</link>
       <description>&lt;p&gt;&lt;p&gt;Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 14 Aug 2026 08:03:22 +0000</pubDate>
     </item>
@@ -332,7 +314,7 @@
     <item>
       <title>[📰] Claude: System Prompts</title>
       <link>https://platform.claude.com/docs/en/release-notes/system-prompts</link>
-      <description>&lt;p&gt;Claude: System Prompts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 642&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude: System Prompts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 688&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49319556</guid>
       <category>AI News</category>
       <pubDate>Sun, 16 Aug 2026 12:48:21 +0000</pubDate>
@@ -340,7 +322,7 @@
     <item>
       <title>[📰] The AI Credit Resale Economy</title>
       <link>https://vectoral.com/blog/who-are-the-token-brokers</link>
-      <description>&lt;p&gt;The AI Credit Resale Economy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 277&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The AI Credit Resale Economy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 301&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49320611</guid>
       <category>AI News</category>
       <pubDate>Sun, 16 Aug 2026 14:44:55 +0000</pubDate>
@@ -356,7 +338,7 @@
     <item>
       <title>[📰] Red queen hypothesis – A new way forward for self-improving AI</title>
       <link>https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai</link>
-      <description>&lt;p&gt;Red queen hypothesis – A new way forward for self-improving AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Red queen hypothesis – A new way forward for self-improving AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 79&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49323136</guid>
       <category>AI News</category>
       <pubDate>Sun, 16 Aug 2026 20:01:13 +0000</pubDate>
@@ -380,7 +362,7 @@
     <item>
       <title>[📰] Anthropic's 'watermark' text adulteration in Claude is a perversion of writing</title>
       <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-      <description>&lt;p&gt;Anthropic's 'watermark' text adulteration in Claude is a perversion of writing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 210&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic's 'watermark' text adulteration in Claude is a perversion of writing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 383&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49324087</guid>
       <category>AI News</category>
       <pubDate>Sun, 16 Aug 2026 21:53:43 +0000</pubDate>
@@ -388,10 +370,19 @@
     <item>
       <title>[📰] AGI-64 Brings Sierra Adventures to the Commodore 64</title>
       <link>https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</link>
-      <description>&lt;p&gt;AGI-64 Brings Sierra Adventures to the Commodore 64&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 77&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AGI-64 Brings Sierra Adventures to the Commodore 64&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 99&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49325714</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 01:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</title>
+      <link>https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/"&gt;DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 17 Aug 2026 09:06:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
