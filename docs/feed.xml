@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:24:58 +0000</lastBuildDate>
     <item>
       <title>[📰] Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</title>
       <link>https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in</link>
@@ -185,6 +185,32 @@
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens</title>
+      <link>https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more — GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 13 Aug 2026 17:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus</title>
+      <link>https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/</link>
+      <description>&lt;p&gt;&lt;p&gt;This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline—from dataset analysis and heuristic cleaning to efficient training and inference—enabling the development of specialized small models without excessive resource requirements&lt;/p&gt;
+&lt;p&gt;T...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 14 Aug 2026 03:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks</title>
+      <link>https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/</link>
+      <description>&lt;p&gt;&lt;p&gt;Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 14 Aug 2026 08:03:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
       <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
       <description>&lt;p&gt;The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -217,9 +243,18 @@
       <pubDate>Sun, 16 Aug 2026 20:57:04 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</title>
+      <link>https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/"&gt;DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 17 Aug 2026 09:06:32 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] GPT 5.6 Sol is the best "vision" model OpenAI ever released</title>
       <link>https://blog.roboflow.com/openai-gpt-5-6/</link>
-      <description>&lt;p&gt;GPT 5.6 Sol is the best "vision" model OpenAI ever released&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 313&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT 5.6 Sol is the best "vision" model OpenAI ever released&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 337&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49329575</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 12:09:42 +0000</pubDate>
@@ -235,7 +270,7 @@
     <item>
       <title>[📰] How to disable or avoid intrusive AI</title>
       <link>https://www.librarian.net/notoai/</link>
-      <description>&lt;p&gt;How to disable or avoid intrusive AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 265&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How to disable or avoid intrusive AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 294&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49331220</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 14:07:56 +0000</pubDate>
@@ -243,7 +278,7 @@
     <item>
       <title>[📰] AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira</title>
       <link>https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</link>
-      <description>&lt;p&gt;AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 365&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49331423</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 14:18:38 +0000</pubDate>
@@ -259,7 +294,7 @@
     <item>
       <title>[📰] Launch HN: Speko (YC S26) – OpenRouter for Voice AI</title>
       <link>https://speko.ai/</link>
-      <description>&lt;p&gt;Launch HN: Speko (YC S26) – OpenRouter for Voice AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 95&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Launch HN: Speko (YC S26) – OpenRouter for Voice AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 101&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49332751</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 15:36:18 +0000</pubDate>
@@ -301,7 +336,7 @@
     <item>
       <title>[📰] AI;DR (AI; Didn't Read)</title>
       <link>https://www.rickmanelius.com/p/aidr-ai-didnt-read</link>
-      <description>&lt;p&gt;AI;DR (AI; Didn't Read)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 695&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI;DR (AI; Didn't Read)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 845&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49336573</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 19:47:15 +0000</pubDate>
@@ -309,7 +344,7 @@
     <item>
       <title>[📰] Israel creates fake think tank in likely attempt to dupe AI chatbots</title>
       <link>https://responsiblestatecraft.org/israel-influence-chatgpt/</link>
-      <description>&lt;p&gt;Israel creates fake think tank in likely attempt to dupe AI chatbots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 224&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Israel creates fake think tank in likely attempt to dupe AI chatbots&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 435&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49337392</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 20:46:10 +0000</pubDate>
@@ -317,7 +352,7 @@
     <item>
       <title>[📰] GPT-5.6 Sol Pricing Cut by 50%</title>
       <link>https://openrouter.ai/openai/gpt-5.6-sol</link>
-      <description>&lt;p&gt;GPT-5.6 Sol Pricing Cut by 50%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 230&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.6 Sol Pricing Cut by 50%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 405&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49337602</guid>
       <category>AI News</category>
       <pubDate>Mon, 17 Aug 2026 21:03:18 +0000</pubDate>

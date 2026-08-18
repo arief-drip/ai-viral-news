@@ -16,7 +16,7 @@
     "description": "GPT-5.6 Sol Pricing Cut by 50%",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol",
     "source_link": "https://news.ycombinator.com/item?id=49337602",
-    "engagement": "\ud83d\udc4d 230",
+    "engagement": "\ud83d\udc4d 405",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T21:03:18+00:00"
@@ -27,7 +27,7 @@
     "description": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "source_link": "https://news.ycombinator.com/item?id=49337392",
-    "engagement": "\ud83d\udc4d 224",
+    "engagement": "\ud83d\udc4d 435",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T20:46:10+00:00"
@@ -38,7 +38,7 @@
     "description": "AI;DR (AI; Didn't Read)",
     "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "source_link": "https://news.ycombinator.com/item?id=49336573",
-    "engagement": "\ud83d\udc4d 695",
+    "engagement": "\ud83d\udc4d 845",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T19:47:15+00:00"
@@ -93,7 +93,7 @@
     "description": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
     "link": "https://speko.ai/",
     "source_link": "https://news.ycombinator.com/item?id=49332751",
-    "engagement": "\ud83d\udc4d 95",
+    "engagement": "\ud83d\udc4d 101",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T15:36:18+00:00"
@@ -115,7 +115,7 @@
     "description": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "source_link": "https://news.ycombinator.com/item?id=49331423",
-    "engagement": "\ud83d\udc4d 334",
+    "engagement": "\ud83d\udc4d 365",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:18:38+00:00"
@@ -126,7 +126,7 @@
     "description": "How to disable or avoid intrusive AI",
     "link": "https://www.librarian.net/notoai/",
     "source_link": "https://news.ycombinator.com/item?id=49331220",
-    "engagement": "\ud83d\udc4d 265",
+    "engagement": "\ud83d\udc4d 294",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:07:56+00:00"
@@ -148,10 +148,21 @@
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source_link": "https://news.ycombinator.com/item?id=49329575",
-    "engagement": "\ud83d\udc4d 313",
+    "engagement": "\ud83d\udc4d 337",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T12:09:42+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
+    "description": "<p>DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/\">DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPo...",
+    "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "source_link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T09:06:32+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -196,6 +207,39 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-15T21:29:19+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+    "description": "<p>Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.</p>\n<p>The post <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T08:03:22+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
+    "description": "<p>This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-to-end pipeline\u2014from dataset analysis and heuristic cleaning to efficient training and inference\u2014enabling the development of specialized small models without excessive resource requirements</p>\n<p>T...",
+    "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
+    "source_link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-14T03:09:45+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+    "description": "<p>Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more \u2014 GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...",
+    "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+    "source_link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-13T17:47:41+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
