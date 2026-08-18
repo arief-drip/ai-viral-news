@@ -1,5 +1,38 @@
 [
   {
+    "id": "hn-49343559",
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "description": "Google buys crashed airline Spirit's data at auction, because AI",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "source_link": "https://news.ycombinator.com/item?id=49343559",
+    "engagement": "\ud83d\udc4d 140",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-18T10:13:28+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "We still don\u2019t know how people are really using AI",
+    "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "source_link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-18T10:06:43+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-1",
+    "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+    "description": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source_link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-18T09:00:00+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
     "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
@@ -16,7 +49,7 @@
     "description": "GPT-5.6 Sol Pricing Cut by 50%",
     "link": "https://openrouter.ai/openai/gpt-5.6-sol",
     "source_link": "https://news.ycombinator.com/item?id=49337602",
-    "engagement": "\ud83d\udc4d 405",
+    "engagement": "\ud83d\udc4d 509",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T21:03:18+00:00"
@@ -27,7 +60,7 @@
     "description": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "source_link": "https://news.ycombinator.com/item?id=49337392",
-    "engagement": "\ud83d\udc4d 435",
+    "engagement": "\ud83d\udc4d 667",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T20:46:10+00:00"
@@ -38,13 +71,13 @@
     "description": "AI;DR (AI; Didn't Read)",
     "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "source_link": "https://news.ycombinator.com/item?id=49336573",
-    "engagement": "\ud83d\udc4d 845",
+    "engagement": "\ud83d\udc4d 953",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T19:47:15+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "What Flock\u2019s defenders are missing",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
     "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
@@ -88,17 +121,6 @@
     "published": "2026-08-17T16:15:12+00:00"
   },
   {
-    "id": "hn-49332751",
-    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-    "description": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-    "link": "https://speko.ai/",
-    "source_link": "https://news.ycombinator.com/item?id=49332751",
-    "engagement": "\ud83d\udc4d 101",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T15:36:18+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-3",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
@@ -115,7 +137,7 @@
     "description": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "source_link": "https://news.ycombinator.com/item?id=49331423",
-    "engagement": "\ud83d\udc4d 365",
+    "engagement": "\ud83d\udc4d 391",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:18:38+00:00"
@@ -126,7 +148,7 @@
     "description": "How to disable or avoid intrusive AI",
     "link": "https://www.librarian.net/notoai/",
     "source_link": "https://news.ycombinator.com/item?id=49331220",
-    "engagement": "\ud83d\udc4d 294",
+    "engagement": "\ud83d\udc4d 312",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:07:56+00:00"
@@ -148,7 +170,7 @@
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source_link": "https://news.ycombinator.com/item?id=49329575",
-    "engagement": "\ud83d\udc4d 337",
+    "engagement": "\ud83d\udc4d 346",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T12:09:42+00:00"
@@ -231,18 +253,7 @@
     "published": "2026-08-14T03:09:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-    "description": "<p>Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, audio, and video across a 1M-token context window with 64K-token output, and supports customizable thinking configurations. Coding results move notably: 43.6% on FrontierCode 1.1 Main versus 34.4%, 65.3% on DeepSWE v1.1, and 1588 Elo on WebDev Arena. Document and workflow evals gain more \u2014 GDP.pdf goes from 22.0% to 34.0%, AutomationBench from 17...",
-    "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-    "source_link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-13T17:47:41+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "How kids feel about AI, in their own words",
     "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -253,7 +264,7 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
     "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -264,7 +275,7 @@
     "published": "2026-08-12T16:51:57+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "AI professors are negotiating the new realities of academic research",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -286,7 +297,7 @@
     "published": "2026-08-10T12:32:20+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "AI for science needs reasoning, not just data",
     "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
@@ -297,7 +308,7 @@
     "published": "2026-08-10T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "These startups are chasing the next big thing in LLMs",
     "description": "MIT Technology Review\u2019s What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called \u201cAttention Is All You Need,\u201d in which they described a new&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
@@ -306,17 +317,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-6",
-    "title": "Trump\u2019s AI protectionism has come for robotics",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It\u2019s a nascent industry, and such robots&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "source_link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T18:43:30+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
@@ -328,17 +328,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-03T13:31:22+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
-    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren\u2019t trying to make money or commit sabotage\u2014they were just looking for answers&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "source_link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-03T08:30:05+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-3",
