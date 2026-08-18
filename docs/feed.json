@@ -1,11 +1,33 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
+    "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source_link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T21:27:05+00:00"
+  },
+  {
+    "id": "hn-49337602",
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "description": "GPT-5.6 Sol Pricing Cut by 50%",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "source_link": "https://news.ycombinator.com/item?id=49337602",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-17T21:03:18+00:00"
+  },
+  {
     "id": "hn-49336573",
     "title": "AI;DR (AI; Didn't Read)",
     "description": "AI;DR (AI; Didn't Read)",
     "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
     "source_link": "https://news.ycombinator.com/item?id=49336573",
-    "engagement": "\ud83d\udc4d 106",
+    "engagement": "\ud83d\udc4d 558",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T19:47:15+00:00"
@@ -22,17 +44,6 @@
     "published": "2026-08-17T19:16:09+00:00"
   },
   {
-    "id": "hn-49336050",
-    "title": "AirTag reveals Amazon is trashing rare books to train AI",
-    "description": "AirTag reveals Amazon is trashing rare books to train AI",
-    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "source_link": "https://news.ycombinator.com/item?id=49336050",
-    "engagement": "\ud83d\udc4d 78",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T19:06:11+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-0",
     "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
     "description": "\n                        Amazon\u2019s team uses a <em>T. rex</em> preparing to devour a book as its logo.\n                    ",
@@ -44,18 +55,7 @@
     "published": "2026-08-17T18:13:47+00:00"
   },
   {
-    "id": "hn-49335216",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "description": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source_link": "https://news.ycombinator.com/item?id=49335216",
-    "engagement": "\ud83d\udc4d 71",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T18:10:16+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
     "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
@@ -66,7 +66,7 @@
     "published": "2026-08-17T16:38:44+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
     "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -82,13 +82,13 @@
     "description": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
     "link": "https://speko.ai/",
     "source_link": "https://news.ycombinator.com/item?id=49332751",
-    "engagement": "\ud83d\udc4d 75",
+    "engagement": "\ud83d\udc4d 89",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T15:36:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -104,7 +104,7 @@
     "description": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "source_link": "https://news.ycombinator.com/item?id=49331423",
-    "engagement": "\ud83d\udc4d 249",
+    "engagement": "\ud83d\udc4d 307",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:18:38+00:00"
@@ -115,21 +115,10 @@
     "description": "How to disable or avoid intrusive AI",
     "link": "https://www.librarian.net/notoai/",
     "source_link": "https://news.ycombinator.com/item?id=49331220",
-    "engagement": "\ud83d\udc4d 191",
+    "engagement": "\ud83d\udc4d 248",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T14:07:56+00:00"
-  },
-  {
-    "id": "hn-49330215",
-    "title": "Show HN: Sokoban AI Solver",
-    "description": "Show HN: Sokoban AI Solver",
-    "link": "https://mkornreich.me/projects/sokoban/",
-    "source_link": "https://news.ycombinator.com/item?id=49330215",
-    "engagement": "\ud83d\udc4d 59",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T13:07:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -148,35 +137,13 @@
     "description": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
     "link": "https://blog.roboflow.com/openai-gpt-5-6/",
     "source_link": "https://news.ycombinator.com/item?id=49329575",
-    "engagement": "\ud83d\udc4d 254",
+    "engagement": "\ud83d\udc4d 295",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T12:09:42+00:00"
   },
   {
-    "id": "hn-49325789",
-    "title": "On AI regulation and messaging",
-    "description": "On AI regulation and messaging",
-    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "source_link": "https://news.ycombinator.com/item?id=49325789",
-    "engagement": "\ud83d\udc4d 218",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T01:59:56+00:00"
-  },
-  {
-    "id": "hn-49324087",
-    "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
-    "description": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
-    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "source_link": "https://news.ycombinator.com/item?id=49324087",
-    "engagement": "\ud83d\udc4d 737",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-16T21:53:43+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -187,7 +154,7 @@
     "published": "2026-08-16T20:57:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
     "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg\u2019s vision.",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -198,7 +165,7 @@
     "published": "2026-08-16T20:32:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
     "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
     "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -209,7 +176,7 @@
     "published": "2026-08-16T16:53:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -218,28 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-15T21:29:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
-    "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "source_link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-15T18:58:39+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "source_link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-15T16:30:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
