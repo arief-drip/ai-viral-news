@@ -11,17 +11,6 @@
     "published": "2026-08-18T22:14:25+00:00"
   },
   {
-    "id": "hn-49353432",
-    "title": "AI usage patterns in software teams",
-    "description": "AI usage patterns in software teams",
-    "link": "https://linear.app/data",
-    "source_link": "https://news.ycombinator.com/item?id=49353432",
-    "engagement": "\ud83d\udc4d 131",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-18T22:08:07+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-1",
     "title": "OpenAI institutes new safeguards after Hugging Face breach",
     "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
@@ -88,23 +77,12 @@
     "published": "2026-08-18T13:45:40+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
-    "description": "<p>Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 \u2014 and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.</p>\n<p>The ...",
-    "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
-    "source_link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-18T13:29:10+00:00"
-  },
-  {
     "id": "hn-49344643",
     "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
     "description": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
     "link": "https://twitter.com/kuberwastaken/status/2089377982536388964",
     "source_link": "https://news.ycombinator.com/item?id=49344643",
-    "engagement": "\ud83d\udc4d 188",
+    "engagement": "\ud83d\udc4d 229",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-18T12:22:58+00:00"
@@ -154,17 +132,6 @@
     "published": "2026-08-17T19:16:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source_link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T16:38:44+00:00"
-  },
-  {
     "id": "rss-Import AI (Jack Clark)-0",
     "title": "Import AI 469: Science AI; RSI simulator; and Zuck\u2019s technological pessimism",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
@@ -174,28 +141,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-17T13:05:36+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
-    "description": "<p>DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/\">DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPo...",
-    "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
-    "source_link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-17T09:06:32+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-    "description": "<p>Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.</p>\n<p>The post <a href=\"https://www...",
-    "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-    "source_link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-14T08:03:22+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
