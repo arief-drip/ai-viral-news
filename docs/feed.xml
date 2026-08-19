@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:16:45 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -161,24 +161,6 @@
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks</title>
-      <link>https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/</link>
-      <description>&lt;p&gt;&lt;p&gt;Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9. Cybersecurity moved further than Z.ai says it planned, with CyberGym at 84.5% and ExploitBench more than doubling to 54.4%. Weights arrive in about two weeks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 14 Aug 2026 08:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin</title>
-      <link>https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/</link>
-      <description>&lt;p&gt;&lt;p&gt;DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and provider-agnostic model routing.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/"&gt;DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 17 Aug 2026 09:06:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
       <link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -211,59 +193,10 @@
       <pubDate>Tue, 18 Aug 2026 10:06:43 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude writing a macOS driver for my obscure HP printer built only for Windows</title>
-      <link>https://twitter.com/kuberwastaken/status/2089377982536388964</link>
-      <description>&lt;p&gt;Claude writing a macOS driver for my obscure HP printer built only for Windows&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 283&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49344643</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 12:22:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents</title>
-      <link>https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.&lt;/p&gt;
-&lt;p&gt;The ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 13:29:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Warp’s new system is an out-of-the-box software factory for AI development</title>
-      <link>https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/</link>
-      <description>&lt;p&gt;On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear</title>
-      <link>https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/</link>
-      <description>&lt;p&gt;Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 16:19:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Etched’s valuation doubles to $21B in a month</title>
-      <link>https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/</link>
-      <description>&lt;p&gt;Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 17:21:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI institutes new safeguards after Hugging Face breach</title>
-      <link>https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/</link>
-      <description>&lt;p&gt;The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 18 Aug 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Cursor capitalizes on GitHub frustration, launches rival hosting platform</title>
       <link>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</link>
       <description>&lt;p&gt;Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 18 Aug 2026 22:14:25 +0000</pubDate>
     </item>
@@ -271,7 +204,7 @@
       <title>[📰] AI isn’t close to curing cancer. This startup says it knows what it will take.</title>
       <link>https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/</link>
       <description>&lt;p&gt;It's the data, stupid. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
@@ -287,17 +220,57 @@
       <title>[📰] Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required</title>
       <link>https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/</link>
       <description>&lt;p&gt;Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Mathematics in the Age of AI</title>
+      <link>https://arxiv.org/abs/2608.16753</link>
+      <description>&lt;p&gt;Mathematics in the Age of AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49362728</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 19 Aug 2026 15:14:25 +0000</pubDate>
     </item>
     <item>
       <title>[📰] TerraPower’s nuclear reactor has a secret weapon for powering AI data centers</title>
       <link>https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/</link>
       <description>&lt;p&gt;TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 19 Aug 2026 15:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet the startup helping Wall Street put a price on AI compute</title>
+      <link>https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/</link>
+      <description>&lt;p&gt;The AI buildout shows no signs of slowing. And&amp;#160;with&amp;#160;hundreds of&amp;#160;billions of dollars a year going into data centers and GPUs,&amp;#160;compute has&amp;#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&amp;#160;isn’t&amp;#160;a straightforward way to put a price on&amp;#160;compute&amp;#160;— or&amp;#160;for firms to hedge their exposure when the price&amp;#160;changes.&amp;#160; Silicon Data [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 19 Aug 2026 17:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Researchers say OpenAI revoked their access to limited cyber program</title>
+      <link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
+      <description>&lt;p&gt;The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 19 Aug 2026 18:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google packs Search and Gemini with new AI study tools</title>
+      <link>https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/</link>
+      <description>&lt;p&gt;The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI was supposed to win people over by now — it hasn’t</title>
+      <link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
+      <description>&lt;p&gt;As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 19 Aug 2026 19:11:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
