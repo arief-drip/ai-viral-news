@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "source_link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-20T16:07:26+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Debates over AI consciousness are a trap",
+    "description": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly \u201csuperhuman\u201d systems, while a separate faction, led by policy organizations&#8230;",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source_link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-20T15:42:39+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "description": "\n                        Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.\n                    ",
+    "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source_link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-20T13:00:35+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
     "description": "Meta said its Muse Spark model is powering the dictation feature.",
     "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -11,9 +44,9 @@
     "published": "2026-08-20T12:11:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "description": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "description": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
     "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
     "source_link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -22,18 +55,7 @@
     "published": "2026-08-20T09:30:00+00:00"
   },
   {
-    "id": "hn-49371857",
-    "title": "Don't Paste the AI, please",
-    "description": "Don't Paste the AI, please",
-    "link": "https://dontpastetheai.com/",
-    "source_link": "https://news.ycombinator.com/item?id=49371857",
-    "engagement": "\ud83d\udc4d 558",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-20T08:20:44+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
     "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
     "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -44,7 +66,7 @@
     "published": "2026-08-19T23:32:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data. ",
     "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
@@ -55,7 +77,7 @@
     "published": "2026-08-19T22:10:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
     "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
     "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
@@ -66,7 +88,7 @@
     "published": "2026-08-19T21:51:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
     "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance.",
     "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
@@ -77,7 +99,7 @@
     "published": "2026-08-19T19:11:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Google packs Search and Gemini with new AI study tools",
     "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
     "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
@@ -88,7 +110,7 @@
     "published": "2026-08-19T19:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Researchers say OpenAI revoked their access to limited cyber program",
     "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. ",
     "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
@@ -97,39 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-19T18:46:14+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Meet the startup helping Wall\u00a0Street put\u00a0a price on AI compute",
-    "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn\u2019t&#160;a straightforward way to put a price on&#160;compute&#160;\u2014 or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "source_link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-19T17:26:48+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
-    "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "source_link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-19T15:44:53+00:00"
-  },
-  {
-    "id": "hn-49362728",
-    "title": "Mathematics in the age of AI",
-    "description": "Mathematics in the age of AI",
-    "link": "https://arxiv.org/abs/2608.16753",
-    "source_link": "https://news.ycombinator.com/item?id=49362728",
-    "engagement": "\ud83d\udc4d 185",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-19T15:14:25+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
@@ -143,7 +132,7 @@
     "published": "2026-08-19T14:18:12+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "We still don\u2019t know how people are really using AI",
     "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; \u201cThere is no independent source to corroborate it,\u201d says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
     "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -154,7 +143,7 @@
     "published": "2026-08-18T10:06:43+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
     "description": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
     "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
@@ -165,7 +154,7 @@
     "published": "2026-08-18T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "What Flock\u2019s defenders are missing",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
     "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
@@ -187,7 +176,7 @@
     "published": "2026-08-17T13:05:36+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "How kids feel about AI, in their own words",
     "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -198,7 +187,7 @@
     "published": "2026-08-13T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Scaling AI agents with trustworthy data",
     "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
     "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -209,7 +198,7 @@
     "published": "2026-08-12T16:51:57+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "AI professors are negotiating the new realities of academic research",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
@@ -229,17 +218,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-10T12:32:20+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-6",
-    "title": "AI for science needs reasoning, not just data",
-    "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the \u201cfacts of physical science have all been discovered.\u201d In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "source_link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-10T09:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
