@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:18:18 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -177,6 +177,15 @@
       <pubDate>Tue, 18 Aug 2026 10:06:43 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents</title>
+      <link>https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.&lt;/p&gt;
+&lt;p&gt;The ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 18 Aug 2026 13:29:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push</title>
       <link>https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push</link>
       <description>&lt;p&gt;&lt;p&gt;Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.&lt;/p&gt;&lt;p&gt;The enterprise AI stack is being rewritten in real time, and the...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
@@ -185,66 +194,18 @@
       <pubDate>Wed, 19 Aug 2026 14:18:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Researchers say OpenAI revoked their access to limited cyber program</title>
-      <link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
-      <description>&lt;p&gt;The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 18:46:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google packs Search and Gemini with new AI study tools</title>
-      <link>https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/</link>
-      <description>&lt;p&gt;The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI was supposed to win people over by now — it hasn’t</title>
-      <link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
-      <description>&lt;p&gt;As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 19:11:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cognition CEO denies report that SpaceX tried to acquire the startup</title>
-      <link>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</link>
-      <description>&lt;p&gt;SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 21:51:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI seeks to one-up Anthropic with new customer privacy protections</title>
-      <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
-      <description>&lt;p&gt;A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 22:10:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Stripe didn’t really buy OpenRouter because of the ‘singularity’</title>
-      <link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
-      <description>&lt;p&gt;What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 19 Aug 2026 23:32:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
       <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
       <description>&lt;p&gt;Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 20 Aug 2026 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Meta AI’s new Mac app wants you to talk to your apps</title>
       <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
-      <description>&lt;p&gt;Meta said its Muse Spark model is powering the dictation feature.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <description>&lt;p&gt;The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 20 Aug 2026 12:11:57 +0000</pubDate>
     </item>
@@ -270,9 +231,60 @@
       <title>[📰] Meta brings Pocket, an app that lets you vibe-code and share games, to US users</title>
       <link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
       <description>&lt;p&gt;Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 20 Aug 2026 16:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ramp launches its own AI model router, called Router</title>
+      <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
+      <description>&lt;p&gt;Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 16:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds</title>
+      <link>https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</link>
+      <description>&lt;p&gt;ChatGPT and other AI models are now authoring and editing much of the new web. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 17:18:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
+      <link>https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
+      <description>&lt;p&gt;Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 18:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs</title>
+      <link>https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/</link>
+      <description>&lt;p&gt;&lt;p&gt;Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/"&gt;Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 18:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google gives publishers a new way to fight AI-driven traffic losses</title>
+      <link>https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/</link>
+      <description>&lt;p&gt;Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 19:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era</title>
+      <link>https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/</link>
+      <description>&lt;p&gt;&lt;p&gt;PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/"&gt;Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era&lt;/a&gt; appeared f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 20 Aug 2026 19:34:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
