@@ -22,6 +22,17 @@
     "published": "2026-08-21T22:37:38+00:00"
   },
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+    "description": "<p>Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across files, and returns findings with a CWE category, confidence and severity ratings, and a suggested patch. The design point is packaging: users receive a scan result rather than a prompt box, so the ...",
+    "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+    "source_link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-21T21:15:53+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-2",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -38,7 +49,7 @@
     "description": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
     "source_link": "https://news.ycombinator.com/item?id=49388752",
-    "engagement": "\ud83d\udc4d 188",
+    "engagement": "\ud83d\udc4d 224",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T14:31:52+00:00"
@@ -49,7 +60,7 @@
     "description": "I'm becoming AI-blind",
     "link": "https://cymerys.com/w/im-becoming-ai-blind",
     "source_link": "https://news.ycombinator.com/item?id=49386699",
-    "engagement": "\ud83d\udc4d 254",
+    "engagement": "\ud83d\udc4d 304",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T11:48:05+00:00"
@@ -64,28 +75,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T11:00:53+00:00"
-  },
-  {
-    "id": "hn-49386163",
-    "title": "DeepSeek-v4-flash-vision-exp",
-    "description": "DeepSeek-v4-flash-vision-exp",
-    "link": "https://api-docs.deepseek.com/guides/vision/",
-    "source_link": "https://news.ycombinator.com/item?id=49386163",
-    "engagement": "\ud83d\udc4d 453",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T10:33:56+00:00"
-  },
-  {
-    "id": "hn-49383026",
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "description": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "link": "https://annas-archive.gl/blog/physical-destruction.html",
-    "source_link": "https://news.ycombinator.com/item?id=49383026",
-    "engagement": "\ud83d\udc4d 520",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T02:37:47+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -121,6 +110,17 @@
     "published": "2026-08-20T22:09:51+00:00"
   },
   {
+    "id": "rss-MarkTechPost-1",
+    "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+    "description": "<p>PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/\">Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era</a> appeared f...",
+    "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+    "source_link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-20T19:34:10+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-6",
     "title": "Google gives publishers a new way to fight AI-driven traffic losses",
     "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
@@ -130,6 +130,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-20T19:18:21+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+    "description": "<p>Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/\">Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+    "source_link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-20T18:53:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -159,10 +170,21 @@
     "description": "AI boosted homework scores, then exam scores dropped: study",
     "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "source_link": "https://news.ycombinator.com/item?id=49357530",
-    "engagement": "\ud83d\udc4d 223",
+    "engagement": "\ud83d\udc4d 260",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-19T06:13:31+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+    "description": "<p>Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 \u2014 and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.</p>\n<p>The ...",
+    "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+    "source_link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-18T13:29:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
