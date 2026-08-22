@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
+    "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "source_link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T16:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Decoding AI\u2019s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+    "description": "<p>Most teams treat &#8216;which model&#8217; as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain&#8217;s Terminal-Bench experiment, changing only the harness\u2014same model throughout\u2014moved a coding agent from roughly 30th place into the top 5. That result reframes the question. If the harness decides quality, then how you run the loop becomes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-cou...",
+    "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+    "source_link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T13:43:13+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
     "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -11,7 +33,7 @@
     "published": "2026-08-21T23:07:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Nvidia partners with data center developer Cloverleaf",
     "description": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia. ",
     "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -22,7 +44,7 @@
     "published": "2026-08-21T22:37:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
     "description": "<p>Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across files, and returns findings with a CWE category, confidence and severity ratings, and a suggested patch. The design point is packaging: users receive a scan result rather than a prompt box, so the ...",
     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
@@ -33,7 +55,7 @@
     "published": "2026-08-21T21:15:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -49,7 +71,7 @@
     "description": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
     "source_link": "https://news.ycombinator.com/item?id=49388752",
-    "engagement": "\ud83d\udc4d 299",
+    "engagement": "\ud83d\udc4d 327",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T14:31:52+00:00"
@@ -60,13 +82,13 @@
     "description": "I'm becoming AI-blind",
     "link": "https://cymerys.com/w/im-becoming-ai-blind",
     "source_link": "https://news.ycombinator.com/item?id=49386699",
-    "engagement": "\ud83d\udc4d 398",
+    "engagement": "\ud83d\udc4d 446",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T11:48:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -77,7 +99,7 @@
     "published": "2026-08-21T00:13:44+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
     "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -88,7 +110,7 @@
     "published": "2026-08-20T22:36:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration. ",
     "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
@@ -99,7 +121,7 @@
     "published": "2026-08-20T22:09:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
     "description": "<p>PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/\">Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era</a> appeared f...",
     "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
@@ -110,18 +132,7 @@
     "published": "2026-08-20T19:34:10+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "source_link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-20T19:18:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
     "description": "<p>Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/\">Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
@@ -159,13 +170,13 @@
     "description": "AI boosted homework scores, then exam scores dropped: study",
     "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "source_link": "https://news.ycombinator.com/item?id=49357530",
-    "engagement": "\ud83d\udc4d 321",
+    "engagement": "\ud83d\udc4d 352",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-19T06:13:31+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
     "description": "<p>Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 \u2014 and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust P2P overlay that lets autonomous agents discover and call each other's MCP tools across cloud, on-prem, laptop and edge environments, without exposing a single internal endpoint to the public internet. Identity flows from OIDC into Biscuit capability tokens, so nodes authorize every request offline under a strict default-deny model.</p>\n<p>The ...",
     "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
