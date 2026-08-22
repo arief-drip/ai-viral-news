@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "source_link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T19:00:00+00:00"
+  },
+  {
+    "id": "hn-49401549",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "description": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "link": "https://twitter.com/argofowl/status/2091150597374537729",
+    "source_link": "https://news.ycombinator.com/item?id=49401549",
+    "engagement": "\ud83d\udc4d 89",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T16:58:49+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "source_link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T16:30:34+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
     "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -22,7 +55,7 @@
     "published": "2026-08-22T13:43:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
     "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -33,7 +66,7 @@
     "published": "2026-08-21T23:07:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Nvidia partners with data center developer Cloverleaf",
     "description": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia. ",
     "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -55,7 +88,7 @@
     "published": "2026-08-21T21:15:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -66,29 +99,7 @@
     "published": "2026-08-21T19:43:39+00:00"
   },
   {
-    "id": "hn-49388752",
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "description": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "source_link": "https://news.ycombinator.com/item?id=49388752",
-    "engagement": "\ud83d\udc4d 327",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T14:31:52+00:00"
-  },
-  {
-    "id": "hn-49386699",
-    "title": "I'm becoming AI-blind",
-    "description": "I'm becoming AI-blind",
-    "link": "https://cymerys.com/w/im-becoming-ai-blind",
-    "source_link": "https://news.ycombinator.com/item?id=49386699",
-    "engagement": "\ud83d\udc4d 446",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T11:48:05+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -99,7 +110,7 @@
     "published": "2026-08-21T00:13:44+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
     "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -108,17 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-20T22:36:37+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration. ",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "source_link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-20T22:09:51+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -163,17 +163,6 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-19T14:18:12+00:00"
-  },
-  {
-    "id": "hn-49357530",
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "description": "AI boosted homework scores, then exam scores dropped: study",
-    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "source_link": "https://news.ycombinator.com/item?id=49357530",
-    "engagement": "\ud83d\udc4d 352",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-19T06:13:31+00:00"
   },
   {
     "id": "rss-MarkTechPost-4",
