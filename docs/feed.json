@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
+    "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source_link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-23T20:01:36+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
+    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source_link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-23T19:14:08+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
     "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
     "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -11,40 +33,18 @@
     "published": "2026-08-23T15:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-    "description": "<p>Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/\">Building an End-to-End Document Intelligence Pipeline with deepDoc...",
-    "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-49409073",
+    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+    "description": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+    "link": "https://ericpardee.github.io/fire-hd-ownership/",
+    "source_link": "https://news.ycombinator.com/item?id=49409073",
+    "engagement": "\ud83d\udc4d 519",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:51:22+00:00"
+    "published": "2026-08-23T14:23:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "Vercel Introduces \u2018Is Agentic\u2019, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora\u2019s 100+ Checks",
-    "description": "<p>Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/\">Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTech...",
-    "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:37:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "The Developer\u2019s Guide to NeMo Guardrails for Enterprise AI Safety",
-    "description": "<p>In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...",
-    "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "source_link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-22T23:49:38+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
     "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -55,7 +55,7 @@
     "published": "2026-08-22T21:46:56+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
     "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -66,18 +66,7 @@
     "published": "2026-08-22T19:00:00+00:00"
   },
   {
-    "id": "hn-49402232",
-    "title": "Why your local LLM feels dumber than it is",
-    "description": "Why your local LLM feels dumber than it is",
-    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "source_link": "https://news.ycombinator.com/item?id=49402232",
-    "engagement": "\ud83d\udc4d 429",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-22T18:14:16+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI says California should strengthen its AI safety bill",
     "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -88,7 +77,7 @@
     "published": "2026-08-22T16:30:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
     "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -99,18 +88,7 @@
     "published": "2026-08-22T16:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Decoding AI\u2019s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-    "description": "<p>Most teams treat &#8216;which model&#8217; as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain&#8217;s Terminal-Bench experiment, changing only the harness\u2014same model throughout\u2014moved a coding agent from roughly 30th place into the top 5. That result reframes the question. If the harness decides quality, then how you run the loop becomes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-cou...",
-    "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-    "source_link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-22T13:43:13+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
     "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -121,7 +99,7 @@
     "published": "2026-08-21T23:07:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Nvidia partners with data center developer Cloverleaf",
     "description": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia. ",
     "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -130,50 +108,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T22:37:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-    "description": "<p>Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across files, and returns findings with a CWE category, confidence and severity ratings, and a suggested patch. The design point is packaging: users receive a scan result rather than a prompt box, so the ...",
-    "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-    "source_link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T21:15:53+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "source_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T19:43:39+00:00"
-  },
-  {
-    "id": "hn-49387959",
-    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "description": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "source_link": "https://news.ycombinator.com/item?id=49387959",
-    "engagement": "\ud83d\udc4d 192",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-21T13:43:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
-    "description": "<p>PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/\">Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era</a> appeared f...",
-    "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-    "source_link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-20T19:34:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
