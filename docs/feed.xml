@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 04:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:37:13 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -266,6 +266,14 @@
       <pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] AI Chip Architectures</title>
+      <link>https://www.jepeake.com/ai-chip-architectures</link>
+      <description>&lt;p&gt;AI Chip Architectures&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 71&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49405657</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 23 Aug 2026 02:25:10 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks</title>
       <link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
       <description>&lt;p&gt;&lt;p&gt;Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.&lt;/p&gt;
@@ -294,23 +302,15 @@
     <item>
       <title>[📰] My agent.md to improve LLM-assisted code quality</title>
       <link>https://fabiensanglard.net/agent.md/index.html</link>
-      <description>&lt;p&gt;My agent.md to improve LLM-assisted code quality&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 217&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;My agent.md to improve LLM-assisted code quality&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 299&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49410932</guid>
       <category>AI News</category>
       <pubDate>Sun, 23 Aug 2026 17:59:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI and Infrastructure Engineering</title>
-      <link>https://omegion.dev/2026/08/ai-and-infrastructure-engineering/</link>
-      <description>&lt;p&gt;AI and Infrastructure Engineering&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49411024</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 18:09:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Anthropic's best AI model struggles to attract users as cheaper tools thrive</title>
       <link>https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245</link>
-      <description>&lt;p&gt;Anthropic's best AI model struggles to attract users as cheaper tools thrive&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 324&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic's best AI model struggles to attract users as cheaper tools thrive&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 477&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49411102</guid>
       <category>AI News</category>
       <pubDate>Sun, 23 Aug 2026 18:16:37 +0000</pubDate>
@@ -334,10 +334,18 @@
     <item>
       <title>[📰] Implementation of GPT-2 in pure CMake</title>
       <link>https://github.com/AlpinDale/gpt2.cmake</link>
-      <description>&lt;p&gt;Implementation of GPT-2 in pure CMake&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Implementation of GPT-2 in pure CMake&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49412909</guid>
       <category>AI News</category>
       <pubDate>Sun, 23 Aug 2026 21:41:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] I built a low-latency AI companion that plays Skyrim with me</title>
+      <link>https://pantel.is/projects/ai-gaming-companion/</link>
+      <description>&lt;p&gt;I built a low-latency AI companion that plays Skyrim with me&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 131&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49413561</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 23 Aug 2026 23:18:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
