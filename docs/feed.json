@@ -22,6 +22,28 @@
     "published": "2026-08-23T19:14:08+00:00"
   },
   {
+    "id": "hn-49411102",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "description": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "source_link": "https://news.ycombinator.com/item?id=49411102",
+    "engagement": "\ud83d\udc4d 170",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-23T18:16:37+00:00"
+  },
+  {
+    "id": "hn-49410932",
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "description": "My agent.md to improve LLM-assisted code quality",
+    "link": "https://fabiensanglard.net/agent.md/index.html",
+    "source_link": "https://news.ycombinator.com/item?id=49410932",
+    "engagement": "\ud83d\udc4d 139",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-23T17:59:52+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-2",
     "title": "Is it legal to train AI models on copyrighted books? It\u2019s complicated",
     "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
@@ -33,15 +55,37 @@
     "published": "2026-08-23T15:00:00+00:00"
   },
   {
-    "id": "hn-49409073",
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "description": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "link": "https://ericpardee.github.io/fire-hd-ownership/",
-    "source_link": "https://news.ycombinator.com/item?id=49409073",
-    "engagement": "\ud83d\udc4d 519",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-0",
+    "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+    "description": "<p>Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/\">Building an End-to-End Document Intelligence Pipeline with deepDoc...",
+    "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+    "source_link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T14:23:09+00:00"
+    "published": "2026-08-23T07:51:22+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Vercel Introduces \u2018Is Agentic\u2019, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora\u2019s 100+ Checks",
+    "description": "<p>Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/\">Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTech...",
+    "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+    "source_link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-23T07:37:14+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "The Developer\u2019s Guide to NeMo Guardrails for Enterprise AI Safety",
+    "description": "<p>In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...",
+    "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+    "source_link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T23:49:38+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -88,6 +132,17 @@
     "published": "2026-08-22T16:00:00+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Decoding AI\u2019s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+    "description": "<p>Most teams treat &#8216;which model&#8217; as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain&#8217;s Terminal-Bench experiment, changing only the harness\u2014same model throughout\u2014moved a coding agent from roughly 30th place into the top 5. That result reframes the question. If the harness decides quality, then how you run the loop becomes [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-cou...",
+    "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+    "source_link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-22T13:43:13+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-7",
     "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
     "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. ",
@@ -108,6 +163,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-21T22:37:38+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+    "description": "<p>Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across files, and returns findings with a CWE category, confidence and severity ratings, and a suggested patch. The design point is packaging: users receive a scan result rather than a prompt box, so the ...",
+    "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+    "source_link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-21T21:15:53+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
