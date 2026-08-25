@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:25:38 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -161,54 +161,12 @@
       <pubDate>Thu, 20 Aug 2026 15:42:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety</title>
-      <link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks</title>
-      <link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/"&gt;Vercel Introduces &amp;#8216;Is Agentic&amp;#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&amp;#8217;s 100+ Checks&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 07:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Building an End-to-End Document Intelligence Pipeline with deepDoctection</title>
-      <link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
-      <description>&lt;p&gt;&lt;p&gt;Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/"&gt;Building an End-to-End Document Intelligence Pipeline with deepDoc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
-      <link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
-      <description>&lt;p&gt;Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 19:14:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Training AI to Paint with Code</title>
       <link>https://surya.website/rling-qwen-to-paint-with-code</link>
-      <description>&lt;p&gt;Training AI to Paint with Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 124&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Training AI to Paint with Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 169&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49411800</guid>
       <category>AI News</category>
       <pubDate>Sun, 23 Aug 2026 19:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Who’s behind the new ‘stealth model’ Ox Alpha?</title>
-      <link>https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/</link>
-      <description>&lt;p&gt;A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 20:01:36 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Kids outlearn AI—and we still don’t know why</title>
@@ -227,15 +185,6 @@
       <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo</title>
-      <link>https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/</link>
-      <description>&lt;p&gt;&lt;p&gt;Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 14:17:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How to encourage smarter AI use in the classroom</title>
       <link>https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/</link>
       <description>&lt;p&gt;This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -248,7 +197,7 @@
       <link>https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</link>
       <description>&lt;p&gt;Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
     </item>
@@ -256,43 +205,25 @@
       <title>[📰] Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
       <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
       <description>&lt;p&gt;General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/</link>
-      <description>&lt;p&gt;
-                        Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 16:41:45 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Instinct’s powerful AI assistant is raising privacy and security concerns</title>
       <link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
       <description>&lt;p&gt;Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 18:03:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vintage Artificial Intelligence: Before It Got Awkward</title>
-      <link>https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</link>
-      <description>&lt;p&gt;Vintage Artificial Intelligence: Before It Got Awkward&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 117&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49425800</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 21:01:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Data centers become "killer application" for new power transformer tech</title>
       <link>https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/</link>
       <description>&lt;p&gt;
-                        Solid-state transformers could also benefit EV charging and someday households.
+                        Solid-state transformers could also benefit EV charging and, someday, households.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 21:32:16 +0000</pubDate>
     </item>
@@ -302,7 +233,7 @@
       <description>&lt;p&gt;
                         Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 21:45:53 +0000</pubDate>
     </item>
@@ -318,7 +249,7 @@
       <title>[📰] Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
       <link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
       <description>&lt;p&gt;The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
     </item>
@@ -329,6 +260,66 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</title>
+      <link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
+      <description>&lt;p&gt;TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Accel-backed Keenable is indexing the web for AI agents</title>
+      <link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
+      <description>&lt;p&gt;Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple's new desktop computers are designed specifically for local AI development</title>
+      <link>https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/</link>
+      <description>&lt;p&gt;
+                        Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 13:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</link>
+      <description>&lt;p&gt;Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 456&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49433292</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 13:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</title>
+      <link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
+      <description>&lt;p&gt;Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 14:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI won’t replace radiologists, but it will dramatically change their jobs</title>
+      <link>https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/</link>
+      <description>&lt;p&gt;
+                        A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 15:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How much of HN is AI?</title>
+      <link>https://blog.coredump.cx/p/how-much-of-hn-is-ai</link>
+      <description>&lt;p&gt;How much of HN is AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49435728</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 15:23:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

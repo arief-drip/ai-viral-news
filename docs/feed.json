@@ -1,5 +1,82 @@
 [
   {
+    "id": "hn-49435728",
+    "title": "How much of HN is AI?",
+    "description": "How much of HN is AI?",
+    "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "source_link": "https://news.ycombinator.com/item?id=49435728",
+    "engagement": "\ud83d\udc4d 127",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T15:23:41+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "AI won\u2019t replace radiologists, but it will dramatically change their jobs",
+    "description": "\n                        A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.\n                    ",
+    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "source_link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T15:10:03+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+    "description": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source_link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T14:22:04+00:00"
+  },
+  {
+    "id": "hn-49433292",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "description": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "source_link": "https://news.ycombinator.com/item?id=49433292",
+    "engagement": "\ud83d\udc4d 456",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T13:01:22+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "description": "\n                        Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind.\n                    ",
+    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "source_link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T13:00:11+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source_link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T13:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+    "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. ",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source_link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T12:00:00+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
     "description": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014an idea called embodied AI\u2014was a key facet of China\u2019s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
@@ -11,7 +88,7 @@
     "published": "2026-08-25T09:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
     "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -33,7 +110,7 @@
     "published": "2026-08-25T00:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "description": "\n                        Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.\n                    ",
     "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
@@ -44,9 +121,9 @@
     "published": "2026-08-24T21:45:53+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-3",
     "title": "Data centers become \"killer application\" for new power transformer tech",
-    "description": "\n                        Solid-state transformers could also benefit EV charging and someday households.\n                    ",
+    "description": "\n                        Solid-state transformers could also benefit EV charging and, someday, households.\n                    ",
     "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "source_link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "engagement": "\ud83d\udce1 Ars Technica AI",
@@ -55,18 +132,7 @@
     "published": "2026-08-24T21:32:16+00:00"
   },
   {
-    "id": "hn-49425800",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "description": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "source_link": "https://news.ycombinator.com/item?id=49425800",
-    "engagement": "\ud83d\udc4d 117",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T21:01:38+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
     "description": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs.",
     "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
@@ -77,18 +143,7 @@
     "published": "2026-08-24T18:03:55+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-    "description": "\n                        Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T16:41:45+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
     "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
@@ -99,7 +154,7 @@
     "published": "2026-08-24T15:24:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
     "description": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses.\n",
     "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
@@ -119,17 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T14:20:19+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3\u201312 Second Demo",
-    "description": "<p>Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3\u201312 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...",
-    "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "source_link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T14:17:01+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -154,70 +198,15 @@
     "published": "2026-08-24T09:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
-    "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source_link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T20:01:36+00:00"
-  },
-  {
     "id": "hn-49411800",
     "title": "Training AI to Paint with Code",
     "description": "Training AI to Paint with Code",
     "link": "https://surya.website/rling-qwen-to-paint-with-code",
     "source_link": "https://news.ycombinator.com/item?id=49411800",
-    "engagement": "\ud83d\udc4d 124",
+    "engagement": "\ud83d\udc4d 169",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-23T19:39:29+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
-    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "source_link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T19:14:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-    "description": "<p>Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/\">Building an End-to-End Document Intelligence Pipeline with deepDoc...",
-    "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:51:22+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Vercel Introduces \u2018Is Agentic\u2019, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora\u2019s 100+ Checks",
-    "description": "<p>Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/\">Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTech...",
-    "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:37:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "The Developer\u2019s Guide to NeMo Guardrails for Enterprise AI Safety",
-    "description": "<p>In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...",
-    "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "source_link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-22T23:49:38+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
