@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:18:10 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -161,12 +161,13 @@
       <pubDate>Thu, 20 Aug 2026 15:42:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Training AI to Paint with Code</title>
-      <link>https://surya.website/rling-qwen-to-paint-with-code</link>
-      <description>&lt;p&gt;Training AI to Paint with Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 169&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49411800</guid>
+      <title>[📰] Building an End-to-End Document Intelligence Pipeline with deepDoctection</title>
+      <link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
+      <description>&lt;p&gt;&lt;p&gt;Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/"&gt;Building an End-to-End Document Intelligence Pipeline with deepDoc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 19:39:29 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Kids outlearn AI—and we still don’t know why</title>
@@ -185,6 +186,15 @@
       <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo</title>
+      <link>https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/</link>
+      <description>&lt;p&gt;&lt;p&gt;Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 24 Aug 2026 14:17:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] How to encourage smarter AI use in the classroom</title>
       <link>https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/</link>
       <description>&lt;p&gt;This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -193,27 +203,10 @@
       <pubDate>Mon, 24 Aug 2026 14:20:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI is building AI agents for everything. Will everyone use them?</title>
-      <link>https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</link>
-      <description>&lt;p&gt;Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
-      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
-      <description>&lt;p&gt;General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Instinct’s powerful AI assistant is raising privacy and security concerns</title>
       <link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
       <description>&lt;p&gt;Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 18:03:55 +0000</pubDate>
     </item>
@@ -249,7 +242,7 @@
       <title>[📰] Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
       <link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
       <description>&lt;p&gt;The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
     </item>
@@ -265,7 +258,7 @@
       <title>[📰] ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</title>
       <link>https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/</link>
       <description>&lt;p&gt;TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
     </item>
@@ -273,7 +266,7 @@
       <title>[📰] Accel-backed Keenable is indexing the web for AI agents</title>
       <link>https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/</link>
       <description>&lt;p&gt;Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
     </item>
@@ -288,18 +281,18 @@
       <pubDate>Tue, 25 Aug 2026 13:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</link>
-      <description>&lt;p&gt;Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 456&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49433292</guid>
+      <title>[📰] OpenAI Jalapeño: Better than Nvidia Blackwell</title>
+      <link>https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia</link>
+      <description>&lt;p&gt;OpenAI Jalapeño: Better than Nvidia Blackwell&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 153&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49434378</guid>
       <category>AI News</category>
-      <pubDate>Tue, 25 Aug 2026 13:01:22 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 14:06:02 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</title>
       <link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
       <description>&lt;p&gt;Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 14:22:04 +0000</pubDate>
     </item>
@@ -314,12 +307,29 @@
       <pubDate>Tue, 25 Aug 2026 15:10:03 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How much of HN is AI?</title>
-      <link>https://blog.coredump.cx/p/how-much-of-hn-is-ai</link>
-      <description>&lt;p&gt;How much of HN is AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 127&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49435728</guid>
+      <title>[📰] Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet</title>
+      <link>https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/</link>
+      <description>&lt;p&gt;&lt;p&gt;Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction directly strand significant compute capacity. This week, Meta introduced MetaRoCE. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sh...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
-      <pubDate>Tue, 25 Aug 2026 15:23:41 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 17:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude Cowork finally remembers what you told the app in chat</title>
+      <link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
+      <description>&lt;p&gt;Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding</title>
+      <link>https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/</link>
+      <description>&lt;p&gt;The company's new fundraising total now stands at $232 million. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 19:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
