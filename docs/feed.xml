@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 04:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:31:24 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -169,12 +169,46 @@
       <pubDate>Thu, 20 Aug 2026 15:42:39 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety</title>
+      <link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
+      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks</title>
+      <link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
+      <description>&lt;p&gt;&lt;p&gt;Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/"&gt;Vercel Introduces &amp;#8216;Is Agentic&amp;#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&amp;#8217;s 100+ Checks&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 23 Aug 2026 07:37:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Building an End-to-End Document Intelligence Pipeline with deepDoctection</title>
+      <link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
+      <description>&lt;p&gt;&lt;p&gt;Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/"&gt;Building an End-to-End Document Intelligence Pipeline with deepDoc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
       <link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
       <description>&lt;p&gt;Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Sun, 23 Aug 2026 19:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Training AI to Paint with Code</title>
+      <link>https://surya.website/rling-qwen-to-paint-with-code</link>
+      <description>&lt;p&gt;Training AI to Paint with Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 82&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49411800</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 23 Aug 2026 19:39:29 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Who’s behind the new ‘stealth model’ Ox Alpha?</title>
@@ -199,6 +233,15 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo</title>
+      <link>https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/</link>
+      <description>&lt;p&gt;&lt;p&gt;Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 24 Aug 2026 14:17:01 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How to encourage smarter AI use in the classroom</title>
@@ -246,7 +289,7 @@
     <item>
       <title>[📰] Vintage Artificial Intelligence: Before It Got Awkward</title>
       <link>https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</link>
-      <description>&lt;p&gt;Vintage Artificial Intelligence: Before It Got Awkward&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vintage Artificial Intelligence: Before It Got Awkward&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49425800</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 21:01:38 +0000</pubDate>
