@@ -11,6 +11,17 @@
     "published": "2026-08-25T00:23:12+00:00"
   },
   {
+    "id": "rss-HuggingFace Blog-0",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "description": "",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source_link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "engagement": "\ud83d\udce1 HuggingFace Blog",
+    "source": "HuggingFace Blog",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-25T00:00:00+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "description": "\n                        Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.\n                    ",
@@ -31,6 +42,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T21:32:16+00:00"
+  },
+  {
+    "id": "hn-49425800",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+    "description": "Vintage Artificial Intelligence: Before It Got Awkward",
+    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "source_link": "https://news.ycombinator.com/item?id=49425800",
+    "engagement": "\ud83d\udc4d 69",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-24T21:01:38+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -55,17 +77,6 @@
     "published": "2026-08-24T16:41:45+00:00"
   },
   {
-    "id": "hn-49421554",
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "description": "Coding expertise is going to collapse from AI reliance",
-    "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "source_link": "https://news.ycombinator.com/item?id=49421554",
-    "engagement": "\ud83d\udc4d 444",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T15:52:33+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-2",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
@@ -75,17 +86,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T15:24:18+00:00"
-  },
-  {
-    "id": "hn-49421074",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "description": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "link": "https://developers.openai.com/api/docs/pricing",
-    "source_link": "https://news.ycombinator.com/item?id=49421074",
-    "engagement": "\ud83d\udc4d 286",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T15:22:43+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -108,17 +108,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T14:20:19+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3\u201312 Second Demo",
-    "description": "<p>Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3\u201312 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...",
-    "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "source_link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T14:17:01+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -163,39 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-23T19:14:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-    "description": "<p>Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/\">Building an End-to-End Document Intelligence Pipeline with deepDoc...",
-    "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:51:22+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Vercel Introduces \u2018Is Agentic\u2019, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora\u2019s 100+ Checks",
-    "description": "<p>Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/\">Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&#8217;s 100+ Checks</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTech...",
-    "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "source_link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-23T07:37:14+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "The Developer\u2019s Guide to NeMo Guardrails for Enterprise AI Safety",
-    "description": "<p>In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...",
-    "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "source_link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-22T23:49:38+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",

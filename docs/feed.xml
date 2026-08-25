@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:30:11 +0000</lastBuildDate>
     <item>
       <title>[📰] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</title>
       <link>https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no</link>
@@ -169,32 +169,6 @@
       <pubDate>Thu, 20 Aug 2026 15:42:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety</title>
-      <link>https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based tool gating. By integrating stateful multi-turn evaluation and detailed activation tracing, we demonstrate how to build an auditable, secure, and cost-effective AI assistant capable of managing sen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 22 Aug 2026 23:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks</title>
-      <link>https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/"&gt;Vercel Introduces &amp;#8216;Is Agentic&amp;#8217;, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora&amp;#8217;s 100+ Checks&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 07:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Building an End-to-End Document Intelligence Pipeline with deepDoctection</title>
-      <link>https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/</link>
-      <description>&lt;p&gt;&lt;p&gt;Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/"&gt;Building an End-to-End Document Intelligence Pipeline with deepDoc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 23 Aug 2026 07:51:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
       <link>https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
       <description>&lt;p&gt;Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -227,15 +201,6 @@
       <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo</title>
-      <link>https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/</link>
-      <description>&lt;p&gt;&lt;p&gt;Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 14:17:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How to encourage smarter AI use in the classroom</title>
       <link>https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/</link>
       <description>&lt;p&gt;This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -253,28 +218,12 @@
       <pubDate>Mon, 24 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</title>
-      <link>https://developers.openai.com/api/docs/pricing</link>
-      <description>&lt;p&gt;OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 286&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49421074</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 15:22:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics</title>
       <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
       <description>&lt;p&gt;General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 15:24:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Coding expertise is going to collapse from AI reliance</title>
-      <link>https://larsfaye.com/articles/ai-coding-will-prevent-expertise</link>
-      <description>&lt;p&gt;Coding expertise is going to collapse from AI reliance&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 444&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49421554</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 24 Aug 2026 15:52:33 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China</title>
@@ -295,6 +244,14 @@
       <pubDate>Mon, 24 Aug 2026 18:03:55 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Vintage Artificial Intelligence: Before It Got Awkward</title>
+      <link>https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</link>
+      <description>&lt;p&gt;Vintage Artificial Intelligence: Before It Got Awkward&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49425800</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 24 Aug 2026 21:01:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Data centers become "killer application" for new power transformer tech</title>
       <link>https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/</link>
       <description>&lt;p&gt;
@@ -313,6 +270,14 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 24 Aug 2026 21:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
+      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
