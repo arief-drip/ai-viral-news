@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-49458418",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "description": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "link": "https://github.com/SenteLabsAI/OpenExecutive",
+    "source_link": "https://news.ycombinator.com/item?id=49458418",
+    "engagement": "\ud83d\udc4d 326",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T01:46:22+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns. ",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source_link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T00:24:57+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
     "description": "<p>Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series \u2014 a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3\u00d7 and KV cache 4.4\u00d7 versus GLM-5.3.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/...",
@@ -13,7 +35,7 @@
   {
     "id": "rss-Ars Technica AI-0",
     "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-    "description": "\n                        Reuters report shows Meta's challenges replacing people with AI agents. \n                    ",
+    "description": "\n                        Report shows Meta's challenges replacing people with AI agents. \n                    ",
     "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
     "source_link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
     "engagement": "\ud83d\udce1 Ars Technica AI",
@@ -27,13 +49,13 @@
     "description": "Serve Markdown to AI Agents with Accept Headers",
     "link": "https://acceptmarkdown.com/",
     "source_link": "https://news.ycombinator.com/item?id=49454764",
-    "engagement": "\ud83d\udc4d 60",
+    "engagement": "\ud83d\udc4d 113",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T19:45:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
     "description": "Consumer AI apps need to stop making users learn their product architecture.",
     "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
@@ -44,7 +66,7 @@
     "published": "2026-08-26T19:37:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "How do we explain OpenAI\u2019s executive exodus?",
     "description": "Was Greg Brockman the right executive all along?",
     "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
@@ -66,7 +88,7 @@
     "published": "2026-08-26T19:19:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI releases its official report on the Hugging Face breach",
     "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
     "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
@@ -88,7 +110,18 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "hn-49451313",
+    "title": "The turbulent AI era is here",
+    "description": "The turbulent AI era is here",
+    "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "source_link": "https://news.ycombinator.com/item?id=49451313",
+    "engagement": "\ud83d\udc4d 198",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-26T15:55:15+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
     "description": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
     "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
@@ -99,18 +132,7 @@
     "published": "2026-08-26T15:47:28+00:00"
   },
   {
-    "id": "hn-49450898",
-    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
-    "description": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
-    "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "source_link": "https://news.ycombinator.com/item?id=49450898",
-    "engagement": "\ud83d\udc4d 151",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T15:30:05+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
     "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. ",
     "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
@@ -121,7 +143,7 @@
     "published": "2026-08-26T15:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
     "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
     "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
@@ -154,7 +176,7 @@
     "published": "2026-08-26T14:20:35+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
     "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
     "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
@@ -163,28 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T14:19:29+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Robot brain builders are pushing out of their GPT-2 era",
-    "description": "Robot bodies are waiting for their AI brains to catch up. ",
-    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "source_link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T13:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent. ",
-    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "source_link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T13:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -207,17 +207,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T09:00:00+00:00"
-  },
-  {
-    "id": "hn-49445727",
-    "title": "RAG Is Simpler Than You Think",
-    "description": "RAG Is Simpler Than You Think",
-    "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-    "source_link": "https://news.ycombinator.com/item?id=49445727",
-    "engagement": "\ud83d\udc4d 418",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T08:39:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
