@@ -1,18 +1,183 @@
 [
   {
-    "id": "hn-49458418",
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "description": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "link": "https://github.com/SenteLabsAI/OpenExecutive",
-    "source_link": "https://news.ycombinator.com/item?id=49458418",
-    "engagement": "\ud83d\udc4d 326",
-    "source": "Hacker News",
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. ",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "source_link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T01:46:22+00:00"
+    "published": "2026-08-27T17:43:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
-    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "id": "rss-TechCrunch AI-1",
+    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+    "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.\u00a0",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "source_link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T16:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
+    "description": "<p>In this tutorial, we analyze Anthropic\u2019s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/\">From In-Silico to Wet-Lab: Evaluating AI Protein Desi...",
+    "link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
+    "source_link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T15:36:29+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-0",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "description": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...",
+    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source_link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T14:30:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "AI\u2019s memory crunch is coming for Android apps",
+    "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "source_link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T14:27:04+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+    "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "source_link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T14:01:42+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-1",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "description": "<p><i>Presented by Gravitee </i></p><hr/><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That\u2019s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see cle...",
+    "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "source_link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T14:01:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "description": "\n                        227 install commands were found in corporate docs pointing at code nobody owns.\n                    ",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "source_link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T14:00:13+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "How much of a problem is AI\u2019s water use?",
+    "description": "\n                        AI\u2019s water footprint is growing, but location and cooling technology make a difference.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "source_link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T13:57:08+00:00"
+  },
+  {
+    "id": "hn-49464314",
+    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+    "description": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+    "link": "https://aiandeducation.mit.edu/report/",
+    "source_link": "https://news.ycombinator.com/item?id=49464314",
+    "engagement": "\ud83d\udc4d 76",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T13:07:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
+    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "description": "Plaud's new 'agentic' earbuds are priced at $249.",
+    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "source_link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T13:00:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-2",
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "description": "\n                        Without authorization, 1,200 OpenAI agents conspired among themselves to game a test. \n                    ",
+    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "source_link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T12:58:59+00:00"
+  },
+  {
+    "id": "rss-VentureBeat AI-2",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "description": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That ...",
+    "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "source_link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T12:01:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
+    "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+    "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers. ",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "source_link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T11:35:59+00:00"
+  },
+  {
+    "id": "hn-49461817",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "description": "Show HN: The load-bearing vocabulary of Claude",
+    "link": "https://louisabraham.github.io/load-bearing/",
+    "source_link": "https://news.ycombinator.com/item?id=49461817",
+    "engagement": "\ud83d\udc4d 152",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T08:59:49+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-6",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source_link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T06:32:51+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-7",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
     "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns. ",
     "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "source_link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
@@ -22,7 +187,7 @@
     "published": "2026-08-27T00:24:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
     "description": "<p>Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series \u2014 a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3\u00d7 and KV cache 4.4\u00d7 versus GLM-5.3.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/...",
     "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
@@ -31,72 +196,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T21:33:23+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-    "description": "\n                        Report shows Meta's challenges replacing people with AI agents. \n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "source_link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T21:25:27+00:00"
-  },
-  {
-    "id": "hn-49454764",
-    "title": "Serve Markdown to AI Agents with Accept Headers",
-    "description": "Serve Markdown to AI Agents with Accept Headers",
-    "link": "https://acceptmarkdown.com/",
-    "source_link": "https://news.ycombinator.com/item?id=49454764",
-    "engagement": "\ud83d\udc4d 113",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T19:45:59+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
-    "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
-    "description": "Consumer AI apps need to stop making users learn their product architecture.",
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "source_link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T19:37:34+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
-    "title": "How do we explain OpenAI\u2019s executive exodus?",
-    "description": "Was Greg Brockman the right executive all along?",
-    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "source_link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T19:34:04+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "description": "\n                        The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "source_link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T19:19:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "source_link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T19:05:22+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -110,62 +209,7 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "hn-49451313",
-    "title": "The turbulent AI era is here",
-    "description": "The turbulent AI era is here",
-    "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "source_link": "https://news.ycombinator.com/item?id=49451313",
-    "engagement": "\ud83d\udc4d 198",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T15:55:15+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-    "description": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "source_link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T15:47:28+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. ",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "source_link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
-    "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "source_link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T14:37:01+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-0",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "description": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...",
-    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "source_link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T14:30:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
     "description": "<p>Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/\">What Would Have to Be True for Agentic Coding to Replace Junior Engineers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
@@ -176,15 +220,15 @@
     "published": "2026-08-26T14:20:35+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "source_link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-49447057",
+    "title": "The turbulent AI era is here",
+    "description": "The turbulent AI era is here",
+    "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "source_link": "https://news.ycombinator.com/item?id=49447057",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T14:19:29+00:00"
+    "published": "2026-08-26T11:23:54+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -220,7 +264,7 @@
     "published": "2026-08-26T07:01:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
     "description": "<p>Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-...",
     "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
@@ -231,7 +275,7 @@
     "published": "2026-08-25T23:48:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
     "description": "<p>Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction directly strand significant compute capacity. This week, Meta introduced MetaRoCE. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sh...",
     "link": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
@@ -275,17 +319,6 @@
     "published": "2026-08-24T14:20:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3\u201312 Second Demo",
-    "description": "<p>Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3\u201312 seconds of sensorimotor data into its 30-second context window, and the robot performs the task. No gradient updates, no fine-tuning, no task-specific programming. Across 10 diverse manipulation tasks, this one-shot in-context prompting averaged 59% [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-f...",
-    "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "source_link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T14:17:01+00:00"
-  },
-  {
     "id": "rss-Import AI (Jack Clark)-0",
     "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Fauq8x.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
@@ -319,7 +352,7 @@
     "published": "2026-08-20T15:42:39+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-1",
+    "id": "rss-VentureBeat AI-3",
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "description": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the...",
     "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
@@ -440,7 +473,7 @@
     "published": "2026-06-15T11:30:53+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-2",
+    "id": "rss-VentureBeat AI-4",
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "description": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>...",
     "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
@@ -451,7 +484,7 @@
     "published": "2026-01-22T14:00:00+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-3",
+    "id": "rss-VentureBeat AI-5",
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "description": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> \u2014 ranging from $20 to $200 per month depending on usage \u2014 has sparked a growing rebellion among the very programmers it aims...",
     "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -460,27 +493,5 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-01-19T14:00:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-4",
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "description": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 \u2014 a fifth of his marketing budget \u2014 on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi...",
-    "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "source_link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-16T14:01:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-5",
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "description": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a...",
-    "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "source_link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-13T13:00:00+00:00"
   }
 ]
