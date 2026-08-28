@@ -1,6 +1,116 @@
 [
   {
+    "id": "hn-49472820",
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "description": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "link": "https://www.terminal-bench-science.ai/announcement",
+    "source_link": "https://news.ycombinator.com/item?id=49472820",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-28T00:06:51+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\u00a0",
+    "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source_link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T23:16:45+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "description": "\n                        Standardized driver interface  aims to let devices talk to AI and each other.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "source_link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T22:15:43+00:00"
+  },
+  {
+    "id": "hn-49471714",
+    "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+    "description": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+    "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "source_link": "https://news.ycombinator.com/item?id=49471714",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T21:46:39+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says",
+    "description": "\n                        xAI accused of training Grok on real and AI-generated child pornography.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T20:52:31+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
+    "description": "<p>Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse \u2014 but that figure averages three of the benchmark's five dimensions and drops cha...",
+    "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+    "source_link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T20:05:49+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-2",
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "description": "\n                        Nvidia is nabbing critical infrastructure for open models as interest grows.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "source_link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T19:55:22+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. ",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "source_link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T19:52:52+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-3",
+    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
+    "description": "\n                        Tech industry is perplexed by Trump\u2019s plan to win AI race by taxing data centers.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T18:57:08+00:00"
+  },
+  {
+    "id": "hn-49468818",
+    "title": "Gemini-3.5-Transcribe",
+    "description": "Gemini-3.5-Transcribe",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "source_link": "https://news.ycombinator.com/item?id=49468818",
+    "engagement": "\ud83d\udc4d 178",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T18:03:42+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. ",
     "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
@@ -11,7 +121,18 @@
     "published": "2026-08-27T17:43:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49467922",
+    "title": "Gemini Omni 1.1 Flash",
+    "description": "Gemini Omni 1.1 Flash",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "source_link": "https://news.ycombinator.com/item?id=49467922",
+    "engagement": "\ud83d\udc4d 201",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-27T17:06:32+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
     "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.\u00a0",
     "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
@@ -22,7 +143,7 @@
     "published": "2026-08-27T16:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
     "description": "<p>In this tutorial, we analyze Anthropic\u2019s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/\">From In-Silico to Wet-Lab: Evaluating AI Protein Desi...",
     "link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
@@ -33,18 +154,7 @@
     "published": "2026-08-27T15:36:29+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-0",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "description": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...",
-    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "source_link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T14:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "AI\u2019s memory crunch is coming for Android apps",
     "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
     "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
@@ -55,7 +165,7 @@
     "published": "2026-08-27T14:27:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
     "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
     "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
@@ -66,7 +176,7 @@
     "published": "2026-08-27T14:01:42+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-1",
+    "id": "rss-VentureBeat AI-0",
     "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
     "description": "<p><i>Presented by Gravitee </i></p><hr/><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That\u2019s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see cle...",
     "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
@@ -77,42 +187,9 @@
     "published": "2026-08-27T14:01:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "description": "\n                        227 install commands were found in corporate docs pointing at code nobody owns.\n                    ",
-    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "source_link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T14:00:13+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "How much of a problem is AI\u2019s water use?",
-    "description": "\n                        AI\u2019s water footprint is growing, but location and cooling technology make a difference.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "source_link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T13:57:08+00:00"
-  },
-  {
-    "id": "hn-49464314",
-    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-    "description": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-    "link": "https://aiandeducation.mit.edu/report/",
-    "source_link": "https://news.ycombinator.com/item?id=49464314",
-    "engagement": "\ud83d\udc4d 76",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T13:07:45+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "description": "Plaud's new 'agentic' earbuds are priced at $249.",
+    "description": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
     "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
     "source_link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -121,18 +198,7 @@
     "published": "2026-08-27T13:00:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "description": "\n                        Without authorization, 1,200 OpenAI agents conspired among themselves to game a test. \n                    ",
-    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "source_link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T12:58:59+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-2",
+    "id": "rss-VentureBeat AI-1",
     "title": "When agents act on their own, governance has to live in the data layer",
     "description": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That ...",
     "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
@@ -143,7 +209,7 @@
     "published": "2026-08-27T12:01:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
     "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers. ",
     "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
@@ -159,13 +225,13 @@
     "description": "Show HN: The load-bearing vocabulary of Claude",
     "link": "https://louisabraham.github.io/load-bearing/",
     "source_link": "https://news.ycombinator.com/item?id=49461817",
-    "engagement": "\ud83d\udc4d 152",
+    "engagement": "\ud83d\udc4d 389",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-27T08:59:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Nvidia closes in on Hugging Face acquisition",
     "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
     "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
@@ -176,18 +242,7 @@
     "published": "2026-08-27T06:32:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns. ",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "source_link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T00:24:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
     "description": "<p>Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series \u2014 a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3\u00d7 and KV cache 4.4\u00d7 versus GLM-5.3.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/...",
     "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
@@ -209,7 +264,18 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-VentureBeat AI-2",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "description": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...",
+    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source_link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "engagement": "\ud83d\udce1 VentureBeat AI",
+    "source": "VentureBeat AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-26T14:30:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
     "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
     "description": "<p>Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/\">What Would Have to Be True for Agentic Coding to Replace Junior Engineers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
@@ -225,7 +291,7 @@
     "description": "The turbulent AI era is here",
     "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
     "source_link": "https://news.ycombinator.com/item?id=49447057",
-    "engagement": "\ud83d\udc4d 62",
+    "engagement": "\ud83d\udc4d 237",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T11:23:54+00:00"
@@ -264,7 +330,7 @@
     "published": "2026-08-26T07:01:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
     "description": "<p>Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-...",
     "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
@@ -273,17 +339,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-25T23:48:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
-    "description": "<p>Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of accelerators during training, and the slowest transfer sets the pace for the entire job. Even small amounts of network friction directly strand significant compute capacity. This week, Meta introduced MetaRoCE. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sh...",
-    "link": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
-    "source_link": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-25T17:25:36+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
