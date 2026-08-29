@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+    "description": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source_link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-29T17:36:47+00:00"
+  },
+  {
+    "id": "hn-49491568",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "description": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "source_link": "https://news.ycombinator.com/item?id=49491568",
+    "engagement": "\ud83d\udc4d 55",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-29T17:19:47+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
     "description": "<p>We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-sce...",
@@ -16,13 +38,13 @@
     "description": "Debian votes to allow \"responsible use of generative AI\"",
     "link": "https://lwn.net/Articles/1091231/",
     "source_link": "https://news.ycombinator.com/item?id=49489982",
-    "engagement": "\ud83d\udc4d 213",
+    "engagement": "\ud83d\udc4d 443",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-29T14:02:10+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
     "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
@@ -38,7 +60,7 @@
     "description": "StemDeck, a free, open-source and local AI stem separator",
     "link": "https://github.com/stemdeckapp/stemdeck",
     "source_link": "https://news.ycombinator.com/item?id=49486081",
-    "engagement": "\ud83d\udc4d 165",
+    "engagement": "\ud83d\udc4d 183",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-29T01:24:13+00:00"
@@ -49,13 +71,13 @@
     "description": "I accidentally turned LLM memory into program analysis",
     "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
     "source_link": "https://news.ycombinator.com/item?id=49485416",
-    "engagement": "\ud83d\udc4d 216",
+    "engagement": "\ud83d\udc4d 251",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-28T23:27:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. ",
     "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -66,7 +88,7 @@
     "published": "2026-08-28T20:24:11+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -88,7 +110,7 @@
     "published": "2026-08-28T19:12:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
     "description": "There's a lot of capital pouring into the business of giving models away.",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -121,7 +143,7 @@
     "published": "2026-08-28T15:42:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
     "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
@@ -132,7 +154,7 @@
     "published": "2026-08-28T12:46:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
     "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
     "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
@@ -154,7 +176,7 @@
     "published": "2026-08-28T05:00:38+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\u00a0",
     "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -176,7 +198,7 @@
     "published": "2026-08-27T20:05:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. ",
     "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
@@ -185,28 +207,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-27T19:52:52+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. ",
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "source_link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T17:43:24+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
-    "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.\u00a0",
-    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "source_link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T16:00:00+00:00"
   },
   {
     "id": "rss-MarkTechPost-5",
@@ -240,17 +240,6 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-27T12:01:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
-    "description": "<p>Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series \u2014 a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3\u00d7 and KV cache 4.4\u00d7 versus GLM-5.3.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/...",
-    "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-    "source_link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T21:33:23+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
