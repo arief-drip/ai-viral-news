@@ -1,6 +1,50 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. ",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source_link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-28T20:24:11+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source_link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-28T19:30:38+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+    "description": "There's a lot of capital pouring into the business of giving models away.",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source_link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-28T18:19:40+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "description": "\n                        Meta fixes AI glasses to stop recording any time users cover up the safety light.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-28T15:42:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
     "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
@@ -11,7 +55,7 @@
     "published": "2026-08-28T12:46:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
     "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
     "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
@@ -22,40 +66,18 @@
     "published": "2026-08-28T12:21:06+00:00"
   },
   {
-    "id": "hn-49477212",
-    "title": "OpenAI: Migrating to HTTPX2",
-    "description": "OpenAI: Migrating to HTTPX2",
-    "link": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-    "source_link": "https://news.ycombinator.com/item?id=49477212",
-    "engagement": "\ud83d\udc4d 124",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-28T11:51:20+00:00"
-  },
-  {
     "id": "hn-49475079",
     "title": "Luanti removed from Google Play due to baseless AI copyright notice",
     "description": "Luanti removed from Google Play due to baseless AI copyright notice",
     "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
     "source_link": "https://news.ycombinator.com/item?id=49475079",
-    "engagement": "\ud83d\udc4d 218",
+    "engagement": "\ud83d\udc4d 429",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-28T06:33:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-    "description": "<p>Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Google reports 4.0% word error rate streaming and 2.6% non-streaming, with 70% faster finalization than Chirp 3. Here is what the split means for anyone building voice agents or transcription pipelines.</p>\n<p>The post <...",
-    "link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-    "source_link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-28T05:00:38+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026\u00a0",
     "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
@@ -66,51 +88,7 @@
     "published": "2026-08-27T23:16:45+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "description": "\n                        Standardized driver interface aims to let devices talk to AI and each other.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "source_link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T22:15:43+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says",
-    "description": "\n                        xAI accused of training Grok on real and AI-generated child pornography.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T20:52:31+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-    "description": "<p>Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse \u2014 but that figure averages three of the benchmark's five dimensions and drops cha...",
-    "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-    "source_link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T20:05:49+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "description": "\n                        Nvidia is nabbing critical infrastructure for open models as interest grows.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    "source_link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T19:55:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. ",
     "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
@@ -121,18 +99,7 @@
     "published": "2026-08-27T19:52:52+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-3",
-    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
-    "description": "\n                        Tech industry is perplexed by Trump\u2019s plan to win AI race by taxing data centers.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T18:57:08+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. ",
     "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
@@ -143,7 +110,7 @@
     "published": "2026-08-27T17:43:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-8",
     "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
     "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.\u00a0",
     "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
@@ -152,39 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-27T16:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
-    "description": "<p>In this tutorial, we analyze Anthropic\u2019s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/\">From In-Silico to Wet-Lab: Evaluating AI Protein Desi...",
-    "link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-    "source_link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T15:36:29+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "AI\u2019s memory crunch is coming for Android apps",
-    "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "source_link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T14:27:04+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
-    "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "source_link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T14:01:42+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
@@ -198,17 +132,6 @@
     "published": "2026-08-27T14:01:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "description": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "source_link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T13:00:00+00:00"
-  },
-  {
     "id": "rss-VentureBeat AI-1",
     "title": "When agents act on their own, governance has to live in the data layer",
     "description": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That ...",
@@ -218,17 +141,6 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-27T12:01:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
-    "description": "<p>Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series \u2014 a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3\u00d7 and KV cache 4.4\u00d7 versus GLM-5.3.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/...",
-    "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-    "source_link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T21:33:23+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -251,17 +163,6 @@
     "source": "VentureBeat AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T14:30:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
-    "description": "<p>Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/\">What Would Have to Be True for Agentic Coding to Replace Junior Engineers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-    "source_link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T14:20:35+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -295,17 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T07:01:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-    "description": "<p>Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-...",
-    "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-    "source_link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-25T23:48:08+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",

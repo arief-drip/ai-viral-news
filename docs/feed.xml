@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:15:58 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -161,15 +161,6 @@
       <pubDate>Tue, 25 Aug 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together</title>
-      <link>https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/</link>
-      <description>&lt;p&gt;&lt;p&gt;Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial Analysis as an independent methodology validator. Pipette treats on-device behavior as a [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 25 Aug 2026 23:48:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Bill Gates says we’ve passed AI’s danger thresholds. Now what?</title>
       <link>https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/</link>
       <description>&lt;p&gt;It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -194,16 +185,6 @@
       <pubDate>Wed, 26 Aug 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] What Would Have to Be True for Agentic Coding to Replace Junior Engineers</title>
-      <link>https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/</link>
-      <description>&lt;p&gt;&lt;p&gt;Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/"&gt;What Would Have to Be True for Agentic Coding to Replace Junior Engineers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 26 Aug 2026 14:20:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Orchestration is the new challenge for CX in the age of AI agents</title>
       <link>https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents</link>
       <description>&lt;p&gt;&lt;p&gt;&lt;i&gt;Presented by Tata Communications &lt;/i&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.&lt;/p&gt;&lt;p&gt;&amp;quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
@@ -220,29 +201,12 @@
       <pubDate>Wed, 26 Aug 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context</title>
-      <link>https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/</link>
-      <description>&lt;p&gt;&lt;p&gt;Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Bench 2.1 and 63.4 on DeepSWE v1.1, using hybrid KDA linear plus NoPE sparse MLA attention to cut attention compute ~3× and KV cache 4.4× versus GLM-5.3.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/26/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 26 Aug 2026 21:33:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] When agents act on their own, governance has to live in the data layer</title>
       <link>https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer</link>
       <description>&lt;p&gt;&lt;p&gt;&lt;i&gt;Presented by EDB &lt;/i&gt;&lt;/p&gt;&lt;hr/&gt;&lt;p&gt;As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?&lt;/p&gt;&lt;p&gt;These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 VentureBeat AI&lt;/strong&gt; · 📍 VentureBeat AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-VentureBeat AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 12:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents</title>
-      <link>https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/</link>
-      <description>&lt;p&gt;Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.</title>
@@ -253,35 +217,10 @@
       <pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Here’s all the times AI has gone rogue and hacked other companies</title>
-      <link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
-      <description>&lt;p&gt;A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 14:01:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI’s memory crunch is coming for Android apps</title>
-      <link>https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/</link>
-      <description>&lt;p&gt;Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 14:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance</title>
-      <link>https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/</link>
-      <description>&lt;p&gt;&lt;p&gt;In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validation in protein design workflows&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/"&gt;From In-Silico to Wet-Lab: Evaluating AI Protein Desi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 15:36:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google’s AI Mode can now track flight prices, help book hotels, and more</title>
       <link>https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/</link>
       <description>&lt;p&gt;The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
     </item>
@@ -289,104 +228,39 @@
       <title>[📰] OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI</title>
       <link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
       <description>&lt;p&gt;Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 17:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI industry says Trump plans to tax chips in the “single dumbest way imaginable”</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</link>
-      <description>&lt;p&gt;
-                        Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 18:57:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google</title>
       <link>https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/</link>
       <description>&lt;p&gt;Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 19:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Report: Nvidia to acquire AI model repository Hugging Face for $13 billion</title>
-      <link>https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/</link>
-      <description>&lt;p&gt;
-                        Nvidia is nabbing critical infrastructure for open models as interest grows.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 19:55:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown</title>
-      <link>https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse — but that figure averages three of the benchmark's five dimensions and drops cha...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 20:05:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Elon Musk’s xAI used child porn to train Grok models, lawsuit says</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/</link>
-      <description>&lt;p&gt;
-                        xAI accused of training Grok on real and AI-generated child pornography.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 20:52:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic's new hardware standard lets AI agents control the physical world</title>
-      <link>https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/</link>
-      <description>&lt;p&gt;
-                        Standardized driver interface aims to let devices talk to AI and each other.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 22:15:43 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 </title>
       <link>https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/</link>
       <description>&lt;p&gt;At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages</title>
-      <link>https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Google reports 4.0% word error rate streaming and 2.6% non-streaming, with 70% faster finalization than Chirp 3. Here is what the split means for anyone building voice agents or transcription pipelines.&lt;/p&gt;
-&lt;p&gt;The post &lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 28 Aug 2026 05:00:38 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Luanti removed from Google Play due to baseless AI copyright notice</title>
       <link>https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/</link>
-      <description>&lt;p&gt;Luanti removed from Google Play due to baseless AI copyright notice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 218&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Luanti removed from Google Play due to baseless AI copyright notice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 429&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49475079</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 06:33:57 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI: Migrating to HTTPX2</title>
-      <link>https://github.com/openai/openai-python/blob/main/httpx2.md</link>
-      <description>&lt;p&gt;OpenAI: Migrating to HTTPX2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 124&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49477212</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 28 Aug 2026 11:51:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</title>
       <link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
       <description>&lt;p&gt;Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
     </item>
@@ -394,9 +268,43 @@
       <title>[📰] Anthropic gets its first court win over the Pentagon’s supply-chain risk label</title>
       <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
       <description>&lt;p&gt;A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta makes AI glasses slightly less creepy with limit on nonconsensual recording</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/</link>
+      <description>&lt;p&gt;
+                        Meta fixes AI glasses to stop recording any time users cover up the safety light.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 28 Aug 2026 15:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Open-weight AI companies are the Valley’s hottest acquisition targets</title>
+      <link>https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</link>
+      <description>&lt;p&gt;There's a lot of capital pouring into the business of giving models away.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 28 Aug 2026 18:19:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] An Anthropic researcher just gave us a peek at self-improving AI</title>
+      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
+      <description>&lt;p&gt;Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Neocloud Lambda secures $1B in debt to buy more chips</title>
+      <link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
+      <description>&lt;p&gt;Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 28 Aug 2026 20:24:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
