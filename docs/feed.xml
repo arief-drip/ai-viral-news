@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 09:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:45:12 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -137,6 +137,14 @@
       <pubDate>Mon, 24 Aug 2026 13:12:40 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] What my dad taught me about AI coding in the 90s</title>
+      <link>https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/</link>
+      <description>&lt;p&gt;What my dad taught me about AI coding in the 90s&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 71&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49419381</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 24 Aug 2026 13:19:55 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] How to encourage smarter AI use in the classroom</title>
       <link>https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/</link>
       <description>&lt;p&gt;This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -217,43 +225,18 @@
       <pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google</title>
-      <link>https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/</link>
-      <description>&lt;p&gt;Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 19:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown</title>
-      <link>https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from $2,500 a month. Cohere reports a ParseBench score of 79.2, ahead of Mistral OCR 4, Azure Document Intelligence and Databricks AI Parse — but that figure averages three of the benchmark's five dimensions and drops cha...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 27 Aug 2026 20:05:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 </title>
       <link>https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/</link>
       <description>&lt;p&gt;At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 27 Aug 2026 23:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages</title>
-      <link>https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Google reports 4.0% word error rate streaming and 2.6% non-streaming, with 70% faster finalization than Chirp 3. Here is what the split means for anyone building voice agents or transcription pipelines.&lt;/p&gt;
-&lt;p&gt;The post &lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 28 Aug 2026 05:00:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India</title>
       <link>https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/</link>
       <description>&lt;p&gt;Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 12:21:06 +0000</pubDate>
     </item>
@@ -261,7 +244,7 @@
       <title>[📰] Anthropic gets its first court win over the Pentagon’s supply-chain risk label</title>
       <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
       <description>&lt;p&gt;A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
     </item>
@@ -276,36 +259,18 @@
       <pubDate>Fri, 28 Aug 2026 15:42:24 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders</title>
-      <link>https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the browser, in headless Node.js via Dawn, and in a deterministic CI mock, and ships a fullscreen effect in 25 KB gzipped.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/"&gt;Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders&lt;/a&gt; appeared firs...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 28 Aug 2026 17:28:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Open-weight AI companies are the Valley’s hottest acquisition targets</title>
       <link>https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/</link>
       <description>&lt;p&gt;There's a lot of capital pouring into the business of giving models away.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 18:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture</title>
-      <link>https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/</link>
-      <description>&lt;p&gt;&lt;p&gt;Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/"&gt;GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkT...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 28 Aug 2026 19:12:21 +0000</pubDate>
     </item>
     <item>
       <title>[📰] An Anthropic researcher just gave us a peek at self-improving AI</title>
       <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
       <description>&lt;p&gt;Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
     </item>
@@ -313,7 +278,7 @@
       <title>[📰] Neocloud Lambda secures $1B in debt to buy more chips</title>
       <link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
       <description>&lt;p&gt;Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 28 Aug 2026 20:24:11 +0000</pubDate>
     </item>
@@ -321,34 +286,33 @@
       <title>[📰] Nvidia’s AI advantage is moving beyond the GPU</title>
       <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
       <description>&lt;p&gt;The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling</title>
-      <link>https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/</link>
-      <description>&lt;p&gt;&lt;p&gt;We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-sce...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 29 Aug 2026 14:30:44 +0000</pubDate>
     </item>
     <item>
       <title>[📰] “We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z</title>
       <link>https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/</link>
       <description>&lt;p&gt;Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 29 Aug 2026 17:36:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices</title>
-      <link>https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] No AI Fridays</title>
+      <link>https://noaifridays.com/</link>
+      <description>&lt;p&gt;No AI Fridays&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 154&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49498095</guid>
       <category>AI News</category>
-      <pubDate>Sun, 30 Aug 2026 06:12:21 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 12:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Caterpillar is bringing to AI deployment what it learned from automating mining</title>
+      <link>https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/</link>
+      <description>&lt;p&gt;Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
