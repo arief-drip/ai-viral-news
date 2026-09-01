@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:46:14 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -201,9 +201,26 @@
       <pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling</title>
+      <link>https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/</link>
+      <description>&lt;p&gt;&lt;p&gt;We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-sce...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 29 Aug 2026 14:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices</title>
+      <link>https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 30 Aug 2026 06:12:21 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Smartphone LED detects hidden cameras with AI</title>
       <link>https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/</link>
-      <description>&lt;p&gt;Smartphone LED detects hidden cameras with AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Smartphone LED detects hidden cameras with AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 148&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49496292</guid>
       <category>AI News</category>
       <pubDate>Sun, 30 Aug 2026 06:52:04 +0000</pubDate>
@@ -212,32 +229,30 @@
       <title>[📰] Caterpillar is bringing to AI deployment what it learned from automating mining</title>
       <link>https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/</link>
       <description>&lt;p&gt;Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Breaking Claude Code Opus 5 Auto Mode</title>
-      <link>https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</link>
-      <description>&lt;p&gt;Breaking Claude Code Opus 5 Auto Mode&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 335&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49506819</guid>
+      <title>[📰] Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds</title>
+      <link>https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched — and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mine...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 07:49:18 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 20:23:46 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Pocket's AI made my game ideas real. Now Meta controls the results.</title>
-      <link>https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/</link>
-      <description>&lt;p&gt;
-                        Interactive mobile "gizmos" are easy to make, hard to share outside Meta's platform.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <title>[📰] Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark</title>
+      <link>https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/</link>
+      <description>&lt;p&gt;&lt;p&gt;Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to-speech, and speech-to-speech — using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its ow...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 10:00:34 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 21:24:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Apple caught off guard by AI demand for Mac Mini and Mac Studio</title>
       <link>https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</link>
-      <description>&lt;p&gt;Apple caught off guard by AI demand for Mac Mini and Mac Studio&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 267&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Apple caught off guard by AI demand for Mac Mini and Mac Studio&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 307&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49508982</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 12:41:22 +0000</pubDate>
@@ -251,20 +266,18 @@
       <pubDate>Mon, 31 Aug 2026 13:31:06 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ChatGPT and Reddit now face EU's toughest online safety rules</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
-      <description>&lt;p&gt;
-                        Explosive growth comes with a new regulatory burden in the European Union.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <title>[📰] ChatGPT Work Tool and Skill Reference</title>
+      <link>https://codex-tool-reference.simonw.chatgpt.site/</link>
+      <description>&lt;p&gt;ChatGPT Work Tool and Skill Reference&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 184&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49510000</guid>
       <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 13:41:40 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 14:07:15 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout</title>
       <link>https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/</link>
       <description>&lt;p&gt;Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 15:15:25 +0000</pubDate>
     </item>
@@ -272,7 +285,7 @@
       <title>[📰] Clipto uses AI to search terabytes of video and is now valued at $250M</title>
       <link>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</link>
       <description>&lt;p&gt;The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
     </item>
@@ -295,18 +308,10 @@
       <pubDate>Mon, 31 Aug 2026 18:10:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The safest job from AI may be writing</title>
-      <link>http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</link>
-      <description>&lt;p&gt;The safest job from AI may be writing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 70&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49512856</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 18:12:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’</title>
       <link>https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</link>
       <description>&lt;p&gt;Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 18:35:11 +0000</pubDate>
     </item>
@@ -314,7 +319,7 @@
       <title>[📰] Instagram puts new limits on undisclosed AI profiles</title>
       <link>https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/</link>
       <description>&lt;p&gt;As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 19:16:59 +0000</pubDate>
     </item>
@@ -322,9 +327,34 @@
       <title>[📰] The Pentagon now has its own version of ChatGPT and Grok</title>
       <link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
       <description>&lt;p&gt;Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 31 Aug 2026 20:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting</title>
+      <link>https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, ho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 31 Aug 2026 21:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour</title>
+      <link>https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/</link>
+      <description>&lt;p&gt;&lt;p&gt;How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/"&gt;Keenable AI Open-Sou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 31 Aug 2026 23:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
+      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
+      <description>&lt;p&gt;Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

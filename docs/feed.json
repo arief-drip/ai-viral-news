@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+    "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source_link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-01T00:13:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+    "description": "<p>How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/\">Keenable AI Open-Sou...",
+    "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+    "source_link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-31T23:43:26+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+    "description": "<p>Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, ho...",
+    "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+    "source_link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-31T21:20:16+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
     "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
@@ -11,7 +44,7 @@
     "published": "2026-08-31T20:13:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Instagram puts new limits on undisclosed AI profiles",
     "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
     "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
@@ -22,7 +55,7 @@
     "published": "2026-08-31T19:16:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
     "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. ",
     "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
@@ -31,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-31T18:35:11+00:00"
-  },
-  {
-    "id": "hn-49512856",
-    "title": "The safest job from AI may be writing",
-    "description": "The safest job from AI may be writing",
-    "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "source_link": "https://news.ycombinator.com/item?id=49512856",
-    "engagement": "\ud83d\udc4d 70",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-31T18:12:20+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -66,7 +88,7 @@
     "published": "2026-08-31T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
     "description": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
     "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
@@ -77,7 +99,7 @@
     "published": "2026-08-31T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
     "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
     "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
@@ -88,15 +110,15 @@
     "published": "2026-08-31T15:15:25+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-    "description": "\n                        Explosive growth comes with a new regulatory burden in the European Union.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "hn-49510000",
+    "title": "ChatGPT Work Tool and Skill Reference",
+    "description": "ChatGPT Work Tool and Skill Reference",
+    "link": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "source_link": "https://news.ycombinator.com/item?id=49510000",
+    "engagement": "\ud83d\udc4d 184",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-31T13:41:40+00:00"
+    "published": "2026-08-31T14:07:15+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -115,35 +137,35 @@
     "description": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
     "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "source_link": "https://news.ycombinator.com/item?id=49508982",
-    "engagement": "\ud83d\udc4d 267",
+    "engagement": "\ud83d\udc4d 307",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-31T12:41:22+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-    "description": "\n                        Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.\n                    ",
-    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "source_link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
+    "id": "rss-MarkTechPost-2",
+    "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+    "description": "<p>Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack \u2014 LLM, speech-to-text, text-to-speech, and speech-to-speech \u2014 using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its ow...",
+    "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+    "source_link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-31T10:00:34+00:00"
+    "published": "2026-08-30T21:24:38+00:00"
   },
   {
-    "id": "hn-49506819",
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "description": "Breaking Claude Code Opus 5 Auto Mode",
-    "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "source_link": "https://news.ycombinator.com/item?id=49506819",
-    "engagement": "\ud83d\udc4d 335",
-    "source": "Hacker News",
+    "id": "rss-MarkTechPost-3",
+    "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
+    "description": "<p>Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched \u2014 and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mine...",
+    "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+    "source_link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
-    "published": "2026-08-31T07:49:18+00:00"
+    "published": "2026-08-30T20:23:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
     "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -159,10 +181,32 @@
     "description": "Smartphone LED detects hidden cameras with AI",
     "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
     "source_link": "https://news.ycombinator.com/item?id=49496292",
-    "engagement": "\ud83d\udc4d 130",
+    "engagement": "\ud83d\udc4d 148",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-30T06:52:04+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+    "description": "<p>Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather th...",
+    "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+    "source_link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-30T06:12:21+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+    "description": "<p>We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned to control camera movement, and video clips can be passed as references for character consistency.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-sce...",
+    "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+    "source_link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-08-29T14:30:44+00:00"
   },
   {
     "id": "rss-VentureBeat AI-0",
