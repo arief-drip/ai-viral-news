@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:12:55 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -132,7 +132,7 @@
       <title>[📰] Wire It, Run It, Deploy It: AI Workflows in Gradio</title>
       <link>https://huggingface.co/blog/gradio-workflow-guide</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
+      <guid isPermaLink="false">rss-HuggingFace Blog-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -201,6 +201,30 @@
       <pubDate>Thu, 27 Aug 2026 14:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices</title>
+      <link>https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw equipment to a finished dose-response curve in eight, and QuEra's laser relock improved from 58% to 99.3% across 700 trials. MHS is model-agnostic, reachable over MCP, and enforces safety limits in the driver rather th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 30 Aug 2026 06:12:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds</title>
+      <link>https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/step() interface, so tasks and human-built verifiers stay untouched — and an LLM designer, EnvRigger, writes those wrappers automatically against flaws diagnosed in the agent's own rollouts. Across five benchmarks, mine...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 30 Aug 2026 20:23:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark</title>
+      <link>https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/</link>
+      <description>&lt;p&gt;&lt;p&gt;Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, speech-to-text, text-to-speech, and speech-to-speech — using figures verified against primary sources on August 30, 2026, with each number labeled as independently measured, vendor-published, or vendor-measured on its ow...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 30 Aug 2026 21:24:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-K1ytNB.png?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -217,49 +241,43 @@
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’</title>
-      <link>https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</link>
-      <description>&lt;p&gt;Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <title>[📰] Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting</title>
+      <link>https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, ho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 18:35:11 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 21:20:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Instagram puts new limits on undisclosed AI profiles</title>
-      <link>https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/</link>
-      <description>&lt;p&gt;As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <title>[📰] Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour</title>
+      <link>https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/</link>
+      <description>&lt;p&gt;&lt;p&gt;How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/"&gt;Keenable AI Open-Sou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 19:16:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Pentagon now has its own version of ChatGPT and Grok</title>
-      <link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
-      <description>&lt;p&gt;Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 20:13:45 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 23:43:26 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
       <link>https://huggingface.co/blog/webgpu-kernels</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
-      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
-      <description>&lt;p&gt;Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <title>[📰] Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio</title>
+      <link>https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/</link>
+      <description>&lt;p&gt;&lt;p&gt;Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 500 hard sentences across five languages, at 216 ms P50 time-to-first-audio on Coval. The evaluation set is open on Hugging Face under CC BY 4.0.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/"&gt;Gradium AI Releases New Default TTS Mo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
-      <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 03:39:05 +0000</pubDate>
     </item>
     <item>
       <title>[📰] I trained a small transformer in 1.5hrs and it beats many LLMs</title>
       <link>https://mvakde.github.io/blog/44-on-arc-1/</link>
-      <description>&lt;p&gt;I trained a small transformer in 1.5hrs and it beats many LLMs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 392&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;I trained a small transformer in 1.5hrs and it beats many LLMs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 518&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49519939</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 09:52:45 +0000</pubDate>
@@ -268,7 +286,7 @@
       <title>[📰] Fambot introduces an ‘AI chief of staff’ for families</title>
       <link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/</link>
       <description>&lt;p&gt;Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 15:10:58 +0000</pubDate>
     </item>
@@ -276,23 +294,15 @@
       <title>[📰] AIR raises $50M to help companies vet the skills and add-ons AI agents use</title>
       <link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
       <description>&lt;p&gt;AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 15:45:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Dwarf Fortress' creator says the industry's in shambles over AI</title>
-      <link>https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/</link>
-      <description>&lt;p&gt;Dwarf Fortress' creator says the industry's in shambles over AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 102&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49523720</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 01 Sep 2026 15:53:42 +0000</pubDate>
     </item>
     <item>
       <title>[📰] ChatGPT Health adds Epic integration for clinicians to import patient data</title>
       <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
       <description>&lt;p&gt;OpenAI said that the integration provides read-only access to health records for clinicians. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
     </item>
@@ -300,17 +310,81 @@
       <title>[📰] Google’s answer to Canva is an AI tool where you prompt instead of design</title>
       <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
       <description>&lt;p&gt;With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 17:35:37 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Fable 5.1 and Claude Mythos 5.1</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-      <description>&lt;p&gt;Claude Fable 5.1 and Claude Mythos 5.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 331&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Fable 5.1 and Claude Mythos 5.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 748&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49525378</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 17:53:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How accurate have Ed Zitron's AI skeptic predictions been?</title>
+      <link>https://danluu.com/zitron/</link>
+      <description>&lt;p&gt;How accurate have Ed Zitron's AI skeptic predictions been?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 211&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49526069</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 18:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The ChatGPT/Codex app bundles a full copy of LibreOffice</title>
+      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+      <description>&lt;p&gt;The ChatGPT/Codex app bundles a full copy of LibreOffice&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 147&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49527396</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 20:07:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit</title>
+      <link>https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</link>
+      <description>&lt;p&gt;Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 99&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49527573</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 20:19:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads</title>
+      <link>https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 20:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s Android update tackles motion sickness, accessibility, and more</title>
+      <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
+      <description>&lt;p&gt;While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 20:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Open AI’s Astra model is on the way—and very good at breaking into computer systems</title>
+      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
+      <description>&lt;p&gt;OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 21:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] BenchMIRT: What are LLM benchmarks actually measuring?</title>
+      <link>https://huggingface.co/blog/allenai/benchmirt</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B</title>
+      <link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
+      <description>&lt;p&gt;AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 22:08:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
