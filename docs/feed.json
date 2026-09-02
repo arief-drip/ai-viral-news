@@ -1,5 +1,38 @@
 [
   {
+    "id": "hn-49542443",
+    "title": "Mamdani Bans AI in NYC Schools",
+    "description": "Mamdani Bans AI in NYC Schools",
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "source_link": "https://news.ycombinator.com/item?id=49542443",
+    "engagement": "\ud83d\udc4d 72",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-02T20:57:04+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+    "description": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source_link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-02T20:19:14+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+    "description": "\n                        Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "source_link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-02T18:13:54+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
     "description": "<p>NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-pr...",
@@ -9,6 +42,17 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T18:05:52+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "description": "\n                        Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-02T17:58:33+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -22,7 +66,7 @@
     "published": "2026-09-02T17:20:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
     "description": "The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what\u2019s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
     "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
@@ -33,7 +77,7 @@
     "published": "2026-09-02T17:18:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "We\u2019re\u00a0\u2018dangerously close\u2019 to dead internet theory, says Pangram\u2019s CEO",
     "description": "The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what\u2019s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
     "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
@@ -44,9 +88,9 @@
     "published": "2026-09-02T17:09:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
     "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "source_link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -55,7 +99,7 @@
     "published": "2026-09-02T17:09:06+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
     "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
     "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
@@ -71,13 +115,13 @@
     "description": "Gemini 3.8 Flash and 3.8 Flash Cyber",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "source_link": "https://news.ycombinator.com/item?id=49537553",
-    "engagement": "\ud83d\udc4d 553",
+    "engagement": "\ud83d\udc4d 727",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T15:12:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
     "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use. ",
     "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
@@ -88,7 +132,7 @@
     "published": "2026-09-02T15:01:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
     "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
     "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
@@ -99,7 +143,7 @@
     "published": "2026-09-02T14:56:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Adobe acquires Indian market intelligence startup Rilo",
     "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
     "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
@@ -115,7 +159,7 @@
     "description": "WebLLM: high-performance in-browser LLM inference engine",
     "link": "https://github.com/mlc-ai/web-llm",
     "source_link": "https://news.ycombinator.com/item?id=49536411",
-    "engagement": "\ud83d\udc4d 58",
+    "engagement": "\ud83d\udc4d 75",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T14:02:35+00:00"
@@ -132,51 +176,7 @@
     "published": "2026-09-02T14:00:00+00:00"
   },
   {
-    "id": "hn-49536375",
-    "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-    "description": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-    "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "source_link": "https://news.ycombinator.com/item?id=49536375",
-    "engagement": "\ud83d\udc4d 227",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T13:59:59+00:00"
-  },
-  {
-    "id": "hn-49536114",
-    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-    "description": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-    "link": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-    "source_link": "https://news.ycombinator.com/item?id=49536114",
-    "engagement": "\ud83d\udc4d 137",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T13:43:14+00:00"
-  },
-  {
-    "id": "hn-49535284",
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
-    "description": "Mistral now trains on user input by default, except on enterprise tier",
-    "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "source_link": "https://news.ycombinator.com/item?id=49535284",
-    "engagement": "\ud83d\udc4d 286",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T12:30:39+00:00"
-  },
-  {
-    "id": "hn-49535201",
-    "title": "Check if a file was made with Claude",
-    "description": "Check if a file was made with Claude",
-    "link": "https://claude.com/check-content",
-    "source_link": "https://news.ycombinator.com/item?id=49535201",
-    "engagement": "\ud83d\udc4d 119",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T12:23:20+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
     "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
     "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
@@ -185,17 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T12:09:42+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
-    "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "source_link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-01T22:08:24+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
