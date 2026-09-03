@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a \u2018Critical\u2019 Cyber Threshold",
+    "description": "<p>OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-con...",
+    "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+    "source_link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T21:16:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+    "description": "<p>Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprin...",
+    "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+    "source_link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T19:46:59+00:00"
+  },
+  {
+    "id": "hn-49555691",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "description": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "link": "https://arcprize.org/blog/astra",
+    "source_link": "https://news.ycombinator.com/item?id=49555691",
+    "engagement": "\ud83d\udc4d 110",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T19:45:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2",
     "description": "<p>Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which ...",
     "link": "https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/",
@@ -9,6 +42,17 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T18:51:52+00:00"
+  },
+  {
+    "id": "hn-49554643",
+    "title": "GPT-6 Astra",
+    "description": "GPT-6 Astra",
+    "link": "https://openai.com/index/gpt-6-astra/",
+    "source_link": "https://news.ycombinator.com/item?id=49554643",
+    "engagement": "\ud83d\udc4d 945",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T18:41:05+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -24,7 +68,7 @@
   {
     "id": "rss-TechCrunch AI-1",
     "title": "Meta is paying to peek at how you use their latest AI model",
-    "description": "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about [&#8230;]",
+    "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "source_link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -33,15 +77,15 @@
     "published": "2026-09-03T18:19:56+00:00"
   },
   {
-    "id": "hn-49554273",
-    "title": "OpenAI begins rolling out GPT-6 Astra",
-    "description": "OpenAI begins rolling out GPT-6 Astra",
-    "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    "source_link": "https://news.ycombinator.com/item?id=49554273",
-    "engagement": "\ud83d\udc4d 69",
-    "source": "Hacker News",
+    "id": "rss-Ars Technica AI-0",
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "description": "\n                        Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "source_link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T18:18:22+00:00"
+    "published": "2026-09-03T18:10:19+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -71,7 +115,7 @@
     "description": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
     "link": "https://news.ycombinator.com/item?id=49551096",
     "source_link": "https://news.ycombinator.com/item?id=49551096",
-    "engagement": "\ud83d\udc4d 213",
+    "engagement": "\ud83d\udc4d 294",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T15:07:01+00:00"
@@ -93,13 +137,13 @@
     "description": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
     "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
     "source_link": "https://news.ycombinator.com/item?id=49550375",
-    "engagement": "\ud83d\udc4d 54",
+    "engagement": "\ud83d\udc4d 133",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T14:28:18+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
     "description": "\n                        Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
@@ -108,6 +152,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T13:34:13+00:00"
+  },
+  {
+    "id": "hn-49544762",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "description": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "source_link": "https://news.ycombinator.com/item?id=49544762",
+    "engagement": "\ud83d\udc4d 126",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T01:11:22+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -132,29 +187,7 @@
     "published": "2026-09-02T22:24:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-    "description": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "source_link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T20:19:14+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-    "description": "\n                        Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "source_link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T18:13:54+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
     "description": "<p>NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-pr...",
     "link": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
@@ -165,18 +198,7 @@
     "published": "2026-09-02T18:05:52+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "description": "\n                        Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T17:58:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
     "description": "<p>Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what ...",
     "link": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
@@ -207,17 +229,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-01T21:39:07+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
-    "description": "<p>Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50....",
-    "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
-    "source_link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-01T20:30:21+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-1",
@@ -253,28 +264,6 @@
     "published": "2026-08-31T13:31:06+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-0",
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "description": "<p><i>Presented by Gravitee </i></p><hr/><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That\u2019s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see cle...",
-    "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "source_link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T14:01:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-1",
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "description": "<p><i>Presented by EDB </i></p><hr/><p>As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure \u2014 and the responsibility for what they do sits with you. That ...",
-    "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "source_link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-27T12:01:00+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-2",
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "description": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019&#8230;",
@@ -284,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T19:00:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-2",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "description": "<p><i>Presented by Tata Communications </i></p><hr/><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto ...",
-    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "source_link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T14:30:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
@@ -385,17 +363,6 @@
     "published": "2026-08-20T15:42:39+00:00"
   },
   {
-    "id": "rss-VentureBeat AI-3",
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "description": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers \u2014 the directors, VPs, CIOs, and CTOs \u2014 who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the...",
-    "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "source_link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-19T14:18:12+00:00"
-  },
-  {
     "id": "rss-Import AI (Jack Clark)-2",
     "title": "Import AI 469: Science AI; RSI simulator; and Zuck\u2019s technological pessimism",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be...",
@@ -482,27 +449,5 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-06-22T12:31:45+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-4",
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "description": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>...",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "source_link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-22T14:00:00+00:00"
-  },
-  {
-    "id": "rss-VentureBeat AI-5",
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "description": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> \u2014 ranging from $20 to $200 per month depending on usage \u2014 has sparked a growing rebellion among the very programmers it aims...",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "source_link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "engagement": "\ud83d\udce1 VentureBeat AI",
-    "source": "VentureBeat AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-01-19T14:00:00+00:00"
   }
 ]
