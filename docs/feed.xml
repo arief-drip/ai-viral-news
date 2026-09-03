@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:59:09 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -217,20 +217,20 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads</title>
+      <link>https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsoft Foundry; Mythos 5.1 remains restricted to vetted organizations under Project Glasswing. Fable 5.1 scores 52.6% on Terminal-Bench-Science 0.1 against 24.7% for Fable 5, ships a 1M token context window, and drops cache reads 75% to $0.25 per million tokens while base pricing holds at $10 and $50....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 01 Sep 2026 20:30:21 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] BenchMIRT: What are LLM benchmarks actually measuring?</title>
       <link>https://huggingface.co/blog/allenai/benchmirt</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Three sites made 215,128 “best software” pages for AI. Perplexity cites them</title>
-      <link>https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</link>
-      <description>&lt;p&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 488&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49536375</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 13:59:59 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Facilitating AI integration with simplicity at scale</title>
@@ -241,37 +241,12 @@
       <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
-      <description>&lt;p&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49537553</guid>
+      <title>[📰] Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes</title>
+      <link>https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] US government sides with OpenAI on issue of training LLMs on copyrighted material</title>
-      <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
-      <description>&lt;p&gt;"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use
-globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 17:09:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO</title>
-      <link>https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/</link>
-      <description>&lt;p&gt;The internet has a trust problem, and&amp;#160;it’s&amp;#160;not just because social media feeds are filling up with AI&amp;#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&amp;#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&amp;#160;what’s&amp;#160;real.&amp;#160; A handful of startups have cropped up in the past couple of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 17:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</title>
-      <link>https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</link>
-      <description>&lt;p&gt;The internet has a trust problem, and&amp;#160;it’s&amp;#160;not just because social media feeds are filling up with AI&amp;#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&amp;#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&amp;#160;what’s&amp;#160;real.&amp;#160; A handful of startups have cropped up in the past couple of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 17:18:13 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 17:20:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Trump may be forced to reveal secret rules feds use for AI safety testing</title>
@@ -279,9 +254,18 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <description>&lt;p&gt;
                         Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs</title>
+      <link>https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-pr...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 02 Sep 2026 18:05:52 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google releases Gemini 3.8 Flash, its third Flash model in six weeks</title>
@@ -289,7 +273,7 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <description>&lt;p&gt;
                         Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 18:13:54 +0000</pubDate>
     </item>
@@ -297,7 +281,7 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] OpenAI’s new reasoning technique alarms AI safety experts</title>
       <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
       <description>&lt;p&gt;OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 20:19:14 +0000</pubDate>
     </item>
@@ -305,7 +289,7 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals </title>
       <link>https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/</link>
       <description>&lt;p&gt;On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 22:24:09 +0000</pubDate>
     </item>
@@ -313,25 +297,91 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] Palo Alto Networks paid $500M for Thrive-backed Console, sources say</title>
       <link>https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/</link>
       <description>&lt;p&gt;The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 22:44:56 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ChatGPT Is Throwing 404</title>
-      <link>https://chatgpt.com/</link>
-      <description>&lt;p&gt;ChatGPT Is Throwing 404&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 262&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49550614</guid>
+      <title>[📰] Nvidia buys Hugging Face, the GitHub of AI, for $13 billion</title>
+      <link>https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/</link>
+      <description>&lt;p&gt;
+                        Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
-      <pubDate>Thu, 03 Sep 2026 14:46:47 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 13:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</title>
+      <link>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</link>
+      <description>&lt;p&gt;Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49550375</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 14:28:18 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google’s latest AI weather model gives you no excuse to forget your umbrella</title>
       <link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
-      <description>&lt;p&gt;Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <description>&lt;p&gt;WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 03 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</title>
+      <link>https://news.ycombinator.com/item?id=49551096</link>
+      <description>&lt;p&gt;Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49551096</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ollie is betting its focus on privacy can help it win the AI assistant race</title>
+      <link>https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/</link>
+      <description>&lt;p&gt;The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 16:09:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI launches Astra, its powerful (and controversial) new model</title>
+      <link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/</link>
+      <description>&lt;p&gt;OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety." &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 18:01:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI begins rolling out GPT-6 Astra</title>
+      <link>https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html</link>
+      <description>&lt;p&gt;OpenAI begins rolling out GPT-6 Astra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49554273</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 18:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta is paying to peek at how you use their latest AI model</title>
+      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
+      <description>&lt;p&gt;Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 18:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Abliteration.ai is making a business out of removing AI guardrails</title>
+      <link>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/</link>
+      <description>&lt;p&gt;Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 18:37:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2</title>
+      <link>https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 03 Sep 2026 18:51:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
