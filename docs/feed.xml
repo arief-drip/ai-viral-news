@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 02:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:24:26 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -217,15 +217,6 @@
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour</title>
-      <link>https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/</link>
-      <description>&lt;p&gt;&lt;p&gt;How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/"&gt;Keenable AI Open-Sou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 23:43:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
       <link>https://huggingface.co/blog/webgpu-kernels</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
@@ -261,7 +252,7 @@
     <item>
       <title>[📰] Three sites made 215,128 “best software” pages for AI. Perplexity cites them</title>
       <link>https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</link>
-      <description>&lt;p&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 316&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 397&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49536375</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 13:59:59 +0000</pubDate>
@@ -277,7 +268,7 @@
     <item>
       <title>[📰] WebLLM: high-performance in-browser LLM inference engine</title>
       <link>https://github.com/mlc-ai/web-llm</link>
-      <description>&lt;p&gt;WebLLM: high-performance in-browser LLM inference engine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;WebLLM: high-performance in-browser LLM inference engine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 112&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49536411</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
@@ -293,7 +284,7 @@
     <item>
       <title>[📰] Gemini 3.8 Flash and 3.8 Flash Cyber</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
-      <description>&lt;p&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 837&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 991&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49537553</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 15:12:40 +0000</pubDate>
@@ -391,14 +382,6 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 22:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] METR Report on OpenAI / Hugging Face Hacking Incident</title>
-      <link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident</link>
-      <description>&lt;p&gt;METR Report on OpenAI / Hugging Face Hacking Incident&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49543841</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 23:08:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,16 +1,5 @@
 [
   {
-    "id": "hn-49543841",
-    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-    "description": "METR Report on OpenAI / Hugging Face Hacking Incident",
-    "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "source_link": "https://news.ycombinator.com/item?id=49543841",
-    "engagement": "\ud83d\udc4d 92",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-02T23:08:47+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
     "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
@@ -137,7 +126,7 @@
     "description": "Gemini 3.8 Flash and 3.8 Flash Cyber",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "source_link": "https://news.ycombinator.com/item?id=49537553",
-    "engagement": "\ud83d\udc4d 837",
+    "engagement": "\ud83d\udc4d 991",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T15:12:40+00:00"
@@ -159,7 +148,7 @@
     "description": "WebLLM: high-performance in-browser LLM inference engine",
     "link": "https://github.com/mlc-ai/web-llm",
     "source_link": "https://news.ycombinator.com/item?id=49536411",
-    "engagement": "\ud83d\udc4d 92",
+    "engagement": "\ud83d\udc4d 112",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T14:02:35+00:00"
@@ -181,7 +170,7 @@
     "description": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
     "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
     "source_link": "https://news.ycombinator.com/item?id=49536375",
-    "engagement": "\ud83d\udc4d 316",
+    "engagement": "\ud83d\udc4d 397",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-02T13:59:59+00:00"
@@ -229,17 +218,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-01T00:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
-    "description": "<p>How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/\">Keenable AI Open-Sou...",
-    "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-    "source_link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-31T23:43:26+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
