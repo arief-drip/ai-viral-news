@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:12:37 +0000</lastBuildDate>
     <item>
       <title>[📰] Claude Code costs up to $200 a month. Goose does the same thing for free.</title>
       <link>https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free</link>
@@ -217,14 +217,6 @@
       <pubDate>Mon, 31 Aug 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting</title>
-      <link>https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple targets, past covariates, and past-future covariates with no task-specific fine-tuning. It takes the top average rank among pretrained foundation models on GIFT-Eval, fev-bench, and the TIME leaderboard. The weights, ho...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 31 Aug 2026 21:20:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour</title>
       <link>https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/</link>
       <description>&lt;p&gt;&lt;p&gt;How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answers are already encoded in [&amp;#8230;]&lt;/p&gt;
@@ -267,12 +259,12 @@
       <pubDate>Tue, 01 Sep 2026 21:39:07 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting</title>
-      <link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
-      <description>&lt;p&gt;Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
+      <title>[📰] Three sites made 215,128 “best software” pages for AI. Perplexity cites them</title>
+      <link>https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</link>
+      <description>&lt;p&gt;Three sites made 215,128 “best software” pages for AI. Perplexity cites them&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 316&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49536375</guid>
       <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 12:09:42 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 13:59:59 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Facilitating AI integration with simplicity at scale</title>
@@ -285,39 +277,23 @@
     <item>
       <title>[📰] WebLLM: high-performance in-browser LLM inference engine</title>
       <link>https://github.com/mlc-ai/web-llm</link>
-      <description>&lt;p&gt;WebLLM: high-performance in-browser LLM inference engine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 75&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;WebLLM: high-performance in-browser LLM inference engine&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49536411</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 14:02:35 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Adobe acquires Indian market intelligence startup Rilo</title>
-      <link>https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/</link>
-      <description>&lt;p&gt;This is Adobe's second acquisition out of India after Rephrase.ai in 2023&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 14:03:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] PSA: Amazon’s shopping AI can now tell you if that message is a scam</title>
-      <link>https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/</link>
-      <description>&lt;p&gt;Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 14:56:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] HiddenLayer nabs $100M as enterprises rush to secure their AI deployments</title>
       <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
       <description>&lt;p&gt;Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 15:01:23 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Gemini 3.8 Flash and 3.8 Flash Cyber</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
-      <description>&lt;p&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 727&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.8 Flash and 3.8 Flash Cyber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 837&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49537553</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 15:12:40 +0000</pubDate>
@@ -326,7 +302,7 @@
       <title>[📰] India’s richest man now wants to turn aging computers into AI-ready PCs</title>
       <link>https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/</link>
       <description>&lt;p&gt;Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 16:01:48 +0000</pubDate>
     </item>
@@ -335,7 +311,7 @@
       <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
       <description>&lt;p&gt;"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use
 globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 17:09:06 +0000</pubDate>
     </item>
@@ -343,7 +319,7 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO</title>
       <link>https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/</link>
       <description>&lt;p&gt;The internet has a trust problem, and&amp;#160;it’s&amp;#160;not just because social media feeds are filling up with AI&amp;#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&amp;#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&amp;#160;what’s&amp;#160;real.&amp;#160; A handful of startups have cropped up in the past couple of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 17:09:57 +0000</pubDate>
     </item>
@@ -351,7 +327,7 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’</title>
       <link>https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</link>
       <description>&lt;p&gt;The internet has a trust problem, and&amp;#160;it’s&amp;#160;not just because social media feeds are filling up with AI&amp;#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&amp;#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&amp;#160;what’s&amp;#160;real.&amp;#160; A handful of startups have cropped up in the past couple of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 17:18:13 +0000</pubDate>
     </item>
@@ -396,17 +372,33 @@ globally," the brief reads.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&l
       <title>[📰] OpenAI’s new reasoning technique alarms AI safety experts</title>
       <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
       <description>&lt;p&gt;OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 02 Sep 2026 20:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Mamdani Bans AI in NYC Schools</title>
-      <link>https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</link>
-      <description>&lt;p&gt;Mamdani Bans AI in NYC Schools&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 72&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49542443</guid>
+      <title>[📰] TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals </title>
+      <link>https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/</link>
+      <description>&lt;p&gt;On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 20:57:04 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 22:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Palo Alto Networks paid $500M for Thrive-backed Console, sources say</title>
+      <link>https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/</link>
+      <description>&lt;p&gt;The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 02 Sep 2026 22:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] METR Report on OpenAI / Hugging Face Hacking Incident</title>
+      <link>https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident</link>
+      <description>&lt;p&gt;METR Report on OpenAI / Hugging Face Hacking Incident&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49543841</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 02 Sep 2026 23:08:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
