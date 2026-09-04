@@ -1,6 +1,72 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Architecting memory and storage in the AI era",
+    "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source_link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T18:39:19+00:00"
+  },
+  {
+    "id": "hn-49567594",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+    "description": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source_link": "https://news.ycombinator.com/item?id=49567594",
+    "engagement": "\ud83d\udc4d 89",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T17:29:22+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+    "description": "\n                        Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "source_link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T16:22:18+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+    "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "source_link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T16:21:11+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+    "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "source_link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T16:04:08+00:00"
+  },
+  {
+    "id": "hn-49566137",
+    "title": "Corporate America is getting hooked on open-source AI",
+    "description": "Corporate America is getting hooked on open-source AI",
+    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "source_link": "https://news.ycombinator.com/item?id=49566137",
+    "engagement": "\ud83d\udc4d 170",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T15:33:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
     "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
     "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
@@ -16,7 +82,7 @@
     "description": "Google AI Mode shows same products 21.6% more expensive than traditional search",
     "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
     "source_link": "https://news.ycombinator.com/item?id=49563386",
-    "engagement": "\ud83d\udc4d 160",
+    "engagement": "\ud83d\udc4d 318",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T11:59:15+00:00"
@@ -27,13 +93,13 @@
     "description": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source_link": "https://news.ycombinator.com/item?id=49563355",
-    "engagement": "\ud83d\udc4d 602",
+    "engagement": "\ud83d\udc4d 1,082",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T11:54:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -53,17 +119,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T01:21:49+00:00"
-  },
-  {
-    "id": "hn-49557206",
-    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "description": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "source_link": "https://news.ycombinator.com/item?id=49557206",
-    "engagement": "\ud83d\udc4d 267",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T21:20:34+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -104,13 +159,13 @@
     "description": "GPT-6 Astra",
     "link": "https://openai.com/index/gpt-6-astra/",
     "source_link": "https://news.ycombinator.com/item?id=49554643",
-    "engagement": "\ud83d\udc4d 1,995",
+    "engagement": "\ud83d\udc4d 2,098",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T18:41:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
     "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
@@ -121,7 +176,7 @@
     "published": "2026-09-03T18:37:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Meta is paying to peek at how you use their latest AI model",
     "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -130,72 +185,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T18:19:56+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Four major AI models suffer rare overlapping downtime",
-    "description": "\n                        Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-    "source_link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T18:10:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" ",
-    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "source_link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T18:01:45+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
-    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "source_link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T16:09:01+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-    "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "source_link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T15:00:00+00:00"
-  },
-  {
-    "id": "hn-49550375",
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-    "description": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-    "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-    "source_link": "https://news.ycombinator.com/item?id=49550375",
-    "engagement": "\ud83d\udc4d 338",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T14:28:18+00:00"
-  },
-  {
-    "id": "hn-49544762",
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "description": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "source_link": "https://news.ycombinator.com/item?id=49544762",
-    "engagement": "\ud83d\udc4d 408",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-03T01:11:22+00:00"
   },
   {
     "id": "rss-MarkTechPost-4",
@@ -220,7 +209,7 @@
     "published": "2026-09-02T17:20:24+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Facilitating AI integration with simplicity at scale",
     "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
     "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -253,7 +242,7 @@
     "published": "2026-09-01T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -275,7 +264,7 @@
     "published": "2026-08-31T13:31:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "description": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -286,7 +275,7 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Raised on AI",
     "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -297,7 +286,7 @@
     "published": "2026-08-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "AI models flub these intelligence tests. Can you fare any better?",
     "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
@@ -308,7 +297,7 @@
     "published": "2026-08-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
     "description": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
@@ -319,7 +308,7 @@
     "published": "2026-08-26T07:01:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
     "description": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014an idea called embodied AI\u2014was a key facet of China\u2019s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
     "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
@@ -330,7 +319,7 @@
     "published": "2026-08-25T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "How to encourage smarter AI use in the classroom",
     "description": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
     "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -350,17 +339,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T13:12:40+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
-    "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "source_link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-24T09:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
