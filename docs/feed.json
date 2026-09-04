@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+    "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "source_link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T14:47:11+00:00"
+  },
+  {
+    "id": "hn-49563386",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "description": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "source_link": "https://news.ycombinator.com/item?id=49563386",
+    "engagement": "\ud83d\udc4d 160",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T11:59:15+00:00"
+  },
+  {
+    "id": "hn-49563355",
+    "title": "Discovery of a new OpenAI agent message board",
+    "description": "Discovery of a new OpenAI agent message board",
+    "link": "https://collusion.wiki/",
+    "source_link": "https://news.ycombinator.com/item?id=49563355",
+    "engagement": "\ud83d\udc4d 602",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T11:54:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -27,7 +60,7 @@
     "description": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
     "link": "https://armature.tech/blog/which-tools-coding-agents-install",
     "source_link": "https://news.ycombinator.com/item?id=49557206",
-    "engagement": "\ud83d\udc4d 202",
+    "engagement": "\ud83d\udc4d 267",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T21:20:34+00:00"
@@ -71,13 +104,13 @@
     "description": "GPT-6 Astra",
     "link": "https://openai.com/index/gpt-6-astra/",
     "source_link": "https://news.ycombinator.com/item?id=49554643",
-    "engagement": "\ud83d\udc4d 1,717",
+    "engagement": "\ud83d\udc4d 1,995",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T18:41:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
     "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
@@ -88,7 +121,7 @@
     "published": "2026-09-03T18:37:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Meta is paying to peek at how you use their latest AI model",
     "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -110,7 +143,7 @@
     "published": "2026-09-03T18:10:19+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
     "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" ",
     "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
@@ -121,7 +154,7 @@
     "published": "2026-09-03T18:01:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
     "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
     "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
@@ -132,7 +165,7 @@
     "published": "2026-09-03T16:09:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
     "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
     "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
@@ -148,7 +181,7 @@
     "description": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
     "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
     "source_link": "https://news.ycombinator.com/item?id=49550375",
-    "engagement": "\ud83d\udc4d 282",
+    "engagement": "\ud83d\udc4d 338",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T14:28:18+00:00"
@@ -159,7 +192,7 @@
     "description": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
     "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
     "source_link": "https://news.ycombinator.com/item?id=49544762",
-    "engagement": "\ud83d\udc4d 284",
+    "engagement": "\ud83d\udc4d 408",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-03T01:11:22+00:00"
@@ -328,17 +361,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-24T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Debates over AI consciousness are a trap",
-    "description": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly \u201csuperhuman\u201d systems, while a separate faction, led by policy organizations&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "source_link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-20T15:42:39+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
