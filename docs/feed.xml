@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:58:05 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI</title>
       <link>https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/</link>
@@ -169,117 +169,49 @@
       <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes</title>
-      <link>https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory through December 31, 2026. Flash Cyber reaches 47.2% pass@1 on CWE-Bench and is restricted to vetted defenders through the Fairwind Program. This article covers the benchmarks, the token-for-accuracy tradeoff, and what ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 17:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs</title>
-      <link>https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Claude Code or Codex CLI can run against vLLM, NIM, or Ollama unchanged. The project is pre-alpha and not for production.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-pr...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 02 Sep 2026 18:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta is paying to peek at how you use their latest AI model</title>
-      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
-      <description>&lt;p&gt;For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future models by sharing their prompts and model outputs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 03 Sep 2026 18:19:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Abliteration.ai is making a business out of removing AI guardrails</title>
       <link>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/</link>
       <description>&lt;p&gt;Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 03 Sep 2026 18:37:57 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GPT-6 Astra</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
-      <description>&lt;p&gt;GPT-6 Astra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 2,098&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Astra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 2,138&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49554643</guid>
       <category>AI News</category>
       <pubDate>Thu, 03 Sep 2026 18:41:05 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ~20% Fewer Tool Calls and ~25% Fewer Tokens Than Muse Spark 1.2</title>
-      <link>https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/</link>
-      <description>&lt;p&gt;&lt;p&gt;Perplexity has shipped hybrid compute for its Mac app, splitting a single Perplexity Computer task between frontier models in the cloud and a compact model running on the user's machine. Tasks start in the cloud for search, planning and reasoning, then hand sensitive steps down to the Mac without restarting or losing context. An on-device privacy gate decides what may cross: keep local, mask, refuse, or ask for consent. Perplexity also open-sourced the 0.6B classifier behind that gate, which ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 03 Sep 2026 18:51:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment</title>
-      <link>https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/</link>
-      <description>&lt;p&gt;&lt;p&gt;Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 03 Sep 2026 19:46:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold</title>
-      <link>https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-con...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 03 Sep 2026 21:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</title>
-      <link>https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/</link>
-      <description>&lt;p&gt;&lt;p&gt;WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/"&gt;Google DeepMind&amp;#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour&lt;/a&gt; appeared first on &lt;a href="https://w...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 04 Sep 2026 01:21:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The sameness problem behind those unappetizing AI-generated menus</title>
       <link>https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/</link>
       <description>&lt;p&gt;While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 04:21:03 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Discovery of a new OpenAI agent message board</title>
       <link>https://collusion.wiki/</link>
-      <description>&lt;p&gt;Discovery of a new OpenAI agent message board&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,082&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Discovery of a new OpenAI agent message board&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,353&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49563355</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 11:54:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google AI Mode shows same products 21.6% more expensive than traditional search</title>
-      <link>https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</link>
-      <description>&lt;p&gt;Google AI Mode shows same products 21.6% more expensive than traditional search&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 318&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49563386</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 04 Sep 2026 11:59:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google’s Gemini Spark can now manage your Google Photos library</title>
       <link>https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/</link>
       <description>&lt;p&gt;Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 14:47:11 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Corporate America is getting hooked on open-source AI</title>
       <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-      <description>&lt;p&gt;Corporate America is getting hooked on open-source AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 170&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Corporate America is getting hooked on open-source AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 234&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49566137</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 15:33:45 +0000</pubDate>
@@ -288,7 +220,7 @@
       <title>[📰] Apple’s Ternus era begins as Nvidia bets on the whole AI stack</title>
       <link>https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/</link>
       <description>&lt;p&gt;It&amp;#8217;s&amp;#160;officially the Ternus era at Apple.&amp;#160;&amp;#160; Tim Cook stepped down&amp;#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&amp;#160;promised a “huge launch next week”&amp;#160;— timing that puts Apple&amp;#8217;s next iPhone event on his desk before&amp;#160;he&amp;#8217;s&amp;#160;even settled in. Cook&amp;#160;isn&amp;#8217;t&amp;#160;going far, though:&amp;#160;he&amp;#8217;s&amp;#160;staying on as Executive&amp;#160;Chairman, focused on the kind of policy [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 16:04:08 +0000</pubDate>
     </item>
@@ -296,7 +228,7 @@
       <title>[📰] Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</title>
       <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
       <description>&lt;p&gt;It's the latest failure of OpenAI's internal monitoring and security systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 16:21:11 +0000</pubDate>
     </item>
@@ -306,17 +238,19 @@
       <description>&lt;p&gt;
                         Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 16:22:18 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nobody Is Saying Why OpenAI and Anthropic Had Outages</title>
-      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
-      <description>&lt;p&gt;Nobody Is Saying Why OpenAI and Anthropic Had Outages&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49567594</guid>
+      <title>[📰] Once popular for attacking AI, ASCII smuggling is embraced by spammers</title>
+      <link>https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/</link>
+      <description>&lt;p&gt;
+                        A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
-      <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 17:18:12 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Architecting memory and storage in the AI era</title>
@@ -325,6 +259,22 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 18:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Can AI design circuit boards yet?</title>
+      <link>https://eebench.org/blog/can-ai-design-circuit-boards-yet/</link>
+      <description>&lt;p&gt;Can AI design circuit boards yet?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 77&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49569366</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 04 Sep 2026 19:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI compute provider Nscale is looking for $3.5B in pre-IPO financing</title>
+      <link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
+      <description>&lt;p&gt;Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 04 Sep 2026 21:12:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
