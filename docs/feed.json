@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
+    "description": "<p>Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second \u2014 the serving infrastructure behind pplx-embed and the ranking models used [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/\"...",
+    "link": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+    "source_link": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-06T03:20:47+00:00"
+  },
+  {
+    "id": "hn-49582582",
+    "title": "GPT-6 Astra on robot arms",
+    "description": "GPT-6 Astra on robot arms",
+    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "source_link": "https://news.ycombinator.com/item?id=49582582",
+    "engagement": "\ud83d\udc4d 166",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-06T01:52:45+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -9,6 +31,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-05T22:49:55+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+    "description": "<p>We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between \u2014 Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/\">GitHub ...",
+    "link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+    "source_link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-05T19:40:11+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -22,6 +55,17 @@
     "published": "2026-09-05T19:35:24+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+    "description": "<p>Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp \u2014 with a hard 4-bit floor and a 64K minimum context window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/\">Nous Research Adds One-Click Local Model Setup to Hermes Desktop</a> appeare...",
+    "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+    "source_link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-05T19:12:02+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-2",
     "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
     "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
@@ -31,6 +75,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-05T18:05:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+    "description": "<p>Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/\">Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+    "source_link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-05T04:37:25+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+    "description": "<p>We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 m...",
+    "link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
+    "source_link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-05T03:52:23+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -71,7 +137,7 @@
     "description": "Can AI design circuit boards yet?",
     "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source_link": "https://news.ycombinator.com/item?id=49569366",
-    "engagement": "\ud83d\udc4d 383",
+    "engagement": "\ud83d\udc4d 407",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T19:48:29+00:00"
@@ -137,10 +203,43 @@
     "description": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source_link": "https://news.ycombinator.com/item?id=49563355",
-    "engagement": "\ud83d\udc4d 2,115",
+    "engagement": "\ud83d\udc4d 2,175",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T11:54:53+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Google DeepMind\u2019s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+    "description": "<p>WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/\">Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour</a> appeared first on <a href=\"https://w...",
+    "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+    "source_link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-04T01:21:49+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a \u2018Critical\u2019 Cyber Threshold",
+    "description": "<p>OpenAI released GPT-6 Astra on September 3, 2026, positioning it as a computer-use flagship rather than a chat model. It reports 72.6% on OSWorld V2-Offline, replaces Codex compaction with searchable notes, and ships a 1.05M-token context at $10/$50 per million tokens. It is also the first OpenAI model to cross the Critical cybersecurity threshold, which shapes who can use it and for what.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-con...",
+    "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+    "source_link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T21:16:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-7",
+    "title": "Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint for Shopping and Merchant Agents Across Retail, Travel, Telecom and Entertainment",
+    "description": "<p>Most teams building a shopping assistant or agent rebuild the same scaffolding: an agent loop, a tool layer over the catalog, an approval gate, and an eval suite. Anthropic has now released that scaffolding as code. This week, they published anthropics/commerce-agents, a reference blueprint containing a shopping agent and a merchant agent, along with four [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprin...",
+    "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+    "source_link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-03T19:46:59+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
