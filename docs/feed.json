@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source_link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-07T19:24:00+00:00"
+  },
+  {
     "id": "rss-Import AI (Jack Clark)-0",
     "title": "Import AI 472: DeepMind\u2019s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
     "description": "<img width=\"150\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-0Ig6P5.png?resize=150%2C150&amp;ssl=1\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" srcset=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...",
@@ -22,40 +33,7 @@
     "published": "2026-09-07T11:00:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
-    "description": "<p>We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32\u00d732 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255\u00d7 index compression, th...",
-    "link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
-    "source_link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-06T21:06:41+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-    "description": "<p>AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models \u2014 frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experim...",
-    "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-    "source_link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-06T20:25:17+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
-    "description": "<p>Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second \u2014 the serving infrastructure behind pplx-embed and the ranking models used [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/\"...",
-    "link": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
-    "source_link": "https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-06T03:20:47+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -66,18 +44,7 @@
     "published": "2026-09-05T22:49:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
-    "description": "<p>We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between \u2014 Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/\">GitHub ...",
-    "link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
-    "source_link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-05T19:40:11+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Hikers rescued after using Google Gemini for planning",
     "description": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -88,18 +55,7 @@
     "published": "2026-09-05T19:35:24+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
-    "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
-    "description": "<p>Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp \u2014 with a hard 4-bit floor and a 64K minimum context window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/\">Nous Research Adds One-Click Local Model Setup to Hermes Desktop</a> appeare...",
-    "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
-    "source_link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-05T19:12:02+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
     "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -110,29 +66,7 @@
     "published": "2026-09-05T18:05:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-    "description": "<p>Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/\">Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-    "source_link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-05T04:37:25+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
-    "description": "<p>We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 m...",
-    "link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
-    "source_link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-05T03:52:23+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
     "description": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
@@ -154,7 +88,7 @@
     "published": "2026-09-04T22:17:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -174,17 +108,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-04T18:39:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-    "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "source_link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-04T16:21:11+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",

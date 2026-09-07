@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:24:19 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -161,14 +161,6 @@
       <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge</title>
-      <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
-      <description>&lt;p&gt;It's the latest failure of OpenAI's internal monitoring and security systems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 04 Sep 2026 16:21:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Architecting memory and storage in the AI era</title>
       <link>https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/</link>
       <description>&lt;p&gt;The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -180,7 +172,7 @@
       <title>[📰] AI compute provider Nscale is looking for $3.5B in pre-IPO financing</title>
       <link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
       <description>&lt;p&gt;Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 21:12:11 +0000</pubDate>
     </item>
@@ -198,95 +190,33 @@
       <title>[📰] OpenAI’s rogue agents keep escaping, with no formal process to investigate them</title>
       <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
       <description>&lt;p&gt;OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 04 Sep 2026 23:15:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</title>
-      <link>https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/</link>
-      <description>&lt;p&gt;&lt;p&gt;We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no changes, and how its scheduler filters nodes on readiness, engine state, exact model presence, job load, and GPU utilization. We walk through NVIDIA's five-subagent demonstration, which averaged 18 minutes on one RTX Spark laptop against 8 m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 05 Sep 2026 03:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%</title>
-      <link>https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/</link>
-      <description>&lt;p&gt;&lt;p&gt;Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/"&gt;Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 05 Sep 2026 04:37:25 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure</title>
       <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
       <description>&lt;p&gt;OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 05 Sep 2026 18:05:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nous Research Adds One-Click Local Model Setup to Hermes Desktop</title>
-      <link>https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the highest-quality build that fits, downloads it, and configures llama.cpp — with a hard 4-bit floor and a 64K minimum context window.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/"&gt;Nous Research Adds One-Click Local Model Setup to Hermes Desktop&lt;/a&gt; appeare...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 05 Sep 2026 19:12:02 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Hikers rescued after using Google Gemini for planning</title>
       <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
       <description>&lt;p&gt;The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 05 Sep 2026 19:35:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI</title>
-      <link>https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/</link>
-      <description>&lt;p&gt;&lt;p&gt;We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution patterns it routes between — Single, Cascade with a quality gate, and Critique with a read-only cross-family reviewer.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/"&gt;GitHub ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 05 Sep 2026 19:40:11 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
       <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
       <description>&lt;p&gt;Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed</title>
-      <link>https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/</link>
-      <description>&lt;p&gt;&lt;p&gt;Retrieval quality in an AI search product is bounded by two things: how good the embedding model is, and how cheaply you can run it across an index. This week, Perplexity Engineering team published Fast Embeddings on GPUs, an under-the-hood account of the second — the serving infrastructure behind pplx-embed and the ranking models used [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/05/perplexity-details-its-gpu-embedding-stack-how-ivy-tulip-and-rose-serve-pplx-embed/"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 06 Sep 2026 03:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours</title>
-      <link>https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/</link>
-      <description>&lt;p&gt;&lt;p&gt;AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experim...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 06 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
-      <link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
-      <description>&lt;p&gt;&lt;p&gt;We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 06 Sep 2026 21:06:41 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The complex corporate web behind a $3.2 billion AI data center</title>
@@ -305,6 +235,14 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 07 Sep 2026 12:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Opaque recurrence, and other AI terms that you should probably know</title>
+      <link>https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <description>&lt;p&gt;The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 07 Sep 2026 19:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
