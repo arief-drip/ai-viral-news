@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:16:58 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -211,7 +211,7 @@
     <item>
       <title>[📰] Show HN: LLM Attention Visualization</title>
       <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
-      <description>&lt;p&gt;Show HN: LLM Attention Visualization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 95&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: LLM Attention Visualization&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 131&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49613068</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 16:59:41 +0000</pubDate>
@@ -230,17 +230,9 @@
       <description>&lt;p&gt;
                         Like traditional weather models, it benefits from an expanded set of inputs.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 18:00:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] ChatGPT Images 2.5</title>
-      <link>https://openai.com/index/introducing-chatgpt-images-2-5/</link>
-      <description>&lt;p&gt;ChatGPT Images 2.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 249&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49614720</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 08 Sep 2026 18:37:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] “This is the AI men actually use”: Meta ads pushed apps nudifying real teens</title>
@@ -248,7 +240,7 @@
       <description>&lt;p&gt;
                         Meta dragged its feet removing ads that nudify young girls' Instagram pics.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 18:43:09 +0000</pubDate>
     </item>
@@ -261,12 +253,20 @@
       <pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Muse: Meta's personal AI agent, features and capabilities</title>
+      <title>[📰] Muse – Meta’s personal AI agent</title>
       <link>https://ai.meta.com/muse/</link>
-      <description>&lt;p&gt;Muse: Meta's personal AI agent, features and capabilities&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 193&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Muse – Meta’s personal AI agent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 327&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49615537</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 19:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Tao: Open math problems being non-renewably mined by AI</title>
+      <link>https://mathstodon.xyz/@tao/117237320796901560</link>
+      <description>&lt;p&gt;Tao: Open math problems being non-renewably mined by AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 156&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49616968</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 08 Sep 2026 21:00:52 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market</title>
@@ -283,6 +283,16 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 21:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Why this month's Microsoft patch release is a doozy</title>
+      <link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
+      <description>&lt;p&gt;
+                        Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 08 Sep 2026 21:11:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
