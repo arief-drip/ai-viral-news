@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:06:57 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -153,23 +153,6 @@
       <pubDate>Fri, 04 Sep 2026 18:39:19 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours</title>
-      <link>https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/</link>
-      <description>&lt;p&gt;&lt;p&gt;AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models — frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experim...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 06 Sep 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder</title>
-      <link>https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/</link>
-      <description>&lt;p&gt;&lt;p&gt;We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32×32 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255× index compression, th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 06 Sep 2026 21:06:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman</title>
       <link>https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/</link>
       <description>&lt;p&gt;&lt;img width="150" height="150" src="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-0Ig6P5.png?resize=150%2C150&amp;amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Import AI (Jack Clark)&lt;/strong&gt; · 📍 Import AI (Jack Clark)&lt;/p&gt;</description>
@@ -188,20 +171,10 @@
     <item>
       <title>[📰] Muse – Meta’s personal AI agent</title>
       <link>https://ai.meta.com/muse/</link>
-      <description>&lt;p&gt;Muse – Meta’s personal AI agent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 612&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Muse – Meta’s personal AI agent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 631&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49615537</guid>
       <category>AI News</category>
       <pubDate>Tue, 08 Sep 2026 19:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why this month's Microsoft patch release is a doozy</title>
-      <link>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/</link>
-      <description>&lt;p&gt;
-                        Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 08 Sep 2026 21:11:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] What OpenAI’s latest controversy tells us about the future of math</title>
@@ -212,85 +185,26 @@
       <pubDate>Wed, 09 Sep 2026 03:10:08 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer</title>
-      <link>https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/</link>
-      <description>&lt;p&gt;&lt;p&gt;Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 04:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Claude, change the "Add to Cart" button to blue</title>
+      <title>[📰] Claude, change the “Add to Cart” button to blue</title>
       <link>https://opusfived.dev/</link>
-      <description>&lt;p&gt;Claude, change the "Add to Cart" button to blue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 773&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude, change the “Add to Cart” button to blue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 909&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49623754</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 09:39:46 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/</link>
-      <description>&lt;p&gt;
-                        Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] DeepSeek launching v4.1 flash cheaper and more capable than v4 pro</title>
-      <link>https://news.ycombinator.com/item?id=49624603</link>
-      <description>&lt;p&gt;DeepSeek launching v4.1 flash cheaper and more capable than v4 pro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 372&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49624603</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 11:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sequoia doubles down on Cymphony as AI agents create new enterprise security risks</title>
-      <link>https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/</link>
-      <description>&lt;p&gt;Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?</title>
-      <link>https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/</link>
-      <description>&lt;p&gt;Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 14:18:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] GPT-6 Astra, looped transformers, and hidden reasoning</title>
       <link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
-      <description>&lt;p&gt;GPT-6 Astra, looped transformers, and hidden reasoning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 206&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Astra, looped transformers, and hidden reasoning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 294&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49627370</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 14:37:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Shipt becomes the latest delivery app with an AI shopping assistant</title>
-      <link>https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/</link>
-      <description>&lt;p&gt;Users can ask the assistant to do things like "Create a cart for my Saturday tailgate for 25 people and include some brunch items," or "Build a cart for easy school lunches and after-school snacks," Shipt says.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 14:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI </title>
-      <link>https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/</link>
-      <description>&lt;p&gt;Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 15:02:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Viral AI assistant Instinct now has its own email address</title>
       <link>https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/</link>
       <description>&lt;p&gt;Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 15:13:12 +0000</pubDate>
     </item>
@@ -298,7 +212,7 @@
       <title>[📰] ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’ </title>
       <link>https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/</link>
       <description>&lt;p&gt;AI companies have been talking about superintelligent AI like&amp;#160;it&amp;#8217;s&amp;#160;inevitable, but recent&amp;#160;safety incidents&amp;#160;like&amp;#160;OpenAI&amp;#8217;s&amp;#160;Hugging Face breach&amp;#160;are&amp;#160;demonstrating&amp;#160;the potential dangers of deploying AI systems that are more capable than&amp;#160;humans.&amp;#160;So&amp;#160;what happens when we&amp;#160;can&amp;#8217;t&amp;#160;reliably control what these systems do?&amp;#160; On this episode of TechCrunch&amp;#8217;s&amp;#160;Equity&amp;#160;podcast, Rebecca Bellan is joined by&amp;#160...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 15:50:13 +0000</pubDate>
     </item>
@@ -306,14 +220,24 @@
       <title>[📰] Superintelligence is coming. Should we let it?</title>
       <link>https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/</link>
       <description>&lt;p&gt;AI companies have been talking about superintelligent AI like&amp;#160;it&amp;#8217;s&amp;#160;inevitable, but recent&amp;#160;safety incidents&amp;#160;like&amp;#160;OpenAI&amp;#8217;s&amp;#160;Hugging Face breach&amp;#160;are&amp;#160;demonstrating&amp;#160;the potential dangers of deploying AI systems that are more capable than&amp;#160;humans.&amp;#160;So&amp;#160;what happens when we&amp;#160;can&amp;#8217;t&amp;#160;reliably control what these systems do?&amp;#160; On this episode of TechCrunch&amp;#8217;s&amp;#160;Equity&amp;#160;podcast, Rebecca Bellan is joined by&amp;#160...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 16:05:35 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Anthropic researcher quits with a warning: Self-improving AI could "kill us all"</title>
+      <link>https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/</link>
+      <description>&lt;p&gt;
+                        "We really do earnestly believe AI could kill all humans!"
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 09 Sep 2026 16:59:40 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</title>
       <link>https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</link>
-      <description>&lt;p&gt;Qwen 3.8 follows GPT-5.5 Pro reasoning prefills&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Qwen 3.8 follows GPT-5.5 Pro reasoning prefills&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 133&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49630026</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 17:24:28 +0000</pubDate>
@@ -322,7 +246,7 @@
       <title>[📰] Apple CEO John Ternus says the best AI device is still the iPhone</title>
       <link>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</link>
       <description>&lt;p&gt;The company also argued that its on-device models offer consumers more privacy. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 17:36:05 +0000</pubDate>
     </item>
@@ -330,9 +254,35 @@
       <title>[📰] Apple has a new way prove your iPhone photos aren’t AI slop</title>
       <link>https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/</link>
       <description>&lt;p&gt;Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 09 Sep 2026 18:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The hinge for Apple’s new foldable phone was built with AI</title>
+      <link>https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/</link>
+      <description>&lt;p&gt;Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 09 Sep 2026 19:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Six Chinese AI firms accused of aggressively copying US frontier models</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/</link>
+      <description>&lt;p&gt;
+                        US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 09 Sep 2026 20:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple Watch’s new AI features are normalizing the idea that technology is always listening</title>
+      <link>https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/</link>
+      <description>&lt;p&gt;Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 09 Sep 2026 20:24:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
