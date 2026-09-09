@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
+    "description": "<p>Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer...",
+    "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+    "source_link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-09T04:38:13+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
+    "description": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "source_link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-09T03:10:08+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Why this month's Microsoft patch release is a doozy",
     "description": "\n                        Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.\n                    ",
@@ -38,7 +60,7 @@
     "description": "Tao: Open math problems being non-renewably mined by AI",
     "link": "https://mathstodon.xyz/@tao/117237320796901560",
     "source_link": "https://news.ycombinator.com/item?id=49616968",
-    "engagement": "\ud83d\udc4d 156",
+    "engagement": "\ud83d\udc4d 345",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-08T21:00:52+00:00"
@@ -49,7 +71,7 @@
     "description": "Muse \u2013 Meta\u2019s personal AI agent",
     "link": "https://ai.meta.com/muse/",
     "source_link": "https://news.ycombinator.com/item?id=49615537",
-    "engagement": "\ud83d\udc4d 327",
+    "engagement": "\ud83d\udc4d 492",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-08T19:25:00+00:00"
@@ -77,6 +99,17 @@
     "published": "2026-09-08T18:43:09+00:00"
   },
   {
+    "id": "hn-49614720",
+    "title": "ChatGPT Images 2.5",
+    "description": "ChatGPT Images 2.5",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "source_link": "https://news.ycombinator.com/item?id=49614720",
+    "engagement": "\ud83d\udc4d 336",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-08T18:37:51+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-2",
     "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
     "description": "\n                        Like traditional weather models, it benefits from an expanded set of inputs.\n                    ",
@@ -97,17 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-08T17:32:15+00:00"
-  },
-  {
-    "id": "hn-49613068",
-    "title": "Show HN: LLM Attention Visualization",
-    "description": "Show HN: LLM Attention Visualization",
-    "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-    "source_link": "https://news.ycombinator.com/item?id=49613068",
-    "engagement": "\ud83d\udc4d 131",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-08T16:59:41+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -143,7 +165,7 @@
     "published": "2026-09-08T14:17:48+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
     "description": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
     "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
@@ -176,7 +198,40 @@
     "published": "2026-09-07T12:26:31+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "hn-49591112",
+    "title": "The Microeconomics of Artificial Intelligence (2025)",
+    "description": "The Microeconomics of Artificial Intelligence (2025)",
+    "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+    "source_link": "https://news.ycombinator.com/item?id=49591112",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-06T21:24:23+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder",
+    "description": "<p>We look at NeoMME, a family of 260M and 800M bidirectional encoders from H Company. Unlike ColPali-style retrievers, it processes multilingual text tokens and raw 32\u00d732 image patches in a single Transformer, with no pretrained vision tower and no causal decoder. We cover the masked discrete-diffusion pretraining objective, the dual dense and late-interaction retrieval heads, and the ViDoRe v3 results where the 260M model reaches 0.523 nDCG@10. We also break down the 255\u00d7 index compression, th...",
+    "link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+    "source_link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-06T21:06:41+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
+    "description": "<p>AI research agents can propose far more experiments than they can afford to run. Meta FAIR, Oxford and UCL introduce AI Research Preference Models \u2014 frozen LLM judges that rank 15 unexecuted candidates and execute only one. On AIRS-Bench, the average normalized score rises from 0.684 to 0.729, and the baseline's 24-hour result arrives in roughly 15 hours.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experim...",
+    "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+    "source_link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-06T20:25:17+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Architecting memory and storage in the AI era",
     "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -187,7 +242,7 @@
     "published": "2026-09-04T18:39:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Facilitating AI integration with simplicity at scale",
     "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
     "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -220,7 +275,7 @@
     "published": "2026-09-01T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -242,7 +297,7 @@
     "published": "2026-08-31T13:31:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "description": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -253,7 +308,7 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Raised on AI",
     "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -264,7 +319,7 @@
     "published": "2026-08-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "AI models flub these intelligence tests. Can you fare any better?",
     "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
@@ -275,7 +330,7 @@
     "published": "2026-08-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
     "description": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
@@ -284,17 +339,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T07:01:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "I spent a day at a robot \u201ccarnival\u201d in Shanghai. Here\u2019s what I saw.",
-    "description": "Humanoid robots are having a moment in China. The popular machines are part of the country\u2019s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems\u2014an idea called embodied AI\u2014was a key facet of China\u2019s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "source_link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-25T09:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
