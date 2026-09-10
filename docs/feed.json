@@ -1,50 +1,83 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "AI agents are flooding public services with new requests",
+    "description": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.\u00a0",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "source_link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T14:53:50+00:00"
+  },
+  {
+    "id": "hn-49644047",
+    "title": "Amazon pilots ad services in ChatGPT",
+    "description": "Amazon pilots ad services in ChatGPT",
+    "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+    "source_link": "https://news.ycombinator.com/item?id=49644047",
+    "engagement": "\ud83d\udc4d 60",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T14:13:09+00:00"
+  },
+  {
+    "id": "hn-49643556",
+    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+    "description": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+    "link": "https://news.ycombinator.com/item?id=49643556",
+    "source_link": "https://news.ycombinator.com/item?id=49643556",
+    "engagement": "\ud83d\udc4d 274",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T13:39:53+00:00"
+  },
+  {
+    "id": "hn-49643112",
+    "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+    "description": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+    "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+    "source_link": "https://news.ycombinator.com/item?id=49643112",
+    "engagement": "\ud83d\udc4d 213",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T13:07:14+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Powering AI is an architecture problem",
+    "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "source_link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T11:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+    "description": "<p>Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/deepseek-ai-r...",
+    "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T07:31:01+00:00"
+  },
+  {
     "id": "hn-49639090",
     "title": "DeepSeek v4.1 Flash",
     "description": "DeepSeek v4.1 Flash",
     "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
     "source_link": "https://news.ycombinator.com/item?id=49639090",
-    "engagement": "\ud83d\udc4d 200",
+    "engagement": "\ud83d\udc4d 696",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T06:11:05+00:00"
   },
   {
-    "id": "hn-49638353",
-    "title": "OpenAI might have stolen another major proof",
-    "description": "OpenAI might have stolen another major proof",
-    "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-    "source_link": "https://news.ycombinator.com/item?id=49638353",
-    "engagement": "\ud83d\udc4d 196",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T04:19:48+00:00"
-  },
-  {
-    "id": "hn-49637435",
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-    "description": "Training a 3.8B LLM to 0.384 CORE for $998",
-    "link": "https://hugovergnes.github.io/little-lm-3-8b/",
-    "source_link": "https://news.ycombinator.com/item?id=49637435",
-    "engagement": "\ud83d\udc4d 64",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T02:04:11+00:00"
-  },
-  {
-    "id": "hn-49637395",
-    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-    "description": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-    "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-    "source_link": "https://news.ycombinator.com/item?id=49637395",
-    "engagement": "\ud83d\udc4d 69",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T01:59:51+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say. ",
     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -55,7 +88,18 @@
     "published": "2026-09-10T00:00:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-MarkTechPost-1",
+    "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+    "description": "<p>Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabil...",
+    "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+    "source_link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-09T22:58:29+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
     "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
     "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
@@ -67,7 +111,7 @@
   },
   {
     "id": "rss-Ars Technica AI-0",
-    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "title": "Four groups caught using the same Chrome and Windows exploit kit",
     "description": "\n                        A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.\n                    ",
     "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
     "source_link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
@@ -77,7 +121,7 @@
     "published": "2026-09-09T20:55:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
     "description": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
     "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -99,7 +143,7 @@
     "published": "2026-09-09T20:06:28+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
     "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ",
     "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
@@ -110,7 +154,7 @@
     "published": "2026-09-09T19:21:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
     "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
     "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
@@ -121,51 +165,29 @@
     "published": "2026-09-09T18:08:35+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "description": "The company also argued that its on-device models offer consumers more privacy. ",
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "source_link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-09T17:36:05+00:00"
-  },
-  {
-    "id": "hn-49630026",
-    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "description": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-    "source_link": "https://news.ycombinator.com/item?id=49630026",
-    "engagement": "\ud83d\udc4d 211",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-09T17:24:28+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Superintelligence is coming. Should we let it?",
-    "description": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160...",
-    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "source_link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-09T16:05:35+00:00"
-  },
-  {
     "id": "hn-49627370",
     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
     "description": "GPT-6 Astra, looped transformers, and hidden reasoning",
     "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
     "source_link": "https://news.ycombinator.com/item?id=49627370",
-    "engagement": "\ud83d\udc4d 409",
+    "engagement": "\ud83d\udc4d 487",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-09T14:37:47+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MarkTechPost-2",
+    "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
+    "description": "<p>Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer...",
+    "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+    "source_link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-09T04:38:13+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-1",
     "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
     "description": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;",
     "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
@@ -176,7 +198,7 @@
     "published": "2026-09-09T03:10:08+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
     "description": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
     "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
@@ -198,7 +220,7 @@
     "published": "2026-09-07T12:26:31+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Architecting memory and storage in the AI era",
     "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -209,7 +231,7 @@
     "published": "2026-09-04T18:39:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Facilitating AI integration with simplicity at scale",
     "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
     "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -242,7 +264,7 @@
     "published": "2026-09-01T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -264,7 +286,7 @@
     "published": "2026-08-31T13:31:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "description": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -275,7 +297,7 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Raised on AI",
     "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
@@ -286,7 +308,7 @@
     "published": "2026-08-26T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "AI models flub these intelligence tests. Can you fare any better?",
     "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
@@ -295,17 +317,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-08-26T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
-    "description": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "source_link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T07:01:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
