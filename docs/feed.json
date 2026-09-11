@@ -1,6 +1,83 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed\u2019s HarnessDev Says Only 34 of 64 Changes Generalize",
+    "description": "<p>ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...",
+    "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "source_link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T22:01:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+    "description": "<p>Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and...",
+    "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+    "source_link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T21:05:55+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+    "description": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "source_link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T20:59:47+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+    "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "source_link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T20:57:36+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Roundtables: AI\u2019s apocalypse crisis",
+    "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source_link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T20:05:06+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "source_link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T19:35:54+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+    "description": "\n                        \"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T19:34:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
     "description": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&...",
     "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -11,18 +88,29 @@
     "published": "2026-09-11T18:41:49+00:00"
   },
   {
-    "id": "hn-49662116",
-    "title": "A Misalignment of AI in Mathematics",
-    "description": "A Misalignment of AI in Mathematics",
-    "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "source_link": "https://news.ycombinator.com/item?id=49662116",
-    "engagement": "\ud83d\udc4d 79",
-    "source": "Hacker News",
+    "id": "rss-Ars Technica AI-1",
+    "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+    "description": "\n                        Renewables pledge won\u2019t change the Oracle and OpenAI data center\u2019s use of gas.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+    "source_link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-11T17:30:26+00:00"
+    "published": "2026-09-11T18:22:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49662371",
+    "title": "A misalignment of AI in mathematics",
+    "description": "A misalignment of AI in mathematics",
+    "link": "https://mathandai.org/",
+    "source_link": "https://news.ycombinator.com/item?id=49662371",
+    "engagement": "\ud83d\udc4d 427",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T17:45:12+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023. ",
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
@@ -33,18 +121,7 @@
     "published": "2026-09-11T16:46:25+00:00"
   },
   {
-    "id": "hn-49660783",
-    "title": "Show HN: Hacker News, Without AI",
-    "description": "Show HN: Hacker News, Without AI",
-    "link": "https://www.unslop.news/",
-    "source_link": "https://news.ycombinator.com/item?id=49660783",
-    "engagement": "\ud83d\udc4d 71",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-11T16:08:50+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "Claude users found ways around safeguards for bioweapons research",
     "description": "\n                        Some dangerous biology looks much like legitimate research, complicating AI safeguards.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
@@ -60,13 +137,13 @@
     "description": "Claude is only available to people over 18 years",
     "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
     "source_link": "https://news.ycombinator.com/item?id=49656225",
-    "engagement": "\ud83d\udc4d 401",
+    "engagement": "\ud83d\udc4d 523",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T10:48:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
     "description": "<p>Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/\">Sakana AI Launches Fugu ...",
     "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
@@ -77,7 +154,7 @@
     "published": "2026-09-11T06:34:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
     "description": "<p>Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.<...",
     "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
@@ -88,7 +165,7 @@
     "published": "2026-09-11T06:01:25+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
     "description": "<p>Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-ap...",
     "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
@@ -99,7 +176,7 @@
     "published": "2026-09-10T22:34:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
     "description": "<p>OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness...",
     "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
@@ -110,7 +187,7 @@
     "published": "2026-09-10T21:21:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. ",
     "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
@@ -121,62 +198,7 @@
     "published": "2026-09-10T20:59:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "source_link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T20:57:30+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-    "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. ",
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "source_link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T19:50:04+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "source_link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T17:54:44+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "source_link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T17:45:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "AI agents are flooding public services with new requests",
-    "description": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.\u00a0",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "source_link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T14:53:50+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Powering AI is an architecture problem",
     "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
     "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
@@ -187,7 +209,7 @@
     "published": "2026-09-10T11:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
     "description": "<p>Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/deepseek-ai-r...",
     "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
@@ -198,18 +220,7 @@
     "published": "2026-09-10T07:31:01+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-    "description": "<p>Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabil...",
-    "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-    "source_link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-09T22:58:29+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
     "description": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations&#8230;",
     "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
@@ -220,7 +231,7 @@
     "published": "2026-09-09T03:10:08+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
     "description": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visited, earlier this year, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor,&#8230;",
     "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
@@ -242,7 +253,7 @@
     "published": "2026-09-07T12:26:31+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Architecting memory and storage in the AI era",
     "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
     "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -253,7 +264,7 @@
     "published": "2026-09-04T18:39:19+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Facilitating AI integration with simplicity at scale",
     "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
     "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -286,7 +297,7 @@
     "published": "2026-09-01T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
     "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -308,7 +319,7 @@
     "published": "2026-08-31T13:31:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "description": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -319,22 +330,11 @@
     "published": "2026-08-26T19:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "Raised on AI",
     "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "source_link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-08-26T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "source_link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
     "engagement": "\ud83d\udce1 MIT Tech Review AI",
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
