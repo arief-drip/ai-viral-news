@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:34:30 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -169,16 +169,6 @@
       <pubDate>Wed, 09 Sep 2026 03:10:08 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Four groups caught using the same Chrome and Windows exploit kit</title>
-      <link>https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/</link>
-      <description>&lt;p&gt;
-                        A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 09 Sep 2026 20:55:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities</title>
       <link>https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/</link>
       <description>&lt;p&gt;&lt;p&gt;Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only.&lt;/p&gt;
@@ -198,7 +188,7 @@
     <item>
       <title>[📰] More questions about whether researchers can trust OpenAI with unpublished math</title>
       <link>https://mathstodon.xyz/@andreasthom/117240535270608201</link>
-      <description>&lt;p&gt;More questions about whether researchers can trust OpenAI with unpublished math&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 794&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;More questions about whether researchers can trust OpenAI with unpublished math&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 845&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49639408</guid>
       <category>AI News</category>
       <pubDate>Thu, 10 Sep 2026 06:49:43 +0000</pubDate>
@@ -229,22 +219,6 @@
       <pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</title>
-      <link>https://cognition.com/blog/swe-2</link>
-      <description>&lt;p&gt;Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 406&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49645443</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 10 Sep 2026 15:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Detecting and countering misuse of AI: September 2026</title>
-      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-      <description>&lt;p&gt;Detecting and countering misuse of AI: September 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 124&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49647300</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 10 Sep 2026 17:23:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content</title>
       <link>https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/</link>
       <description>&lt;p&gt;Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -266,14 +240,14 @@
       <description>&lt;p&gt;
                         "Bankruptcy cannot become the new land grab for AI.”
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 10 Sep 2026 18:14:14 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI Agents API</title>
       <link>https://developers.openai.com/api/docs/guides/agents-api/overview</link>
-      <description>&lt;p&gt;OpenAI Agents API&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 244&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI Agents API&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 311&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49649213</guid>
       <category>AI News</category>
       <pubDate>Thu, 10 Sep 2026 19:43:22 +0000</pubDate>
@@ -321,14 +295,6 @@
       <pubDate>Thu, 10 Sep 2026 22:34:48 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Thelio Mira AI Linux Workstation: 192 GB GPU Memory</title>
-      <link>https://system76.com/workstations/thelio-mira-ai</link>
-      <description>&lt;p&gt;Thelio Mira AI Linux Workstation: 192 GB GPU Memory&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49651372</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 10 Sep 2026 23:10:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation</title>
       <link>https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual "gradients" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
@@ -344,6 +310,40 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 06:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude is no longer available for minors</title>
+      <link>https://support.claude.com/en/articles/15171100-age-assurance-on-claude</link>
+      <description>&lt;p&gt;Claude is no longer available for minors&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 272&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49656225</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 10:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Waymo effect: how AI is quietly making research less collaborative</title>
+      <link>https://www.researchagenda.news/articles/the-waymo-effect.html</link>
+      <description>&lt;p&gt;The Waymo effect: how AI is quietly making research less collaborative&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 276&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49656496</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 11:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude users found ways around safeguards for bioweapons research</title>
+      <link>https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/</link>
+      <description>&lt;p&gt;
+                        Some dangerous biology looks much like legitimate research, complicating AI safeguards.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 13:02:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ask HN: Can we please limit the AI news flood?</title>
+      <link>https://news.ycombinator.com/item?id=49657850</link>
+      <description>&lt;p&gt;Ask HN: Can we please limit the AI news flood?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 534&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49657850</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 13:11:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

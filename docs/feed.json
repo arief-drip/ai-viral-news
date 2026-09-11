@@ -1,5 +1,49 @@
 [
   {
+    "id": "hn-49657850",
+    "title": "Ask HN: Can we please limit the AI news flood?",
+    "description": "Ask HN: Can we please limit the AI news flood?",
+    "link": "https://news.ycombinator.com/item?id=49657850",
+    "source_link": "https://news.ycombinator.com/item?id=49657850",
+    "engagement": "\ud83d\udc4d 534",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T13:11:04+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Claude users found ways around safeguards for bioweapons research",
+    "description": "\n                        Some dangerous biology looks much like legitimate research, complicating AI safeguards.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+    "source_link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T13:02:35+00:00"
+  },
+  {
+    "id": "hn-49656496",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "description": "The Waymo effect: how AI is quietly making research less collaborative",
+    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "source_link": "https://news.ycombinator.com/item?id=49656496",
+    "engagement": "\ud83d\udc4d 276",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T11:17:50+00:00"
+  },
+  {
+    "id": "hn-49656225",
+    "title": "Claude is no longer available for minors",
+    "description": "Claude is no longer available for minors",
+    "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "source_link": "https://news.ycombinator.com/item?id=49656225",
+    "engagement": "\ud83d\udc4d 272",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T10:48:00+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
     "description": "<p>Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/\">Sakana AI Launches Fugu ...",
@@ -20,17 +64,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T06:01:25+00:00"
-  },
-  {
-    "id": "hn-49651372",
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "description": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "link": "https://system76.com/workstations/thelio-mira-ai",
-    "source_link": "https://news.ycombinator.com/item?id=49651372",
-    "engagement": "\ud83d\udc4d 93",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T23:10:06+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -93,13 +126,13 @@
     "description": "OpenAI Agents API",
     "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "source_link": "https://news.ycombinator.com/item?id=49649213",
-    "engagement": "\ud83d\udc4d 244",
+    "engagement": "\ud83d\udc4d 311",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T19:43:22+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
     "description": "\n                        \"Bankruptcy cannot become the new land grab for AI.\u201d\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
@@ -130,28 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T17:45:00+00:00"
-  },
-  {
-    "id": "hn-49647300",
-    "title": "Detecting and countering misuse of AI: September 2026",
-    "description": "Detecting and countering misuse of AI: September 2026",
-    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "source_link": "https://news.ycombinator.com/item?id=49647300",
-    "engagement": "\ud83d\udc4d 124",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T17:23:42+00:00"
-  },
-  {
-    "id": "hn-49645443",
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "description": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "link": "https://cognition.com/blog/swe-2",
-    "source_link": "https://news.ycombinator.com/item?id=49645443",
-    "engagement": "\ud83d\udc4d 406",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T15:29:47+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -192,7 +203,7 @@
     "description": "More questions about whether researchers can trust OpenAI with unpublished math",
     "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
     "source_link": "https://news.ycombinator.com/item?id=49639408",
-    "engagement": "\ud83d\udc4d 794",
+    "engagement": "\ud83d\udc4d 845",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T06:49:43+00:00"
@@ -218,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-09T22:58:29+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Four groups caught using the same Chrome and Windows exploit kit",
-    "description": "\n                        A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.\n                    ",
-    "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "source_link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-09T20:55:02+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
