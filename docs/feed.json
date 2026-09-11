@@ -1,6 +1,28 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+    "description": "<p>Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-ap...",
+    "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T22:34:48+00:00"
+  },
+  {
+    "id": "hn-49650326",
+    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "description": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "source_link": "https://news.ycombinator.com/item?id=49650326",
+    "engagement": "\ud83d\udc4d 139",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T21:22:59+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
     "description": "<p>OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness...",
     "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
@@ -44,6 +66,17 @@
     "published": "2026-09-10T19:50:04+00:00"
   },
   {
+    "id": "hn-49649213",
+    "title": "OpenAI Agents API",
+    "description": "OpenAI Agents API",
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "source_link": "https://news.ycombinator.com/item?id=49649213",
+    "engagement": "\ud83d\udc4d 138",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T19:43:22+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
     "description": "\n                        \"Bankruptcy cannot become the new land grab for AI.\u201d\n                    ",
@@ -77,12 +110,23 @@
     "published": "2026-09-10T17:45:00+00:00"
   },
   {
+    "id": "hn-49647300",
+    "title": "Detecting and countering misuse of AI: September 2026",
+    "description": "Detecting and countering misuse of AI: September 2026",
+    "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+    "source_link": "https://news.ycombinator.com/item?id=49647300",
+    "engagement": "\ud83d\udc4d 86",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T17:23:42+00:00"
+  },
+  {
     "id": "hn-49645443",
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "description": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "link": "https://cognition.com/blog/swe-2",
     "source_link": "https://news.ycombinator.com/item?id=49645443",
-    "engagement": "\ud83d\udc4d 311",
+    "engagement": "\ud83d\udc4d 356",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T15:29:47+00:00"
@@ -110,7 +154,7 @@
     "published": "2026-09-10T11:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
     "description": "<p>Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/deepseek-ai-r...",
     "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
@@ -126,7 +170,7 @@
     "description": "More questions about whether researchers can trust OpenAI with unpublished math",
     "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
     "source_link": "https://news.ycombinator.com/item?id=49639408",
-    "engagement": "\ud83d\udc4d 487",
+    "engagement": "\ud83d\udc4d 684",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T06:49:43+00:00"
@@ -143,7 +187,7 @@
     "published": "2026-09-10T00:00:37+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
     "description": "<p>Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: sweep the code, filter false positives, reproduce the bug in a sandbox, patch it, re-attack the patch, then score the risk. Apache 2.0, and documented as demonstration-only.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabil...",
     "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
@@ -165,7 +209,7 @@
     "published": "2026-09-09T20:55:02+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
     "description": "<p>Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negotiate bills, and pursue long term goals. It keeps working after you close the app and returns only when it needs approval. The bigger story for AI devs is architectural. Each user [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer...",
     "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
