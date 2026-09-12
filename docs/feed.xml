@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:41:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:59:03 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -161,12 +161,56 @@
       <pubDate>Wed, 09 Sep 2026 03:10:08 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse</title>
+      <link>https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/</link>
+      <description>&lt;p&gt;&lt;p&gt;Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/10/deepseek-ai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 10 Sep 2026 07:31:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Powering AI is an architecture problem</title>
       <link>https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/</link>
       <description>&lt;p&gt;On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&amp;#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&amp;#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call</title>
+      <link>https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&amp;#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 10 Sep 2026 21:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster</title>
+      <link>https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/</link>
+      <description>&lt;p&gt;&lt;p&gt;Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-ap...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 10 Sep 2026 22:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation</title>
+      <link>https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual "gradients" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 06:01:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration</title>
+      <link>https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"&gt;Sakana AI Launches Fugu ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 06:34:39 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude users found ways around safeguards for bioweapons research</title>
@@ -189,7 +233,7 @@
     <item>
       <title>[📰] A misalignment of AI in mathematics</title>
       <link>https://mathandai.org/</link>
-      <description>&lt;p&gt;A misalignment of AI in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,062&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;A misalignment of AI in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,144&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49662371</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 17:45:12 +0000</pubDate>
@@ -231,7 +275,7 @@
       <pubDate>Fri, 11 Sep 2026 19:35:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Roundtables: AI’s apocalypse crisis</title>
+      <title>[📰] Roundtables: Could AI really kill us all?</title>
       <link>https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/</link>
       <description>&lt;p&gt;Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
@@ -255,6 +299,23 @@
       <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills</title>
+      <link>https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 21:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize</title>
+      <link>https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/</link>
+      <description>&lt;p&gt;&lt;p&gt;ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 22:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
       <link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
       <description>&lt;p&gt;The round for the two-year-old startup is coming together months after Mecka announced its Series A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -263,20 +324,28 @@
       <pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI agents carried out an undisclosed attack on RubyGems</title>
-      <link>https://www.rubyhack.ai/</link>
-      <description>&lt;p&gt;OpenAI agents carried out an undisclosed attack on RubyGems&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 831&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49666735</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 23:17:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Worst Spam Emails: Inside iLands' AI Agent Hustle</title>
+      <title>[📰] The worst spam emails: iLands AI agent hustle</title>
       <link>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</link>
-      <description>&lt;p&gt;The Worst Spam Emails: Inside iLands' AI Agent Hustle&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 57&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The worst spam emails: iLands AI agent hustle&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49671159</guid>
       <category>AI News</category>
       <pubDate>Sat, 12 Sep 2026 11:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Mathematical Framework for Transformer Circuits (2021)</title>
+      <link>https://transformer-circuits.pub/2021/framework/index.html</link>
+      <description>&lt;p&gt;A Mathematical Framework for Transformer Circuits (2021)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 50&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49672365</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 12 Sep 2026 13:56:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nvidia is the central bank of AI</title>
+      <link>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
+      <description>&lt;p&gt;Nvidia is the central bank of AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 167&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49673098</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 12 Sep 2026 15:08:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

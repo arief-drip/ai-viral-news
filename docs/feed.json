@@ -1,25 +1,36 @@
 [
   {
+    "id": "hn-49673098",
+    "title": "Nvidia is the central bank of AI",
+    "description": "Nvidia is the central bank of AI",
+    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "source_link": "https://news.ycombinator.com/item?id=49673098",
+    "engagement": "\ud83d\udc4d 167",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T15:08:27+00:00"
+  },
+  {
+    "id": "hn-49672365",
+    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "description": "A Mathematical Framework for Transformer Circuits (2021)",
+    "link": "https://transformer-circuits.pub/2021/framework/index.html",
+    "source_link": "https://news.ycombinator.com/item?id=49672365",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T13:56:58+00:00"
+  },
+  {
     "id": "hn-49671159",
-    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-    "description": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "title": "The worst spam emails: iLands AI agent hustle",
+    "description": "The worst spam emails: iLands AI agent hustle",
     "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
     "source_link": "https://news.ycombinator.com/item?id=49671159",
-    "engagement": "\ud83d\udc4d 57",
+    "engagement": "\ud83d\udc4d 78",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-12T11:13:38+00:00"
-  },
-  {
-    "id": "hn-49666735",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "description": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "link": "https://www.rubyhack.ai/",
-    "source_link": "https://news.ycombinator.com/item?id=49666735",
-    "engagement": "\ud83d\udc4d 831",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-11T23:17:42+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -31,6 +42,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T22:58:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed\u2019s HarnessDev Says Only 34 of 64 Changes Generalize",
+    "description": "<p>ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...",
+    "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "source_link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T22:01:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+    "description": "<p>Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and...",
+    "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+    "source_link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T21:05:55+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -56,7 +89,7 @@
   },
   {
     "id": "rss-MIT Tech Review AI-0",
-    "title": "Roundtables: AI\u2019s apocalypse crisis",
+    "title": "Roundtables: Could AI really kill us all?",
     "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "source_link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
@@ -115,7 +148,7 @@
     "description": "A misalignment of AI in mathematics",
     "link": "https://mathandai.org/",
     "source_link": "https://news.ycombinator.com/item?id=49662371",
-    "engagement": "\ud83d\udc4d 1,062",
+    "engagement": "\ud83d\udc4d 1,144",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T17:45:12+00:00"
@@ -143,6 +176,50 @@
     "published": "2026-09-11T13:02:35+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+    "description": "<p>Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/\">Sakana AI Launches Fugu ...",
+    "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T06:34:39+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+    "description": "<p>Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.<...",
+    "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T06:01:25+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+    "description": "<p>Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-ap...",
+    "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T22:34:48+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
+    "description": "<p>OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness...",
+    "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T21:21:58+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "Powering AI is an architecture problem",
     "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world&#8217;s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No&#8230;",
@@ -152,6 +229,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T11:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+    "description": "<p>Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/deepseek-ai-r...",
+    "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+    "source_link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-10T07:31:01+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
