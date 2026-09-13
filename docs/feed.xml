@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:26:04 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -169,31 +169,6 @@
       <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation</title>
-      <link>https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual "gradients" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 06:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration</title>
-      <link>https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/</link>
-      <description>&lt;p&gt;&lt;p&gt;Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/"&gt;Sakana AI Launches Fugu ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 06:34:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO</title>
-      <link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
-      <description>&lt;p&gt;The No. 2 exec at OpenAI also led Instacart through its IPO in 2023. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 16:46:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Oracle tries to appease Stargate data center opponents with renewables push</title>
       <link>https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/</link>
       <description>&lt;p&gt;
@@ -207,7 +182,7 @@
       <title>[📰] An Anthropic researcher’s doomsday warning comes at a very interesting time</title>
       <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
       <description>&lt;p&gt;An Anthropic researcher resigned this week,&amp;#160;warning in a post on X&amp;#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&amp;#160;The company&amp;#8217;s own alignment&amp;#160;lead&amp;#160;even&amp;#160;co-signed the message&amp;#160;rather than walking it back.&amp;#160;It&amp;#8217;s&amp;#160;the kind of&amp;#160;doomer&amp;#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&amp;#160;preparing for&amp;#160;an IPO, makes it land differently.&amp;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
     </item>
@@ -225,7 +200,7 @@
       <title>[📰] Kimi-maker Moonshot AI targets $2B in annual revenue</title>
       <link>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</link>
       <description>&lt;p&gt;While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 19:35:54 +0000</pubDate>
     </item>
@@ -241,7 +216,7 @@
       <title>[📰] OpenAI’s feud with mathematicians is only escalating</title>
       <link>https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/</link>
       <description>&lt;p&gt;Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 20:57:36 +0000</pubDate>
     </item>
@@ -249,56 +224,23 @@
       <title>[📰] Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
       <description>&lt;p&gt;Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills</title>
-      <link>https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 21:05:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize</title>
-      <link>https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/</link>
-      <description>&lt;p&gt;&lt;p&gt;ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 11 Sep 2026 22:01:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
       <link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
       <description>&lt;p&gt;The round for the two-year-old startup is coming together months after Mecka announced its Series A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nvidia is the central bank of AI</title>
-      <link>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</link>
-      <description>&lt;p&gt;Nvidia is the central bank of AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 525&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49673098</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 12 Sep 2026 15:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help</title>
-      <link>https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/</link>
-      <description>&lt;p&gt;&lt;p&gt;The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per to...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 12 Sep 2026 18:51:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic CEO outlines plan to slow AI development</title>
       <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
       <description>&lt;p&gt;Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
     </item>
@@ -306,61 +248,41 @@
       <title>[📰] OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
       <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</link>
       <description>&lt;p&gt;While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost</title>
-      <link>https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI&amp;#8217;s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 12 Sep 2026 23:56:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <description>&lt;p&gt;Everyone should slow down AI development except for me&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 644&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49678683</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 13 Sep 2026 00:30:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Why are AI agents lying, cheating and coordinating?</title>
       <link>https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</link>
-      <description>&lt;p&gt;Why are AI agents lying, cheating and coordinating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 414&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Why are AI agents lying, cheating and coordinating?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 500&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49678969</guid>
       <category>AI News</category>
       <pubDate>Sun, 13 Sep 2026 01:22:31 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference</title>
-      <link>https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/</link>
-      <description>&lt;p&gt;&lt;p&gt;This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <title>[📰] Garry Tan wants US open-weight AI labs to 'distill' frontier models, too</title>
+      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+      <description>&lt;p&gt;Garry Tan wants US open-weight AI labs to 'distill' frontier models, too&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 168&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49685253</guid>
       <category>AI News</category>
-      <pubDate>Sun, 13 Sep 2026 01:42:58 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 15:44:38 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
-      <link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/</link>
-      <description>&lt;p&gt;&lt;p&gt;A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-cont...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <title>[📰] Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <description>&lt;p&gt;Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
-      <pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents</title>
-      <link>https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/"&gt;AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <title>[📰] David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
+      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
+      <description>&lt;p&gt;David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49685991</guid>
       <category>AI News</category>
-      <pubDate>Sun, 13 Sep 2026 08:10:51 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 16:52:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
