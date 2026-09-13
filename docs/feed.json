@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+    "description": "<p>This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with...",
+    "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T01:42:58+00:00"
+  },
+  {
+    "id": "hn-49678683",
+    "title": "Everyone should slow down AI development except for me",
+    "description": "Everyone should slow down AI development except for me",
+    "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "source_link": "https://news.ycombinator.com/item?id=49678683",
+    "engagement": "\ud83d\udc4d 129",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T00:30:44+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+    "description": "<p>Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI&#8217;s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable...",
+    "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T23:56:03+00:00"
+  },
+  {
+    "id": "hn-49676820",
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "description": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "link": "https://withspecific.com/benchmarks/real-swe",
+    "source_link": "https://news.ycombinator.com/item?id=49676820",
+    "engagement": "\ud83d\udc4d 125",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T20:25:48+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
     "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
@@ -22,7 +66,7 @@
     "published": "2026-09-12T19:34:44+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
     "description": "<p>The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per to...",
     "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
@@ -38,7 +82,7 @@
     "description": "Nvidia is the central bank of AI",
     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
     "source_link": "https://news.ycombinator.com/item?id=49673098",
-    "engagement": "\ud83d\udc4d 301",
+    "engagement": "\ud83d\udc4d 403",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-12T15:08:27+00:00"
@@ -49,21 +93,10 @@
     "description": "A Mathematical Framework for Transformer Circuits (2021)",
     "link": "https://transformer-circuits.pub/2021/framework/index.html",
     "source_link": "https://news.ycombinator.com/item?id=49672365",
-    "engagement": "\ud83d\udc4d 69",
+    "engagement": "\ud83d\udc4d 86",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-12T13:56:58+00:00"
-  },
-  {
-    "id": "hn-49671159",
-    "title": "The worst spam emails: iLands AI agent hustle",
-    "description": "The worst spam emails: iLands AI agent hustle",
-    "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-    "source_link": "https://news.ycombinator.com/item?id=49671159",
-    "engagement": "\ud83d\udc4d 98",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-12T11:13:38+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -77,7 +110,7 @@
     "published": "2026-09-11T22:58:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed\u2019s HarnessDev Says Only 34 of 64 Changes Generalize",
     "description": "<p>ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...",
     "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
@@ -88,7 +121,7 @@
     "published": "2026-09-11T22:01:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
     "description": "<p>Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously measure: does the skill trigger, does it [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and...",
     "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
@@ -198,7 +231,7 @@
     "published": "2026-09-11T13:02:35+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
     "description": "<p>Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models, including NVIDIA Nemotron, at $2/$6 per 1M tokens. Fugu Ultra v2 targets peak capability, scoring 48.3 on Chartography and 74.3 on DeepSWE.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/\">Sakana AI Launches Fugu ...",
     "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
@@ -209,7 +242,7 @@
     "published": "2026-09-11T06:34:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
     "description": "<p>Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user query. Guided by textual \"gradients\" from a 4-module propose-execute-select-update loop, ToolGrad reaches a 99.8% pass rate on ToolBench versus 63.8% for DFS search. Gemma-3-12B fine-tuned on only 500 samples scores 83.1 on BFCL, next to Gemini 2.5 Pro at 83.2. Code, dataset, and models are public under Apache-2.0.<...",
     "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
@@ -220,7 +253,7 @@
     "published": "2026-09-11T06:01:25+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-7",
     "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
     "description": "<p>Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most stacks treat every phrasing as a fresh, fully billed request. Redis LangCache is a fully managed semantic caching service that sits between the application and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-ap...",
     "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
@@ -229,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T22:34:48+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-    "description": "<p>OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run the agent&#8217;s compute in an OpenAI-managed sandbox, their own infrastructure, or a partner sandbox. Is it deployable? Yes. It is live for all developers in public beta. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness...",
-    "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-    "source_link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T21:21:58+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -251,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-10T11:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-    "description": "<p>Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM, SSD capacity, and bandwidth. DeepSeek AI built its newest release around that exact bottleneck. DeepSeek-V4.1-Flash is a multimodal Mixture-of-Experts model with 552B backbone parameters, 196B additional Engram parameters, and a 1M-token context window. It [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/10/deepseek-ai-r...",
-    "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-    "source_link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-10T07:31:01+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
