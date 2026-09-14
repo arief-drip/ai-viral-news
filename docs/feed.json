@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+    "description": "<p>NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...",
+    "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+    "source_link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T08:04:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Anthropic\u2019s 3-Step \u2018Pace the Frontier\u2019 Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+    "description": "<p>Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/0...",
+    "link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+    "source_link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T01:44:01+00:00"
+  },
+  {
+    "id": "hn-49690678",
+    "title": "The Malicious Use of Artificial Intelligence",
+    "description": "The Malicious Use of Artificial Intelligence",
+    "link": "https://arxiv.org/abs/1802.07228",
+    "source_link": "https://news.ycombinator.com/item?id=49690678",
+    "engagement": "\ud83d\udc4d 64",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T01:22:35+00:00"
+  },
+  {
+    "id": "hn-49690260",
+    "title": "Open-source AI and open models reading list",
+    "description": "Open-source AI and open models reading list",
+    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source_link": "https://news.ycombinator.com/item?id=49690260",
+    "engagement": "\ud83d\udc4d 108",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T00:22:51+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
     "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
@@ -11,6 +55,17 @@
     "published": "2026-09-13T19:40:15+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+    "description": "<p>Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-awa...",
+    "link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+    "source_link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T17:02:26+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
     "description": "Obama recently said that Democrats need to make artificial intelligence one of their \u201ccentral agendas\u201d and \u201chave a very clear plan\u201d to address concerns around the technology\u2019s economic impact and safety.",
@@ -20,6 +75,50 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-13T16:30:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+    "description": "<p>Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/\">AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents</a> appeared first on <a href=\"https://www.marktechpost.c...",
+    "link": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+    "source_link": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T08:10:51+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+    "description": "<p>A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-cont...",
+    "link": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T05:56:03+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+    "description": "<p>This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with...",
+    "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-13T01:42:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+    "description": "<p>Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI&#8217;s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable...",
+    "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T23:56:03+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -44,6 +143,17 @@
     "published": "2026-09-12T19:34:44+00:00"
   },
   {
+    "id": "rss-MarkTechPost-7",
+    "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+    "description": "<p>The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per to...",
+    "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+    "source_link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-12T18:51:24+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-4",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -53,6 +163,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T22:58:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-8",
+    "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed\u2019s HarnessDev Says Only 34 of 64 Changes Generalize",
+    "description": "<p>ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...",
+    "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "source_link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T22:01:08+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -126,7 +247,7 @@
     "description": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
     "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
     "source_link": "https://news.ycombinator.com/item?id=49653311",
-    "engagement": "\ud83d\udc4d 62",
+    "engagement": "\ud83d\udc4d 92",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T03:45:42+00:00"

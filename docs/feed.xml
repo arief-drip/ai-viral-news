@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 02:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:24:04 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -171,7 +171,7 @@
     <item>
       <title>[📰] Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace</title>
       <link>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</link>
-      <description>&lt;p&gt;Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 62&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 92&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49653311</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 03:45:42 +0000</pubDate>
@@ -229,12 +229,28 @@
       <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize</title>
+      <link>https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/</link>
+      <description>&lt;p&gt;&lt;p&gt;ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve them from execution feedback. Self-built harnesses match human references on writing and ML experimentation but trail on code and search, and only 34 of 64 evolution changes move the same direction on...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 11 Sep 2026 22:01:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</title>
       <link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
       <description>&lt;p&gt;The round for the two-year-old startup is coming together months after Mecka announced its Series A.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 11 Sep 2026 22:58:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help</title>
+      <link>https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/</link>
+      <description>&lt;p&gt;&lt;p&gt;The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned correction to a frozen LFM2.5-1.2B-Instruct backbone. Only 278,528 parameters train. The accompanying preprint reports a 0.0222 nat per token improvement over the backbone, but a parameter-matched control without the graph does slightly better in every seed. We break down the architecture, the four controls, the 0.6 per to...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 12 Sep 2026 18:51:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic CEO outlines plan to slow AI development</title>
@@ -253,6 +269,42 @@
       <pubDate>Sat, 12 Sep 2026 20:19:16 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost</title>
+      <link>https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3, Moonshot AI&amp;#8217;s 2.8T-parameter open model. Cognition reports a score of 50.0% on FrontierCode 1.1 Main, within 1 point of Fable 5.1 at 64% lower cost. It is also [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 12 Sep 2026 23:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference</title>
+      <link>https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 01:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
+      <link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/</link>
+      <description>&lt;p&gt;&lt;p&gt;A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-cont...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents</title>
+      <link>https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/"&gt;AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 08:10:51 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Obama urges Democrats to have a ‘clear plan’ for AI safeguards</title>
       <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
       <description>&lt;p&gt;Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -261,12 +313,54 @@
       <pubDate>Sun, 13 Sep 2026 16:30:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth</title>
+      <link>https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/</link>
+      <description>&lt;p&gt;&lt;p&gt;Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-awa...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 17:02:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] What’s behind the AI industry’s latest warnings of doom?</title>
       <link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
       <description>&lt;p&gt;On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Open-source AI and open models reading list</title>
+      <link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
+      <description>&lt;p&gt;Open-source AI and open models reading list&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 108&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49690260</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 00:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Malicious Use of Artificial Intelligence</title>
+      <link>https://arxiv.org/abs/1802.07228</link>
+      <description>&lt;p&gt;The Malicious Use of Artificial Intelligence&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 64&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49690678</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 01:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?</title>
+      <link>https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/</link>
+      <description>&lt;p&gt;&lt;p&gt;Dario Amodei published "We Must Pace the Frontier," and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/0...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 01:44:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing</title>
+      <link>https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 08:04:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
