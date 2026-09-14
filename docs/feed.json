@@ -1,16 +1,5 @@
 [
   {
-    "id": "hn-49688695",
-    "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "description": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "source_link": "https://news.ycombinator.com/item?id=49688695",
-    "engagement": "\ud83d\udc4d 64",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-13T21:06:13+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
     "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
     "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
@@ -31,28 +20,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-13T16:30:00+00:00"
-  },
-  {
-    "id": "hn-49685253",
-    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "description": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "source_link": "https://news.ycombinator.com/item?id=49685253",
-    "engagement": "\ud83d\udc4d 272",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-13T15:44:38+00:00"
-  },
-  {
-    "id": "hn-49678969",
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "description": "Why are AI agents lying, cheating and coordinating?",
-    "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "source_link": "https://news.ycombinator.com/item?id=49678969",
-    "engagement": "\ud83d\udc4d 554",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-13T01:22:31+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -152,6 +119,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-11T18:22:22+00:00"
+  },
+  {
+    "id": "hn-49653311",
+    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+    "description": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+    "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+    "source_link": "https://news.ycombinator.com/item?id=49653311",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-11T03:45:42+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
