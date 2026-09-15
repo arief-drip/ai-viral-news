@@ -1,8 +1,52 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "The AI data center boom is colliding with cities scarred by big industry\u00a0",
+    "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "source_link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T21:47:38+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Inside NVIDIA\u2019s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
+    "description": "<p>Learn how to leverage NVIDIA\u2019s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-r...",
+    "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+    "source_link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T21:37:11+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+    "description": "<p>Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Extended Thinking ranks #1 on Artificial Analysis' Speech to Speech Quality Index with 82.6 and scores 97.7% on Big Bench Audio. Both are available today in the Gemini API and Google AI Studio at $0.00...",
+    "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+    "source_link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T20:53:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "source_link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T20:12:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source_link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -11,7 +55,7 @@
     "published": "2026-09-15T19:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
     "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
     "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
@@ -20,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T18:29:20+00:00"
-  },
-  {
-    "id": "hn-49716241",
-    "title": "Hugging Face is billing OpenAI $100M for hacking it",
-    "description": "Hugging Face is billing OpenAI $100M for hacking it",
-    "link": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-    "source_link": "https://news.ycombinator.com/item?id=49716241",
-    "engagement": "\ud83d\udc4d 63",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T17:56:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -44,7 +77,7 @@
     "published": "2026-09-15T17:47:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "AI agents now have a place to snitch",
     "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
     "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
@@ -60,13 +93,13 @@
     "description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "source_link": "https://news.ycombinator.com/item?id=49715947",
-    "engagement": "\ud83d\udc4d 87",
+    "engagement": "\ud83d\udc4d 220",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T17:38:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Meta expands subscription push with new AI-focused plans",
     "description": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
     "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
@@ -77,7 +110,7 @@
     "published": "2026-09-15T17:05:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
     "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
@@ -93,13 +126,13 @@
     "description": "Cartesian \u2013 AI 3D Modeling for Design",
     "link": "https://www.formas.ai/cartesian",
     "source_link": "https://news.ycombinator.com/item?id=49713999",
-    "engagement": "\ud83d\udc4d 61",
+    "engagement": "\ud83d\udc4d 80",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T15:26:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
     "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
@@ -108,17 +141,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T14:42:37+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "source_link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T13:00:00+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -143,17 +165,6 @@
     "published": "2026-09-15T10:00:00+00:00"
   },
   {
-    "id": "hn-49710015",
-    "title": "How much of F-Droid is LLM generated?",
-    "description": "How much of F-Droid is LLM generated?",
-    "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "source_link": "https://news.ycombinator.com/item?id=49710015",
-    "engagement": "\ud83d\udc4d 112",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T09:47:48+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-1",
     "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
     "description": "\n                        The refreshed Volvos also get new infotainment systems with Gemini onboard.\n                    ",
@@ -165,15 +176,48 @@
     "published": "2026-09-15T07:00:30+00:00"
   },
   {
+    "id": "rss-MarkTechPost-2",
+    "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
+    "description": "<p>Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up public-facing business agents. So, basically you give it your website, get an agent, and let it talk to other agents. Instead of writing orchestration code, a business fills in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-int...",
+    "link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
+    "source_link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T04:03:20+00:00"
+  },
+  {
     "id": "hn-49704132",
     "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
     "description": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
     "link": "https://www.effort.news/irregular",
     "source_link": "https://news.ycombinator.com/item?id=49704132",
-    "engagement": "\ud83d\udc4d 255",
+    "engagement": "\ud83d\udc4d 382",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-14T21:15:01+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
+    "description": "<p>Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a new task from under 30 minutes of data, and pairs electromagnetic hand tracking (60% lower overshoot than visual-inertial at 67 cm/s) with an RL-trained control layer that runs on its own clock. No weights, code, or AP...",
+    "link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+    "source_link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T21:08:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
+    "description": "<p>Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates while recovering exact backprop gradients in linear networks. It matches BP across widths and depths from 8 to 128 at an inference budget of T = 2L, lifts gradient cosine to BP from 0.604 to 0.909 in the reference cell, an...",
+    "link": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
+    "source_link": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T20:46:16+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -196,6 +240,28 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-14T16:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+    "description": "<p>NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...",
+    "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+    "source_link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T08:04:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Anthropic\u2019s 3-Step \u2018Pace the Frontier\u2019 Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+    "description": "<p>Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/0...",
+    "link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+    "source_link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-14T01:44:01+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
