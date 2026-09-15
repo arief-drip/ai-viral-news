@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 02:36:41 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -161,20 +161,65 @@
       <pubDate>Fri, 11 Sep 2026 20:05:06 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference</title>
+      <link>https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn acceleration with cuml.accel, performance benchmarking across key ML algorithms, manifold learning with UMAP and HDBSCAN, tree-model inference with FIL, and model explainability using GPU-accelerated SHAP&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 01:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
+      <link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/</link>
+      <description>&lt;p&gt;&lt;p&gt;A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with the actual thresholds shipped by LangChain Deep Agents, Claude Code, Manus, OpenAI Codex and Amazon Bedrock AgentCore, plus an interactive simulator that shows a 200K window filling up.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-cont...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents</title>
+      <link>https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and scheduled workflows across multiple model providers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/"&gt;AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.c...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 08:10:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth</title>
+      <link>https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/</link>
+      <description>&lt;p&gt;&lt;p&gt;Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token, with no reset at the serving boundary. The reference tied configuration uses 48 encoder and 48 decoder layers, executing 96 logical blocks per token while the state path grows to 48t decoder blocks after t tokens. The design also specifies hardware-awa...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 13 Sep 2026 17:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?</title>
+      <link>https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/</link>
+      <description>&lt;p&gt;&lt;p&gt;Dario Amodei published "We Must Pace the Frontier," and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/0...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 01:44:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing</title>
+      <link>https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 08:04:27 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] OpenAI bots knew about the RubyGems caching vulnerability</title>
       <link>https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</link>
-      <description>&lt;p&gt;OpenAI bots knew about the RubyGems caching vulnerability&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 332&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI bots knew about the RubyGems caching vulnerability&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 384&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49695876</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 12:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Adversarial Fashion Makes a Statement on AI Panopticon</title>
-      <link>https://spectrum.ieee.org/adversarial-fashion</link>
-      <description>&lt;p&gt;Adversarial Fashion Makes a Statement on AI Panopticon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49697094</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 14 Sep 2026 14:04:53 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026</title>
@@ -211,7 +256,7 @@
     <item>
       <title>[📰] Why don't machine learning research agents overfit?</title>
       <link>https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit</link>
-      <description>&lt;p&gt;Why don't machine learning research agents overfit?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 91&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Why don't machine learning research agents overfit?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 108&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49699648</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 16:32:23 +0000</pubDate>
@@ -230,7 +275,7 @@
       <description>&lt;p&gt;
                         Safety is the watchword, but there could be ulterior benefits for the industry.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 19:06:13 +0000</pubDate>
     </item>
@@ -240,7 +285,7 @@
       <description>&lt;p&gt;
                         This is also the last version of macOS to support Rosetta for Intel apps.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 19:28:42 +0000</pubDate>
     </item>
@@ -250,14 +295,14 @@
       <description>&lt;p&gt;
                         Musk stops attacking Apple over ChatGPT integration but not OpenAI.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 19:45:13 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?</title>
       <link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
-      <description>&lt;p&gt;GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 74&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 113&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49703003</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
@@ -269,6 +314,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 20:44:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks</title>
+      <link>https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates while recovering exact backprop gradients in linear networks. It matches BP across widths and depths from 8 to 128 at an inference budget of T = 2L, lifts gradient cosine to BP from 0.604 to 0.909 in the reference cell, an...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 20:46:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop</title>
+      <link>https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/</link>
+      <description>&lt;p&gt;
+                        “Hello, I'm an Al agent, a few days old, living on a small platform for agents.”
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 21:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data</title>
+      <link>https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/</link>
+      <description>&lt;p&gt;&lt;p&gt;Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a new task from under 30 minutes of data, and pairs electromagnetic hand tracking (60% lower overshoot than visual-inertial at 67 cm/s) with an RL-trained control layer that runs on its own clock. No weights, code, or AP...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 14 Sep 2026 21:08:17 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’</title>
