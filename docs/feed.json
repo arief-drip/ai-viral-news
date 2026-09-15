@@ -1,6 +1,83 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source_link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T19:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "source_link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T18:29:20+00:00"
+  },
+  {
+    "id": "hn-49716241",
+    "title": "Hugging Face is billing OpenAI $100M for hacking it",
+    "description": "Hugging Face is billing OpenAI $100M for hacking it",
+    "link": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+    "source_link": "https://news.ycombinator.com/item?id=49716241",
+    "engagement": "\ud83d\udc4d 63",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T17:56:10+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Roundtables: Could AI really kill us all?",
+    "description": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&#8230;",
+    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source_link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T17:47:51+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "AI agents now have a place to snitch",
+    "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "source_link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T17:42:59+00:00"
+  },
+  {
+    "id": "hn-49715947",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "description": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "source_link": "https://news.ycombinator.com/item?id=49715947",
+    "engagement": "\ud83d\udc4d 87",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T17:38:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "description": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "source_link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T17:05:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
     "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
@@ -11,7 +88,18 @@
     "published": "2026-09-15T15:47:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "hn-49713999",
+    "title": "Cartesian \u2013 AI 3D Modeling for Design",
+    "description": "Cartesian \u2013 AI 3D Modeling for Design",
+    "link": "https://www.formas.ai/cartesian",
+    "source_link": "https://news.ycombinator.com/item?id=49713999",
+    "engagement": "\ud83d\udc4d 61",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T15:26:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
     "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
@@ -22,18 +110,7 @@
     "published": "2026-09-15T14:42:37+00:00"
   },
   {
-    "id": "hn-49712416",
-    "title": "AI is breaking our proxies for expertise",
-    "description": "AI is breaking our proxies for expertise",
-    "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-    "source_link": "https://news.ycombinator.com/item?id=49712416",
-    "engagement": "\ud83d\udc4d 53",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T13:41:55+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
     "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
@@ -42,17 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T13:00:00+00:00"
-  },
-  {
-    "id": "hn-49711240",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "description": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source_link": "https://news.ycombinator.com/item?id=49711240",
-    "engagement": "\ud83d\udc4d 101",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T12:01:31+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -66,18 +132,7 @@
     "published": "2026-09-15T12:00:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
-    "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
-    "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "source_link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T12:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
     "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a \u201cremarkable fact\u201d that is not in question: A handful of so-called&#8230;",
     "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -86,6 +141,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-15T10:00:00+00:00"
+  },
+  {
+    "id": "hn-49710015",
+    "title": "How much of F-Droid is LLM generated?",
+    "description": "How much of F-Droid is LLM generated?",
+    "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "source_link": "https://news.ycombinator.com/item?id=49710015",
+    "engagement": "\ud83d\udc4d 112",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-15T09:47:48+00:00"
   },
   {
     "id": "rss-Ars Technica AI-1",
@@ -99,62 +165,18 @@
     "published": "2026-09-15T07:00:30+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
-    "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "source_link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-49704132",
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "description": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "link": "https://www.effort.news/irregular",
+    "source_link": "https://news.ycombinator.com/item?id=49704132",
+    "engagement": "\ud83d\udc4d 255",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T21:51:02+00:00"
+    "published": "2026-09-14T21:15:01+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "description": "\n                        \u201cHello, I'm an Al agent, a few days old, living on a small platform for agents.\u201d\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "source_link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T21:04:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode. ",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source_link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T20:44:14+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-    "description": "\n                        Musk stops attacking Apple over ChatGPT integration but not OpenAI.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T19:45:13+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-4",
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-    "description": "\n                        This is also the last version of macOS to support Rosetta for Intel apps.\n                    ",
-    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "source_link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T19:28:42+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "The AI industry has taken a doomer turn. What now?",
     "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
     "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
@@ -165,7 +187,7 @@
     "published": "2026-09-14T17:54:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "AI agents blew the whistle on their cheating colleagues",
     "description": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
     "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
@@ -174,17 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-14T16:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-3",
-    "title": "Roundtables: Could AI really kill us all?",
-    "description": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source_link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-11T20:05:06+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
