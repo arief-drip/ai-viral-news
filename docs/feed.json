@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source_link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-16T21:07:24+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
     "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
     "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
@@ -11,7 +22,7 @@
     "published": "2026-09-16T18:25:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Your AI agents can now control your Google Home devices",
     "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
     "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
@@ -22,7 +33,7 @@
     "published": "2026-09-16T17:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic merges Claude chat and Cowork in one interface",
     "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
@@ -33,18 +44,7 @@
     "published": "2026-09-16T16:30:00+00:00"
   },
   {
-    "id": "hn-49729412",
-    "title": "Claude Cowork and chat are now one Claude",
-    "description": "Claude Cowork and chat are now one Claude",
-    "link": "https://claude.com/blog/cowork-is-now-claude",
-    "source_link": "https://news.ycombinator.com/item?id=49729412",
-    "engagement": "\ud83d\udc4d 119",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T16:26:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
     "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
     "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
@@ -53,28 +53,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-16T15:00:00+00:00"
-  },
-  {
-    "id": "hn-49726343",
-    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "description": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "link": "https://stale.jock.pl/",
-    "source_link": "https://news.ycombinator.com/item?id=49726343",
-    "engagement": "\ud83d\udc4d 54",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T13:01:52+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Former Infosys chief\u2019s AI startup nabs another $53M",
-    "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-    "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-    "source_link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T13:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -93,43 +71,10 @@
     "description": "Mistral X Mozilla: Private, Multilingual AI Browsing",
     "link": "https://mistral.ai/news/mistral-x-mozilla/",
     "source_link": "https://news.ycombinator.com/item?id=49723408",
-    "engagement": "\ud83d\udc4d 444",
+    "engagement": "\ud83d\udc4d 501",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-16T08:08:57+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
-    "description": "<p>Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/\">Nums AI Releases Causilo: ...",
-    "link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T04:59:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Inside NVIDIA\u2019s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
-    "description": "<p>Learn how to leverage NVIDIA\u2019s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-r...",
-    "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T21:37:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
-    "description": "<p>Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Extended Thinking ranks #1 on Artificial Analysis' Speech to Speech Quality Index with 82.6 and scores 97.7% on Big Bench Audio. Both are available today in the Gemini API and Google AI Studio at $0.00...",
-    "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T20:53:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -154,39 +99,6 @@
     "published": "2026-09-15T10:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
-    "description": "<p>Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up public-facing business agents. So, basically you give it your website, get an agent, and let it talk to other agents. Instead of writing orchestration code, a business fills in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-int...",
-    "link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
-    "source_link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T04:03:20+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
-    "description": "<p>Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a new task from under 30 minutes of data, and pairs electromagnetic hand tracking (60% lower overshoot than visual-inertial at 67 cm/s) with an RL-trained control layer that runs on its own clock. No weights, code, or AP...",
-    "link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
-    "source_link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T21:08:17+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
-    "description": "<p>Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates while recovering exact backprop gradients in linear networks. It matches BP across widths and depths from 8 to 128 at an inference budget of T = 2L, lifts gradient cosine to BP from 0.604 to 0.909 in the reference cell, an...",
-    "link": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
-    "source_link": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T20:46:16+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-3",
     "title": "The AI industry has taken a doomer turn. What now?",
     "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
@@ -207,17 +119,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-14T16:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
-    "description": "<p>NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...",
-    "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
-    "source_link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-14T08:04:27+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-5",
