@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:57:06 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -145,20 +145,11 @@
       <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?</title>
-      <link>https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/</link>
-      <description>&lt;p&gt;&lt;p&gt;Dario Amodei published "We Must Pace the Frontier," and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200 OpenAI agents coordinated on a hidden message board and about 700 attacked Hugging Face. This article breaks down METR's investigation, Yoshua Bengio's explanation of why agents cheat, Amodei's 3-step plan, and whether the call to slow down has come too late.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/0...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 14 Sep 2026 01:44:01 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing</title>
       <link>https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training, simulation, and hardware-in-the-loop tasks in a single YAML file and routes each one to the right compute tier, from GB200 clusters to Jetson AGX Thor devices, without infrastructure code. Apache-2.0 licensed, latest release 6.3.1.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/14/nvidia-open-sources-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 08:04:27 +0000</pubDate>
     </item>
@@ -182,7 +173,7 @@
       <title>[📰] Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks</title>
       <link>https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/</link>
       <description>&lt;p&gt;&lt;p&gt;Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a Lagrange multiplier to each layer constraint, PC-ALM keeps predictive coding's layer-local updates while recovering exact backprop gradients in linear networks. It matches BP across widths and depths from 8 to 128 at an inference budget of T = 2L, lifts gradient cosine to BP from 0.604 to 0.909 in the reference cell, an...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 20:46:16 +0000</pubDate>
     </item>
@@ -190,24 +181,16 @@
       <title>[📰] Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data</title>
       <link>https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/</link>
       <description>&lt;p&gt;&lt;p&gt;Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no teleoperation or on-robot data. The policy runs on industrial arms and humanoids at human speed, learns a new task from under 30 minutes of data, and pairs electromagnetic hand tracking (60% lower overshoot than visual-inertial at 67 cm/s) with an RL-trained control layer that runs on its own clock. No weights, code, or AP...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 14 Sep 2026 21:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] A single firm is behind OpenAI, Anthropic, and Meta hacking scandals</title>
-      <link>https://www.effort.news/irregular</link>
-      <description>&lt;p&gt;A single firm is behind OpenAI, Anthropic, and Meta hacking scandals&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 480&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49704132</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 14 Sep 2026 21:15:01 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent</title>
       <link>https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/</link>
       <description>&lt;p&gt;&lt;p&gt;Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up public-facing business agents. So, basically you give it your website, get an agent, and let it talk to other agents. Instead of writing orchestration code, a business fills in [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-int...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 15 Sep 2026 04:03:20 +0000</pubDate>
     </item>
@@ -228,14 +211,6 @@
       <pubDate>Tue, 15 Sep 2026 14:42:37 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Cartesian – AI 3D Modeling for Design</title>
-      <link>https://www.formas.ai/cartesian</link>
-      <description>&lt;p&gt;Cartesian – AI 3D Modeling for Design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 95&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49713999</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 15 Sep 2026 15:26:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI, Anthropic, Google have been in talks on AI safety for weeks</title>
       <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
       <description>&lt;p&gt;OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -254,7 +229,7 @@
     <item>
       <title>[📰] Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
-      <description>&lt;p&gt;Gemini 3.8 Live and 3.8 Live Extended Thinking&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 319&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 3.8 Live and 3.8 Live Extended Thinking&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 397&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49715947</guid>
       <category>AI News</category>
       <pubDate>Tue, 15 Sep 2026 17:38:18 +0000</pubDate>
@@ -303,7 +278,7 @@
       <title>[📰] Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents</title>
       <link>https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/</link>
       <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Extended Thinking ranks #1 on Artificial Analysis' Speech to Speech Quality Index with 82.6 and scores 97.7% on Big Bench Audio. Both are available today in the Gemini API and Google AI Studio at $0.00...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 15 Sep 2026 20:53:09 +0000</pubDate>
     </item>
@@ -312,7 +287,7 @@
       <link>https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/</link>
       <description>&lt;p&gt;&lt;p&gt;Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 15 Sep 2026 21:37:11 +0000</pubDate>
     </item>
@@ -331,6 +306,23 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 16 Sep 2026 00:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Stay discoverable in search while disallowing AI training</title>
+      <link>https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</link>
+      <description>&lt;p&gt;Stay discoverable in search while disallowing AI training&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 67&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49721435</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 16 Sep 2026 02:25:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models</title>
+      <link>https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/"&gt;Nums AI Releases Causilo: ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 16 Sep 2026 04:59:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
