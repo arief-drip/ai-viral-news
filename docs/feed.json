@@ -1,30 +1,41 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-    "description": "<p>OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/\">OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPos...",
-    "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-    "source_link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T07:35:37+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12\u00d7 to 20\u00d7 Faster Query Fan-Out",
-    "description": "<p>Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using groundedness, diversity, and alignment rewards. That model then synthesizes training data for a 53.9M-parameter diffusion retriever. The retriever generates all retrieval directions in a single pass, running 12\u00d7 to 20\u00d7 faster than autoregressive fan-out. No code or model weights have been released yet.</p>\n<p>The pos...",
-    "link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T06:19:38+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
+    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "source_link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T14:06:14+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+    "description": "People can use these assistants to make restaurant reservations and cancel subscriptions. ",
+    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "source_link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T13:46:16+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "source_link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T13:38:33+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
     "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "source_link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -33,7 +44,7 @@
     "published": "2026-09-17T05:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
     "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
     "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
@@ -44,18 +55,7 @@
     "published": "2026-09-17T03:30:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
-    "description": "<p>Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax stage. Why Attention is the Video Bottleneck Video DiTs flatten a clip into 1 sequence of spatiotemporal tokens and run full self-attention at every layer. A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-atte...",
-    "link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T00:45:06+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Al Gore says the real AI risk isn\u2019t data centers",
     "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed.\n",
     "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
@@ -71,7 +71,7 @@
     "description": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
     "link": "https://openspec.dev/",
     "source_link": "https://news.ycombinator.com/item?id=49734264",
-    "engagement": "\ud83d\udc4d 137",
+    "engagement": "\ud83d\udc4d 175",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-16T23:06:39+00:00"
@@ -88,29 +88,7 @@
     "published": "2026-09-16T22:02:46+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
-    "description": "<p>Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/\">Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data</a> appeared first on <a href=\"https://www.marktechpost.co...",
-    "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T21:59:26+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
-    "description": "<p>GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/\">Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens</a> appeared first on <a href=\"https://www.marktechpo...",
-    "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T21:19:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
     "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
@@ -119,50 +97,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-16T21:07:24+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
-    "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "source_link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T18:25:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Your AI agents can now control your Google Home devices",
-    "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "source_link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T17:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "source_link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T16:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
-    "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "source_link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T15:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -174,39 +108,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-16T12:47:34+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
-    "description": "<p>Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/\">Nums AI Releases Causilo: ...",
-    "link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T04:59:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Inside NVIDIA\u2019s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
-    "description": "<p>Learn how to leverage NVIDIA\u2019s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-r...",
-    "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T21:37:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
-    "description": "<p>Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background while the conversation keeps flowing, process live visual inputs, and switch between 97 languages mid conversation. Extended Thinking ranks #1 on Artificial Analysis' Speech to Speech Quality Index with 82.6 and scores 97.7% on Big Bench Audio. Both are available today in the Gemini API and Google AI Studio at $0.00...",
-    "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-    "source_link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-15T20:53:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
