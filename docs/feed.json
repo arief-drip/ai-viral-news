@@ -1,6 +1,39 @@
 [
   {
+    "id": "hn-49760187",
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "description": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "link": "https://code.claude.com/docs/en/changelog",
+    "source_link": "https://news.ycombinator.com/item?id=49760187",
+    "engagement": "\ud83d\udc4d 170",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-18T21:00:32+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "description": "\n                        FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "source_link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-18T19:20:50+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. ",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "source_link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-18T18:49:30+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
     "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer. ",
     "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
@@ -11,7 +44,7 @@
     "published": "2026-09-18T17:59:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
     "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
     "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
@@ -22,18 +55,29 @@
     "published": "2026-09-18T17:33:50+00:00"
   },
   {
+    "id": "rss-Ars Technica AI-1",
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "description": "\n                        The Federal Register website briefly used an open source Chinese AI search tool.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-18T17:28:50+00:00"
+  },
+  {
     "id": "hn-49757520",
     "title": "US Military had close call after using AI for hallucinated intelligence report",
     "description": "US Military had close call after using AI for hallucinated intelligence report",
     "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
     "source_link": "https://news.ycombinator.com/item?id=49757520",
-    "engagement": "\ud83d\udc4d 105",
+    "engagement": "\ud83d\udc4d 323",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-18T17:28:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
     "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to \u201cpace the frontier\u201d&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; Watch [&#8230;]",
     "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
@@ -44,7 +88,7 @@
     "published": "2026-09-18T17:09:56+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
     "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to \u201cpace the frontier\u201d&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; On [&#8230;]",
     "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
@@ -55,7 +99,7 @@
     "published": "2026-09-18T17:06:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
     "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026. ",
     "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
@@ -66,7 +110,7 @@
     "published": "2026-09-18T15:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
     "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf. ",
     "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
@@ -77,18 +121,7 @@
     "published": "2026-09-18T15:22:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
-    "description": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "source_link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T14:00:14+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "Researchers used Claude to hack OpenAI",
     "description": "\n                        Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
@@ -110,62 +143,18 @@
     "published": "2026-09-18T11:29:22+00:00"
   },
   {
-    "id": "hn-49752056",
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "description": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "source_link": "https://news.ycombinator.com/item?id=49752056",
-    "engagement": "\ud83d\udc4d 778",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T09:45:07+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-    "description": "<p>Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/\">Best Open-Source Agent Harnesses for Local LLMs in 2026</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-    "source_link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T09:44:55+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from \u2018Vibe Coding\u2019 to Battle-Tested Orchestration",
-    "description": "<p>Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guardrails\u2014as proven by Southwest Airlines' 7x ROI.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-teste...",
-    "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-    "source_link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T07:34:06+00:00"
-  },
-  {
-    "id": "hn-49749656",
-    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "description": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-    "link": "https://www.hacktron.ai/blog/hacking-openai",
-    "source_link": "https://news.ycombinator.com/item?id=49749656",
-    "engagement": "\ud83d\udc4d 438",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T02:47:24+00:00"
-  },
-  {
     "id": "hn-49748553",
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
     "description": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
     "link": "https://cactuscompute.com/needle",
     "source_link": "https://news.ycombinator.com/item?id=49748553",
-    "engagement": "\ud83d\udc4d 78",
+    "engagement": "\ud83d\udc4d 142",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-18T00:11:44+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-3",
     "title": "Small AI models let drones autonomously identify and attack battlefield targets",
     "description": "\n                        Scaleout deploys decentralized AI-driven learning to military bases and drones.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
@@ -176,29 +165,18 @@
     "published": "2026-09-17T22:12:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-    "description": "<p>Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/\">Microsoft Open-Sources TauGrid:...",
-    "link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-    "source_link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-49747070",
+    "title": "How to Write with an LLM",
+    "description": "How to Write with an LLM",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "source_link": "https://news.ycombinator.com/item?id=49747070",
+    "engagement": "\ud83d\udc4d 331",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T21:21:08+00:00"
+    "published": "2026-09-17T21:48:38+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
-    "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-    "description": "<p>Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-cl...",
-    "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-    "source_link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T20:45:04+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-4",
     "title": "Google announces new experimental \"CC\" AI agent for families",
     "description": "\n                        Multiple family members can share data to help the agent make plans and complete tasks.\n                    ",
     "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
@@ -207,72 +185,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-17T20:24:34+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
-    "description": "\n                        Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T20:10:41+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-4",
-    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-    "description": "\n                        SynthID can cause models to follow harmful instructions they would otherwise refuse.\n                    ",
-    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "source_link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T18:33:13+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-    "description": "<p>OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/\">OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPos...",
-    "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-    "source_link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T07:35:37+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12\u00d7 to 20\u00d7 Faster Query Fan-Out",
-    "description": "<p>Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using groundedness, diversity, and alignment rewards. That model then synthesizes training data for a 53.9M-parameter diffusion retriever. The retriever generates all retrieval directions in a single pass, running 12\u00d7 to 20\u00d7 faster than autoregressive fan-out. No code or model weights have been released yet.</p>\n<p>The pos...",
-    "link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T06:19:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
-    "description": "<p>Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax stage. Why Attention is the Video Bottleneck Video DiTs flatten a clip into 1 sequence of spatiotemporal tokens and run full self-attention at every layer. A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-atte...",
-    "link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T00:45:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-7",
-    "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
-    "description": "<p>Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/\">Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data</a> appeared first on <a href=\"https://www.marktechpost.co...",
-    "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-    "source_link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-16T21:59:26+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
