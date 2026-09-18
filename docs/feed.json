@@ -1,7 +1,40 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
-    "title": "The FAA\u2019s plan to fix air traffic? $875 million worth of AI",
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+    "description": "The round values the data center giant at $30.9 billion.",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "source_link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T23:25:52+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "source_link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T23:21:17+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "source_link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-17T22:34:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
     "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.  ",
     "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
     "source_link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
@@ -38,13 +71,13 @@
     "description": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
     "link": "https://bend-lang.com/",
     "source_link": "https://news.ycombinator.com/item?id=49746163",
-    "engagement": "\ud83d\udc4d 171",
+    "engagement": "\ud83d\udc4d 300",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-17T20:36:13+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "The fix for rogue AI agents could be more AI",
     "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review. ",
     "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
@@ -55,7 +88,7 @@
     "published": "2026-09-17T20:34:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
     "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
     "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
@@ -66,7 +99,7 @@
     "published": "2026-09-17T20:34:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Is the AI safety debate about safety or control?",
     "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
     "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
@@ -77,7 +110,7 @@
     "published": "2026-09-17T20:19:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "UN turns to Google to make its global data ready for AI agents",
     "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
     "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
@@ -88,7 +121,7 @@
     "published": "2026-09-17T20:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-8",
     "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
     "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
     "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
@@ -99,7 +132,7 @@
     "published": "2026-09-17T19:46:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-9",
     "title": "Even the king of England has his hesitations about AI",
     "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government. ",
     "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
@@ -110,37 +143,15 @@
     "published": "2026-09-17T17:26:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "source_link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-49743049",
+    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
+    "description": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
+    "link": "https://news.ycombinator.com/item?id=49743049",
+    "source_link": "https://news.ycombinator.com/item?id=49743049",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T17:15:59+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
-    "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into purchases.",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "source_link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T17:15:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "source_link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-17T14:06:14+00:00"
+    "published": "2026-09-17T16:22:15+00:00"
   },
   {
     "id": "hn-49740105",
@@ -148,7 +159,7 @@
     "description": "Show HN: Share your AI Setup, Learn from others",
     "link": "https://mysetup.ai/",
     "source_link": "https://news.ycombinator.com/item?id=49740105",
-    "engagement": "\ud83d\udc4d 158",
+    "engagement": "\ud83d\udc4d 189",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-17T13:01:44+00:00"
