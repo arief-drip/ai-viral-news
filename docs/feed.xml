@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 02:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:36:54 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -169,20 +169,11 @@
       <pubDate>Tue, 15 Sep 2026 17:47:51 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend</title>
-      <link>https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/</link>
-      <description>&lt;p&gt;&lt;p&gt;Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention, dynamic shapes, and CUDA graph captures. This practical tutorial demonstrates how to optimize deep learning computations directly below framework abstractions while validating results against PyTorch&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 15 Sep 2026 21:37:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models</title>
       <link>https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/</link>
       <description>&lt;p&gt;&lt;p&gt;Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single models, ahead of Google's TabFM and LG's EXAONE Tabular. The code is Apache-2.0, while weights are licensed for non-commercial research.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/"&gt;Nums AI Releases Causilo: ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 16 Sep 2026 04:59:47 +0000</pubDate>
     </item>
@@ -199,7 +190,7 @@
       <link>https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/</link>
       <description>&lt;p&gt;&lt;p&gt;GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/"&gt;Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 16 Sep 2026 21:19:32 +0000</pubDate>
     </item>
@@ -208,26 +199,16 @@
       <link>https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/</link>
       <description>&lt;p&gt;&lt;p&gt;Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/"&gt;Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.co...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 16 Sep 2026 21:59:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Apple reportedly building server packed with M-series Ultra chips for AI</title>
-      <link>https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/</link>
-      <description>&lt;p&gt;
-                        Planned 2029 debut could make this Apple’s first enterprise server in decades.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 16 Sep 2026 22:02:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers</title>
       <link>https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/</link>
       <description>&lt;p&gt;&lt;p&gt;Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax stage. Why Attention is the Video Bottleneck Video DiTs flatten a clip into 1 sequence of spatiotemporal tokens and run full self-attention at every layer. A [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-atte...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 00:45:06 +0000</pubDate>
     </item>
@@ -236,7 +217,7 @@
       <link>https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using groundedness, diversity, and alignment rewards. That model then synthesizes training data for a 53.9M-parameter diffusion retriever. The retriever generates all retrieval directions in a single pass, running 12× to 20× faster than autoregressive fan-out. No code or model weights have been released yet.&lt;/p&gt;
 &lt;p&gt;The pos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 06:19:38 +0000</pubDate>
     </item>
@@ -245,25 +226,19 @@
       <link>https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/"&gt;OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 07:35:37 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Share your AI Setup, Learn from others</title>
-      <link>https://mysetup.ai/</link>
-      <description>&lt;p&gt;Show HN: Share your AI Setup, Learn from others&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 189&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49740105</guid>
+      <title>[📰] Covert uploads and megalomania: OpenAI details new "misaligned" agent incidents</title>
+      <link>https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/</link>
+      <description>&lt;p&gt;
+                        Model maker commits to new framework for reporting misaligned models.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-4</guid>
       <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 13:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents</title>
-      <link>https://news.ycombinator.com/item?id=49743049</link>
-      <description>&lt;p&gt;Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 50&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49743049</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 16:22:15 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 16:18:34 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Even the king of England has his hesitations about AI</title>
@@ -272,6 +247,16 @@
       <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 17:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] LLMs respond differently to harmful prompts when AI watermarking is used</title>
+      <link>https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/</link>
+      <description>&lt;p&gt;
+                        SynthID can cause models to follow harmful instructions they would otherwise refuse.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 17 Sep 2026 18:33:13 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
@@ -290,12 +275,32 @@
       <pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Microsoft exec called AI scraping the “largest theft of labor in human history”</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/</link>
+      <description>&lt;p&gt;
+                        Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 17 Sep 2026 20:10:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Is the AI safety debate about safety or control?</title>
       <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
       <description>&lt;p&gt;Not everyone agrees with Amodei's call for globally coordinated action for AI safety.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 20:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google announces new experimental "CC" AI agent for families</title>
+      <link>https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/</link>
+      <description>&lt;p&gt;
+                        Multiple family members can share data to help the agent make plans and complete tasks.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 17 Sep 2026 20:24:34 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI caught its models leaving notes to successors to hide bad behavior</title>
@@ -316,7 +321,7 @@
     <item>
       <title>[📰] Bend – A language that blocks AI mistakes via proof, on CPU and GPU</title>
       <link>https://bend-lang.com/</link>
-      <description>&lt;p&gt;Bend – A language that blocks AI mistakes via proof, on CPU and GPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 300&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bend – A language that blocks AI mistakes via proof, on CPU and GPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 444&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49746163</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 20:36:13 +0000</pubDate>
@@ -326,7 +331,7 @@
       <link>https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-cl...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 20:45:04 +0000</pubDate>
     </item>
@@ -335,9 +340,27 @@
       <link>https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/"&gt;Microsoft Open-Sources TauGrid:...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 21:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How to Write with an LLM</title>
+      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
+      <description>&lt;p&gt;How to Write with an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 144&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49747070</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Small AI models let drones autonomously identify and attack battlefield targets</title>
+      <link>https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/</link>
+      <description>&lt;p&gt;
+                        Scaleout deploys decentralized AI-driven learning to military bases and drones.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 17 Sep 2026 22:12:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The FAA’s plan to fix air traffic? $875M worth of AI</title>
@@ -370,6 +393,23 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 23:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A heap overflow and SSO misconfiguration to compromise OpenAI internal repos</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <description>&lt;p&gt;A heap overflow and SSO misconfiguration to compromise OpenAI internal repos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 338&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49749656</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 18 Sep 2026 02:47:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration</title>
+      <link>https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/</link>
+      <description>&lt;p&gt;&lt;p&gt;Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from "vibe coding" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guardrails—as proven by Southwest Airlines' 7x ROI.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-teste...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 18 Sep 2026 07:34:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
