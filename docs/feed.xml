@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:57:37 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -177,30 +177,12 @@
       <pubDate>Wed, 16 Sep 2026 12:47:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads</title>
-      <link>https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/</link>
-      <description>&lt;p&gt;&lt;p&gt;Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/"&gt;Microsoft Open-Sources TauGrid:...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 21:21:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-      <description>&lt;p&gt;How to Write with an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 573&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How to Write with an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 607&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49747070</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration</title>
-      <link>https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/</link>
-      <description>&lt;p&gt;&lt;p&gt;Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from "vibe coding" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guardrails—as proven by Southwest Airlines' 7x ROI.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-teste...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 07:34:06 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Best Open-Source Agent Harnesses for Local LLMs in 2026</title>
@@ -208,7 +190,7 @@
       <description>&lt;p&gt;&lt;p&gt;Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/"&gt;Best Open-Source Agent Harnesses for Local LLMs in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 09:44:55 +0000</pubDate>
     </item>
@@ -264,39 +246,15 @@
       <title>[📰] Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs</title>
       <link>https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/</link>
       <description>&lt;p&gt;&lt;p&gt;Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, and builds on DeepSeek-OCR. A built-in FastMTP speculative decoding head drafts 3 tokens per step while keeping output lossless. It scores 91.14 on OmniDocBench v1.6 and 83.4 on olmOCR-Bench, and parses 2.57 pages per second on 1 A100. Weights are on Hugging Face under CC BY-NC 4.0, with hosted a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 21:21:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</title>
-      <link>https://spectrum.ieee.org/llms-for-chip-design</link>
-      <description>&lt;p&gt;How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 180&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49761432</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 23:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI hallucination nearly triggers US military operation</title>
-      <link>https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/</link>
-      <description>&lt;p&gt;“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 23:12:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic is operating a lab that conducts biology experiments</title>
-      <link>https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/</link>
-      <description>&lt;p&gt;AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 23:13:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] A startup that builds other startups raised $100M and is all-in on physical AI</title>
       <link>https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/</link>
       <description>&lt;p&gt;UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 23:25:01 +0000</pubDate>
     </item>
@@ -304,7 +262,7 @@
       <title>[📰] Tilly Norwood’s press tour is going about as well as you’d expect for an AI</title>
       <link>https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/</link>
       <description>&lt;p&gt;In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 00:12:07 +0000</pubDate>
     </item>
@@ -313,14 +271,14 @@
       <link>https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/"&gt;GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)&lt;/a&gt; appeared first on &lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 04:04:06 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GPT-6 Astra Solves a WWI German Radio Cipher</title>
       <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
-      <description>&lt;p&gt;GPT-6 Astra Solves a WWI German Radio Cipher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 280&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Astra Solves a WWI German Radio Cipher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 340&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49763987</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 06:41:44 +0000</pubDate>
@@ -330,14 +288,14 @@
       <link>https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta has released Muse for Mac, the first version of Muse that can complete things on a user&amp;#8217;s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this month. Is it deployable? [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/"&gt;Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mai...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 07:22:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI-generated posters don’t have to be horrible</title>
       <link>https://john.hartnup.uk/2026/06/07/ai-event-posters.html</link>
-      <description>&lt;p&gt;AI-generated posters don’t have to be horrible&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 890&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI-generated posters don’t have to be horrible&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,222&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49764791</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 09:20:58 +0000</pubDate>
@@ -346,7 +304,7 @@
       <title>[📰] Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</title>
       <link>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/</link>
       <description>&lt;p&gt;Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
     </item>
@@ -354,7 +312,7 @@
       <title>[📰] AI safety conversations have gotten unbelievable</title>
       <link>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</link>
       <description>&lt;p&gt;This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
     </item>
@@ -363,17 +321,59 @@
       <link>https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/</link>
       <description>&lt;p&gt;Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] I think you should almost never use AI to write</title>
+      <link>https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</link>
+      <description>&lt;p&gt;I think you should almost never use AI to write&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 156&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49767937</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 16:35:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google’s Gemini is the latest AI model to hack other companies</title>
       <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
       <description>&lt;p&gt;Google said Gemini had "acted appropriately" by ending each hack immediately.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft director: AI scraping 'the largest theft of labor in human history'</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
+      <description>&lt;p&gt;Microsoft director: AI scraping 'the largest theft of labor in human history'&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 62&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49768921</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 18:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text</title>
+      <link>https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/</link>
+      <description>&lt;p&gt;&lt;p&gt;TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are free. We cover the API, the vendor benchmarks and their caveats, what developers are already building, and the documented limits.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/"&gt;TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of T...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 18:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
+      <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/</link>
+      <description>&lt;p&gt;Trump claimed, without evidence, that the AI backlash is a Democratic hoax.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 19:57:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live</title>
+      <link>https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only conversation sharing, GPT Live in meetings and calls, shared browser pages, archiving, and guided specialist-agent setup.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/"&gt;OpenClaw...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 21:44:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
