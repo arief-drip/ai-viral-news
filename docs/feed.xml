@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 02:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:23:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era</title>
       <link>https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/</link>
@@ -177,54 +177,18 @@
       <pubDate>Wed, 16 Sep 2026 12:47:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers</title>
-      <link>https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax stage. Why Attention is the Video Bottleneck Video DiTs flatten a clip into 1 sequence of spatiotemporal tokens and run full self-attention at every layer. A [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-atte...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 00:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out</title>
-      <link>https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using groundedness, diversity, and alignment rewards. That model then synthesizes training data for a 53.9M-parameter diffusion retriever. The retriever generates all retrieval directions in a single pass, running 12× to 20× faster than autoregressive fan-out. No code or model weights have been released yet.&lt;/p&gt;
-&lt;p&gt;The pos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 06:19:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training</title>
-      <link>https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/"&gt;OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPos...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 07:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop</title>
-      <link>https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code cloud session running on its own branch and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-cl...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 17 Sep 2026 20:45:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads</title>
       <link>https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with GPU nodes, kubectl and Helm 3.0 or later.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/"&gt;Microsoft Open-Sources TauGrid:...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 21:21:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How to Write with an LLM</title>
       <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-      <description>&lt;p&gt;How to Write with an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 400&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How to Write with an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 482&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49747070</guid>
       <category>AI News</category>
       <pubDate>Thu, 17 Sep 2026 21:48:38 +0000</pubDate>
@@ -242,7 +206,7 @@
     <item>
       <title>[📰] Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</title>
       <link>https://cactuscompute.com/needle</link>
-      <description>&lt;p&gt;Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 166&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 197&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49748553</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 00:11:44 +0000</pubDate>
@@ -252,7 +216,7 @@
       <link>https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/</link>
       <description>&lt;p&gt;&lt;p&gt;Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from "vibe coding" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and deterministic guardrails—as proven by Southwest Airlines' 7x ROI.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-teste...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 07:34:06 +0000</pubDate>
     </item>
@@ -262,7 +226,7 @@
       <description>&lt;p&gt;&lt;p&gt;Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/"&gt;Best Open-Source Agent Harnesses for Local LLMs in 2026&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 09:44:55 +0000</pubDate>
     </item>
@@ -319,14 +283,6 @@
       <pubDate>Fri, 18 Sep 2026 18:49:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The Implications of Linguistic Illegibility for LLM Security</title>
-      <link>https://arxiv.org/abs/2609.02852</link>
-      <description>&lt;p&gt;The Implications of Linguistic Illegibility for LLM Security&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 53&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49758689</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 19:00:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] FAA tees up $875M AI tool to help manage air traffic congestion</title>
       <link>https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/</link>
       <description>&lt;p&gt;
@@ -347,25 +303,17 @@
       <pubDate>Fri, 18 Sep 2026 20:26:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code now reads AGENTS.md if there is no Claude.md</title>
-      <link>https://code.claude.com/docs/en/changelog</link>
-      <description>&lt;p&gt;Claude Code now reads AGENTS.md if there is no Claude.md&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 526&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49760187</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 18 Sep 2026 21:00:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs</title>
       <link>https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/</link>
       <description>&lt;p&gt;&lt;p&gt;Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, and builds on DeepSeek-OCR. A built-in FastMTP speculative decoding head drafts 3 tokens per step while keeping output lossless. It scores 91.14 on OmniDocBench v1.6 and 83.4 on olmOCR-Bench, and parses 2.57 pages per second on 1 A100. Weights are on Hugging Face under CC BY-NC 4.0, with hosted a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 21:21:59 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</title>
       <link>https://spectrum.ieee.org/llms-for-chip-design</link>
-      <description>&lt;p&gt;How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 113&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49761432</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 23:04:17 +0000</pubDate>
@@ -401,6 +349,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 19 Sep 2026 00:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)</title>
+      <link>https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration, and hardware fit. Then it shows which format to pick for Macs, consumer GPUs, and production serving.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/"&gt;GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)&lt;/a&gt; appeared first on &lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 04:04:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GPT-6 Astra Solves a WWI German Radio Cipher</title>
+      <link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+      <description>&lt;p&gt;GPT-6 Astra Solves a WWI German Radio Cipher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 65&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49763987</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 06:41:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes</title>
+      <link>https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta has released Muse for Mac, the first version of Muse that can complete things on a user&amp;#8217;s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this month. Is it deployable? [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/"&gt;Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mai...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 19 Sep 2026 07:22:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
