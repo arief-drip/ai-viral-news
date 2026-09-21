@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-49783133",
+    "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+    "description": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+    "link": "https://github.com/volotat/mini-AGI/",
+    "source_link": "https://news.ycombinator.com/item?id=49783133",
+    "engagement": "\ud83d\udc4d 58",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-21T04:42:37+00:00"
+  },
+  {
+    "id": "hn-49783062",
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "description": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "source_link": "https://news.ycombinator.com/item?id=49783062",
+    "engagement": "\ud83d\udc4d 96",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-21T04:28:44+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
     "description": "<p>Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on September 18, after the WSJ asked. The misconfiguration is fixable. The staggered disclosure is the harder problem.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/\">You too Google! Google Confirms Gemini Breached 3 Compani...",
@@ -20,28 +42,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-20T18:56:04+00:00"
-  },
-  {
-    "id": "hn-49776729",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "description": "ChatGPT now knows what you do on other websites via ad collector",
-    "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "source_link": "https://news.ycombinator.com/item?id=49776729",
-    "engagement": "\ud83d\udc4d 615",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-20T15:18:44+00:00"
-  },
-  {
-    "id": "hn-49776699",
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "description": "Pirate Face Rescues LLM Models from Deletion",
-    "link": "https://pirateface.co/",
-    "source_link": "https://news.ycombinator.com/item?id=49776699",
-    "engagement": "\ud83d\udc4d 457",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-20T15:16:07+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -130,17 +130,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-19T04:04:06+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
-    "description": "<p>Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, and builds on DeepSeek-OCR. A built-in FastMTP speculative decoding head drafts 3 tokens per step while keeping output lossless. It scores 91.14 on OmniDocBench v1.6 and 83.4 on olmOCR-Bench, and parses 2.57 pages per second on 1 A100. Weights are on Hugging Face under CC BY-NC 4.0, with hosted a...",
-    "link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
-    "source_link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-18T21:21:59+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
