@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "source_link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-22T21:56:43+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source_link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-22T20:00:00+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "description": "\n                        EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.\n                    ",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source_link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-22T19:45:47+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
     "description": "\n                        British Columbia sues OpenAI, demands Tumbler Ridge shooter\u2019s ChatGPT logs.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
@@ -11,7 +44,18 @@
     "published": "2026-09-22T19:28:23+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-TechCrunch AI-2",
+    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+    "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "source_link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-22T19:09:11+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-2",
     "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
     "description": "\n                        You don't even need a Creative Cloud login to edit clips, but AI features cost extra.\n                    ",
     "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
@@ -23,11 +67,11 @@
   },
   {
     "id": "hn-49806430",
-    "title": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-    "description": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-    "link": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "description": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
     "source_link": "https://news.ycombinator.com/item?id=49806430",
-    "engagement": "\ud83d\udc4d 69",
+    "engagement": "\ud83d\udc4d 300",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T19:03:38+00:00"
@@ -49,13 +93,13 @@
     "description": "GPT-6 Sol and Luna",
     "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
     "source_link": "https://news.ycombinator.com/item?id=49805509",
-    "engagement": "\ud83d\udc4d 556",
+    "engagement": "\ud83d\udc4d 966",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T18:00:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
     "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra. ",
     "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
@@ -71,7 +115,7 @@
     "description": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
     "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
     "source_link": "https://news.ycombinator.com/item?id=49804316",
-    "engagement": "\ud83d\udc4d 121",
+    "engagement": "\ud83d\udc4d 199",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T16:51:31+00:00"
@@ -82,13 +126,13 @@
     "description": "Claude Opus 5.5",
     "link": "https://www.anthropic.com/claude-opus-5-5",
     "source_link": "https://news.ycombinator.com/item?id=49803892",
-    "engagement": "\ud83d\udc4d 711",
+    "engagement": "\ud83d\udc4d 1,009",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T16:29:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "AstroForge is putting AI in command of its next spacecraft",
     "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. ",
     "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
@@ -99,7 +143,7 @@
     "published": "2026-09-22T15:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
     "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
     "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
@@ -115,13 +159,13 @@
     "description": "OpenAI is well positioned to fast-follow Jev",
     "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
     "source_link": "https://news.ycombinator.com/item?id=49802161",
-    "engagement": "\ud83d\udc4d 196",
+    "engagement": "\ud83d\udc4d 239",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T14:42:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
     "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
     "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
@@ -137,32 +181,10 @@
     "description": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
     "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "source_link": "https://news.ycombinator.com/item?id=49801324",
-    "engagement": "\ud83d\udc4d 432",
+    "engagement": "\ud83d\udc4d 515",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T13:52:15+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Everyone can find a reason to dislike data center construction",
-    "description": "Inside two years of fraught AI data center debates in Pennsylvania. ",
-    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "source_link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-22T13:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
-    "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "source_link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-22T12:23:05+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -187,6 +209,17 @@
     "published": "2026-09-22T05:04:43+00:00"
   },
   {
+    "id": "hn-49795260",
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "description": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "source_link": "https://news.ycombinator.com/item?id=49795260",
+    "engagement": "\ud83d\udc4d 76",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-22T00:24:00+00:00"
+  },
+  {
     "id": "rss-HuggingFace Blog-0",
     "title": "Transformers now runs llama.cpp quants",
     "description": "",
@@ -196,17 +229,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T00:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
-    "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "source_link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-21T23:44:28+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
