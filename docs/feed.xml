@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 02:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:56:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
@@ -113,15 +113,6 @@
       <pubDate>Fri, 18 Sep 2026 11:29:22 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests</title>
-      <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in late July. Google spoke on September 18, after the WSJ asked. The misconfiguration is fixable. The staggered disclosure is the harder problem.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/"&gt;You too Google! Google Confirms Gemini Breached 3 Compani...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 20 Sep 2026 20:20:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] 4 ways to address the failures we found along the US border’s “virtual wall”</title>
       <link>https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/</link>
       <description>&lt;p&gt;MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -138,39 +129,12 @@
       <pubDate>Mon, 21 Sep 2026 12:31:04 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing</title>
-      <link>https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/</link>
-      <description>&lt;p&gt;&lt;p&gt;Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native RGBA transparency in one checkpoint. A prefix KV cache speeds up edits with up to 10 reference images. The weights are public, but commercial use requires a separate license from Qwen.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/"&gt;Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Mo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 21 Sep 2026 16:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy</title>
-      <link>https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/</link>
-      <description>&lt;p&gt;&lt;p&gt;Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting that gap with Strands harness, a fully assembled, general-purpose agent harness. It runs locally or deploys to a cloud provider, ships for Python and [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/"&gt;AWS Strands Agents Team Releases Strands Harn...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 21 Sep 2026 21:42:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Transformers now runs llama.cpp quants</title>
       <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%</title>
-      <link>https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops across 535 environments. On EdgeBench, SoL-Pi cuts token traffic by 44.7% to 49.0% and API cost by roughly 33%, while keeping about 94% of Pi's score on GPT-5.6 Sol and Opus 5.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/"&gt;NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 22 Sep 2026 05:04:43 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Don’t be fooled by this summer of AI hype </title>
@@ -183,7 +147,7 @@
     <item>
       <title>[📰] OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</title>
       <link>https://www.cryptocellar.org/bgac/the-mvueh-break.html</link>
-      <description>&lt;p&gt;OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 571&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 654&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49801324</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 13:52:15 +0000</pubDate>
@@ -192,14 +156,14 @@
       <title>[📰] TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage</title>
       <link>https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/</link>
       <description>&lt;p&gt;Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 14:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI is well positioned to fast-follow Jev</title>
       <link>https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/</link>
-      <description>&lt;p&gt;OpenAI is well positioned to fast-follow Jev&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 266&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI is well positioned to fast-follow Jev&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 292&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49802161</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 14:42:59 +0000</pubDate>
@@ -208,7 +172,7 @@
       <title>[📰] Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda</title>
       <link>https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</link>
       <description>&lt;p&gt;At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
@@ -216,14 +180,14 @@
       <title>[📰] AstroForge is putting AI in command of its next spacecraft</title>
       <link>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</link>
       <description>&lt;p&gt;Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Opus 5.5</title>
       <link>https://www.anthropic.com/claude-opus-5-5</link>
-      <description>&lt;p&gt;Claude Opus 5.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,236&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Opus 5.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,524&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49803892</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 16:29:05 +0000</pubDate>
@@ -231,7 +195,7 @@
     <item>
       <title>[📰] Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</title>
       <link>https://artificialanalysis.ai/models/claude-opus-5-5</link>
-      <description>&lt;p&gt;Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 239&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 288&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49804316</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 16:51:31 +0000</pubDate>
@@ -240,31 +204,22 @@
       <title>[📰] OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes</title>
       <link>https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/</link>
       <description>&lt;p&gt;OpenAI is launching two new models, which it says are cut from the same cloth as Astra. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GPT-6 Sol and Luna</title>
       <link>https://openai.com/index/introducing-gpt-6-sol-and-luna/</link>
-      <description>&lt;p&gt;GPT-6 Sol and Luna&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,212&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Sol and Luna&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,513&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49805509</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 18:00:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5</title>
-      <link>https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus 5 on typical workloads at default settings. On Anthropic&amp;#8217;s own benchmarks, it leads in agentic coding, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/"&gt;Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 22 Sep 2026 18:59:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Pentagon says overreliance on AI contributed to missile strike on Iran school</title>
       <link>https://www.bloomberg.com/graphics/2026-iran-school-attack/</link>
-      <description>&lt;p&gt;Pentagon says overreliance on AI contributed to missile strike on Iran school&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 447&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pentagon says overreliance on AI contributed to missile strike on Iran school&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 630&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49806430</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
@@ -283,7 +238,7 @@
       <title>[📰] Meta admits Muse’s likeness to OpenClaw isn’t a coincidence</title>
       <link>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</link>
       <description>&lt;p&gt;Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 19:09:11 +0000</pubDate>
     </item>
@@ -311,7 +266,7 @@
       <title>[📰] Qualcomm launches two new smartphone chips with emphasis on AI</title>
       <link>https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/</link>
       <description>&lt;p&gt;Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 20:00:00 +0000</pubDate>
     </item>
@@ -329,7 +284,7 @@
       <title>[📰] Snorkel AI triples valuation to $3.5B as demand for AI training data booms</title>
       <link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
       <description>&lt;p&gt;The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 21:56:43 +0000</pubDate>
     </item>
@@ -337,9 +292,18 @@
       <title>[📰] TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4</title>
       <link>https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/</link>
       <description>&lt;p&gt;Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 23:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI</title>
+      <link>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</link>
+      <description>&lt;p&gt;Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 23 Sep 2026 04:59:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
