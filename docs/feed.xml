@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:11:30 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
@@ -81,18 +81,10 @@
       <pubDate>Mon, 07 Sep 2026 12:26:31 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Roundtables: Could AI really kill us all?</title>
-      <link>https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/</link>
-      <description>&lt;p&gt;Listen to the session or watch below Employees at the world&amp;#8217;s leading AI labs are saying there&amp;#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 15 Sep 2026 17:47:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building the materials foundation for AI</title>
       <link>https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/</link>
       <description>&lt;p&gt;The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 16 Sep 2026 12:47:34 +0000</pubDate>
     </item>
@@ -100,7 +92,7 @@
       <title>[📰] Could AI really kill us all? Your questions, answered.</title>
       <link>https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/</link>
       <description>&lt;p&gt;On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-3</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 18 Sep 2026 11:29:22 +0000</pubDate>
     </item>
@@ -108,7 +100,7 @@
       <title>[📰] 4 ways to address the failures we found along the US border’s “virtual wall”</title>
       <link>https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/</link>
       <description>&lt;p&gt;MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-2</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
     </item>
@@ -132,25 +124,44 @@
       <title>[📰] Don’t be fooled by this summer of AI hype </title>
       <link>https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/</link>
       <description>&lt;p&gt;It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 22 Sep 2026 11:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model</title>
+      <link>https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nokia&amp;#8217;s applied research team has open-sourced AnyJev, a Python library that turns an open LLM into a decision model. It needs no training. It targets a common production job: picking one answer from a fixed set instead of writing a sentence. Is it deployable? Yes, it installs from PyPI, ships under Apache-2.0, and has transformers [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-cal...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 23 Sep 2026 07:09:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The AI Hype Index: AI loves cheating</title>
       <link>https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/</link>
       <description>&lt;p&gt;Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google tests letting Gemini call businesses for you</title>
-      <link>https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/</link>
-      <description>&lt;p&gt;Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <title>[📰] Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design</title>
+      <link>https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemini API and Google AI Studio. Flash TTS designs new voices from natural language prompts across 100+ languages. It ranks #1 on Hume AI's Voice Design Benchmark with a score of 71.4. Flash-Lite TTS targets high-volume dubbing and voice agents at lower cost.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-w...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 20:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model</title>
+      <link>https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/</link>
+      <description>&lt;p&gt;&lt;p&gt;This tutorial provides a complete coding guide to TypeSafe AI's Jev, a System One model designed for non-text, structured judgments. It covers installing the official Python SDK, using primitive question types (Choice, Score, Noul), implementing speculative fan-out, confidence-gated routing, and building async production workflows&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/"&gt;A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 24 Sep 2026 00:53:09 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI agent “didn’t accept no for an answer” in Australian government breach</title>
@@ -163,34 +174,27 @@
       <pubDate>Thu, 24 Sep 2026 16:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot</title>
-      <link>https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/</link>
-      <description>&lt;p&gt;ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 24 Sep 2026 16:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS</title>
-      <link>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</link>
-      <description>&lt;p&gt;The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend</title>
       <link>https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</link>
       <description>&lt;p&gt;Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 24 Sep 2026 17:39:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost</title>
+      <link>https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/</link>
+      <description>&lt;p&gt;&lt;p&gt;BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/"&gt;BottleCap ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 24 Sep 2026 18:58:56 +0000</pubDate>
     </item>
     <item>
       <title>[📰] PrismML brings its tiny LLMs to Qualcomm-powered smart glasses</title>
       <link>https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/</link>
       <description>&lt;p&gt;Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 24 Sep 2026 19:00:42 +0000</pubDate>
     </item>
@@ -198,9 +202,50 @@
       <title>[📰] Lightspeed targets $250M for new India fund, focusing on early-stage AI</title>
       <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
       <description>&lt;p&gt;The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Pentagon wants $30 million to build an AI-powered lie detector</title>
+      <link>https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</link>
+      <description>&lt;p&gt;The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware</title>
+      <link>https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/</link>
+      <description>&lt;p&gt;At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB</title>
+      <link>https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/</link>
+      <description>&lt;p&gt;&lt;p&gt;Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&amp;#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&amp;#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:14:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Classified Estimates Show the NSA Is Paying Billions to Test AI Models</title>
+      <link>https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models</link>
+      <description>&lt;p&gt;Classified Estimates Show the NSA Is Paying Billions to Test AI Models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 50&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49845952</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts</title>
+      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</link>
+      <description>&lt;p&gt;The latest unauthorized agent swarms were discovered by researchers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:48:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
