@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "description": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source_link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-25T23:11:10+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
     "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. ",
     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
@@ -11,20 +22,31 @@
     "published": "2026-09-25T22:20:47+00:00"
   },
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+    "description": "\n                        \"Overly constrained AI models\" could cause military operations to fail, judges say.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-25T21:36:20+00:00"
+  },
+  {
     "id": "hn-49849985",
     "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "description": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "link": "https://swarmtraces.org/",
     "source_link": "https://news.ycombinator.com/item?id=49849985",
-    "engagement": "\ud83d\udc4d 65",
+    "engagement": "\ud83d\udc4d 238",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-25T21:09:27+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-    "description": "\n                        \"There is no evidence of any significant, widespread displacement or reduction in hiring\u201d\n                    ",
+    "description": "\n                        \"There is no evidence of any significant, widespread displacement or reduction in hiring.\u201d\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
     "source_link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
     "engagement": "\ud83d\udce1 Ars Technica AI",
@@ -33,7 +55,7 @@
     "published": "2026-09-25T19:11:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
     "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
@@ -44,7 +66,7 @@
     "published": "2026-09-25T18:33:59+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
     "description": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it\u2019s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI\u2019s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT\u2019s early numbers and is he...",
     "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
@@ -55,18 +77,7 @@
     "published": "2026-09-25T18:22:47+00:00"
   },
   {
-    "id": "hn-49848095",
-    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-    "description": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-    "link": "https://mouse.dev/blog/muse-special/",
-    "source_link": "https://news.ycombinator.com/item?id=49848095",
-    "engagement": "\ud83d\udc4d 89",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T18:18:06+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
     "description": "\n                        Microsoft's new Surface laptops forgo Copilot+ PC branding. \n                    ",
     "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
@@ -77,7 +88,7 @@
     "published": "2026-09-25T17:57:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
     "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
     "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
@@ -88,7 +99,7 @@
     "published": "2026-09-25T17:29:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Astra and Opus just passed Turing\u2019s other test",
     "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work. ",
     "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
@@ -99,7 +110,7 @@
     "published": "2026-09-25T17:24:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Meta is putting its muscle behind Muse as the AI app takes off",
     "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
     "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
@@ -110,26 +121,15 @@
     "published": "2026-09-25T16:16:52+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
-    "description": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it\u2019s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI\u2019s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT\u2019s early numbers and is he...",
-    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "source_link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
+    "id": "hn-49844896",
+    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "description": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "source_link": "https://news.ycombinator.com/item?id=49844896",
+    "engagement": "\ud83d\udc4d 85",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T16:00:00+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-    "description": "\n                        Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"\n                    ",
-    "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-    "source_link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T11:00:28+00:00"
+    "published": "2026-09-25T14:07:08+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
