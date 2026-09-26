@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-49857528",
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "description": "Show HN: A Claude Code skill to analyze your chess games",
+    "link": "https://github.com/brumar/chess-postmortem-skills",
+    "source_link": "https://news.ycombinator.com/item?id=49857528",
+    "engagement": "\ud83d\udc4d 54",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-26T15:34:53+00:00"
+  },
+  {
+    "id": "hn-49856665",
+    "title": "OpenAI bots meddled with multiple US Government agency sites",
+    "description": "OpenAI bots meddled with multiple US Government agency sites",
+    "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
+    "source_link": "https://news.ycombinator.com/item?id=49856665",
+    "engagement": "\ud83d\udc4d 50",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-26T14:03:54+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
     "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. ",
@@ -9,61 +31,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-26T14:00:00+00:00"
-  },
-  {
-    "id": "hn-49856149",
-    "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-    "description": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-    "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-    "source_link": "https://news.ycombinator.com/item?id=49856149",
-    "engagement": "\ud83d\udc4d 54",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-26T13:05:36+00:00"
-  },
-  {
-    "id": "hn-49855018",
-    "title": "One Month Without AI",
-    "description": "One Month Without AI",
-    "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-    "source_link": "https://news.ycombinator.com/item?id=49855018",
-    "engagement": "\ud83d\udc4d 137",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-26T10:08:21+00:00"
-  },
-  {
-    "id": "hn-49854945",
-    "title": "The Copilot+ PC brand is dead",
-    "description": "The Copilot+ PC brand is dead",
-    "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-    "source_link": "https://news.ycombinator.com/item?id=49854945",
-    "engagement": "\ud83d\udc4d 56",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-26T09:55:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
-    "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
-    "description": "<p>Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/\">Exa Launches Agent Ultra: A Subagent Swarm De...",
-    "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
-    "source_link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-26T08:04:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
-    "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-    "description": "<p>Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-d...",
-    "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-    "source_link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T23:11:59+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -104,7 +71,7 @@
     "description": "Revealing the details of how OpenAI agents hacked Hugging Face",
     "link": "https://swarmtraces.org/",
     "source_link": "https://news.ycombinator.com/item?id=49849985",
-    "engagement": "\ud83d\udc4d 588",
+    "engagement": "\ud83d\udc4d 641",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-25T21:09:27+00:00"
@@ -165,17 +132,6 @@
     "published": "2026-09-25T17:29:46+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
-    "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
-    "description": "<p>Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-...",
-    "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
-    "source_link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T15:14:45+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
@@ -185,28 +141,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-25T09:16:25+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
-    "description": "<p>BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/\">BottleCap ...",
-    "link": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
-    "source_link": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-24T18:58:56+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model",
-    "description": "<p>This tutorial provides a complete coding guide to TypeSafe AI's Jev, a System One model designed for non-text, structured judgments. It covers installing the official Python SDK, using primitive question types (Choice, Score, Noul), implementing speculative fan-out, confidence-gated routing, and building async production workflows</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/\">A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated ...",
-    "link": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
-    "source_link": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-24T00:53:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",

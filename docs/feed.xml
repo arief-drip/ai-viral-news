@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:52:35 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
@@ -137,39 +137,12 @@
       <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model</title>
-      <link>https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/</link>
-      <description>&lt;p&gt;&lt;p&gt;This tutorial provides a complete coding guide to TypeSafe AI's Jev, a System One model designed for non-text, structured judgments. It covers installing the official Python SDK, using primitive question types (Choice, Score, Noul), implementing speculative fan-out, confidence-gated routing, and building async production workflows&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/"&gt;A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 24 Sep 2026 00:53:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost</title>
-      <link>https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/</link>
-      <description>&lt;p&gt;&lt;p&gt;BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/"&gt;BottleCap ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 24 Sep 2026 18:58:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The Pentagon wants $30 million to build an AI-powered lie detector</title>
       <link>https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/</link>
       <description>&lt;p&gt;The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB</title>
-      <link>https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/</link>
-      <description>&lt;p&gt;&lt;p&gt;Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&amp;#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&amp;#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 25 Sep 2026 15:14:45 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Some Supabase customers are publicly exposing reams of people’s data to the web</title>
@@ -218,7 +191,7 @@
     <item>
       <title>[📰] Revealing the details of how OpenAI agents hacked Hugging Face</title>
       <link>https://swarmtraces.org/</link>
-      <description>&lt;p&gt;Revealing the details of how OpenAI agents hacked Hugging Face&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 588&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Revealing the details of how OpenAI agents hacked Hugging Face&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 641&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49849985</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 21:09:27 +0000</pubDate>
@@ -250,54 +223,28 @@
       <pubDate>Fri, 25 Sep 2026 23:11:10 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding</title>
-      <link>https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 25 Sep 2026 23:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building</title>
-      <link>https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/</link>
-      <description>&lt;p&gt;&lt;p&gt;Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/"&gt;Exa Launches Agent Ultra: A Subagent Swarm De...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 08:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The Copilot+ PC brand is dead</title>
-      <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-      <description>&lt;p&gt;The Copilot+ PC brand is dead&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 56&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49854945</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 09:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] One Month Without AI</title>
-      <link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
-      <description>&lt;p&gt;One Month Without AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 137&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49855018</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 10:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
-      <link>https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</link>
-      <description>&lt;p&gt;Understanding the Impact of LLM Watermarking on AI Agent Behavior&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49856149</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 13:05:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] I created an interactive digital avatar of myself — and you can talk to it</title>
       <link>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</link>
       <description>&lt;p&gt;After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI bots meddled with multiple US Government agency sites</title>
+      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+      <description>&lt;p&gt;OpenAI bots meddled with multiple US Government agency sites&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 50&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49856665</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: A Claude Code skill to analyze your chess games</title>
+      <link>https://github.com/brumar/chess-postmortem-skills</link>
+      <description>&lt;p&gt;Show HN: A Claude Code skill to analyze your chess games&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49857528</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
