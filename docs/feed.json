@@ -1,28 +1,39 @@
 [
   {
-    "id": "hn-49865343",
-    "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-    "description": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-    "link": "https://arxiv.org/abs/2609.25021",
-    "source_link": "https://news.ycombinator.com/item?id=49865343",
-    "engagement": "\ud83d\udc4d 82",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-27T10:26:25+00:00"
-  },
-  {
-    "id": "hn-49863864",
-    "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
-    "description": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
-    "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "source_link": "https://news.ycombinator.com/item?id=49863864",
-    "engagement": "\ud83d\udc4d 536",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-27T06:19:33+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Can Muse overcome Meta\u2019s trust issues?",
+    "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "source_link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-27T19:57:30+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+    "description": "\"AI is the devil and I its maker.\"",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "source_link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-27T16:30:00+00:00"
+  },
+  {
+    "id": "hn-49867775",
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "description": "Show HN: TinyAIArena watch AI agents battle it out",
+    "link": "https://tinyaiarena.com/",
+    "source_link": "https://news.ycombinator.com/item?id=49867775",
+    "engagement": "\ud83d\udc4d 90",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-27T15:51:28+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -33,7 +44,7 @@
     "published": "2026-09-27T01:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Insurers claim AI is already increasing healthcare costs",
     "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
     "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -44,18 +55,18 @@
     "published": "2026-09-26T21:02:06+00:00"
   },
   {
-    "id": "hn-49859112",
-    "title": "DeepSeek Elastic Compute (DSec)",
-    "description": "DeepSeek Elastic Compute (DSec)",
-    "link": "https://arxiv.org/abs/2609.22978",
-    "source_link": "https://news.ycombinator.com/item?id=49859112",
-    "engagement": "\ud83d\udc4d 299",
+    "id": "hn-49859982",
+    "title": "Faster prompt lookup drafting in llama.cpp",
+    "description": "Faster prompt lookup drafting in llama.cpp",
+    "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "source_link": "https://news.ycombinator.com/item?id=49859982",
+    "engagement": "\ud83d\udc4d 59",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-26T18:22:41+00:00"
+    "published": "2026-09-26T19:57:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
     "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. ",
     "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
@@ -66,7 +77,7 @@
     "published": "2026-09-26T14:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
     "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
@@ -77,7 +88,7 @@
     "published": "2026-09-25T23:11:10+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
     "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. ",
     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
@@ -110,17 +121,6 @@
     "published": "2026-09-25T19:11:05+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "source_link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T18:33:59+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
@@ -130,17 +130,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-25T09:16:25+00:00"
-  },
-  {
-    "id": "hn-49836579",
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "description": "How I changed teaching after AI managed to do all my homework assignments",
-    "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "source_link": "https://news.ycombinator.com/item?id=49836579",
-    "engagement": "\ud83d\udc4d 263",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-24T20:51:50+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
