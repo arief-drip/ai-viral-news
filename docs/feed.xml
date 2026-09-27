@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 22:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:41:29 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
@@ -137,9 +137,18 @@
       <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost</title>
+      <link>https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/</link>
+      <description>&lt;p&gt;&lt;p&gt;BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to 85.79%, and long-context AA-LCR improves by 2.25pp. The model is a drop-in replacement on vLLM and SGLang, with FP8, NVFP4, GGUF and MLX builds.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/"&gt;BottleCap ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 24 Sep 2026 18:58:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] How I changed teaching after AI managed to do all my homework assignments</title>
       <link>https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed</link>
-      <description>&lt;p&gt;How I changed teaching after AI managed to do all my homework assignments&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 99&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How I changed teaching after AI managed to do all my homework assignments&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 145&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49836579</guid>
       <category>AI News</category>
       <pubDate>Thu, 24 Sep 2026 20:51:50 +0000</pubDate>
@@ -153,6 +162,15 @@
       <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB</title>
+      <link>https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/</link>
+      <description>&lt;p&gt;&lt;p&gt;Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&amp;#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&amp;#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:14:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Microsoft stops insisting you need a "Copilot+ PC"</title>
       <link>https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/</link>
       <description>&lt;p&gt;
@@ -163,18 +181,10 @@
       <pubDate>Fri, 25 Sep 2026 17:57:37 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic</title>
-      <link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
-      <description>&lt;p&gt;When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&amp;#160;maybe someone&amp;#160;should have asked: what pace?&amp;#160;Now&amp;#160;it’s&amp;#160;turned into model drop week for both companies as&amp;#160;Anthropic rolled out Opus 5.5, followed by&amp;#160;OpenAI’s GPT-6 model updates&amp;#160;just&amp;#160;90 minutes&amp;#160;later.&amp;#160;But the company that stole the spotlight was Meta, whose&amp;#160;personal AI agent Muse&amp;#160;is&amp;#160;reportedly&amp;#160;outpacing&amp;#160;ChatGPT’s early numbers and is he...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 25 Sep 2026 18:22:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing</title>
       <link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
       <description>&lt;p&gt;The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 18:33:59 +0000</pubDate>
     </item>
@@ -202,7 +212,7 @@
       <title>[📰] Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge</title>
       <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
       <description>&lt;p&gt;AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 22:20:47 +0000</pubDate>
     </item>
@@ -210,30 +220,40 @@
       <title>[📰] Crusoe abandons $1.25B plan to use Boom turbines at AI data centers</title>
       <link>https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/</link>
       <description>&lt;p&gt;Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 25 Sep 2026 23:11:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding</title>
+      <link>https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 23:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building</title>
+      <link>https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/</link>
+      <description>&lt;p&gt;&lt;p&gt;Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/"&gt;Exa Launches Agent Ultra: A Subagent Swarm De...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 08:04:08 +0000</pubDate>
     </item>
     <item>
       <title>[📰] I created an interactive digital avatar of myself — and you can talk to it</title>
       <link>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</link>
       <description>&lt;p&gt;After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI bots meddled with multiple US Government agency sites</title>
-      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
-      <description>&lt;p&gt;OpenAI bots meddled with multiple US Government agency sites&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 90&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49856665</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] DeepSeek Elastic Compute (DSec)</title>
       <link>https://arxiv.org/abs/2609.22978</link>
-      <description>&lt;p&gt;DeepSeek Elastic Compute (DSec)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 78&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepSeek Elastic Compute (DSec)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 166&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49859112</guid>
       <category>AI News</category>
       <pubDate>Sat, 26 Sep 2026 18:22:41 +0000</pubDate>
@@ -242,9 +262,26 @@
       <title>[📰] Insurers claim AI is already increasing healthcare costs</title>
       <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
       <description>&lt;p&gt;Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English</title>
+      <link>https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at ₹30 per hour.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-language...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 21:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
+      <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
+      <description>&lt;p&gt;The limited test covers select products and users, with a broader rollout planned for later in October.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 27 Sep 2026 01:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
