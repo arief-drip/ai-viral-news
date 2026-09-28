@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 22:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 02:44:25 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 464: Fables writes GPU kernels; AI automation; and analog computation</title>
       <link>https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/</link>
@@ -145,6 +145,15 @@
       <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB</title>
+      <link>https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/</link>
+      <description>&lt;p&gt;&lt;p&gt;Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI&amp;#8217;s GLM-5.3, built to run inside infrastructure the customer controls. Altar-1 powers Aikido Machine, the company&amp;#8217;s autonomous pentesting appliance for on-prem and air-gapped networks. Is it deployable? Yes, the weights are public on Hugging Face and run with vLLM [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 15:14:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] AI was supposed to hit new grads hard. So far, unemployment data says otherwise.</title>
       <link>https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/</link>
       <description>&lt;p&gt;
@@ -181,20 +190,30 @@
       <pubDate>Fri, 25 Sep 2026 23:11:10 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding</title>
+      <link>https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-d...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 25 Sep 2026 23:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building</title>
+      <link>https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/</link>
+      <description>&lt;p&gt;&lt;p&gt;Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/"&gt;Exa Launches Agent Ultra: A Subagent Swarm De...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 08:04:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] I created an interactive digital avatar of myself — and you can talk to it</title>
       <link>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/</link>
       <description>&lt;p&gt;After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 26 Sep 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Faster prompt lookup drafting in llama.cpp</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <description>&lt;p&gt;Faster prompt lookup drafting in llama.cpp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49859982</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 26 Sep 2026 19:57:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Insurers claim AI is already increasing healthcare costs</title>
@@ -205,6 +224,15 @@
       <pubDate>Sat, 26 Sep 2026 21:02:06 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English</title>
+      <link>https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at ₹30 per hour.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-language...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 26 Sep 2026 21:56:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India</title>
       <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
       <description>&lt;p&gt;The limited test covers select products and users, with a broader rollout planned for later in October.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -213,12 +241,13 @@
       <pubDate>Sun, 27 Sep 2026 01:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: TinyAIArena watch AI agents battle it out</title>
-      <link>https://tinyaiarena.com/</link>
-      <description>&lt;p&gt;Show HN: TinyAIArena watch AI agents battle it out&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 90&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49867775</guid>
+      <title>[📰] AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared</title>
+      <link>https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/</link>
+      <description>&lt;p&gt;&lt;p&gt;We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude outputs entirely. Here is how 500 seats compare on legal exposure, prompt storage, audit logs and true cost.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/"&gt;AI Coding Agents for Enterprise: IP Indemnity, Data Res...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
-      <pubDate>Sun, 27 Sep 2026 15:51:28 +0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 05:57:51 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic’s Dario Amodei gets the SNL treatment</title>
