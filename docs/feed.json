@@ -1,8 +1,96 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.  ",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source_link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T23:39:20+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "description": "\n                        China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T21:49:10+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "source_link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T21:29:18+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "description": "\n                        State says LLMs threaten civilization as \"the greatest public nuisance ever created.\" \n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "source_link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T20:49:39+00:00"
+  },
+  {
+    "id": "hn-49883471",
+    "title": "It's Time to Investigate the AI Labs",
+    "description": "It's Time to Investigate the AI Labs",
+    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "source_link": "https://news.ycombinator.com/item?id=49883471",
+    "engagement": "\ud83d\udc4d 216",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T19:53:35+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization.",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source_link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T19:33:57+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
+    "description": "<p>NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes agents under YAML policies. Sentry, an out-of-band watchdog on BlueField-4 DPUs, can quarantine an agent that escapes its boundary in milliseconds. NVIDIA says over 100 organizations are working with the platform.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platfor...",
+    "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+    "source_link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T19:21:25+00:00"
+  },
+  {
+    "id": "hn-49882781",
+    "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+    "description": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+    "link": "https://stateofutopia.com/experiments/microllmlab/",
+    "source_link": "https://news.ycombinator.com/item?id=49882781",
+    "engagement": "\ud83d\udc4d 108",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-28T18:58:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]",
+    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents [&#8230;]",
     "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "source_link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -11,31 +99,9 @@
     "published": "2026-09-28T18:31:23+00:00"
   },
   {
-    "id": "hn-49881850",
-    "title": "Claude Sonnet 5.5",
-    "description": "Claude Sonnet 5.5",
-    "link": "https://www.anthropic.com/claude-sonnet-5-5",
-    "source_link": "https://news.ycombinator.com/item?id=49881850",
-    "engagement": "\ud83d\udc4d 193",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T17:58:11+00:00"
-  },
-  {
-    "id": "hn-49881484",
-    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-    "description": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source_link": "https://news.ycombinator.com/item?id=49881484",
-    "engagement": "\ud83d\udc4d 56",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T17:33:34+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
-    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
     "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
     "source_link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -44,7 +110,7 @@
     "published": "2026-09-28T17:29:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
     "description": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
     "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
@@ -66,7 +132,7 @@
     "published": "2026-09-28T17:03:16+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
     "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers. ",
     "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
@@ -77,29 +143,18 @@
     "published": "2026-09-28T16:52:38+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "description": "\n                        US Government websites among \"dozens of third parties\" OpenAI has recently notified.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "source_link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T16:43:18+00:00"
-  },
-  {
-    "id": "hn-49880312",
-    "title": "The problem is not AI code, but not knowing about system architecture or intent",
-    "description": "The problem is not AI code, but not knowing about system architecture or intent",
-    "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "source_link": "https://news.ycombinator.com/item?id=49880312",
-    "engagement": "\ud83d\udc4d 289",
+    "id": "hn-49879883",
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "description": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "source_link": "https://news.ycombinator.com/item?id=49879883",
+    "engagement": "\ud83d\udc4d 86",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T16:11:42+00:00"
+    "published": "2026-09-28T15:46:36+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
     "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
     "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
@@ -108,28 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-28T15:30:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "source_link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "source_link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T14:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -143,17 +176,6 @@
     "published": "2026-09-28T12:32:03+00:00"
   },
   {
-    "id": "hn-49876148",
-    "title": "What Would a Serious AI Product Look Like?",
-    "description": "What Would a Serious AI Product Look Like?",
-    "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-    "source_link": "https://news.ycombinator.com/item?id=49876148",
-    "engagement": "\ud83d\udc4d 78",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T11:02:12+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-1",
     "title": "Who\u2019s liable when AI agents go rogue?",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
@@ -165,7 +187,7 @@
     "published": "2026-09-28T08:06:22+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens",
     "description": "<p>Fireworks AI has released Ember-1, a post-trained Kimi K3 that learns to produce shorter reasoning traces instead of lowering reasoning effort. Fireworks reports about 40% fewer tokens, with output tokens per task falling from 49.3K to 29.9K in a production A/B test at an essentially unchanged score. Ember-1 is available now as an API-only Research Preview at Kimi K3 pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-...",
     "link": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
@@ -176,7 +198,7 @@
     "published": "2026-09-28T07:22:33+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "20 Agentic Use Cases of TypeSafe AI\u2019s Jev",
     "description": "<p>TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free. We verified 20 agentic use cases, from model routing and tool-call gating to reranking and injection screening, and compared Jev with its closest open and LLM rivals.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/\">20 Agentic Use Cases of TypeSafe AI&#8217;s Jev</a> appeared firs...",
     "link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
@@ -187,7 +209,7 @@
     "published": "2026-09-28T03:07:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation",
     "description": "<p>Google Research has introduced an AI video co-director for long-form video generation. The suite of 4 agentic frameworks turns short clips into coherent, minutes-long stories. It targets identity drift and cascading errors, the 2 failures that break most multi-shot AI video pipelines today. Why Long AI Videos Fall Apart Diffusion models render high-fidelity clips in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-...",
     "link": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/",
@@ -198,7 +220,7 @@
     "published": "2026-09-28T02:44:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
     "description": "<p>We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude outputs entirely. Here is how 500 seats compare on legal exposure, prompt storage, audit logs and true cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/\">AI Coding Agents for Enterprise: IP Indemnity, Data Res...",
     "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
@@ -209,7 +231,7 @@
     "published": "2026-09-27T05:57:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
     "description": "<p>Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds keyterm prompting for up to 50 terms, 5 output modes from 1 model, and streaming with first-token latency under 150 ms. It is available today through Sarvam's API at \u20b930 per hour.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-language...",
     "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
@@ -220,7 +242,7 @@
     "published": "2026-09-26T21:56:23+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
     "description": "<p>Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa reports it beats Opus 5.5, GPT-6 Astra, and Perplexity Agent on 4 benchmarks, including 81.4% soft recall on WANDR.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/\">Exa Launches Agent Ultra: A Subagent Swarm De...",
     "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
@@ -229,28 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-26T08:04:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
-    "description": "<p>Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x faster decoding on Apple M5 Max and 2.66x on H100, with identical output under greedy decoding. Support ships in llama.cpp, MLX-VLM, and SGLang.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-d...",
-    "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-    "source_link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T23:11:59+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-    "description": "\n                        \"Overly constrained AI models\" could cause military operations to fail, judges say.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-25T21:36:20+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
