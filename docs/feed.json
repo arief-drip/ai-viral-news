@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "One Bad Prompt Took Down a Company\u2019s Salesforce: RSA\u2019s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
+    "description": "<p>RSA launched Agent ID at The AI Conference in San Francisco. It's an agentic identity security platform for finance, government, healthcare, and critical infrastructure. It has 3 modules. Discover finds sanctioned and shadow agents and MCP servers. Secure is an inline gateway that checks every tool call against policy. Govern maps evidence to 10 regulatory frameworks. Discover and Secure ship November 16, 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/rsa-launches-agen...",
+    "link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+    "source_link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T01:30:17+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
     "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
@@ -11,7 +22,18 @@
     "published": "2026-09-29T22:20:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-Ars Technica AI-0",
+    "title": "Protests against OpenAI get increasingly creative",
+    "description": "\n                        New sculpture depicts AI leaders escaping a sinking ship.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "source_link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-29T21:52:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
     "description": "<p>Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/\"...",
     "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
@@ -22,7 +44,7 @@
     "published": "2026-09-29T21:47:09+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
     "description": "\n                        The deal, which is expected to close by year's end, is worth $8.2 billion.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
@@ -45,10 +67,10 @@
   },
   {
     "id": "rss-TechCrunch AI-2",
-    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
     "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "source_link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source_link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
@@ -66,7 +88,7 @@
     "published": "2026-09-29T18:35:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
     "description": "<p>OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/\">OpenAI Launc...",
     "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
@@ -77,7 +99,7 @@
     "published": "2026-09-29T18:30:13+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
     "description": "\n                        Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
@@ -88,7 +110,7 @@
     "published": "2026-09-29T18:11:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
     "description": "<p>Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/\">Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes</a> appeared first on <a href=\"htt...",
     "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
@@ -112,7 +134,7 @@
   {
     "id": "rss-TechCrunch AI-5",
     "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
     "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
     "source_link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -154,29 +176,18 @@
     "published": "2026-09-29T17:15:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-9",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows. ",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "source_link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-29T17:15:00+00:00"
-  },
-  {
     "id": "hn-49896586",
     "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
     "description": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
     "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
     "source_link": "https://news.ycombinator.com/item?id=49896586",
-    "engagement": "\ud83d\udc4d 732",
+    "engagement": "\ud83d\udc4d 816",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-29T17:06:45+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-3",
     "title": "OpenAI says planned GPT-6.1 is too insecure to release",
     "description": "\n                        Similar performance, security trade-offs also seen in current public models.\n                    ",
     "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
@@ -185,17 +196,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-29T14:22:31+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
-    "description": "\n                        The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-    "source_link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-29T14:10:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -209,18 +209,7 @@
     "published": "2026-09-29T10:43:45+00:00"
   },
   {
-    "id": "hn-49890226",
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "description": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "source_link": "https://news.ycombinator.com/item?id=49890226",
-    "engagement": "\ud83d\udc4d 402",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-29T09:03:41+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
     "description": "<p>Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 rose from 74.2% to 80.2%, and all 6 held-out splits improved.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harne...",
     "link": "https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/",
@@ -231,7 +220,7 @@
     "published": "2026-09-29T09:01:36+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs",
     "description": "<p>H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K context on [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-a...",
     "link": "https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/",
@@ -242,7 +231,7 @@
     "published": "2026-09-29T07:38:13+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price",
     "description": "<p>Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It scores 70.6% on Terminal-Bench 4.0 and lands within 2 points of Opus 5.5 on GDPval-AA. It also generates output 30%+ faster than Sonnet 5 and keeps the same $2/$10 per million token price. Anthropic says cost per task falls by up to 30% because the model uses fewer tokens. You can deploy it today via the Claude API, AWS, Google Cloud and Azure.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/...",
     "link": "https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/",
@@ -253,7 +242,7 @@
     "published": "2026-09-29T04:20:59+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
     "description": "<p>NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes agents under YAML policies. Sentry, an out-of-band watchdog on BlueField-4 DPUs, can quarantine an agent that escapes its boundary in milliseconds. NVIDIA says over 100 organizations are working with the platform.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platfor...",
     "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
@@ -297,7 +286,7 @@
     "published": "2026-09-28T08:06:22+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
+    "id": "rss-MarkTechPost-8",
     "title": "Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens",
     "description": "<p>Fireworks AI has released Ember-1, a post-trained Kimi K3 that learns to produce shorter reasoning traces instead of lowering reasoning effort. Fireworks reports about 40% fewer tokens, with output tokens per task falling from 49.3K to 29.9K in a production A/B test at an essentially unchanged score. Ember-1 is available now as an API-only Research Preview at Kimi K3 pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-...",
     "link": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
@@ -306,17 +295,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-28T07:22:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-8",
-    "title": "20 Agentic Use Cases of TypeSafe AI\u2019s Jev",
-    "description": "<p>TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free. We verified 20 agentic use cases, from model routing and tool-call gating to reranking and injection screening, and compared Jev with its closest open and LLM rivals.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/\">20 Agentic Use Cases of TypeSafe AI&#8217;s Jev</a> appeared firs...",
-    "link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
-    "source_link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-28T03:07:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",

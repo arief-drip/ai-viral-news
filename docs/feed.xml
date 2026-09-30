@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:08:57 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan</title>
       <link>https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/</link>
@@ -121,20 +121,11 @@
       <pubDate>Fri, 25 Sep 2026 09:16:25 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] 20 Agentic Use Cases of TypeSafe AI’s Jev</title>
-      <link>https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/</link>
-      <description>&lt;p&gt;&lt;p&gt;TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free. We verified 20 agentic use cases, from model routing and tool-call gating to reranking and injection screening, and compared Jev with its closest open and LLM rivals.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/"&gt;20 Agentic Use Cases of TypeSafe AI&amp;#8217;s Jev&lt;/a&gt; appeared firs...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 28 Sep 2026 03:07:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens</title>
       <link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/</link>
       <description>&lt;p&gt;&lt;p&gt;Fireworks AI has released Ember-1, a post-trained Kimi K3 that learns to produce shorter reasoning traces instead of lowering reasoning effort. Fireworks reports about 40% fewer tokens, with output tokens per task falling from 49.3K to 29.9K in a production A/B test at an essentially unchanged score. Ember-1 is available now as an API-only Research Preview at Kimi K3 pricing.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
     </item>
@@ -167,7 +158,7 @@
       <link>https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes agents under YAML policies. Sentry, an out-of-band watchdog on BlueField-4 DPUs, can quarantine an agent that escapes its boundary in milliseconds. NVIDIA says over 100 organizations are working with the platform.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platfor...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Mon, 28 Sep 2026 19:21:25 +0000</pubDate>
     </item>
@@ -176,7 +167,7 @@
       <link>https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It scores 70.6% on Terminal-Bench 4.0 and lands within 2 points of Opus 5.5 on GDPval-AA. It also generates output 30%+ faster than Sonnet 5 and keeps the same $2/$10 per million token price. Anthropic says cost per task falls by up to 30% because the model uses fewer tokens. You can deploy it today via the Claude API, AWS, Google Cloud and Azure.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 04:20:59 +0000</pubDate>
     </item>
@@ -185,7 +176,7 @@
       <link>https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/</link>
       <description>&lt;p&gt;&lt;p&gt;H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K context on [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 07:38:13 +0000</pubDate>
     </item>
@@ -194,17 +185,9 @@
       <link>https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 rose from 74.2% to 80.2%, and all 6 held-out splits improved.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harne...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 09:01:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]</title>
-      <link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-      <description>&lt;p&gt;A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 402&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49890226</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 09:03:41 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Making AI an asset, not an expense</title>
@@ -215,40 +198,22 @@
       <pubDate>Tue, 29 Sep 2026 10:43:45 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic’s IPO pitch includes a warning about human extinction</title>
-      <link>https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/</link>
-      <description>&lt;p&gt;
-                        The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 14:10:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] OpenAI says planned GPT-6.1 is too insecure to release</title>
       <link>https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/</link>
       <description>&lt;p&gt;
                         Similar performance, security trade-offs also seen in current public models.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
     </item>
     <item>
       <title>[📰] GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol/</link>
-      <description>&lt;p&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 732&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 816&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49896586</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 17:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less</title>
-      <link>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</link>
-      <description>&lt;p&gt;OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 17:15:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations</title>
@@ -277,7 +242,7 @@
     <item>
       <title>[📰] AI-powered app maker Wabi pivots to a messaging experience</title>
       <link>https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/</link>
-      <description>&lt;p&gt;Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <description>&lt;p&gt;Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 17:20:00 +0000</pubDate>
@@ -295,7 +260,7 @@
       <link>https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/</link>
       <description>&lt;p&gt;&lt;p&gt;Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/"&gt;Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes&lt;/a&gt; appeared first on &lt;a href="htt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 17:48:10 +0000</pubDate>
     </item>
@@ -305,7 +270,7 @@
       <description>&lt;p&gt;
                         Without a "full set of safeguards," agent accessed "system information and source code."
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 18:11:09 +0000</pubDate>
     </item>
@@ -314,7 +279,7 @@
       <link>https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/"&gt;OpenAI Launc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 18:30:13 +0000</pubDate>
     </item>
@@ -327,8 +292,8 @@
       <pubDate>Tue, 29 Sep 2026 18:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI repotedly in talks to raise $30B round at $1.4T valuation</title>
-      <link>https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
+      <title>[📰] OpenAI reportedly in talks to raise $30B round at $1.4T valuation</title>
+      <link>https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
       <description>&lt;p&gt;The new round is anticipated to be the company's last before its delayed 2027 public debut.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
@@ -348,7 +313,7 @@
       <description>&lt;p&gt;
                         The deal, which is expected to close by year's end, is worth $8.2 billion.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 21:14:49 +0000</pubDate>
     </item>
@@ -357,9 +322,19 @@
       <link>https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 21:47:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Protests against OpenAI get increasingly creative</title>
+      <link>https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/</link>
+      <description>&lt;p&gt;
+                        New sculpture depicts AI leaders escaping a sinking ship.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 29 Sep 2026 21:52:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</title>
@@ -368,6 +343,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 22:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise</title>
+      <link>https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/</link>
+      <description>&lt;p&gt;&lt;p&gt;RSA launched Agent ID at The AI Conference in San Francisco. It's an agentic identity security platform for finance, government, healthcare, and critical infrastructure. It has 3 modules. Discover finds sanctioned and shadow agents and MCP servers. Secure is an inline gateway that checks every tool call against policy. Govern maps evidence to 10 regulatory frameworks. Discover and Secure ship November 16, 2026.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/rsa-launches-agen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 01:30:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
