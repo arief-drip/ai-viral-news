@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:20:33 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan</title>
       <link>https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/</link>
@@ -145,20 +145,11 @@
       <pubDate>Mon, 28 Sep 2026 17:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price</title>
-      <link>https://www.marktechpost.com/2026/09/28/anthropic-releases-claude-sonnet-5-5-70-6-on-terminal-bench-4-0-at-the-same-2-10-price/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It scores 70.6% on Terminal-Bench 4.0 and lands within 2 points of Opus 5.5 on GDPval-AA. It also generates output 30%+ faster than Sonnet 5 and keeps the same $2/$10 per million token price. Anthropic says cost per task falls by up to 30% because the model uses fewer tokens. You can deploy it today via the Claude API, AWS, Google Cloud and Azure.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 04:20:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs</title>
       <link>https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/</link>
       <description>&lt;p&gt;&lt;p&gt;H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API tools. Holo4 ships in 2 sizes: Holo4 27B (dense) and Holo4 35B-A3B (Mixture of Experts, 3B active). Both serve a 256K context on [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-8</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 07:38:13 +0000</pubDate>
     </item>
@@ -167,7 +158,7 @@
       <link>https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage critic, a noise floor, a cost rule and pruning so gains carry over to new tasks. With Claude Opus 4.8, Terminal-Bench 2.1 rose from 74.2% to 80.2%, and all 6 held-out splits improved.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harne...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 09:01:36 +0000</pubDate>
     </item>
@@ -184,81 +175,51 @@
       <link>https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/</link>
       <description>&lt;p&gt;&lt;p&gt;Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/"&gt;Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes&lt;/a&gt; appeared first on &lt;a href="htt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 17:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Here's what actually happened in OpenAI's Australian gov't server hack</title>
-      <link>https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/</link>
-      <description>&lt;p&gt;
-                        Without a "full set of safeguards," agent accessed "system information and source code."
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 18:11:09 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers</title>
       <link>https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/"&gt;OpenAI Launc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 18:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AMD acquires World Labs AI startup, upping the ante against Nvidia</title>
-      <link>https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/</link>
-      <description>&lt;p&gt;
-                        The deal, which is expected to close by year's end, is worth $8.2 billion.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 21:14:49 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens</title>
       <link>https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 29 Sep 2026 21:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Protests against OpenAI get increasingly creative</title>
-      <link>https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/</link>
-      <description>&lt;p&gt;
-                        New sculpture depicts AI leaders escaping a sinking ship.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 21:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</title>
-      <link>https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/</link>
-      <description>&lt;p&gt;Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 29 Sep 2026 22:20:59 +0000</pubDate>
     </item>
     <item>
       <title>[📰] One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise</title>
       <link>https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/</link>
       <description>&lt;p&gt;&lt;p&gt;RSA launched Agent ID at The AI Conference in San Francisco. It's an agentic identity security platform for finance, government, healthcare, and critical infrastructure. It has 3 modules. Discover finds sanctioned and shadow agents and MCP servers. Secure is an inline gateway that checks every tool call against policy. Govern maps evidence to 10 regulatory frameworks. Discover and Secure ship November 16, 2026.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/29/rsa-launches-agen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 01:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Responsible Release of AI-Generated Mathematics</title>
+      <link>https://agmai.org/general-sep29/</link>
+      <description>&lt;p&gt;Responsible Release of AI-Generated Mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 68&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49903713</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 02:36:12 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms</title>
       <link>https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/</link>
       <description>&lt;p&gt;&lt;p&gt;Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack. Photon now handles retrieval and ranking for all production traffic. It also powers a new Fast Search mode in the Perplexity Search API. Perplexity reports single-call latency of 160 [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 08:26:52 +0000</pubDate>
     </item>
@@ -271,26 +232,10 @@
       <pubDate>Wed, 30 Sep 2026 10:40:30 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Airbnb adds AI search, more social features</title>
-      <link>https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/</link>
-      <description>&lt;p&gt;Airbnb is also launching new services such as meal delivery and laundry in select locations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Restate lands $20M as the need for durable infrastructure increases with AI agents</title>
-      <link>https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/</link>
-      <description>&lt;p&gt;Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 30 Sep 2026 14:27:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026</title>
       <link>https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/</link>
       <description>&lt;p&gt;At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 14:30:00 +0000</pubDate>
     </item>
@@ -298,7 +243,7 @@
       <title>[📰] Destro AI’s secret sauce is getting robots and humans on the same page</title>
       <link>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</link>
       <description>&lt;p&gt;"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
     </item>
@@ -306,7 +251,7 @@
       <title>[📰] DoorDash launches an AI agent you can text to order food</title>
       <link>https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/</link>
       <description>&lt;p&gt;By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 16:00:24 +0000</pubDate>
     </item>
@@ -314,9 +259,122 @@
       <title>[📰] Meta disputes claim that Muse read a user’s private messages without permission</title>
       <link>https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/</link>
       <description>&lt;p&gt;Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 30 Sep 2026 16:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The ugly economics of consumer AI</title>
+      <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
+      <description>&lt;p&gt;There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 17:24:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Reddit is killing RSS feeds and ending public API access because of AI bots</title>
+      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
+      <description>&lt;p&gt;Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI voice startup ElevenLabs doubles valuation to $22B</title>
+      <link>https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/</link>
+      <description>&lt;p&gt;The $300 million employee tender was co-led by Wellington and T. Rowe Price.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 18:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/</link>
+      <description>&lt;p&gt;
+                        Trump gets dozens of AI firms to agree to voluntary safety tests.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI’s Jev clone could help the frontier lab stop its swarming agents</title>
+      <link>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</link>
+      <description>&lt;p&gt;OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 19:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] RFK Jr. thinks AI will free us from the "tyranny" of medical facts, expertise</title>
+      <link>https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/</link>
+      <description>&lt;p&gt;
+                        AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 19:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] CS240 AI Cheating Retrospective</title>
+      <link>https://turkeyland.net/thoughts/ai.php</link>
+      <description>&lt;p&gt;CS240 AI Cheating Retrospective&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49913458</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 19:54:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 4 Argon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+      <description>&lt;p&gt;Gemini 4 Argon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 806&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49913571</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 20:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google announces Gemini 4 Argon AI model, but you can't use it yet</title>
+      <link>https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/</link>
+      <description>&lt;p&gt;
+                        So much for Gemini 3.5 Pro. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 20:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</title>
+      <link>https://artificialanalysis.ai/models/gemini-4-argon</link>
+      <description>&lt;p&gt;Gemini 4 Argon (High): Intelligence, Performance and Price Analysis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49914236</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 20:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation</title>
+      <link>https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/</link>
+      <description>&lt;p&gt;Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
+      <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</title>
+      <link>https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/</link>
+      <description>&lt;p&gt;&lt;p&gt;Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/"&gt;Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:30:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
