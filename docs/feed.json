@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
+    "description": "<p>Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with the context needed to verify it, not one &#8216;gold passage.&#8217; P Is it deployable? Yes, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-previ...",
+    "link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-01T03:23:39+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. ",
@@ -9,6 +20,28 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-30T23:43:07+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+    "description": "<p>Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/\">Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T21:30:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra\u2019s Token Price",
+    "description": "<p>OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...",
+    "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T21:09:24+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -38,7 +71,7 @@
     "description": "Gemini 4 Argon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "source_link": "https://news.ycombinator.com/item?id=49913571",
-    "engagement": "\ud83d\udc4d 1,065",
+    "engagement": "\ud83d\udc4d 1,407",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-30T20:04:37+00:00"
@@ -154,12 +187,23 @@
     "published": "2026-09-30T10:40:30+00:00"
   },
   {
+    "id": "rss-MarkTechPost-3",
+    "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
+    "description": "<p>Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack. Photon now handles retrieval and ranking for all production traffic. It also powers a new Fast Search mode in the Perplexity Search API. Perplexity reports single-call latency of 160 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-th...",
+    "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T08:26:52+00:00"
+  },
+  {
     "id": "hn-49905644",
     "title": "Doing a Machine Learning PhD While Working in Japan",
     "description": "Doing a Machine Learning PhD While Working in Japan",
     "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
     "source_link": "https://news.ycombinator.com/item?id=49905644",
-    "engagement": "\ud83d\udc4d 52",
+    "engagement": "\ud83d\udc4d 101",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-30T07:33:45+00:00"
@@ -170,10 +214,54 @@
     "description": "Responsible Release of AI-Generated Mathematics",
     "link": "https://agmai.org/general-sep29/",
     "source_link": "https://news.ycombinator.com/item?id=49903713",
-    "engagement": "\ud83d\udc4d 81",
+    "engagement": "\ud83d\udc4d 94",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-30T02:36:12+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "One Bad Prompt Took Down a Company\u2019s Salesforce: RSA\u2019s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
+    "description": "<p>RSA launched Agent ID at The AI Conference in San Francisco. It's an agentic identity security platform for finance, government, healthcare, and critical infrastructure. It has 3 modules. Discover finds sanctioned and shadow agents and MCP servers. Secure is an inline gateway that checks every tool call against policy. Govern maps evidence to 10 regulatory frameworks. Discover and Secure ship November 16, 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/rsa-launches-agen...",
+    "link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+    "source_link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T01:30:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+    "description": "<p>Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated probabilities across a fixed set of outcomes in a single call, with zero generated tokens. The target is the work many teams still send to general [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/\"...",
+    "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+    "source_link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-29T21:47:09+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
+    "description": "<p>OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+ apps through ChatGPT plugins and keeps going after you log off. Is it deployable today? Yes, as a managed product. Dots are rolling out in [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/\">OpenAI Launc...",
+    "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+    "source_link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-29T18:30:13+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-7",
+    "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
+    "description": "<p>Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion, executive mentorship, and seats at an executive dinner. Applications close October 25.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/\">Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes</a> appeared first on <a href=\"htt...",
+    "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+    "source_link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-29T17:48:10+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
