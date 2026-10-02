@@ -1,14 +1,80 @@
 [
   {
-    "id": "rss-MarkTechPost-0",
-    "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-    "description": "<p>AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-stran...",
-    "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-    "source_link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "rss-TechCrunch AI-0",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "description": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test  dummies\" to solve that. ",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "source_link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
-    "published": "2026-10-02T06:35:00+00:00"
+    "published": "2026-10-02T17:00:00+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source_link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T15:49:04+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "source_link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T15:39:41+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+    "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source_link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T15:00:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+    "description": "\n                        Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+    "source_link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T14:52:16+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+    "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "source_link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T14:30:00+00:00"
+  },
+  {
+    "id": "hn-49933251",
+    "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+    "description": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+    "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+    "source_link": "https://news.ycombinator.com/item?id=49933251",
+    "engagement": "\ud83d\udc4d 54",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T13:19:47+00:00"
   },
   {
     "id": "hn-49929489",
@@ -16,24 +82,13 @@
     "description": "DeepSeek Harness Desktop for macOS and Windows",
     "link": "https://www.deepseek.com/en/harness/",
     "source_link": "https://news.ycombinator.com/item?id=49929489",
-    "engagement": "\ud83d\udc4d 238",
+    "engagement": "\ud83d\udc4d 364",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-02T03:11:20+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
-    "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-    "description": "<p>Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/\">Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text</a> appeared first on <a href=\"htt...",
-    "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
-    "source_link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-02T01:00:41+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-4",
     "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
     "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -44,7 +99,7 @@
     "published": "2026-10-01T21:08:11+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
     "description": "\n                        The court acknowledges AI search comes with consequences, but it's not an antitrust issue.\n                    ",
     "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
@@ -55,7 +110,7 @@
     "published": "2026-10-01T20:11:55+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-5",
     "title": "ChatGPT can now virtually try on clothes for you",
     "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
     "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
@@ -66,7 +121,7 @@
     "published": "2026-10-01T19:21:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
     "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
     "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
@@ -77,7 +132,7 @@
     "published": "2026-10-01T18:14:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-7",
     "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
     "description": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
     "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
@@ -88,128 +143,7 @@
     "published": "2026-10-01T17:50:19+00:00"
   },
   {
-    "id": "hn-49924618",
-    "title": "Vote on which of Hacker News' challenges for AI have been met",
-    "description": "Vote on which of Hacker News' challenges for AI have been met",
-    "link": "https://stoppels.ch/goalposts/",
-    "source_link": "https://news.ycombinator.com/item?id=49924618",
-    "engagement": "\ud83d\udc4d 144",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T17:32:43+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
-    "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
-    "description": "<p>Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/\">Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Emb...",
-    "link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
-    "source_link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T17:13:12+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "description": "Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "source_link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T16:44:35+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
-    "description": "\n                        Adding in a second neural network that guesses the identity of hidden pieces was key.\n                    ",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "source_link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T16:28:04+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "source_link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T15:12:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "source_link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T14:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "description": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "source_link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T13:00:00+00:00"
-  },
-  {
-    "id": "hn-49919910",
-    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "source_link": "https://news.ycombinator.com/item?id=49919910",
-    "engagement": "\ud83d\udc4d 178",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T10:21:36+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
-    "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
-    "description": "<p>Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with the context needed to verify it, not one &#8216;gold passage.&#8217; P Is it deployable? Yes, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-previ...",
-    "link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-01T03:23:39+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
-    "description": "<p>Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/\">Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-    "source_link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-30T21:30:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra\u2019s Token Price",
-    "description": "<p>OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...",
-    "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-    "source_link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-30T21:09:24+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
     "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -220,18 +154,7 @@
     "published": "2026-09-30T10:40:30+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
-    "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
-    "description": "<p>Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack. Photon now handles retrieval and ranking for all production traffic. It also powers a new Fast Search mode in the Perplexity Search API. Perplexity reports single-call latency of 160 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-th...",
-    "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
-    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-30T08:26:52+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Making AI an asset, not an expense",
     "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
@@ -242,7 +165,7 @@
     "published": "2026-09-29T10:43:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "When can we say AI made a scientific discovery?",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
@@ -264,7 +187,7 @@
     "published": "2026-09-28T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Who\u2019s liable when AI agents go rogue?",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
     "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
@@ -275,7 +198,7 @@
     "published": "2026-09-28T08:06:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
     "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
@@ -286,7 +209,7 @@
     "published": "2026-09-25T09:16:25+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The AI Hype Index: AI loves cheating",
     "description": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have also hacked into other companies\u2019 systems four times already. And that\u2019s&#8230;",
     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
@@ -297,7 +220,7 @@
     "published": "2026-09-23T09:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Don\u2019t be fooled by this summer of AI hype\u00a0",
     "description": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
     "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
