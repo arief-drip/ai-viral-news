@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:10:13 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan</title>
       <link>https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/</link>
@@ -71,14 +71,6 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 07 Sep 2026 12:26:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] 4 ways to address the failures we found along the US border’s “virtual wall”</title>
-      <link>https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/</link>
-      <description>&lt;p&gt;MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics</title>
@@ -153,6 +145,15 @@
       <pubDate>Tue, 29 Sep 2026 10:43:45 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms</title>
+      <link>https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack. Photon now handles retrieval and ranking for all production traffic. It also powers a new Fast Search mode in the Perplexity Search API. Perplexity reports single-call latency of 160 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-th...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 08:26:52 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer</title>
       <link>https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/</link>
       <description>&lt;p&gt;Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -161,9 +162,37 @@
       <pubDate>Wed, 30 Sep 2026 10:40:30 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
+      <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</title>
+      <link>https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/</link>
+      <description>&lt;p&gt;&lt;p&gt;Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/"&gt;Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence</title>
+      <link>https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with the context needed to verify it, not one &amp;#8216;gold passage.&amp;#8217; P Is it deployable? Yes, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-previ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 01 Oct 2026 03:23:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</title>
       <link>https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</link>
-      <description>&lt;p&gt;GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 174&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 178&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49919910</guid>
       <category>AI News</category>
       <pubDate>Thu, 01 Oct 2026 10:21:36 +0000</pubDate>
@@ -211,9 +240,18 @@
       <pubDate>Thu, 01 Oct 2026 16:44:35 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI</title>
+      <link>https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/"&gt;Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Emb...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 01 Oct 2026 17:13:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Vote on which of Hacker News' challenges for AI have been met</title>
       <link>https://stoppels.ch/goalposts/</link>
-      <description>&lt;p&gt;Vote on which of Hacker News' challenges for AI have been met&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 102&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vote on which of Hacker News' challenges for AI have been met&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 144&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49924618</guid>
       <category>AI News</category>
       <pubDate>Thu, 01 Oct 2026 17:32:43 +0000</pubDate>
@@ -259,6 +297,32 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text</title>
+      <link>https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/"&gt;Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text&lt;/a&gt; appeared first on &lt;a href="htt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 01:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek Harness Desktop for macOS and Windows</title>
+      <link>https://www.deepseek.com/en/harness/</link>
+      <description>&lt;p&gt;DeepSeek Harness Desktop for macOS and Windows&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 238&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49929489</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 03:11:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms</title>
+      <link>https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/</link>
+      <description>&lt;p&gt;&lt;p&gt;AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-stran...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 06:35:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

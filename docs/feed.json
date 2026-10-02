@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+    "description": "<p>AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-stran...",
+    "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+    "source_link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T06:35:00+00:00"
+  },
+  {
+    "id": "hn-49929489",
+    "title": "DeepSeek Harness Desktop for macOS and Windows",
+    "description": "DeepSeek Harness Desktop for macOS and Windows",
+    "link": "https://www.deepseek.com/en/harness/",
+    "source_link": "https://news.ycombinator.com/item?id=49929489",
+    "engagement": "\ud83d\udc4d 238",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T03:11:20+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+    "description": "<p>Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/\">Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text</a> appeared first on <a href=\"htt...",
+    "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+    "source_link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T01:00:41+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
     "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
@@ -60,10 +93,21 @@
     "description": "Vote on which of Hacker News' challenges for AI have been met",
     "link": "https://stoppels.ch/goalposts/",
     "source_link": "https://news.ycombinator.com/item?id=49924618",
-    "engagement": "\ud83d\udc4d 102",
+    "engagement": "\ud83d\udc4d 144",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-01T17:32:43+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
+    "description": "<p>Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/\">Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Emb...",
+    "link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
+    "source_link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-01T17:13:12+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -126,10 +170,43 @@
     "description": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
     "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
     "source_link": "https://news.ycombinator.com/item?id=49919910",
-    "engagement": "\ud83d\udc4d 174",
+    "engagement": "\ud83d\udc4d 178",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-01T10:21:36+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-3",
+    "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
+    "description": "<p>Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with the context needed to verify it, not one &#8216;gold passage.&#8217; P Is it deployable? Yes, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-previ...",
+    "link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-01T03:23:39+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-4",
+    "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+    "description": "<p>Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/\">Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T21:30:08+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-5",
+    "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra\u2019s Token Price",
+    "description": "<p>OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...",
+    "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T21:09:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -141,6 +218,17 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-30T10:40:30+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-6",
+    "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
+    "description": "<p>Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack. Photon now handles retrieval and ranking for all production traffic. It also powers a new Fast Search mode in the Perplexity Search API. Perplexity reports single-call latency of 160 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-th...",
+    "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+    "source_link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-09-30T08:26:52+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
@@ -240,17 +328,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-21T12:31:04+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
-    "description": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "source_link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-21T12:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
