@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 23:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:02:35 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan</title>
       <link>https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/</link>
@@ -153,25 +153,80 @@
       <pubDate>Wed, 30 Sep 2026 10:40:30 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
+      <link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.10. It is available now through the OpenAI API, ChatGPT Work and Codex.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense</title>
+      <link>https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/</link>
+      <description>&lt;p&gt;&lt;p&gt;Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/"&gt;Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 30 Sep 2026 21:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence</title>
+      <link>https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with the context needed to verify it, not one &amp;#8216;gold passage.&amp;#8217; P Is it deployable? Yes, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-previ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 01 Oct 2026 03:23:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI</title>
+      <link>https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers. Embed 5 Pro targets maximum retrieval quality. Embed 5 Fast targets latency and cost on the live query path. Both accept text, images, and fused text plus image inputs. Both [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/"&gt;Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Emb...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 01 Oct 2026 17:13:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Sites in ChatGPT</title>
       <link>https://chatgpt.com/features/sites/</link>
-      <description>&lt;p&gt;Sites in ChatGPT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 183&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sites in ChatGPT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 223&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49927747</guid>
       <category>AI News</category>
       <pubDate>Thu, 01 Oct 2026 22:22:21 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text</title>
+      <link>https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/</link>
+      <description>&lt;p&gt;&lt;p&gt;Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI at 209.3 ms and 38.8 ms median latency.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/"&gt;Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text&lt;/a&gt; appeared first on &lt;a href="htt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 01:00:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Greg Kroah-Hartman – Security in the LLM Age [video]</title>
       <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
-      <description>&lt;p&gt;Greg Kroah-Hartman – Security in the LLM Age [video]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 154&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Greg Kroah-Hartman – Security in the LLM Age [video]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 190&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49929391</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms</title>
+      <link>https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/</link>
+      <description>&lt;p&gt;&lt;p&gt;AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-stran...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 06:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] With most information hidden, the game Stratego had stumped AI until now</title>
       <link>https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</link>
-      <description>&lt;p&gt;With most information hidden, the game Stratego had stumped AI until now&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 145&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;With most information hidden, the game Stratego had stumped AI until now&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 189&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49933740</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 14:11:24 +0000</pubDate>
@@ -235,10 +290,19 @@
     <item>
       <title>[📰] From the creator of Redis; run LLM locally with ds4</title>
       <link>https://dwarfstar.sh/</link>
-      <description>&lt;p&gt;From the creator of Redis; run LLM locally with ds4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 117&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;From the creator of Redis; run LLM locally with ds4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 164&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49936575</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference</title>
+      <link>https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives developers a way to start with one system for local models and agents, then cluster two 64GB units for 128GB of memory across the cluster and more compute when [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 18:04:56 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
@@ -251,7 +315,7 @@
     <item>
       <title>[📰] Show HN: Made an open-source Lego AI generator</title>
       <link>https://github.com/anteloc/ldraw-nova</link>
-      <description>&lt;p&gt;Show HN: Made an open-source Lego AI generator&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Made an open-source Lego AI generator&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 75&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49937916</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 20:00:15 +0000</pubDate>
@@ -263,6 +327,16 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 21:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple changes full-disk access permissions to curb abuse from AI agents</title>
+      <link>https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</link>
+      <description>&lt;p&gt;
+                        Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 02 Oct 2026 23:03:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
