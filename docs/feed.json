@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-49946567",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "description": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "source_link": "https://news.ycombinator.com/item?id=49946567",
+    "engagement": "\ud83d\udc4d 110",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-03T18:29:30+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
     "description": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
@@ -121,17 +132,6 @@
     "published": "2026-10-02T18:04:56+00:00"
   },
   {
-    "id": "hn-49936575",
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "description": "From the creator of Redis; run LLM locally with ds4",
-    "link": "https://dwarfstar.sh/",
-    "source_link": "https://news.ycombinator.com/item?id=49936575",
-    "engagement": "\ud83d\udc4d 321",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-02T18:01:16+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-4",
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called \u201cmorally binding.\u201d&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as \u201csuper intelligence,\u201d and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
@@ -176,17 +176,6 @@
     "published": "2026-10-02T15:49:04+00:00"
   },
   {
-    "id": "hn-49933740",
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "description": "With most information hidden, the game Stratego had stumped AI until now",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "source_link": "https://news.ycombinator.com/item?id=49933740",
-    "engagement": "\ud83d\udc4d 268",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-02T14:11:24+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-6",
     "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
     "description": "<p>AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-stran...",
@@ -196,17 +185,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-02T06:35:00+00:00"
-  },
-  {
-    "id": "hn-49929391",
-    "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
-    "description": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
-    "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-    "source_link": "https://news.ycombinator.com/item?id=49929391",
-    "engagement": "\ud83d\udc4d 306",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-02T02:51:27+00:00"
   },
   {
     "id": "rss-MarkTechPost-7",
@@ -306,17 +284,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-22T11:04:51+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-0",
-    "title": "Transformers now runs llama.cpp quants",
-    "description": "",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source_link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-22T00:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",

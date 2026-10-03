@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 18:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:33:34 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan</title>
       <link>https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/</link>
@@ -79,14 +79,6 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 21 Sep 2026 12:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Transformers now runs llama.cpp quants</title>
-      <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Don’t be fooled by this summer of AI hype </title>
@@ -162,14 +154,6 @@
       <pubDate>Fri, 02 Oct 2026 01:00:41 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Greg Kroah-Hartman – Security in the LLM Age [video]</title>
-      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
-      <description>&lt;p&gt;Greg Kroah-Hartman – Security in the LLM Age [video]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 306&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49929391</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 02 Oct 2026 02:51:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms</title>
       <link>https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/</link>
       <description>&lt;p&gt;&lt;p&gt;AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated confidence in one forward pass, never text. It runs at a 115 ms median on an RTX 3090 and scores 0.723 on the JevBench public set, which makes it a fast local option for routing, tool selection and guardrails in AI agents.&lt;/p&gt;
@@ -177,14 +161,6 @@
       <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 06:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] With most information hidden, the game Stratego had stumped AI until now</title>
-      <link>https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/</link>
-      <description>&lt;p&gt;With most information hidden, the game Stratego had stumped AI until now&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 268&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49933740</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 02 Oct 2026 14:11:24 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Redefining enterprise intelligence with autonomous AI</title>
@@ -217,14 +193,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 02 Oct 2026 17:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] From the creator of Redis; run LLM locally with ds4</title>
-      <link>https://dwarfstar.sh/</link>
-      <description>&lt;p&gt;From the creator of Redis; run LLM locally with ds4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 321&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49936575</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 02 Oct 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference</title>
@@ -321,6 +289,14 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Getting the most out of Opus 5.5 in Claude and Claude Code</title>
+      <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
+      <description>&lt;p&gt;Getting the most out of Opus 5.5 in Claude and Claude Code&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 110&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-49946567</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 03 Oct 2026 18:29:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
