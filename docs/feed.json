@@ -1,6 +1,39 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+    "description": "<p>One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/\">Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+    "source_link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-05T08:10:37+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "People really hate AI, so why can\u2019t they get enough?",
+    "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI&#8230;",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "source_link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-05T08:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "The Story of Qwen: Alibaba\u2019s AI Models From 7B to 2.4T",
+    "description": "<p>Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/\">The Story of Qwen: Alibaba&#8217;s AI Models From 7B to 2.4T</a> appeared first on <a href=\"https://www.marktech...",
+    "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+    "source_link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-05T04:10:34+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "Can an Open Model Do Security Research? Cantina\u2019s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
     "description": "<p>Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai&#8217;s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on vLLM, SGLang or Transformers, but BF16 needs roughly 640 GB of GPU memory. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas...",
     "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
@@ -11,7 +44,7 @@
     "published": "2026-10-05T01:47:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
     "description": "<p>Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/\">GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
@@ -44,17 +77,6 @@
     "published": "2026-10-04T20:08:34+00:00"
   },
   {
-    "id": "hn-49957117",
-    "title": "Homa: The end of TCP for AI clusters [video]",
-    "description": "Homa: The end of TCP for AI clusters [video]",
-    "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-    "source_link": "https://news.ycombinator.com/item?id=49957117",
-    "engagement": "\ud83d\udc4d 60",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-04T19:42:25+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-2",
     "title": "Trump unveils his new Super Intelligence Force",
     "description": "This new task force is Trump's latest response to the debate over AI safety.",
@@ -66,29 +88,18 @@
     "published": "2026-10-04T15:15:10+00:00"
   },
   {
-    "id": "hn-49952111",
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "description": "Show HN: AI search for every photo and every frame of video on macOS",
-    "link": "https://github.com/allenv0/SCM",
-    "source_link": "https://news.ycombinator.com/item?id=49952111",
-    "engagement": "\ud83d\udc4d 142",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-04T09:24:52+00:00"
-  },
-  {
     "id": "hn-49951891",
     "title": "How to scale intent, quality, and artistry with AI [video]",
     "description": "How to scale intent, quality, and artistry with AI [video]",
     "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
     "source_link": "https://news.ycombinator.com/item?id=49951891",
-    "engagement": "\ud83d\udc4d 56",
+    "engagement": "\ud83d\udc4d 86",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-04T08:41:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
     "description": "<p>DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible endpoints.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/\">DeepSeek Harness v0.2 Brings Official Desktop Apps to I...",
     "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
@@ -121,7 +132,7 @@
     "published": "2026-10-03T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
     "description": "<p>TL;DR: Meta&#8217;s Muse, OpenAI&#8217;s Dots and Uber&#8217;s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision models can solve it. Three launches, one pattern From pull to push Chatbots were [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quie...",
     "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
@@ -132,7 +143,7 @@
     "published": "2026-10-03T07:05:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
     "description": "<p>IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own model: NVIDIA Nemotron or Poolside Laguna for full isolation, or Claude, Gemini or GPT models through hybrid setups. Optional Premium Packages extend Bob to Java, IBM i and IBM Z modernization.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/02/ib...",
     "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
@@ -141,28 +152,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-03T06:55:15+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
-    "description": "<p>Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployment uses Dynamo, vLLM and NVFP4 KV compression to serve 66 sessions per prefill group at 101 tok/s per user.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/\">Prime Intellect Launches Prime Inference: Serverless and Reserved Serving ...",
-    "link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
-    "source_link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-03T05:37:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-    "description": "<p>Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER Streaming. It scores 2.5% WER at 0.13s on final transcripts and 2.5% at 0.12s on first partials. It covers 60 languages with continuous language detection and costs $0.54 per hour during the introductory period. It is available now in public preview on Microsoft Foundry.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/02/microsoft...",
-    "link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-    "source_link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-03T05:09:53+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -198,7 +187,7 @@
     "published": "2026-10-02T18:11:27+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Redefining enterprise intelligence with autonomous AI",
     "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
     "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
@@ -209,7 +198,18 @@
     "published": "2026-10-02T15:49:04+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "hn-49933476",
+    "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+    "description": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+    "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+    "source_link": "https://news.ycombinator.com/item?id=49933476",
+    "engagement": "\ud83d\udc4d 73",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-02T13:47:41+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-2",
     "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
     "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -220,7 +220,7 @@
     "published": "2026-09-30T10:40:30+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Making AI an asset, not an expense",
     "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
@@ -231,7 +231,7 @@
     "published": "2026-09-29T10:43:45+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "When can we say AI made a scientific discovery?",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
     "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
@@ -253,7 +253,7 @@
     "published": "2026-09-28T12:32:03+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Who\u2019s liable when AI agents go rogue?",
     "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
     "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
@@ -264,7 +264,7 @@
     "published": "2026-09-28T08:06:22+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which&#8230;",
     "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
@@ -275,7 +275,7 @@
     "published": "2026-09-25T09:16:25+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "The AI Hype Index: AI loves cheating",
     "description": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have also hacked into other companies\u2019 systems four times already. And that\u2019s&#8230;",
     "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
@@ -284,17 +284,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-09-23T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "Don\u2019t be fooled by this summer of AI hype\u00a0",
-    "description": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "source_link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-09-22T11:04:51+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
