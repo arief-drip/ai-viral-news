@@ -1,5 +1,93 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+    "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "source_link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T16:35:00+00:00"
+  },
+  {
+    "id": "hn-49980715",
+    "title": "AI is now capable of developing its own inference hardware",
+    "description": "AI is now capable of developing its own inference hardware",
+    "link": "https://github.com/FeSens/openTPU",
+    "source_link": "https://news.ycombinator.com/item?id=49980715",
+    "engagement": "\ud83d\udc4d 91",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T16:23:25+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "source_link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T16:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
+    "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source_link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T15:25:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
+    "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+    "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "source_link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T14:33:16+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-4",
+    "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+    "description": "Pinterest\u2019s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "source_link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T14:00:49+00:00"
+  },
+  {
+    "id": "hn-49977979",
+    "title": "Mistral Large 4",
+    "description": "Mistral Large 4",
+    "link": "https://mistral.ai/news/mistral-large-4/\\",
+    "source_link": "https://news.ycombinator.com/item?id=49977979",
+    "engagement": "\ud83d\udc4d 966",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T13:15:49+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "description": "\n                        The reports of OpenAI agents harming 3rd party sites keep coming.\n                    ",
+    "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "source_link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T12:21:53+00:00"
+  },
+  {
     "id": "rss-HuggingFace Blog-0",
     "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
     "description": "",
@@ -22,17 +110,6 @@
     "published": "2026-10-05T22:51:05+00:00"
   },
   {
-    "id": "hn-49971846",
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "description": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "source_link": "https://news.ycombinator.com/item?id=49971846",
-    "engagement": "\ud83d\udc4d 455",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T22:46:45+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-1",
     "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
     "description": "<p>Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/\">Refl...",
@@ -44,7 +121,7 @@
     "published": "2026-10-05T21:04:20+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-5",
     "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
     "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
     "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
@@ -55,7 +132,7 @@
     "published": "2026-10-05T20:36:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-6",
     "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
     "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own proprietary data.",
     "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
@@ -66,7 +143,7 @@
     "published": "2026-10-05T19:33:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-7",
     "title": "Instinct brings its AI agent to group chats, even for friends without an account",
     "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
     "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
@@ -77,7 +154,7 @@
     "published": "2026-10-05T18:54:30+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-8",
     "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
     "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
     "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
@@ -86,28 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-05T18:29:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
-    "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "source_link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T17:29:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
-    "description": "HackerRank\u2019s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "source_link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T16:43:35+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -119,50 +174,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-05T15:47:52+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers. ",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "source_link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T15:14:24+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "source_link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
-    "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "source_link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T14:35:09+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "AI glasses face their first major government crackdown",
-    "description": "\n                        Norway wants time to write permanent rules for glasses that can record bystanders.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "source_link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T13:39:30+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
