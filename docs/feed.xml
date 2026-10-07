@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 03:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:43:02 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -121,15 +121,6 @@
       <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T</title>
-      <link>https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/</link>
-      <description>&lt;p&gt;&lt;p&gt;Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/"&gt;The Story of Qwen: Alibaba&amp;#8217;s AI Models From 7B to 2.4T&lt;/a&gt; appeared first on &lt;a href="https://www.marktech...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 05 Oct 2026 04:10:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] People really hate AI, so why can’t they get enough?</title>
       <link>https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/</link>
       <description>&lt;p&gt;Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -143,7 +134,7 @@
       <description>&lt;p&gt;&lt;p&gt;One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/"&gt;Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 05 Oct 2026 08:10:37 +0000</pubDate>
     </item>
@@ -176,7 +167,7 @@
       <link>https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/</link>
       <description>&lt;p&gt;&lt;p&gt;Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/"&gt;Refl...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 05 Oct 2026 21:04:20 +0000</pubDate>
     </item>
@@ -185,7 +176,7 @@
       <link>https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/</link>
       <description>&lt;p&gt;&lt;p&gt;Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/"&gt;M...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 05 Oct 2026 22:51:05 +0000</pubDate>
     </item>
@@ -200,7 +191,7 @@
     <item>
       <title>[📰] Mistral Large 4</title>
       <link>https://mistral.ai/news/mistral-large-4/\</link>
-      <description>&lt;p&gt;Mistral Large 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,623&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mistral Large 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,831&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49977979</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 13:15:49 +0000</pubDate>
@@ -240,7 +231,7 @@
     <item>
       <title>[📰] OpenTPU – An open-source AI accelerator, developed by AI</title>
       <link>https://github.com/FeSens/openTPU</link>
-      <description>&lt;p&gt;OpenTPU – An open-source AI accelerator, developed by AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 251&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenTPU – An open-source AI accelerator, developed by AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 292&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49980715</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 16:23:25 +0000</pubDate>
@@ -254,26 +245,18 @@
       <pubDate>Tue, 06 Oct 2026 16:35:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Utah to let AI examine patients and prescribe medication without human oversight</title>
-      <link>https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</link>
-      <description>&lt;p&gt;Utah to let AI examine patients and prescribe medication without human oversight&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49981197</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 06 Oct 2026 17:01:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model</title>
       <link>https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/</link>
       <description>&lt;p&gt;&lt;p&gt;Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-par...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 17:30:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Code’s suggested message feature: I think the real customer is the model</title>
       <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
-      <description>&lt;p&gt;Claude Code’s suggested message feature: I think the real customer is the model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 125&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Code’s suggested message feature: I think the real customer is the model&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 207&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49981905</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 18:00:34 +0000</pubDate>
@@ -323,7 +306,7 @@
     <item>
       <title>[📰] Penguin Mail – open-source Rust email client for Linux with AI</title>
       <link>https://penguin-mail.com/</link>
-      <description>&lt;p&gt;Penguin Mail – open-source Rust email client for Linux with AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 94&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Penguin Mail – open-source Rust email client for Linux with AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 186&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49984716</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 21:59:43 +0000</pubDate>
@@ -331,10 +314,19 @@
     <item>
       <title>[📰] Sharing AI progress in mathematics</title>
       <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
-      <description>&lt;p&gt;Sharing AI progress in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 530&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sharing AI progress in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 943&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49984923</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 22:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day</title>
+      <link>https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/"&gt;Meta AI Open-Sources Rebalancer...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 07 Oct 2026 06:29:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

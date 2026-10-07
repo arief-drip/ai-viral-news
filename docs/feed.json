@@ -1,11 +1,22 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+    "description": "<p>Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/\">Meta AI Open-Sources Rebalancer...",
+    "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+    "source_link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-07T06:29:14+00:00"
+  },
+  {
     "id": "hn-49984923",
     "title": "Sharing AI progress in mathematics",
     "description": "Sharing AI progress in mathematics",
     "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source_link": "https://news.ycombinator.com/item?id=49984923",
-    "engagement": "\ud83d\udc4d 530",
+    "engagement": "\ud83d\udc4d 943",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T22:17:21+00:00"
@@ -16,7 +27,7 @@
     "description": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
     "link": "https://penguin-mail.com/",
     "source_link": "https://news.ycombinator.com/item?id=49984716",
-    "engagement": "\ud83d\udc4d 94",
+    "engagement": "\ud83d\udc4d 186",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T21:59:43+00:00"
@@ -82,13 +93,13 @@
     "description": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
     "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
     "source_link": "https://news.ycombinator.com/item?id=49981905",
-    "engagement": "\ud83d\udc4d 125",
+    "engagement": "\ud83d\udc4d 207",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T18:00:34+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
     "description": "<p>Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-par...",
     "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
@@ -97,17 +108,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T17:30:46+00:00"
-  },
-  {
-    "id": "hn-49981197",
-    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "description": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-    "source_link": "https://news.ycombinator.com/item?id=49981197",
-    "engagement": "\ud83d\udc4d 93",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-06T17:01:52+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -126,7 +126,7 @@
     "description": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
     "link": "https://github.com/FeSens/openTPU",
     "source_link": "https://news.ycombinator.com/item?id=49980715",
-    "engagement": "\ud83d\udc4d 251",
+    "engagement": "\ud83d\udc4d 292",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T16:23:25+00:00"
@@ -181,7 +181,7 @@
     "description": "Mistral Large 4",
     "link": "https://mistral.ai/news/mistral-large-4/\\",
     "source_link": "https://news.ycombinator.com/item?id=49977979",
-    "engagement": "\ud83d\udc4d 1,623",
+    "engagement": "\ud83d\udc4d 1,831",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T13:15:49+00:00"
@@ -198,7 +198,7 @@
     "published": "2026-10-06T06:44:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
     "description": "<p>Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/\">M...",
     "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
@@ -209,7 +209,7 @@
     "published": "2026-10-05T22:51:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
     "description": "<p>Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/\">Refl...",
     "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
@@ -253,7 +253,7 @@
     "published": "2026-10-05T12:32:30+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
     "description": "<p>One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/\">Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
@@ -273,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-05T08:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "The Story of Qwen: Alibaba\u2019s AI Models From 7B to 2.4T",
-    "description": "<p>Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/\">The Story of Qwen: Alibaba&#8217;s AI Models From 7B to 2.4T</a> appeared first on <a href=\"https://www.marktech...",
-    "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
-    "source_link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T04:10:34+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
