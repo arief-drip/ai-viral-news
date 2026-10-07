@@ -1,14 +1,25 @@
 [
   {
     "id": "hn-49984923",
-    "title": "Sharing AI Progress in Mathematics",
-    "description": "Sharing AI Progress in Mathematics",
+    "title": "Sharing AI progress in mathematics",
+    "description": "Sharing AI progress in mathematics",
     "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source_link": "https://news.ycombinator.com/item?id=49984923",
-    "engagement": "\ud83d\udc4d 173",
+    "engagement": "\ud83d\udc4d 530",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T22:17:21+00:00"
+  },
+  {
+    "id": "hn-49984716",
+    "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "description": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+    "link": "https://penguin-mail.com/",
+    "source_link": "https://news.ycombinator.com/item?id=49984716",
+    "engagement": "\ud83d\udc4d 94",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T21:59:43+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -71,7 +82,7 @@
     "description": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
     "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
     "source_link": "https://news.ycombinator.com/item?id=49981905",
-    "engagement": "\ud83d\udc4d 61",
+    "engagement": "\ud83d\udc4d 125",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T18:00:34+00:00"
@@ -86,6 +97,17 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T17:30:46+00:00"
+  },
+  {
+    "id": "hn-49981197",
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "description": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+    "source_link": "https://news.ycombinator.com/item?id=49981197",
+    "engagement": "\ud83d\udc4d 93",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-06T17:01:52+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -104,7 +126,7 @@
     "description": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
     "link": "https://github.com/FeSens/openTPU",
     "source_link": "https://news.ycombinator.com/item?id=49980715",
-    "engagement": "\ud83d\udc4d 205",
+    "engagement": "\ud83d\udc4d 251",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T16:23:25+00:00"
@@ -159,21 +181,10 @@
     "description": "Mistral Large 4",
     "link": "https://mistral.ai/news/mistral-large-4/\\",
     "source_link": "https://news.ycombinator.com/item?id=49977979",
-    "engagement": "\ud83d\udc4d 1,529",
+    "engagement": "\ud83d\udc4d 1,623",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T13:15:49+00:00"
-  },
-  {
-    "id": "hn-49977689",
-    "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "description": "Erdosproblems.com Succumbs to the AI Onslaught",
-    "link": "https://www.erdosproblems.com/forum/thread/blog:9",
-    "source_link": "https://news.ycombinator.com/item?id=49977689",
-    "engagement": "\ud83d\udc4d 84",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-06T12:53:58+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -284,17 +295,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-05T04:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Can an Open Model Do Security Research? Cantina\u2019s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
-    "description": "<p>Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai&#8217;s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on vLLM, SGLang or Transformers, but BF16 needs roughly 640 GB of GPU memory. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas...",
-    "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
-    "source_link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T01:47:28+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
