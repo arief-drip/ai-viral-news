@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-Ars Technica AI-0",
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "description": "\n                        Get ready for more AI in your Windows and more AI on the desktop.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "source_link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-08T00:00:24+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
     "title": "\u201cSoftware is over\u201d: Bold AI developer takes aim at Adobe with open source clones",
     "description": "\n                        Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.\n                    ",
     "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
@@ -22,6 +33,17 @@
     "published": "2026-10-07T20:48:45+00:00"
   },
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+    "description": "<p>Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/\">Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+    "source_link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-07T20:38:30+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
     "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
@@ -38,7 +60,7 @@
     "description": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
     "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
     "source_link": "https://news.ycombinator.com/item?id=49997161",
-    "engagement": "\ud83d\udc4d 251",
+    "engagement": "\ud83d\udc4d 305",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-07T18:49:40+00:00"
@@ -55,7 +77,7 @@
     "published": "2026-10-07T18:30:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
     "description": "<p>Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-wi...",
     "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
@@ -82,7 +104,7 @@
     "description": "Claude Haiku 5.5",
     "link": "https://www.anthropic.com/claude-haiku-5-5",
     "source_link": "https://news.ycombinator.com/item?id=49996437",
-    "engagement": "\ud83d\udc4d 627",
+    "engagement": "\ud83d\udc4d 743",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-07T18:01:32+00:00"
@@ -93,7 +115,7 @@
     "description": "GPT\u20116 and Intelligent UI for everyone",
     "link": "https://openai.com/index/gpt-6-for-everyone/",
     "source_link": "https://news.ycombinator.com/item?id=49996425",
-    "engagement": "\ud83d\udc4d 461",
+    "engagement": "\ud83d\udc4d 542",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-07T18:00:58+00:00"
@@ -110,7 +132,7 @@
     "published": "2026-10-07T18:00:19+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
     "description": "\n                        Man gets 18 months for AI scheme stealing $8M in music streaming royalties.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
@@ -176,7 +198,7 @@
     "published": "2026-10-07T14:30:00+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-3",
     "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
     "description": "\n                        Mistral says Le Chonk can rival top closed models while remaining open-weight.\n                    ",
     "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
@@ -187,29 +209,7 @@
     "published": "2026-10-07T14:12:37+00:00"
   },
   {
-    "id": "hn-49993121",
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "description": "AI-assisted proof of optimal packing for 11 squares",
-    "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-    "source_link": "https://news.ycombinator.com/item?id=49993121",
-    "engagement": "\ud83d\udc4d 105",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-07T14:10:55+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-3",
-    "title": "Google rolls out improved SynthID AI content detector, now available globally",
-    "description": "\n                        The new SynthID website can now identify AI content from Google, OpenAI, and more.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-    "source_link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-07T14:00:08+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
     "description": "<p>Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/\">Meta AI Open-Sources Rebalancer...",
     "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
@@ -225,13 +225,13 @@
     "description": "Sharing AI progress in mathematics",
     "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source_link": "https://news.ycombinator.com/item?id=49984923",
-    "engagement": "\ud83d\udc4d 1,219",
+    "engagement": "\ud83d\udc4d 1,251",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-06T22:17:21+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
     "description": "<p>Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-par...",
     "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
@@ -242,7 +242,7 @@
     "published": "2026-10-06T17:30:46+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
     "description": "<p>Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/\">M...",
     "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
@@ -251,17 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-05T22:51:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-    "description": "<p>Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/\">Refl...",
-    "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
-    "source_link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-05T21:04:20+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",

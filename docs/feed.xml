@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:04:18 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -153,20 +153,11 @@
       <pubDate>Mon, 05 Oct 2026 15:47:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads</title>
-      <link>https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/</link>
-      <description>&lt;p&gt;&lt;p&gt;Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/"&gt;Refl...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 05 Oct 2026 21:04:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode</title>
       <link>https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/</link>
       <description>&lt;p&gt;&lt;p&gt;Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/"&gt;M...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 05 Oct 2026 22:51:05 +0000</pubDate>
     </item>
@@ -175,14 +166,14 @@
       <link>https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/</link>
       <description>&lt;p&gt;&lt;p&gt;Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end of October 2026.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-par...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 17:30:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Sharing AI progress in mathematics</title>
       <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
-      <description>&lt;p&gt;Sharing AI progress in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,219&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Sharing AI progress in mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,251&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49984923</guid>
       <category>AI News</category>
       <pubDate>Tue, 06 Oct 2026 22:17:21 +0000</pubDate>
@@ -192,27 +183,9 @@
       <link>https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/"&gt;Meta AI Open-Sources Rebalancer...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 06:29:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google rolls out improved SynthID AI content detector, now available globally</title>
-      <link>https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/</link>
-      <description>&lt;p&gt;
-                        The new SynthID website can now identify AI content from Google, OpenAI, and more.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 07 Oct 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI-assisted proof of optimal packing for 11 squares</title>
-      <link>https://github.com/Queuingtheorydotcom/11SquaresFormalized</link>
-      <description>&lt;p&gt;AI-assisted proof of optimal packing for 11 squares&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 105&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-49993121</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 07 Oct 2026 14:10:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Mistral says "Le Chonk" can challenge the best AI models</title>
@@ -220,7 +193,7 @@
       <description>&lt;p&gt;
                         Mistral says Le Chonk can rival top closed models while remaining open-weight.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 14:12:37 +0000</pubDate>
     </item>
@@ -270,7 +243,7 @@
       <description>&lt;p&gt;
                         Man gets 18 months for AI scheme stealing $8M in music streaming royalties.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 17:57:39 +0000</pubDate>
     </item>
@@ -285,7 +258,7 @@
     <item>
       <title>[📰] GPT‑6 and Intelligent UI for everyone</title>
       <link>https://openai.com/index/gpt-6-for-everyone/</link>
-      <description>&lt;p&gt;GPT‑6 and Intelligent UI for everyone&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 461&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT‑6 and Intelligent UI for everyone&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 542&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49996425</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 18:00:58 +0000</pubDate>
@@ -293,7 +266,7 @@
     <item>
       <title>[📰] Claude Haiku 5.5</title>
       <link>https://www.anthropic.com/claude-haiku-5-5</link>
-      <description>&lt;p&gt;Claude Haiku 5.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 627&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Haiku 5.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 743&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49996437</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 18:01:32 +0000</pubDate>
@@ -311,7 +284,7 @@
       <link>https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-wi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 18:23:45 +0000</pubDate>
     </item>
@@ -326,7 +299,7 @@
     <item>
       <title>[📰] Meta and Microsoft take steps to reduce employee usage of Claude AI</title>
       <link>https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</link>
-      <description>&lt;p&gt;Meta and Microsoft take steps to reduce employee usage of Claude AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 251&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Meta and Microsoft take steps to reduce employee usage of Claude AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 305&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-49997161</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 18:49:40 +0000</pubDate>
@@ -338,6 +311,16 @@
       <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 20:22:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</title>
+      <link>https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/"&gt;Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 07 Oct 2026 20:38:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</title>
@@ -353,9 +336,19 @@
       <description>&lt;p&gt;
                         Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 07 Oct 2026 21:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft event debuts new AI-friendly hardware and Windows changes</title>
+      <link>https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/</link>
+      <description>&lt;p&gt;
+                        Get ready for more AI in your Windows and more AI on the desktop.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
