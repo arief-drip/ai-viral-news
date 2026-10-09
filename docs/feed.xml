@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 17:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:43:49 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -129,38 +129,11 @@
       <pubDate>Mon, 05 Oct 2026 15:47:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens</title>
-      <link>https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-wi...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 07 Oct 2026 18:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</title>
-      <link>https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/"&gt;Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 07 Oct 2026 20:38:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why isn't the industry freaking out about DeepSeek 4.1 Flash?</title>
-      <link>https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/</link>
-      <description>&lt;p&gt;Why isn't the industry freaking out about DeepSeek 4.1 Flash?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 986&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50000488</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 00:14:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA</title>
       <link>https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/</link>
       <description>&lt;p&gt;&lt;p&gt;Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/"&gt;Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 05:39:09 +0000</pubDate>
     </item>
@@ -177,7 +150,7 @@
       <link>https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/"&gt;NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes&lt;/a&gt; appeared first on &lt;a href="https://www....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 08:40:02 +0000</pubDate>
     </item>
@@ -186,7 +159,7 @@
       <link>https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/</link>
       <description>&lt;p&gt;&lt;p&gt;Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/"&gt;Arc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 08:53:34 +0000</pubDate>
     </item>
@@ -199,36 +172,12 @@
       <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months</title>
-      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
-      <description>&lt;p&gt;The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 18:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Ben Affleck is an AI nerd, and the internet is impressed</title>
-      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
-      <description>&lt;p&gt;Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 18:20:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
       <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
       <description>&lt;p&gt;Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI, the Partition Principle, and Mathematics</title>
-      <link>https://karagila.org/2026/openai-pp/</link>
-      <description>&lt;p&gt;OpenAI, the Partition Principle, and Mathematics&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 178&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50013902</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 23:29:43 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Roundtables: A Conversation With the Creator of AI-Designed Viruses</title>
@@ -244,7 +193,7 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/"&gt;Google Research RRSI Guide: Mastering Self-Improving AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 05:06:17 +0000</pubDate>
     </item>
@@ -253,7 +202,7 @@
       <link>https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/"&gt;Google Cloud Launches Gemin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 06:47:56 +0000</pubDate>
     </item>
@@ -268,7 +217,7 @@
     <item>
       <title>[📰] OpenAI fires three safety researchers for "mishandling research information"</title>
       <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
-      <description>&lt;p&gt;OpenAI fires three safety researchers for "mishandling research information"&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 215&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI fires three safety researchers for "mishandling research information"&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 304&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50018350</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 10:00:26 +0000</pubDate>
@@ -276,24 +225,24 @@
     <item>
       <title>[📰] Show HN: Let your AI agents paint big arrows, boxes and text on your screen</title>
       <link>https://github.com/franzenzenhofer/big-arrow-on-the-screen</link>
-      <description>&lt;p&gt;Show HN: Let your AI agents paint big arrows, boxes and text on your screen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 301&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Show HN: Let your AI agents paint big arrows, boxes and text on your screen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 362&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50018817</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 11:03:48 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Iranian campaign planted fake articles in real U.S. publications using ChatGPT</title>
-      <link>https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/</link>
-      <description>&lt;p&gt;Iranian campaign planted fake articles in real U.S. publications using ChatGPT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 150&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50019455</guid>
+      <title>[📰] Pointing AI at archives found a forgotten meteorite, lost rhinos, and more</title>
+      <link>https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</link>
+      <description>&lt;p&gt;Pointing AI at archives found a forgotten meteorite, lost rhinos, and more&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 93&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50019056</guid>
       <category>AI News</category>
-      <pubDate>Fri, 09 Oct 2026 12:21:24 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 11:36:20 +0000</pubDate>
     </item>
     <item>
       <title>[📰] a16z’s Olivia Moore on the state of consumer AI</title>
       <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
       <description>&lt;p&gt;Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 15:43:33 +0000</pubDate>
     </item>
@@ -301,7 +250,7 @@
       <title>[📰] We can’t help treating AI like it’s human. But should we?</title>
       <link>https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/</link>
       <description>&lt;p&gt;"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 16:40:14 +0000</pubDate>
     </item>
@@ -309,7 +258,7 @@
       <title>[📰] Amazon drops data center NDAs, and AI agents want your credit card</title>
       <link>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/</link>
       <description>&lt;p&gt;Amazon says it will&amp;#160;stop using NDAs&amp;#160;when negotiating data center deals with local governments, following&amp;#160;a&amp;#160;similar move from Microsoft&amp;#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&amp;#160;hundreds of&amp;#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 16:53:02 +0000</pubDate>
     </item>
@@ -317,9 +266,73 @@
       <title>[📰] Amazon and others are done keeping data center deals secret. Is it enough to build trust?</title>
       <link>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</link>
       <description>&lt;p&gt;Amazon says it will&amp;#160;stop using NDAs&amp;#160;when negotiating data center deals with local governments, following&amp;#160;a&amp;#160;similar move from Microsoft&amp;#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&amp;#160;hundreds of&amp;#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 16:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Typesafe AI raises $870M at $7.5B</title>
+      <link>https://typesafe.ai/blog/series-ai</link>
+      <description>&lt;p&gt;Typesafe AI raises $870M at $7.5B&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 229&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50023450</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 17:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI disqualification yields new Nikon Small World in Motion winner</title>
+      <link>https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/</link>
+      <description>&lt;p&gt;
+                        New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 18:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <description>&lt;p&gt;Anthropic did not discover this behavior until over two months after its AI submitted the false tip.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI coding agents generate more code, but not more software</title>
+      <link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</link>
+      <description>&lt;p&gt;
+                        Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 19:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</title>
+      <link>https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/"&gt;OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 20:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
+      <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
+      <description>&lt;p&gt;What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ukraine’s drones knock out AI data center belonging to "Russia’s Google"</title>
+      <link>https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/</link>
+      <description>&lt;p&gt;
+                        One damaged data center has supercomputers used for training Yandex’s AI model.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 22:04:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

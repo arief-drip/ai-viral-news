@@ -1,6 +1,83 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+    "description": "\n                        One damaged data center has supercomputers used for training Yandex\u2019s AI model.\n                    ",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "source_link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T22:04:07+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source_link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T21:41:29+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "description": "<p>OpenAI\u2019s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/\">OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+    "source_link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T20:05:07+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "AI coding agents generate more code, but not more software",
+    "description": "\n                        Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"\n                    ",
+    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source_link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T19:43:50+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source_link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T19:36:56+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-2",
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "description": "\n                        New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.\n                    ",
+    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "source_link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T18:44:06+00:00"
+  },
+  {
+    "id": "hn-50023450",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "description": "Typesafe AI raises $870M at $7.5B",
+    "link": "https://typesafe.ai/blog/series-ai",
+    "source_link": "https://news.ycombinator.com/item?id=50023450",
+    "engagement": "\ud83d\udc4d 229",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T17:02:31+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
@@ -11,7 +88,7 @@
     "published": "2026-10-09T16:56:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Amazon drops data center NDAs, and AI agents want your credit card",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
@@ -22,7 +99,7 @@
     "published": "2026-10-09T16:53:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
     "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
     "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
@@ -33,7 +110,7 @@
     "published": "2026-10-09T16:40:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
     "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
@@ -44,15 +121,15 @@
     "published": "2026-10-09T15:43:33+00:00"
   },
   {
-    "id": "hn-50019455",
-    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "description": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-    "source_link": "https://news.ycombinator.com/item?id=50019455",
-    "engagement": "\ud83d\udc4d 150",
+    "id": "hn-50019056",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "description": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "source_link": "https://news.ycombinator.com/item?id=50019056",
+    "engagement": "\ud83d\udc4d 93",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T12:21:24+00:00"
+    "published": "2026-10-09T11:36:20+00:00"
   },
   {
     "id": "hn-50018817",
@@ -60,7 +137,7 @@
     "description": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
     "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
     "source_link": "https://news.ycombinator.com/item?id=50018817",
-    "engagement": "\ud83d\udc4d 301",
+    "engagement": "\ud83d\udc4d 362",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T11:03:48+00:00"
@@ -71,7 +148,7 @@
     "description": "OpenAI fires three safety researchers for \"mishandling research information\"",
     "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
     "source_link": "https://news.ycombinator.com/item?id=50018350",
-    "engagement": "\ud83d\udc4d 215",
+    "engagement": "\ud83d\udc4d 304",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T10:00:26+00:00"
@@ -88,7 +165,7 @@
     "published": "2026-10-09T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
     "description": "<p>Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/\">Google Cloud Launches Gemin...",
     "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
@@ -99,7 +176,7 @@
     "published": "2026-10-09T06:47:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
     "description": "<p>Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/\">Google Research RRSI Guide: Mastering Self-Improving AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
@@ -121,18 +198,7 @@
     "published": "2026-10-09T00:08:24+00:00"
   },
   {
-    "id": "hn-50013902",
-    "title": "OpenAI, the Partition Principle, and Mathematics",
-    "description": "OpenAI, the Partition Principle, and Mathematics",
-    "link": "https://karagila.org/2026/openai-pp/",
-    "source_link": "https://news.ycombinator.com/item?id=50013902",
-    "engagement": "\ud83d\udc4d 178",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T23:29:43+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
     "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
     "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
@@ -141,28 +207,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-08T20:04:26+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "source_link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T18:20:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "source_link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T18:19:45+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -176,7 +220,7 @@
     "published": "2026-10-08T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
     "description": "<p>Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/\">Arc...",
     "link": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
@@ -187,7 +231,7 @@
     "published": "2026-10-08T08:53:34+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
     "description": "<p>NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/\">NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes</a> appeared first on <a href=\"https://www....",
     "link": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
@@ -209,7 +253,7 @@
     "published": "2026-10-08T08:17:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
     "description": "<p>Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/\">Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model a...",
     "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
@@ -218,39 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-08T05:39:09+00:00"
-  },
-  {
-    "id": "hn-50000488",
-    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "description": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-    "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-    "source_link": "https://news.ycombinator.com/item?id=50000488",
-    "engagement": "\ud83d\udc4d 986",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T00:14:48+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
-    "description": "<p>Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/\">Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
-    "source_link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-07T20:38:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
-    "description": "<p>Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. The target is real-time decisions on the [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-wi...",
-    "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
-    "source_link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-07T18:23:45+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
