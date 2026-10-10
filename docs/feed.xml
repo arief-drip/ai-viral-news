@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 03:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:17:23 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -129,15 +129,6 @@
       <pubDate>Mon, 05 Oct 2026 15:47:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA</title>
-      <link>https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/</link>
-      <description>&lt;p&gt;&lt;p&gt;Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/"&gt;Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 05:39:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building a safer path to autonomous industrial AI</title>
       <link>https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/</link>
       <description>&lt;p&gt;Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -150,7 +141,7 @@
       <link>https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/"&gt;NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes&lt;/a&gt; appeared first on &lt;a href="https://www....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 08:40:02 +0000</pubDate>
     </item>
@@ -159,7 +150,7 @@
       <link>https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/</link>
       <description>&lt;p&gt;&lt;p&gt;Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/"&gt;Arc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 08 Oct 2026 08:53:34 +0000</pubDate>
     </item>
@@ -185,7 +176,7 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/"&gt;Google Research RRSI Guide: Mastering Self-Improving AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 05:06:17 +0000</pubDate>
     </item>
@@ -194,7 +185,7 @@
       <link>https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/"&gt;Google Cloud Launches Gemin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 06:47:56 +0000</pubDate>
     </item>
@@ -207,20 +198,20 @@
       <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Let your AI agents paint big arrows, boxes and text on your screen</title>
-      <link>https://github.com/franzenzenhofer/big-arrow-on-the-screen</link>
-      <description>&lt;p&gt;Show HN: Let your AI agents paint big arrows, boxes and text on your screen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 385&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50018817</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 09 Oct 2026 11:03:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Pointing AI at archives found a forgotten meteorite, lost rhinos, and more</title>
       <link>https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</link>
-      <description>&lt;p&gt;Pointing AI at archives found a forgotten meteorite, lost rhinos, and more&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pointing AI at archives found a forgotten meteorite, lost rhinos, and more&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 147&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50019056</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 11:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Can you use autoregressive diffusion to generate market data?</title>
+      <link>https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</link>
+      <description>&lt;p&gt;Can you use autoregressive diffusion to generate market data?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 90&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50021410</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 14:56:13 +0000</pubDate>
     </item>
     <item>
       <title>[📰] a16z’s Olivia Moore on the state of consumer AI</title>
@@ -257,10 +248,18 @@
     <item>
       <title>[📰] Typesafe AI raises $870M at $7.5B</title>
       <link>https://typesafe.ai/blog/series-ai</link>
-      <description>&lt;p&gt;Typesafe AI raises $870M at $7.5B&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 296&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Typesafe AI raises $870M at $7.5B&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 376&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50023450</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 17:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] What mathematicians should know about the Lean Theorem Prover: reliability &amp; AI</title>
+      <link>https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</link>
+      <description>&lt;p&gt;What mathematicians should know about the Lean Theorem Prover: reliability &amp; AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 119&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50024090</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 09 Oct 2026 17:42:12 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI disqualification yields new Nikon Small World in Motion winner</title>
@@ -296,7 +295,7 @@
       <description>&lt;p&gt;&lt;p&gt;OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/"&gt;OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 20:05:07 +0000</pubDate>
     </item>
@@ -307,14 +306,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic AI model submits false tip on unsolved Philly murder</title>
-      <link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</link>
-      <description>&lt;p&gt;Anthropic AI model submits false tip on unsolved Philly murder&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50027118</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 09 Oct 2026 22:00:35 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Ukraine’s drones knock out AI data center belonging to "Russia’s Google"</title>
@@ -333,6 +324,25 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text</title>
+      <link>https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/"&gt;Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 10 Oct 2026 04:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model</title>
+      <link>https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&amp;#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/microsoft-ai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 10 Oct 2026 06:03:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

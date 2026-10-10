@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+    "description": "<p>Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/microsoft-ai-r...",
+    "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T06:03:09+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+    "description": "<p>Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/\">Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+    "source_link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T04:51:34+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
     "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
@@ -22,17 +44,6 @@
     "published": "2026-10-09T22:04:07+00:00"
   },
   {
-    "id": "hn-50027118",
-    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "description": "Anthropic AI model submits false tip on unsolved Philly murder",
-    "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-    "source_link": "https://news.ycombinator.com/item?id=50027118",
-    "engagement": "\ud83d\udc4d 89",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T22:00:35+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-1",
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
@@ -44,7 +55,7 @@
     "published": "2026-10-09T21:41:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
     "description": "<p>OpenAI\u2019s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/\">OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
@@ -88,12 +99,23 @@
     "published": "2026-10-09T18:44:06+00:00"
   },
   {
+    "id": "hn-50024090",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "description": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source_link": "https://news.ycombinator.com/item?id=50024090",
+    "engagement": "\ud83d\udc4d 119",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T17:42:12+00:00"
+  },
+  {
     "id": "hn-50023450",
     "title": "Typesafe AI raises $870M at $7.5B",
     "description": "Typesafe AI raises $870M at $7.5B",
     "link": "https://typesafe.ai/blog/series-ai",
     "source_link": "https://news.ycombinator.com/item?id=50023450",
-    "engagement": "\ud83d\udc4d 296",
+    "engagement": "\ud83d\udc4d 376",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T17:02:31+00:00"
@@ -143,26 +165,26 @@
     "published": "2026-10-09T15:43:33+00:00"
   },
   {
+    "id": "hn-50021410",
+    "title": "Can you use autoregressive diffusion to generate market data?",
+    "description": "Can you use autoregressive diffusion to generate market data?",
+    "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+    "source_link": "https://news.ycombinator.com/item?id=50021410",
+    "engagement": "\ud83d\udc4d 90",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T14:56:13+00:00"
+  },
+  {
     "id": "hn-50019056",
     "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
     "description": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
     "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
     "source_link": "https://news.ycombinator.com/item?id=50019056",
-    "engagement": "\ud83d\udc4d 116",
+    "engagement": "\ud83d\udc4d 147",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T11:36:20+00:00"
-  },
-  {
-    "id": "hn-50018817",
-    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-    "description": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "source_link": "https://news.ycombinator.com/item?id=50018817",
-    "engagement": "\ud83d\udc4d 385",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T11:03:48+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -176,7 +198,7 @@
     "published": "2026-10-09T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
     "description": "<p>Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/\">Google Cloud Launches Gemin...",
     "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
@@ -187,7 +209,7 @@
     "published": "2026-10-09T06:47:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
     "description": "<p>Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/\">Google Research RRSI Guide: Mastering Self-Improving AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
@@ -220,7 +242,7 @@
     "published": "2026-10-08T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
     "description": "<p>Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/\">Arc...",
     "link": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
@@ -231,7 +253,7 @@
     "published": "2026-10-08T08:53:34+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
     "description": "<p>NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/\">NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes</a> appeared first on <a href=\"https://www....",
     "link": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
@@ -251,17 +273,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-08T08:17:32+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
-    "description": "<p>Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/\">Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model a...",
-    "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
-    "source_link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T05:39:09+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
