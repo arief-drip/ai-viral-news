@@ -1,6 +1,50 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+    "description": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source_link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T21:47:51+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+    "description": "<p>In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/\">When the Safety Test Became the Threat: The Machine That Found ...",
+    "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+    "source_link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T21:30:36+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "description": "Is Apple hoping to get into the AI-generated podcast business?",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source_link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T19:50:00+00:00"
+  },
+  {
+    "id": "hn-50035886",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "description": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "source_link": "https://news.ycombinator.com/item?id=50035886",
+    "engagement": "\ud83d\udc4d 91",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T18:48:35+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "Here are the top AI agents that can live in your text messages\u00a0",
     "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -16,13 +60,13 @@
     "description": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
     "link": "https://github.com/rociiu/talorys",
     "source_link": "https://news.ycombinator.com/item?id=50031614",
-    "engagement": "\ud83d\udc4d 138",
+    "engagement": "\ud83d\udc4d 226",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-10T10:52:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
     "description": "<p>Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/microsoft-ai-r...",
     "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
@@ -33,7 +77,7 @@
     "published": "2026-10-10T06:03:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
     "description": "<p>Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/\">Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
@@ -44,7 +88,7 @@
     "published": "2026-10-10T04:51:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
     "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -53,6 +97,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-10T00:18:32+00:00"
+  },
+  {
+    "id": "hn-50027257",
+    "title": "Recent AI models struggled to match a human algorithmic innovation",
+    "description": "Recent AI models struggled to match a human algorithmic innovation",
+    "link": "https://epoch.ai/publications/innovationeval",
+    "source_link": "https://news.ycombinator.com/item?id=50027257",
+    "engagement": "\ud83d\udc4d 60",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-09T22:14:40+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -66,7 +121,7 @@
     "published": "2026-10-09T22:04:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -77,7 +132,7 @@
     "published": "2026-10-09T21:41:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
     "description": "<p>OpenAI\u2019s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/\">OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
@@ -99,7 +154,7 @@
     "published": "2026-10-09T19:43:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
@@ -121,18 +176,7 @@
     "published": "2026-10-09T18:44:06+00:00"
   },
   {
-    "id": "hn-50024090",
-    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "description": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "source_link": "https://news.ycombinator.com/item?id=50024090",
-    "engagement": "\ud83d\udc4d 167",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T17:42:12+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
@@ -143,7 +187,7 @@
     "published": "2026-10-09T16:56:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "Amazon drops data center NDAs, and AI agents want your credit card",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
@@ -152,39 +196,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T16:53:02+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
-    "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source_link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T16:40:14+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
-    "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source_link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T15:43:33+00:00"
-  },
-  {
-    "id": "hn-50021410",
-    "title": "Can you use autoregressive diffusion to generate market data?",
-    "description": "Can you use autoregressive diffusion to generate market data?",
-    "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-    "source_link": "https://news.ycombinator.com/item?id=50021410",
-    "engagement": "\ud83d\udc4d 153",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T14:56:13+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -198,7 +209,7 @@
     "published": "2026-10-09T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
     "description": "<p>Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/\">Google Cloud Launches Gemin...",
     "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
@@ -209,7 +220,7 @@
     "published": "2026-10-09T06:47:56+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
     "description": "<p>Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/\">Google Research RRSI Guide: Mastering Self-Improving AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
@@ -242,7 +253,7 @@
     "published": "2026-10-08T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
     "description": "<p>Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/\">Arc...",
     "link": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
@@ -251,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-08T08:53:34+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
-    "description": "<p>NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/\">NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes</a> appeared first on <a href=\"https://www....",
-    "link": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
-    "source_link": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-08T08:40:02+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
