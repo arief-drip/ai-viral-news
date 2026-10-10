@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Here are the top AI agents that can live in your text messages\u00a0",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source_link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T14:00:00+00:00"
+  },
+  {
+    "id": "hn-50031614",
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "description": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "link": "https://github.com/rociiu/talorys",
+    "source_link": "https://news.ycombinator.com/item?id=50031614",
+    "engagement": "\ud83d\udc4d 138",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-10T10:52:09+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
     "description": "<p>Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/microsoft-ai-r...",
@@ -22,7 +44,7 @@
     "published": "2026-10-10T04:51:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
     "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. ",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -44,7 +66,7 @@
     "published": "2026-10-09T22:04:07+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "description": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs. ",
     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
@@ -77,7 +99,7 @@
     "published": "2026-10-09T19:43:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
@@ -104,24 +126,13 @@
     "description": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
     "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
     "source_link": "https://news.ycombinator.com/item?id=50024090",
-    "engagement": "\ud83d\udc4d 119",
+    "engagement": "\ud83d\udc4d 167",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T17:42:12+00:00"
   },
   {
-    "id": "hn-50023450",
-    "title": "Typesafe AI raises $870M at $7.5B",
-    "description": "Typesafe AI raises $870M at $7.5B",
-    "link": "https://typesafe.ai/blog/series-ai",
-    "source_link": "https://news.ycombinator.com/item?id=50023450",
-    "engagement": "\ud83d\udc4d 376",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T17:02:31+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
@@ -132,7 +143,7 @@
     "published": "2026-10-09T16:56:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Amazon drops data center NDAs, and AI agents want your credit card",
     "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
     "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
@@ -143,7 +154,7 @@
     "published": "2026-10-09T16:53:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
     "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
     "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
@@ -154,7 +165,7 @@
     "published": "2026-10-09T16:40:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
     "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
@@ -170,21 +181,10 @@
     "description": "Can you use autoregressive diffusion to generate market data?",
     "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
     "source_link": "https://news.ycombinator.com/item?id=50021410",
-    "engagement": "\ud83d\udc4d 90",
+    "engagement": "\ud83d\udc4d 153",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T14:56:13+00:00"
-  },
-  {
-    "id": "hn-50019056",
-    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "description": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "source_link": "https://news.ycombinator.com/item?id=50019056",
-    "engagement": "\ud83d\udc4d 147",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T11:36:20+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
