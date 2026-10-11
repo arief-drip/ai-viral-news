@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-50047422",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "description": "The gap in shared understanding of LLM capability is widening",
+    "link": "https://twitter.com/karpathy/status/2109361546505966046",
+    "source_link": "https://news.ycombinator.com/item?id=50047422",
+    "engagement": "\ud83d\udc4d 144",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-11T20:20:52+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
@@ -20,6 +31,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-11T14:00:00+00:00"
+  },
+  {
+    "id": "hn-50039092",
+    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+    "description": "500B tokens later: Letting AI agents decompile a first-person shooter",
+    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source_link": "https://news.ycombinator.com/item?id=50039092",
+    "engagement": "\ud83d\udc4d 133",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-11T02:02:38+00:00"
   },
   {
     "id": "rss-MarkTechPost-0",
@@ -75,17 +97,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-10T14:00:00+00:00"
-  },
-  {
-    "id": "hn-50031614",
-    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-    "description": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-    "link": "https://github.com/rociiu/talorys",
-    "source_link": "https://news.ycombinator.com/item?id=50031614",
-    "engagement": "\ud83d\udc4d 314",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-10T10:52:09+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -165,28 +176,6 @@
     "published": "2026-10-09T19:43:50+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "source_link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T19:36:56+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
-    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "source_link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T16:56:42+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
     "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn\u2019t&#8230;",
@@ -207,17 +196,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T06:47:56+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-    "description": "<p>Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/\">Google Research RRSI Guide: Mastering Self-Improving AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-    "source_link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T05:06:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
