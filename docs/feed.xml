@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 23:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:03:45 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -137,15 +137,6 @@
       <pubDate>Thu, 08 Oct 2026 08:17:32 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference</title>
-      <link>https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/</link>
-      <description>&lt;p&gt;&lt;p&gt;Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it is quite simple message: swap a base URL, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/"&gt;Arc...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 08 Oct 2026 08:53:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] AI breakthroughs in robotics won’t change your life any time soon</title>
       <link>https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/</link>
       <description>&lt;p&gt;The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -167,7 +158,7 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/"&gt;Google Research RRSI Guide: Mastering Self-Improving AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 05:06:17 +0000</pubDate>
     </item>
@@ -176,7 +167,7 @@
       <link>https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/</link>
       <description>&lt;p&gt;&lt;p&gt;Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For developers, the agent is [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/"&gt;Google Cloud Launches Gemin...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 06:47:56 +0000</pubDate>
     </item>
@@ -238,7 +229,7 @@
       <description>&lt;p&gt;&lt;p&gt;OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/"&gt;OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 20:05:07 +0000</pubDate>
     </item>
@@ -263,7 +254,7 @@
     <item>
       <title>[📰] Recent AI models struggled to match a human algorithmic innovation</title>
       <link>https://epoch.ai/publications/innovationeval</link>
-      <description>&lt;p&gt;Recent AI models struggled to match a human algorithmic innovation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recent AI models struggled to match a human algorithmic innovation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 82&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50027257</guid>
       <category>AI News</category>
       <pubDate>Fri, 09 Oct 2026 22:14:40 +0000</pubDate>
@@ -282,7 +273,7 @@
       <description>&lt;p&gt;&lt;p&gt;Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/"&gt;Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 04:51:34 +0000</pubDate>
     </item>
@@ -291,14 +282,14 @@
       <link>https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&amp;#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/microsoft-ai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 06:03:09 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Talorys – A self-hosted personal AI agent on Cloudflare's free tier</title>
       <link>https://github.com/rociiu/talorys</link>
-      <description>&lt;p&gt;Talorys – A self-hosted personal AI agent on Cloudflare's free tier&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 226&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Talorys – A self-hosted personal AI agent on Cloudflare's free tier&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 259&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50031614</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 10:52:09 +0000</pubDate>
@@ -314,7 +305,7 @@
     <item>
       <title>[📰] Nvidia in talks to acquire US 'open' model startup Reflection AI</title>
       <link>https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</link>
-      <description>&lt;p&gt;Nvidia in talks to acquire US 'open' model startup Reflection AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 91&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nvidia in talks to acquire US 'open' model startup Reflection AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50035886</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 18:48:35 +0000</pubDate>
@@ -332,7 +323,7 @@
       <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
       <description>&lt;p&gt;&lt;p&gt;In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/"&gt;When the Safety Test Became the Threat: The Machine That Found ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
     </item>
@@ -343,6 +334,16 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors</title>
+      <link>https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"&gt;Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 10 Oct 2026 22:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
