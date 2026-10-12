@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 03:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:28:41 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker</title>
       <link>https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/</link>
@@ -171,16 +171,6 @@
       <pubDate>Fri, 09 Oct 2026 19:43:50 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</title>
-      <link>https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/"&gt;OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 09 Oct 2026 20:05:07 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
       <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
       <description>&lt;p&gt;What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -212,7 +202,7 @@
       <description>&lt;p&gt;&lt;p&gt;Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/"&gt;Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 04:51:34 +0000</pubDate>
     </item>
@@ -221,7 +211,7 @@
       <link>https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/</link>
       <description>&lt;p&gt;&lt;p&gt;Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&amp;#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/09/microsoft-ai-r...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 06:03:09 +0000</pubDate>
     </item>
@@ -246,7 +236,7 @@
       <link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/</link>
       <description>&lt;p&gt;&lt;p&gt;In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/"&gt;When the Safety Test Became the Threat: The Machine That Found ...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
     </item>
@@ -264,17 +254,9 @@
       <description>&lt;p&gt;&lt;p&gt;Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/"&gt;Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 10 Oct 2026 22:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] 500B tokens later: Letting AI agents decompile a first-person shooter</title>
-      <link>https://momo5502.com/posts/2026-10-09-game-decompilation/</link>
-      <description>&lt;p&gt;500B tokens later: Letting AI agents decompile a first-person shooter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 178&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50039092</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 11 Oct 2026 02:02:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
@@ -295,10 +277,20 @@
     <item>
       <title>[📰] The gap in shared understanding of LLM capability is widening</title>
       <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-      <description>&lt;p&gt;The gap in shared understanding of LLM capability is widening&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 285&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The gap in shared understanding of LLM capability is widening&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 490&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50047422</guid>
       <category>AI News</category>
       <pubDate>Sun, 11 Oct 2026 20:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing</title>
+      <link>https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/"&gt;Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 12 Oct 2026 08:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

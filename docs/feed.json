@@ -1,11 +1,22 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+    "description": "<p>We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/\">Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+    "source_link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T08:20:49+00:00"
+  },
+  {
     "id": "hn-50047422",
     "title": "The gap in shared understanding of LLM capability is widening",
     "description": "The gap in shared understanding of LLM capability is widening",
     "link": "https://twitter.com/karpathy/status/2109361546505966046",
     "source_link": "https://news.ycombinator.com/item?id=50047422",
-    "engagement": "\ud83d\udc4d 285",
+    "engagement": "\ud83d\udc4d 490",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-11T20:20:52+00:00"
@@ -33,18 +44,7 @@
     "published": "2026-10-11T14:00:00+00:00"
   },
   {
-    "id": "hn-50039092",
-    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-    "description": "500B tokens later: Letting AI agents decompile a first-person shooter",
-    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "source_link": "https://news.ycombinator.com/item?id=50039092",
-    "engagement": "\ud83d\udc4d 178",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-11T02:02:38+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Sakana AI\u2019s LLM Peer Review System Catches 73% of Core-Claim Errors",
     "description": "<p>Sakana AI\u2019s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/\">Sakana AI\u2019s LLM Peer Review System Catches 73% of Core-Claim Errors</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
@@ -66,7 +66,7 @@
     "published": "2026-10-10T21:47:51+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
     "description": "<p>In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/\">When the Safety Test Became the Threat: The Machine That Found ...",
     "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
@@ -99,7 +99,7 @@
     "published": "2026-10-10T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
     "description": "<p>Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba&#8217;s Qwen3.5-9B and available now in Microsoft Foundry and OpenRouter. . TL;DR What is a decision model? A [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/microsoft-ai-r...",
     "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
@@ -110,7 +110,7 @@
     "published": "2026-10-10T06:03:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
     "description": "<p>Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/\">Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
@@ -152,17 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-09T21:41:29+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-    "description": "<p>OpenAI\u2019s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/\">OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-    "source_link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T20:05:07+00:00"
   },
   {
     "id": "rss-Ars Technica AI-1",
