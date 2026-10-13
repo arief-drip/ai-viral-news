@@ -1,5 +1,60 @@
 [
   {
+    "id": "hn-50065932",
+    "title": "A look at OpenAI\u2019s math that\u2019s claimed computes faster Fourier transforms",
+    "description": "A look at OpenAI\u2019s math that\u2019s claimed computes faster Fourier transforms",
+    "link": "https://www.argmin.net/p/faster-fourier-transforms",
+    "source_link": "https://news.ycombinator.com/item?id=50065932",
+    "engagement": "\ud83d\udc4d 54",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-13T02:46:43+00:00"
+  },
+  {
+    "id": "hn-50063427",
+    "title": "AI is a tool and using it well takes skill",
+    "description": "AI is a tool and using it well takes skill",
+    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "source_link": "https://news.ycombinator.com/item?id=50063427",
+    "engagement": "\ud83d\udc4d 281",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T21:40:18+00:00"
+  },
+  {
+    "id": "hn-50063365",
+    "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+    "description": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "source_link": "https://news.ycombinator.com/item?id=50063365",
+    "engagement": "\ud83d\udc4d 125",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T21:35:35+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "description": "\n                        \"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.\n                    ",
+    "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "source_link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T20:59:50+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "description": "\n                        \u201cI may have information regarding this case,\" Claude AI told Philly police.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T18:21:36+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
     "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
@@ -9,17 +64,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-12T17:19:14+00:00"
-  },
-  {
-    "id": "hn-50059523",
-    "title": "AI coding agents generate more code, but not more software",
-    "description": "AI coding agents generate more code, but not more software",
-    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "source_link": "https://news.ycombinator.com/item?id=50059523",
-    "engagement": "\ud83d\udc4d 199",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-12T17:14:01+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -60,7 +104,7 @@
     "description": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
     "link": "https://taylor.town/kk-ai-2026",
     "source_link": "https://news.ycombinator.com/item?id=50057668",
-    "engagement": "\ud83d\udc4d 87",
+    "engagement": "\ud83d\udc4d 157",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-12T15:16:45+00:00"
@@ -88,17 +132,6 @@
     "published": "2026-10-12T12:30:39+00:00"
   },
   {
-    "id": "hn-50054751",
-    "title": "QGIS enacts moratorium on AI contributions",
-    "description": "QGIS enacts moratorium on AI contributions",
-    "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "source_link": "https://news.ycombinator.com/item?id=50054751",
-    "engagement": "\ud83d\udc4d 345",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-12T11:22:24+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-0",
     "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
     "description": "<p>We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/\">Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -108,6 +141,17 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-12T08:20:49+00:00"
+  },
+  {
+    "id": "hn-50049588",
+    "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "description": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "link": "https://github.com/SaarthurR/atticus-mac",
+    "source_link": "https://news.ycombinator.com/item?id=50049588",
+    "engagement": "\ud83d\udc4d 87",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-12T00:15:12+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -163,17 +207,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-10T04:51:34+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
-    "description": "\n                        One damaged data center has supercomputers used for training Yandex\u2019s AI model.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "source_link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-09T22:04:07+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
