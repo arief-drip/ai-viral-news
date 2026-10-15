@@ -1,6 +1,72 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "AI agents are coming to Rivian\u2019s cars",
+    "description": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source_link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T15:02:36+00:00"
+  },
+  {
+    "id": "hn-50104654",
+    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "description": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "source_link": "https://news.ycombinator.com/item?id=50104654",
+    "engagement": "\ud83d\udc4d 66",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T14:58:48+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+    "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source_link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T14:29:33+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+    "description": "<p>Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent...",
+    "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+    "source_link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T14:19:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+    "description": "<p>At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and Intelligent Space</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/\">openKylin Ou...",
+    "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+    "source_link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T13:23:45+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+    "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "source_link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-15T12:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
     "description": "<p>TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/\">TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
@@ -11,7 +77,7 @@
     "published": "2026-10-15T05:45:03+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. ",
     "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -22,9 +88,9 @@
     "published": "2026-10-15T01:01:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post\u2014whether it involves AI-generated misinformation, hate speech, or a damaging rumor\u2014can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the \u201cstorm tracker for the internet,\u201d [&#8230;]",
+    "description": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \u201cstorm tracker for the internet,\u201d is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
     "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "source_link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -33,7 +99,7 @@
     "published": "2026-10-15T00:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
     "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
     "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
@@ -44,7 +110,7 @@
     "published": "2026-10-14T18:23:46+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
     "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
     "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
@@ -53,17 +119,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-14T18:00:00+00:00"
-  },
-  {
-    "id": "hn-50091788",
-    "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
-    "description": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
-    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "source_link": "https://news.ycombinator.com/item?id=50091788",
-    "engagement": "\ud83d\udc4d 890",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T17:45:23+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -88,51 +143,7 @@
     "published": "2026-10-14T16:41:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "source_link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T15:16:04+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
-    "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "source_link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T15:13:24+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "source_link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T15:08:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Floqer\u2019s AI agents research sales prospects so teams don\u2019t have to",
-    "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "source_link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T15:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
     "description": "<p>Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/\">9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
@@ -143,7 +154,7 @@
     "published": "2026-10-14T08:57:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
     "description": "<p>Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/\">Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
@@ -154,7 +165,7 @@
     "published": "2026-10-14T07:50:40+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
     "description": "<p>Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/\">Google Releases Gemini 4 Argon API With 1M Token Output Limit</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
@@ -174,28 +185,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-13T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
-    "description": "<p>Z.ai\u2019s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey\u2019s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/\">Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
-    "source_link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-13T08:19:54+00:00"
-  },
-  {
-    "id": "hn-50067325",
-    "title": "Ask HN: CAD for wood working with LLM support?",
-    "description": "Ask HN: CAD for wood working with LLM support?",
-    "link": "https://news.ycombinator.com/item?id=50067325",
-    "source_link": "https://news.ycombinator.com/item?id=50067325",
-    "engagement": "\ud83d\udc4d 71",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-13T05:54:01+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:00:05 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity</title>
       <link>https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/</link>
@@ -153,24 +153,6 @@
       <pubDate>Mon, 12 Oct 2026 12:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ask HN: CAD for wood working with LLM support?</title>
-      <link>https://news.ycombinator.com/item?id=50067325</link>
-      <description>&lt;p&gt;Ask HN: CAD for wood working with LLM support?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 71&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50067325</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 13 Oct 2026 05:54:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB</title>
-      <link>https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/"&gt;Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 13 Oct 2026 08:19:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] AI labs are buying data from dead startups to train their models</title>
       <link>https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/</link>
       <description>&lt;p&gt;When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -184,7 +166,7 @@
       <description>&lt;p&gt;&lt;p&gt;Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/"&gt;Google Releases Gemini 4 Argon API With 1M Token Output Limit&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 14 Oct 2026 05:03:34 +0000</pubDate>
     </item>
@@ -194,7 +176,7 @@
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/"&gt;Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 14 Oct 2026 07:50:40 +0000</pubDate>
     </item>
@@ -204,41 +186,9 @@
       <description>&lt;p&gt;&lt;p&gt;Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/"&gt;9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 14 Oct 2026 08:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Floqer’s AI agents research sales prospects so teams don’t have to</title>
-      <link>https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/</link>
-      <description>&lt;p&gt;The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 14 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace</title>
-      <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</link>
-      <description>&lt;p&gt;Zenzap is used by organizations including Starbucks and Taco Bell.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West</title>
-      <link>https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/</link>
-      <description>&lt;p&gt;Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 14 Oct 2026 15:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Deezer will soon let you filter out AI-generated music</title>
-      <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/</link>
-      <description>&lt;p&gt;Deezer said that the new toggle will be rolled out by the end of the year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 14 Oct 2026 15:16:04 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Recording device hidden in toilet paper found in top-secret OpenAI meeting room</title>
@@ -261,18 +211,10 @@
       <pubDate>Wed, 14 Oct 2026 17:10:15 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Containment and monitoring failures are to blame for AI hacking reports: experts</title>
-      <link>https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</link>
-      <description>&lt;p&gt;Containment and monitoring failures are to blame for AI hacking reports: experts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 890&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50091788</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 14 Oct 2026 17:45:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</title>
       <link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
       <description>&lt;p&gt;Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
     </item>
@@ -280,15 +222,15 @@
       <title>[📰] YouTube Music launches new labels as AI-generated music floods streaming platforms</title>
       <link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/</link>
       <description>&lt;p&gt;The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 14 Oct 2026 18:23:46 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
       <link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
-      <description>&lt;p&gt;Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <description>&lt;p&gt;Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -296,7 +238,7 @@
       <title>[📰] Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis</title>
       <link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/</link>
       <description>&lt;p&gt;The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
     </item>
@@ -306,9 +248,59 @@
       <description>&lt;p&gt;&lt;p&gt;TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/"&gt;TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 15 Oct 2026 05:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Amazon’s Bee launches two new personal AI devices, starting at $75</title>
+      <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
+      <description>&lt;p&gt;Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026</title>
+      <link>https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and Intelligent Space&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/"&gt;openKylin Ou...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 13:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data</title>
+      <link>https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/</link>
+      <description>&lt;p&gt;&lt;p&gt;Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 14:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s Universal Cart shopping tool launches in the US</title>
+      <link>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/</link>
+      <description>&lt;p&gt;The new shopping tool is available in the U.S. across Google Search and the Gemini app.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 14:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era</title>
+      <link>https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</link>
+      <description>&lt;p&gt;Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 66&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50104654</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 14:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI agents are coming to Rivian’s cars</title>
+      <link>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</link>
+      <description>&lt;p&gt;We'll likely learn more about how this will work at the company's upcoming "AI &amp;#038; Autonomy Day" event in December.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
