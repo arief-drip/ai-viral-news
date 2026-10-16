@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+    "description": "<p>Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/\">Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-16T06:26:41+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
     "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -66,17 +77,6 @@
     "published": "2026-10-15T15:02:36+00:00"
   },
   {
-    "id": "hn-50104299",
-    "title": "Using AI to reverse engineer hardware",
-    "description": "Using AI to reverse engineer hardware",
-    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "source_link": "https://news.ycombinator.com/item?id=50104299",
-    "engagement": "\ud83d\udc4d 122",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-15T14:35:15+00:00"
-  },
-  {
     "id": "rss-TechCrunch AI-6",
     "title": "Google\u2019s Universal Cart shopping tool launches in the US",
     "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
@@ -88,7 +88,7 @@
     "published": "2026-10-15T14:29:33+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
     "description": "<p>Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter most, often hundreds or thousands of hand-written [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent...",
     "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
@@ -99,7 +99,7 @@
     "published": "2026-10-15T14:19:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
     "description": "<p>At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and Intelligent Space</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/\">openKylin Ou...",
     "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
@@ -121,7 +121,7 @@
     "published": "2026-10-15T12:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
     "description": "<p>TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042 per million input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/\">TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
@@ -132,7 +132,7 @@
     "published": "2026-10-15T05:45:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
     "description": "<p>Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/\">9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
@@ -141,28 +141,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-14T08:57:28+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
-    "description": "<p>Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/\">Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
-    "source_link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T07:50:40+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-    "description": "<p>Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/\">Google Releases Gemini 4 Argon API With 1M Token Output Limit</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
-    "source_link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-14T05:03:34+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
