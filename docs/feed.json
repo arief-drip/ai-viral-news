@@ -1,5 +1,27 @@
 [
   {
+    "id": "hn-50132502",
+    "title": "OpenAI discloses four more rogue incidents",
+    "description": "OpenAI discloses four more rogue incidents",
+    "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+    "source_link": "https://news.ycombinator.com/item?id=50132502",
+    "engagement": "\ud83d\udc4d 57",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-17T16:31:12+00:00"
+  },
+  {
+    "id": "hn-50132278",
+    "title": "Amazon uses AI to monitor union risk in UK warehouses",
+    "description": "Amazon uses AI to monitor union risk in UK warehouses",
+    "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+    "source_link": "https://news.ycombinator.com/item?id=50132278",
+    "engagement": "\ud83d\udc4d 92",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-17T16:04:23+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
     "description": "<p>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-...",
@@ -11,23 +33,12 @@
     "published": "2026-10-17T08:53:58+00:00"
   },
   {
-    "id": "hn-50129121",
-    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "description": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-    "source_link": "https://news.ycombinator.com/item?id=50129121",
-    "engagement": "\ud83d\udc4d 400",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-17T08:37:46+00:00"
-  },
-  {
     "id": "hn-50129045",
     "title": "DeepSeek-v4.1-Flash-1017",
     "description": "DeepSeek-v4.1-Flash-1017",
     "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "source_link": "https://news.ycombinator.com/item?id=50129045",
-    "engagement": "\ud83d\udc4d 302",
+    "engagement": "\ud83d\udc4d 464",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-17T08:21:25+00:00"
@@ -49,7 +60,7 @@
     "description": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
     "link": "https://llmspeed.dev/",
     "source_link": "https://news.ycombinator.com/item?id=50127979",
-    "engagement": "\ud83d\udc4d 160",
+    "engagement": "\ud83d\udc4d 204",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-17T04:36:53+00:00"
@@ -99,23 +110,12 @@
     "published": "2026-10-16T20:20:07+00:00"
   },
   {
-    "id": "hn-50122951",
-    "title": "How the Claude Code team does code review",
-    "description": "How the Claude Code team does code review",
-    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "source_link": "https://news.ycombinator.com/item?id=50122951",
-    "engagement": "\ud83d\udc4d 407",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-16T19:04:47+00:00"
-  },
-  {
     "id": "hn-50122800",
     "title": "Claude reveals ECDSA curve origins",
     "description": "Claude reveals ECDSA curve origins",
     "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
     "source_link": "https://news.ycombinator.com/item?id=50122800",
-    "engagement": "\ud83d\udc4d 941",
+    "engagement": "\ud83d\udc4d 989",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-16T18:55:59+00:00"
@@ -126,21 +126,10 @@
     "description": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
     "link": "https://github.com/cobanov/PS5LM",
     "source_link": "https://news.ycombinator.com/item?id=50122431",
-    "engagement": "\ud83d\udc4d 323",
+    "engagement": "\ud83d\udc4d 352",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-16T18:32:35+00:00"
-  },
-  {
-    "id": "hn-50121939",
-    "title": "Designing more efficient quantum circuits with Claude",
-    "description": "Designing more efficient quantum circuits with Claude",
-    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "source_link": "https://news.ycombinator.com/item?id=50121939",
-    "engagement": "\ud83d\udc4d 158",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-16T18:00:18+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -163,17 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-16T17:52:24+00:00"
-  },
-  {
-    "id": "hn-50121179",
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "description": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "source_link": "https://news.ycombinator.com/item?id=50121179",
-    "engagement": "\ud83d\udc4d 552",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-16T17:08:38+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
