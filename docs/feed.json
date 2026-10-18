@@ -1,8 +1,30 @@
 [
   {
+    "id": "hn-50145337",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "description": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "link": "https://arxiv.org/abs/2610.18861",
+    "source_link": "https://news.ycombinator.com/item?id=50145337",
+    "engagement": "\ud83d\udc4d 62",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-18T20:48:14+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+    "description": "<p>An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/\">TinyFish Makes Search Free: What It Really Costs an A...",
+    "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+    "source_link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-18T18:20:28+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-    "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI\u2019s former CEO Karandeep Anand recently became the entertainment giant\u2019s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal [&#8230;]",
+    "description": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "source_link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -27,7 +49,7 @@
     "description": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
     "link": "https://api-docs.deepseek.com/guides/search/",
     "source_link": "https://news.ycombinator.com/item?id=50138531",
-    "engagement": "\ud83d\udc4d 450",
+    "engagement": "\ud83d\udc4d 507",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-18T06:50:36+00:00"
@@ -38,13 +60,13 @@
     "description": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
     "link": "https://sphinx-six-theta.vercel.app/",
     "source_link": "https://news.ycombinator.com/item?id=50137950",
-    "engagement": "\ud83d\udc4d 218",
+    "engagement": "\ud83d\udc4d 236",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-18T04:33:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
     "description": "<p>Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/\">Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
@@ -77,7 +99,7 @@
     "published": "2026-10-17T18:48:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
     "description": "<p>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-...",
     "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
@@ -88,7 +110,7 @@
     "published": "2026-10-17T08:53:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
     "description": "<p>TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s Strands Labs and independent developers. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/\">20 Jev Alter...",
     "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
@@ -99,7 +121,7 @@
     "published": "2026-10-17T07:26:39+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
     "description": "<p>Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams building coding or browsing agents, this is a production-tested isolation [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-micro...",
     "link": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
@@ -209,18 +231,7 @@
     "published": "2026-10-16T15:33:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-    "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" ",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source_link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-16T14:26:51+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
     "description": "<p>Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/\">Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
