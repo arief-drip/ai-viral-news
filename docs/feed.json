@@ -1,11 +1,33 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+    "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI\u2019s former CEO Karandeep Anand recently became the entertainment giant\u2019s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal [&#8230;]",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source_link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-18T16:30:00+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+    "description": "\n                        The outside watchdog can publish its findings without Anthropic's approval.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "source_link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-18T16:25:19+00:00"
+  },
+  {
     "id": "hn-50138531",
     "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
     "description": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
     "link": "https://api-docs.deepseek.com/guides/search/",
     "source_link": "https://news.ycombinator.com/item?id=50138531",
-    "engagement": "\ud83d\udc4d 372",
+    "engagement": "\ud83d\udc4d 450",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-18T06:50:36+00:00"
@@ -16,7 +38,7 @@
     "description": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
     "link": "https://sphinx-six-theta.vercel.app/",
     "source_link": "https://news.ycombinator.com/item?id=50137950",
-    "engagement": "\ud83d\udc4d 195",
+    "engagement": "\ud83d\udc4d 218",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-18T04:33:49+00:00"
@@ -33,7 +55,7 @@
     "published": "2026-10-18T04:06:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Meta removes language that raised scraping and AI training concerns",
     "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -44,7 +66,7 @@
     "published": "2026-10-17T21:31:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -64,17 +86,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-17T08:53:58+00:00"
-  },
-  {
-    "id": "hn-50129045",
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "description": "DeepSeek-v4.1-Flash-1017",
-    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "source_link": "https://news.ycombinator.com/item?id=50129045",
-    "engagement": "\ud83d\udc4d 911",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-17T08:21:25+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -99,7 +110,7 @@
     "published": "2026-10-17T00:09:12+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "description": "\n                        The actions could have resulted in criminal charges had humans been behind the keyboard.\n                    ",
     "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -110,7 +121,7 @@
     "published": "2026-10-16T20:59:01+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
+    "id": "rss-Ars Technica AI-2",
     "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
     "description": "\n                        Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
@@ -132,7 +143,7 @@
     "published": "2026-10-16T18:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "India becomes the latest country to report rogue AI agent activity",
     "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -143,7 +154,7 @@
     "published": "2026-10-16T17:52:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
     "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
     "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
@@ -154,7 +165,7 @@
     "published": "2026-10-16T16:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
     "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
     "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
@@ -165,7 +176,7 @@
     "published": "2026-10-16T16:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
     "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.\u00a0",
     "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
@@ -176,7 +187,7 @@
     "published": "2026-10-16T16:01:37+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-2",
+    "id": "rss-Ars Technica AI-3",
     "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
     "description": "\n                        Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.\n                    ",
     "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
@@ -187,7 +198,7 @@
     "published": "2026-10-16T15:41:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
     "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
@@ -198,7 +209,7 @@
     "published": "2026-10-16T15:33:49+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
     "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\" ",
     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
