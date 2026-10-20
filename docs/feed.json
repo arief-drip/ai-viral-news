@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+    "description": "<p>Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/\">Cloudflare Releases Clairic, a System One Extraction Model on Workers AI</a> appeared first on <a href=\"https://www.marktechpost.com\">Mark...",
+    "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+    "source_link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T07:45:41+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+    "description": "<p>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception\u2019s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/\">Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+    "source_link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T03:32:43+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
@@ -11,7 +33,7 @@
     "published": "2026-10-20T01:27:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
     "description": "<p>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/\">Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
@@ -27,7 +49,7 @@
     "description": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
     "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
     "source_link": "https://news.ycombinator.com/item?id=50159341",
-    "engagement": "\ud83d\udc4d 52",
+    "engagement": "\ud83d\udc4d 401",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T23:22:18+00:00"
@@ -154,6 +176,17 @@
     "published": "2026-10-19T16:59:22+00:00"
   },
   {
+    "id": "hn-50154244",
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "description": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "source_link": "https://news.ycombinator.com/item?id=50154244",
+    "engagement": "\ud83d\udc4d 228",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-19T16:16:46+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-8",
     "title": "People are using AI to make their smart TVs dumb again",
     "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
@@ -163,17 +196,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T16:13:22+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-2",
-    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-    "description": "\n                        Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T14:45:43+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -192,7 +214,7 @@
     "description": "Ask HN: How to deal with shipping AI-written code you don't understand?",
     "link": "https://news.ycombinator.com/item?id=50151036",
     "source_link": "https://news.ycombinator.com/item?id=50151036",
-    "engagement": "\ud83d\udc4d 288",
+    "engagement": "\ud83d\udc4d 429",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T11:24:34+00:00"
@@ -209,7 +231,7 @@
     "published": "2026-10-19T09:08:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
     "description": "<p>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/\">NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
@@ -220,7 +242,7 @@
     "published": "2026-10-19T03:19:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3",
     "description": "<p>Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/\">Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
@@ -231,7 +253,7 @@
     "published": "2026-10-19T01:18:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
     "description": "<p>An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/\">TinyFish Makes Search Free: What It Really Costs an A...",
     "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
@@ -242,7 +264,7 @@
     "published": "2026-10-18T18:20:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
     "description": "<p>Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/\">Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
@@ -251,17 +273,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-18T04:06:33+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
-    "description": "<p>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-...",
-    "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
-    "source_link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-17T08:53:58+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
