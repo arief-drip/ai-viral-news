@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:44:26 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing</title>
       <link>https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/</link>
@@ -129,20 +129,11 @@
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026</title>
-      <link>https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/</link>
-      <description>&lt;p&gt;&lt;p&gt;TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&amp;#8217;s Strands Labs and independent developers. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/"&gt;20 Jev Alter...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 17 Oct 2026 07:26:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API</title>
       <link>https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/</link>
       <description>&lt;p&gt;&lt;p&gt;DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 17 Oct 2026 08:53:58 +0000</pubDate>
     </item>
@@ -152,7 +143,7 @@
       <description>&lt;p&gt;&lt;p&gt;Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/"&gt;Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 18 Oct 2026 04:06:33 +0000</pubDate>
     </item>
@@ -161,7 +152,7 @@
       <link>https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</link>
       <description>&lt;p&gt;&lt;p&gt;An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/"&gt;TinyFish Makes Search Free: What It Really Costs an A...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 18 Oct 2026 18:20:28 +0000</pubDate>
     </item>
@@ -171,7 +162,7 @@
       <description>&lt;p&gt;&lt;p&gt;Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/"&gt;Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 01:18:17 +0000</pubDate>
     </item>
@@ -181,7 +172,7 @@
       <description>&lt;p&gt;&lt;p&gt;NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/"&gt;NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 03:19:18 +0000</pubDate>
     </item>
@@ -194,28 +185,12 @@
       <pubDate>Mon, 19 Oct 2026 09:08:05 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Timestral: Mistral's time-series foundation models</title>
-      <link>https://mistral.ai/news/timestral/</link>
-      <description>&lt;p&gt;Timestral: Mistral's time-series foundation models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 522&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50150434</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 19 Oct 2026 09:59:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Ask HN: How to deal with shipping AI-written code you don't understand?</title>
       <link>https://news.ycombinator.com/item?id=50151036</link>
-      <description>&lt;p&gt;Ask HN: How to deal with shipping AI-written code you don't understand?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 206&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ask HN: How to deal with shipping AI-written code you don't understand?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 288&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50151036</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 11:24:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
-      <link>https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
-      <description>&lt;p&gt;University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-9</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 19 Oct 2026 12:30:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 477: In which I tell the IMF the Singularity has begun</title>
@@ -236,26 +211,10 @@
       <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] CERN and Mistral sign a statement of intent to establish a strategic partnership</title>
-      <link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/</link>
-      <description>&lt;p&gt;CERN and Mistral sign a statement of intent to establish a strategic partnership&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 301&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50153630</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 19 Oct 2026 15:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nvidia launches new open models to run agents in the enterprise and on PCs </title>
-      <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
-      <description>&lt;p&gt;Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] People are using AI to make their smart TVs dumb again</title>
       <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
       <description>&lt;p&gt;Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 16:13:22 +0000</pubDate>
     </item>
@@ -268,14 +227,6 @@
       <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 16:59:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Mercury 3: Diffusion at scale</title>
-      <link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
-      <description>&lt;p&gt;Mercury 3: Diffusion at scale&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 206&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50155245</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 19 Oct 2026 17:27:11 +0000</pubDate>
     </item>
     <item>
       <title>[📰] “We were looking at it wrong”: The explosive claim that’s upended the AI world</title>
@@ -297,7 +248,7 @@
       <title>[📰] Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
       <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
       <description>&lt;p&gt;After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 18:37:27 +0000</pubDate>
     </item>
@@ -305,7 +256,7 @@
       <title>[📰] Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</title>
       <link>https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</link>
       <description>&lt;p&gt;Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 18:49:04 +0000</pubDate>
     </item>
@@ -313,7 +264,7 @@
       <title>[📰] Tolan snags $30M for its AI companion that helps users navigate life</title>
       <link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</link>
       <description>&lt;p&gt;AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 19:00:12 +0000</pubDate>
     </item>
@@ -321,7 +272,7 @@
       <title>[📰] Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts</title>
       <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
       <description>&lt;p&gt;OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
     </item>
@@ -329,7 +280,7 @@
       <title>[📰] Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
       <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
       <description>&lt;p&gt;Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
     </item>
@@ -346,18 +297,44 @@
     <item>
       <title>[📰] Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
       <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <description>&lt;p&gt;Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <description>&lt;p&gt;Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
       <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-      <description>&lt;p&gt;AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&amp;#8217;s chief policy officer, during a discussion at TechCrunch [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <description>&lt;p&gt;The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+      <description>&lt;p&gt;WhatsApp's help pages hid LLM instructions: dont recommend a regulator&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50159341</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
+      <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/"&gt;Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 20 Oct 2026 00:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
+      <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
+      <description>&lt;p&gt;Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

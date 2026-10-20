@@ -1,8 +1,41 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source_link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T01:27:03+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+    "description": "<p>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/\">Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T00:03:38+00:00"
+  },
+  {
+    "id": "hn-50159341",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "description": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source_link": "https://news.ycombinator.com/item?id=50159341",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-19T23:22:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
-    "description": "AI labs have staked their reputations on model benchmarking \u2014 the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&#8217;s chief policy officer, during a discussion at TechCrunch [&#8230;]",
+    "description": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. ",
     "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "source_link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -11,9 +44,9 @@
     "published": "2026-10-19T22:49:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
-    "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
     "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "source_link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -33,7 +66,7 @@
     "published": "2026-10-19T20:21:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "description": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
     "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
@@ -44,7 +77,7 @@
     "published": "2026-10-19T20:09:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
     "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
     "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
@@ -55,7 +88,7 @@
     "published": "2026-10-19T19:28:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Tolan snags $30M for its AI companion that helps users navigate life",
     "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
     "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
@@ -66,7 +99,7 @@
     "published": "2026-10-19T19:00:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
     "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
     "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
@@ -77,7 +110,7 @@
     "published": "2026-10-19T18:49:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
     "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
@@ -110,17 +143,6 @@
     "published": "2026-10-19T17:45:55+00:00"
   },
   {
-    "id": "hn-50155245",
-    "title": "Mercury 3: Diffusion at scale",
-    "description": "Mercury 3: Diffusion at scale",
-    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "source_link": "https://news.ycombinator.com/item?id=50155245",
-    "engagement": "\ud83d\udc4d 206",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T17:27:11+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-1",
     "title": "AI game clones are making indie developers afraid to show their work",
     "description": "\n                        Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.\n                    ",
@@ -132,7 +154,7 @@
     "published": "2026-10-19T16:59:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "People are using AI to make their smart TVs dumb again",
     "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
@@ -141,28 +163,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T16:13:22+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs\u00a0",
-    "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "source_link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T15:37:09+00:00"
-  },
-  {
-    "id": "hn-50153630",
-    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-    "description": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-    "source_link": "https://news.ycombinator.com/item?id=50153630",
-    "engagement": "\ud83d\udc4d 301",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T15:28:24+00:00"
   },
   {
     "id": "rss-Ars Technica AI-2",
@@ -187,37 +187,15 @@
     "published": "2026-10-19T12:31:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. ",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source_link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T12:30:00+00:00"
-  },
-  {
     "id": "hn-50151036",
     "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
     "description": "Ask HN: How to deal with shipping AI-written code you don't understand?",
     "link": "https://news.ycombinator.com/item?id=50151036",
     "source_link": "https://news.ycombinator.com/item?id=50151036",
-    "engagement": "\ud83d\udc4d 206",
+    "engagement": "\ud83d\udc4d 288",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T11:24:34+00:00"
-  },
-  {
-    "id": "hn-50150434",
-    "title": "Timestral: Mistral's time-series foundation models",
-    "description": "Timestral: Mistral's time-series foundation models",
-    "link": "https://mistral.ai/news/timestral/",
-    "source_link": "https://news.ycombinator.com/item?id=50150434",
-    "engagement": "\ud83d\udc4d 522",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T09:59:32+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -231,7 +209,7 @@
     "published": "2026-10-19T09:08:05+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
     "description": "<p>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/\">NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
@@ -242,7 +220,7 @@
     "published": "2026-10-19T03:19:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3",
     "description": "<p>Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/\">Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google\u2019s TimesFM-3</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
@@ -253,7 +231,7 @@
     "published": "2026-10-19T01:18:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
     "description": "<p>An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyFish, a web infrastructure [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/\">TinyFish Makes Search Free: What It Really Costs an A...",
     "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
@@ -264,7 +242,7 @@
     "published": "2026-10-18T18:20:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
     "description": "<p>Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/\">Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
@@ -275,7 +253,7 @@
     "published": "2026-10-18T04:06:33+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
     "description": "<p>DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement in performance and cost. Alongside it, DeepSeek opened its Search and [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-...",
     "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
@@ -284,17 +262,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-17T08:53:58+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-    "description": "<p>TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s Strands Labs and independent developers. [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/\">20 Jev Alter...",
-    "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-    "source_link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-17T07:26:39+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
