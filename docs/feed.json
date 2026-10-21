@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+    "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "source_link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-21T14:00:00+00:00"
+  },
+  {
+    "id": "hn-50180836",
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "description": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "link": "https://www.wiz.io/blog/php2shell-php-rce",
+    "source_link": "https://news.ycombinator.com/item?id=50180836",
+    "engagement": "\ud83d\udc4d 335",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-21T13:43:19+00:00"
+  },
+  {
+    "id": "hn-50179857",
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "description": "LayerFS: The filesystem for AI coding agents",
+    "link": "https://layerfs.ai/",
+    "source_link": "https://news.ycombinator.com/item?id=50179857",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-21T12:34:46+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
     "description": "<p>Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/\">Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -22,7 +55,7 @@
     "published": "2026-10-21T04:33:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -33,7 +66,7 @@
     "published": "2026-10-20T23:01:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
     "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
@@ -44,7 +77,7 @@
     "published": "2026-10-20T22:24:02+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "SpaceX\u2019s AI business is beating expectations",
     "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine. ",
     "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -55,7 +88,7 @@
     "published": "2026-10-20T20:40:41+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
     "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. ",
     "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
@@ -88,7 +121,7 @@
     "published": "2026-10-20T20:00:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
     "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. ",
     "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
@@ -99,7 +132,7 @@
     "published": "2026-10-20T18:38:24+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "ChatGPT now lets you lock your chats",
     "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat. ",
     "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
@@ -110,7 +143,7 @@
     "published": "2026-10-20T18:36:53+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
     "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
     "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
@@ -119,17 +152,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-20T17:12:48+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
-    "description": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity.\u00a0",
-    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "source_link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-20T16:20:06+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",
@@ -174,17 +196,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-20T12:00:00+00:00"
-  },
-  {
-    "id": "hn-50163277",
-    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "description": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "link": "https://github.com/deepseek-ai/DeepInfer",
-    "source_link": "https://news.ycombinator.com/item?id=50163277",
-    "engagement": "\ud83d\udc4d 2,241",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-20T09:08:54+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
