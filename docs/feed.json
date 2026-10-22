@@ -11,6 +11,17 @@
     "published": "2026-10-21T22:51:22+00:00"
   },
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+    "description": "<p>Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/\">Vercel Open-Sources durable-harness for Crash-Proof Coding Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+    "source_link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-21T22:15:39+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-1",
     "title": "Meta says Muse has over 10M users, with shopping a top activity",
     "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
@@ -60,7 +71,7 @@
     "description": "Claude Duet",
     "link": "https://claude.com/product/claude-duet",
     "source_link": "https://news.ycombinator.com/item?id=50186037",
-    "engagement": "\ud83d\udc4d 263",
+    "engagement": "\ud83d\udc4d 322",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-21T19:14:01+00:00"
@@ -89,6 +100,17 @@
   },
   {
     "id": "rss-TechCrunch AI-4",
+    "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+    "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source_link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-21T17:59:12+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-5",
     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
     "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.\u00a0",
     "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
@@ -99,7 +121,7 @@
     "published": "2026-10-21T17:18:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
     "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
     "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
@@ -115,7 +137,7 @@
     "description": "Using thousands of AI agents to uncover new leads in biological data",
     "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
     "source_link": "https://news.ycombinator.com/item?id=50180752",
-    "engagement": "\ud83d\udc4d 123",
+    "engagement": "\ud83d\udc4d 136",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-21T13:37:00+00:00"
@@ -126,13 +148,13 @@
     "description": "OpenAI models are coming to Google Cloud",
     "link": "https://openai.com/index/openai-models-google-cloud/",
     "source_link": "https://news.ycombinator.com/item?id=50180079",
-    "engagement": "\ud83d\udc4d 204",
+    "engagement": "\ud83d\udc4d 245",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-21T12:53:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
     "description": "<p>Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/\">Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
@@ -143,7 +165,7 @@
     "published": "2026-10-21T06:03:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
     "description": "<p>Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/\">Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPo...",
     "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
@@ -154,7 +176,7 @@
     "published": "2026-10-21T04:33:40+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "description": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -165,7 +187,7 @@
     "published": "2026-10-20T23:01:23+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
     "description": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
@@ -198,7 +220,7 @@
     "published": "2026-10-20T15:20:25+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
     "description": "<p>DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/\">DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
@@ -231,7 +253,7 @@
     "published": "2026-10-20T09:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
     "description": "<p>Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/\">Cloudflare Releases Clairic, a System One Extraction Model on Workers AI</a> appeared first on <a href=\"https://www.marktechpost.com\">Mark...",
     "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
@@ -242,7 +264,7 @@
     "published": "2026-10-20T07:45:41+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
     "description": "<p>Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception\u2019s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/\">Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
@@ -253,7 +275,7 @@
     "published": "2026-10-20T03:32:43+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
     "description": "<p>Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/\">Meet Drex Max: Nace AI\u2019s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
@@ -306,17 +328,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-19T09:08:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
-    "description": "<p>NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/\">NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
-    "source_link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T03:19:18+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-6",
