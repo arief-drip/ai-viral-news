@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:57:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:09:25 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing</title>
       <link>https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/</link>
@@ -150,7 +150,7 @@
       <description>&lt;p&gt;&lt;p&gt;IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/"&gt;IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 22 Oct 2026 07:00:56 +0000</pubDate>
     </item>
@@ -189,7 +189,7 @@
     <item>
       <title>[📰] Every AI model has the same "controversial" take on humans</title>
       <link>https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans</link>
-      <description>&lt;p&gt;Every AI model has the same "controversial" take on humans&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 404&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Every AI model has the same "controversial" take on humans&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 569&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50197313</guid>
       <category>AI News</category>
       <pubDate>Thu, 22 Oct 2026 16:08:00 +0000</pubDate>
@@ -208,14 +208,14 @@
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/"&gt;Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 22 Oct 2026 17:33:25 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenShell – A safe, private runtime for fleets of autonomous AI agents</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
-      <description>&lt;p&gt;OpenShell – A safe, private runtime for fleets of autonomous AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 389&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenShell – A safe, private runtime for fleets of autonomous AI agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 466&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50198675</guid>
       <category>AI News</category>
       <pubDate>Thu, 22 Oct 2026 17:44:06 +0000</pubDate>
@@ -255,7 +255,7 @@
     <item>
       <title>[📰] Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?</title>
       <link>https://news.ycombinator.com/item?id=50200997</link>
-      <description>&lt;p&gt;Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 130&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 362&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50200997</guid>
       <category>AI News</category>
       <pubDate>Thu, 22 Oct 2026 21:03:55 +0000</pubDate>
@@ -308,7 +308,7 @@
       <description>&lt;p&gt;&lt;p&gt;You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/"&gt;You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 05:28:21 +0000</pubDate>
     </item>
@@ -318,9 +318,18 @@
       <description>&lt;p&gt;&lt;p&gt;Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/"&gt;Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 06:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</title>
+      <link>https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/</link>
+      <description>&lt;p&gt;&lt;p&gt;TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/"&gt;TinyFish Breaks Down Agentic Search Architecture for Production AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 23 Oct 2026 08:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

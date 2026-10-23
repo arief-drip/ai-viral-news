@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-MarkTechPost-0",
+    "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+    "description": "<p>TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/\">TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</a> appeared first on <a href=\"https://www...",
+    "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+    "source_link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-23T08:58:47+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
     "description": "<p>Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/\">Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
@@ -11,7 +22,7 @@
     "published": "2026-10-23T06:05:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
     "description": "<p>You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/\">You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
@@ -82,7 +93,7 @@
     "description": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
     "link": "https://news.ycombinator.com/item?id=50200997",
     "source_link": "https://news.ycombinator.com/item?id=50200997",
-    "engagement": "\ud83d\udc4d 130",
+    "engagement": "\ud83d\udc4d 362",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T21:03:55+00:00"
@@ -137,13 +148,13 @@
     "description": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
     "link": "https://github.com/NVIDIA/OpenShell",
     "source_link": "https://news.ycombinator.com/item?id=50198675",
-    "engagement": "\ud83d\udc4d 389",
+    "engagement": "\ud83d\udc4d 466",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T17:44:06+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
     "description": "<p>Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/\">Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
@@ -170,7 +181,7 @@
     "description": "Every AI model has the same \"controversial\" take on humans",
     "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
     "source_link": "https://news.ycombinator.com/item?id=50197313",
-    "engagement": "\ud83d\udc4d 404",
+    "engagement": "\ud83d\udc4d 569",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T16:08:00+00:00"
@@ -220,7 +231,7 @@
     "published": "2026-10-22T08:41:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
     "description": "<p>IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/\">IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
