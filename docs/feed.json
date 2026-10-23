@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source_link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-23T00:45:37+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -22,7 +33,18 @@
     "published": "2026-10-22T21:17:29+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-Ars Technica AI-0",
+    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+    "description": "\n                        Comcast plans job cuts and more AI agents for its shrinking cable customer base.\n                    ",
+    "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+    "source_link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-22T21:07:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. ",
     "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -33,7 +55,7 @@
     "published": "2026-10-22T19:07:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -55,7 +77,7 @@
     "published": "2026-10-22T18:48:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
     "description": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -66,48 +88,15 @@
     "published": "2026-10-22T18:43:53+00:00"
   },
   {
-    "id": "hn-50199290",
-    "title": "Show HN: UI micro interactions prompts for AI",
-    "description": "Show HN: UI micro interactions prompts for AI",
-    "link": "https://www.typeui.sh/micro-interactions",
-    "source_link": "https://news.ycombinator.com/item?id=50199290",
-    "engagement": "\ud83d\udc4d 66",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T18:32:57+00:00"
-  },
-  {
-    "id": "hn-50199232",
-    "title": "Award-winning AI literature",
-    "description": "Award-winning AI literature",
-    "link": "https://jamesyu.org/award-winning-ai-literature/",
-    "source_link": "https://news.ycombinator.com/item?id=50199232",
-    "engagement": "\ud83d\udc4d 54",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T18:28:26+00:00"
-  },
-  {
     "id": "hn-50199230",
     "title": "AI and the Enclosure of the Scientific Commons",
     "description": "AI and the Enclosure of the Scientific Commons",
     "link": "https://arxiv.org/abs/2610.27251",
     "source_link": "https://news.ycombinator.com/item?id=50199230",
-    "engagement": "\ud83d\udc4d 91",
+    "engagement": "\ud83d\udc4d 116",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T18:28:16+00:00"
-  },
-  {
-    "id": "hn-50198940",
-    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "description": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-    "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-    "source_link": "https://news.ycombinator.com/item?id=50198940",
-    "engagement": "\ud83d\udc4d 72",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T18:02:54+00:00"
   },
   {
     "id": "hn-50198675",
@@ -115,7 +104,7 @@
     "description": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
     "link": "https://github.com/NVIDIA/OpenShell",
     "source_link": "https://news.ycombinator.com/item?id=50198675",
-    "engagement": "\ud83d\udc4d 245",
+    "engagement": "\ud83d\udc4d 314",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T17:44:06+00:00"
@@ -132,7 +121,7 @@
     "published": "2026-10-22T17:33:25+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
     "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
     "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
@@ -148,13 +137,13 @@
     "description": "Every AI model has the same \"controversial\" take on humans",
     "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
     "source_link": "https://news.ycombinator.com/item?id=50197313",
-    "engagement": "\ud83d\udc4d 161",
+    "engagement": "\ud83d\udc4d 254",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T16:08:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
     "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.  ",
     "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
@@ -165,7 +154,7 @@
     "published": "2026-10-22T16:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
     "description": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service.",
     "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
@@ -176,7 +165,7 @@
     "published": "2026-10-22T15:03:58+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Claude Duet app is Anthropic\u2019s bet on agents",
     "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
     "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -185,17 +174,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T13:53:26+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Nirva raises $33M for a pendant that only listens to you",
-    "description": "Nirva will ship its $249 ambient AI pendant by the end of the year. ",
-    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "source_link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T13:26:52+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
