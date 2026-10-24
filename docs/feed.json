@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-50218633",
+    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "description": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "source_link": "https://news.ycombinator.com/item?id=50218633",
+    "engagement": "\ud83d\udc4d 71",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-24T05:49:57+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
     "description": "<p>Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/\">Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -198,17 +209,6 @@
     "published": "2026-10-22T08:41:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
-    "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
-    "description": "<p>IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/\">IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-    "source_link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T07:00:56+00:00"
-  },
-  {
     "id": "rss-HuggingFace Blog-0",
     "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "description": "",
@@ -218,6 +218,17 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-21T18:26:30+00:00"
+  },
+  {
+    "id": "hn-50171379",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "description": "A practical guide to AI image generation, from diffusion to agents",
+    "link": "https://danielball.com/notes/ai_image_generation.html",
+    "source_link": "https://news.ycombinator.com/item?id=50171379",
+    "engagement": "\ud83d\udc4d 70",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T19:22:39+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
