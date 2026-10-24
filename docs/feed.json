@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+    "description": "<p>Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/\">Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+    "source_link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-23T23:26:53+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+    "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. ",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source_link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-23T23:05:49+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+    "description": "<p>Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/\">Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.<...",
+    "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-23T22:52:40+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026\u00a0",
     "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
@@ -11,7 +44,7 @@
     "published": "2026-10-23T19:06:23+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
     "description": "<p>TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/\">TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</a> appeared first on <a href=\"https://www...",
     "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
@@ -22,7 +55,7 @@
     "published": "2026-10-23T08:58:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
     "description": "<p>Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/\">Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
@@ -33,7 +66,7 @@
     "published": "2026-10-23T06:05:10+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
     "description": "<p>You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/\">You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
@@ -44,7 +77,7 @@
     "published": "2026-10-23T05:28:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -55,7 +88,7 @@
     "published": "2026-10-23T04:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Left alone with nothing to do, AI agents started playing",
     "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -66,7 +99,7 @@
     "published": "2026-10-23T00:45:37+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -88,18 +121,7 @@
     "published": "2026-10-22T21:17:29+00:00"
   },
   {
-    "id": "hn-50200997",
-    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "description": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "link": "https://news.ycombinator.com/item?id=50200997",
-    "source_link": "https://news.ycombinator.com/item?id=50200997",
-    "engagement": "\ud83d\udc4d 581",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T21:03:55+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. ",
     "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -110,7 +132,7 @@
     "published": "2026-10-22T19:07:09+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
@@ -132,7 +154,7 @@
     "published": "2026-10-22T18:48:04+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-7",
     "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
     "description": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -143,7 +165,7 @@
     "published": "2026-10-22T18:43:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
     "description": "<p>Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/\">Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
@@ -152,17 +174,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T17:33:25+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "source_link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T16:47:17+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -187,7 +198,7 @@
     "published": "2026-10-22T08:41:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
     "description": "<p>IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/\">IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
