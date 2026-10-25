@@ -1,25 +1,36 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+    "description": "<p>Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/\">How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+    "source_link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-25T02:30:18+00:00"
+  },
+  {
+    "id": "hn-50227356",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "description": "Cerebras Deploys Trillion-Parameter AI Models",
+    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source_link": "https://news.ycombinator.com/item?id=50227356",
+    "engagement": "\ud83d\udc4d 142",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-25T01:33:49+00:00"
+  },
+  {
     "id": "hn-50226419",
     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "description": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
     "source_link": "https://news.ycombinator.com/item?id=50226419",
-    "engagement": "\ud83d\udc4d 183",
+    "engagement": "\ud83d\udc4d 341",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-24T23:11:54+00:00"
-  },
-  {
-    "id": "hn-50224463",
-    "title": "No signs of AI payoff outside the tech sector",
-    "description": "No signs of AI payoff outside the tech sector",
-    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "source_link": "https://news.ycombinator.com/item?id=50224463",
-    "engagement": "\ud83d\udc4d 492",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T19:47:19+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -31,6 +42,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-24T19:00:00+00:00"
+  },
+  {
+    "id": "hn-50223647",
+    "title": "Why is AI generated language so hard to understand?",
+    "description": "Why is AI generated language so hard to understand?",
+    "link": "https://arxiv.org/abs/2610.29162",
+    "source_link": "https://news.ycombinator.com/item?id=50223647",
+    "engagement": "\ud83d\udc4d 196",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-24T18:04:57+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -55,7 +77,7 @@
     "published": "2026-10-24T14:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Meet Anthropic\u2019s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
     "description": "<p>Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/\">Meet Anthropic\u2019s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechP...",
     "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
@@ -66,7 +88,7 @@
     "published": "2026-10-24T11:12:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
     "description": "<p>Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/\">Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, a...",
     "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
@@ -77,7 +99,7 @@
     "published": "2026-10-24T10:29:31+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
     "description": "<p>Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/\">Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
@@ -99,7 +121,7 @@
     "published": "2026-10-23T23:05:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
     "description": "<p>Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/\">Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.<...",
     "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
@@ -121,7 +143,7 @@
     "published": "2026-10-23T19:06:23+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
     "description": "<p>TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/\">TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</a> appeared first on <a href=\"https://www...",
     "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
@@ -132,7 +154,7 @@
     "published": "2026-10-23T08:58:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
     "description": "<p>Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/\">Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
@@ -141,17 +163,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-23T06:05:10+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
-    "description": "<p>You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/\">You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-    "source_link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-23T05:28:21+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -209,17 +220,6 @@
     "published": "2026-10-22T18:48:04+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
-    "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
-    "description": "<p>Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/\">Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-    "source_link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T17:33:25+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-2",
     "title": "Making the case for context-aware AI",
     "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
@@ -251,6 +251,17 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-21T18:26:30+00:00"
+  },
+  {
+    "id": "hn-50171379",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "description": "A practical guide to AI image generation, from diffusion to agents",
+    "link": "https://danielball.com/notes/ai_image_generation.html",
+    "source_link": "https://news.ycombinator.com/item?id=50171379",
+    "engagement": "\ud83d\udc4d 263",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-20T19:22:39+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-4",
