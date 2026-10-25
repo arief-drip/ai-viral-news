@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 08:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:18:18 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing</title>
       <link>https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/</link>
@@ -137,14 +137,6 @@
       <pubDate>Tue, 20 Oct 2026 15:20:25 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A practical guide to AI image generation, from diffusion to agents</title>
-      <link>https://danielball.com/notes/ai_image_generation.html</link>
-      <description>&lt;p&gt;A practical guide to AI image generation, from diffusion to agents&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 263&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50171379</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 20 Oct 2026 19:22:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
       <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
@@ -185,18 +177,10 @@
       <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-      <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-      <description>&lt;p&gt;Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Left alone with nothing to do, AI agents started playing</title>
       <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
       <description>&lt;p&gt;MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
     </item>
@@ -204,34 +188,15 @@
       <title>[📰] Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
       <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
       <description>&lt;p&gt;The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent</title>
-      <link>https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/"&gt;Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 23 Oct 2026 06:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] TinyFish Breaks Down Agentic Search Architecture for Production AI Agents</title>
-      <link>https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/</link>
-      <description>&lt;p&gt;&lt;p&gt;TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/"&gt;TinyFish Breaks Down Agentic Search Architecture for Production AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 23 Oct 2026 08:58:47 +0000</pubDate>
     </item>
     <item>
       <title>[📰] From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 </title>
       <link>https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</link>
       <description>&lt;p&gt;Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 19:06:23 +0000</pubDate>
     </item>
@@ -240,7 +205,7 @@
       <link>https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/</link>
       <description>&lt;p&gt;&lt;p&gt;Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/"&gt;Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 22:52:40 +0000</pubDate>
     </item>
@@ -248,7 +213,7 @@
       <title>[📰] OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
       <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
       <description>&lt;p&gt;OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
     </item>
@@ -258,7 +223,7 @@
       <description>&lt;p&gt;&lt;p&gt;Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/"&gt;Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 23 Oct 2026 23:26:53 +0000</pubDate>
     </item>
@@ -267,7 +232,7 @@
       <link>https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/</link>
       <description>&lt;p&gt;&lt;p&gt;Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/"&gt;Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, a...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 10:29:31 +0000</pubDate>
     </item>
@@ -276,7 +241,7 @@
       <link>https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/"&gt;Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechP...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 11:12:27 +0000</pubDate>
     </item>
@@ -284,7 +249,7 @@
       <title>[📰] Here are the top AI agents that can live in your text messages </title>
       <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
       <description>&lt;p&gt;We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
     </item>
@@ -292,30 +257,22 @@
       <title>[📰] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. </title>
       <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
       <description>&lt;p&gt;A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why is AI generated language so hard to understand?</title>
-      <link>https://arxiv.org/abs/2610.29162</link>
-      <description>&lt;p&gt;Why is AI generated language so hard to understand?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 196&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50223647</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The AI graveyard: a running list of projects and startups that didn’t make it</title>
       <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
       <description>&lt;p&gt;From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] America has lost 200k of jobs in media, film and the arts. How much is AI?</title>
       <link>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</link>
-      <description>&lt;p&gt;America has lost 200k of jobs in media, film and the arts. How much is AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 341&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;America has lost 200k of jobs in media, film and the arts. How much is AI?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 427&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50226419</guid>
       <category>AI News</category>
       <pubDate>Sat, 24 Oct 2026 23:11:54 +0000</pubDate>
@@ -323,7 +280,7 @@
     <item>
       <title>[📰] Cerebras Deploys Trillion-Parameter AI Models</title>
       <link>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</link>
-      <description>&lt;p&gt;Cerebras Deploys Trillion-Parameter AI Models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 142&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cerebras Deploys Trillion-Parameter AI Models&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 262&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50227356</guid>
       <category>AI News</category>
       <pubDate>Sun, 25 Oct 2026 01:33:49 +0000</pubDate>
@@ -334,9 +291,43 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/"&gt;How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sun, 25 Oct 2026 02:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nikon photography contest winner loses title after scientists spot signs of AI</title>
+      <link>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</link>
+      <description>&lt;p&gt;Nikon photography contest winner loses title after scientists spot signs of AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 72&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50229827</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 25 Oct 2026 09:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
+      <link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&amp;#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scan...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 25 Oct 2026 11:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</title>
+      <link>https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</link>
+      <description>&lt;p&gt;&lt;p&gt;Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/"&gt;Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster&lt;/a&gt; appear...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 25 Oct 2026 12:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The hottest AI wearables and gadgets you should know about</title>
+      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+      <description>&lt;p&gt;We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
