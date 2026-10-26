@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "description": "\n                        Included is the ability to limit which applications Siri can directly access.\n                    ",
+    "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "source_link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-26T20:04:16+00:00"
+  },
+  {
+    "id": "hn-50248124",
+    "title": "GPT-6.1 Terra",
+    "description": "GPT-6.1 Terra",
+    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "source_link": "https://news.ycombinator.com/item?id=50248124",
+    "engagement": "\ud83d\udc4d 458",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-26T18:01:17+00:00"
+  },
+  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Will the real Anthropic please stand up",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
@@ -24,7 +46,7 @@
   {
     "id": "rss-TechCrunch AI-1",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever.\n",
+    "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "source_link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -44,15 +66,15 @@
     "published": "2026-10-26T16:46:09+00:00"
   },
   {
-    "id": "hn-50246658",
-    "title": "Concerning behavior from a popular open-weight AI model",
-    "description": "Concerning behavior from a popular open-weight AI model",
-    "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-    "source_link": "https://news.ycombinator.com/item?id=50246658",
-    "engagement": "\ud83d\udc4d 52",
+    "id": "hn-50246238",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "description": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "link": "https://github.com/FrigadeHQ/hob",
+    "source_link": "https://news.ycombinator.com/item?id=50246238",
+    "engagement": "\ud83d\udc4d 84",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T16:35:44+00:00"
+    "published": "2026-10-26T16:12:29+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -64,17 +86,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T14:35:22+00:00"
-  },
-  {
-    "id": "hn-50242843",
-    "title": "Brown student maps the hidden global labor powering AI",
-    "description": "Brown student maps the hidden global labor powering AI",
-    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-    "source_link": "https://news.ycombinator.com/item?id=50242843",
-    "engagement": "\ud83d\udc4d 124",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T12:58:27+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -188,6 +199,17 @@
   },
   {
     "id": "rss-TechCrunch AI-6",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "source_link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-24T20:15:33+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-7",
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -198,7 +220,7 @@
     "published": "2026-10-24T19:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-8",
     "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.\u00a0",
     "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
@@ -207,17 +229,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-24T15:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Here are the top AI agents that can live in your text messages\u00a0",
-    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source_link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T14:00:00+00:00"
   },
   {
     "id": "rss-MarkTechPost-6",
