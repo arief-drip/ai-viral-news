@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work",
+    "description": "<p>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra\u2019s medium-effort Agents\u2019 Last Exam score at $0.29 per task versus $4.82.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/\">OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+    "source_link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T02:45:27+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source_link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T02:00:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+    "description": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.\n",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source_link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T01:12:21+00:00"
+  },
+  {
+    "id": "hn-50252159",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source_link": "https://news.ycombinator.com/item?id=50252159",
+    "engagement": "\ud83d\udc4d 89",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-26T22:41:48+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
     "description": "\n                        Included is the ability to limit which applications Siri can directly access.\n                    ",
@@ -16,7 +60,7 @@
     "description": "GPT-6.1 Terra",
     "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
     "source_link": "https://news.ycombinator.com/item?id=50248124",
-    "engagement": "\ud83d\udc4d 458",
+    "engagement": "\ud83d\udc4d 530",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T18:01:17+00:00"
@@ -33,7 +77,7 @@
     "published": "2026-10-26T17:45:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-2",
     "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "description": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -44,7 +88,7 @@
     "published": "2026-10-26T16:49:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-3",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
     "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
@@ -55,7 +99,7 @@
     "published": "2026-10-26T16:46:36+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
     "description": "<p>Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/\">Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
     "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
@@ -71,13 +115,13 @@
     "description": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
     "link": "https://github.com/FrigadeHQ/hob",
     "source_link": "https://news.ycombinator.com/item?id=50246238",
-    "engagement": "\ud83d\udc4d 84",
+    "engagement": "\ud83d\udc4d 124",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T16:12:29+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-4",
     "title": "Anthropic officially files for its public debut",
     "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
     "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
@@ -110,7 +154,7 @@
     "published": "2026-10-26T09:01:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
     "description": "<p>Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/\">Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
@@ -121,7 +165,7 @@
     "published": "2026-10-26T07:56:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-5",
     "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
     "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
     "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -132,7 +176,7 @@
     "published": "2026-10-25T21:31:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
     "description": "<p>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/\">Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
@@ -143,7 +187,7 @@
     "published": "2026-10-25T21:15:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-6",
     "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
     "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -154,7 +198,7 @@
     "published": "2026-10-25T16:57:32+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-7",
     "title": "The hottest AI wearables and gadgets you should know about",
     "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
     "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -165,7 +209,7 @@
     "published": "2026-10-25T14:10:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
     "description": "<p>Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/\">Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</a> appear...",
     "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
@@ -176,7 +220,7 @@
     "published": "2026-10-25T12:12:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
     "description": "<p>Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scan...",
     "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
@@ -187,7 +231,7 @@
     "published": "2026-10-25T11:32:29+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
     "description": "<p>Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/\">How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
@@ -198,7 +242,7 @@
     "published": "2026-10-25T02:30:18+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
+    "id": "rss-TechCrunch AI-8",
     "title": "Will AI expose the rickety infrastructure of the internet?",
     "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
     "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -209,7 +253,7 @@
     "published": "2026-10-24T20:15:33+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-7",
+    "id": "rss-TechCrunch AI-9",
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -218,28 +262,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-24T19:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.\u00a0",
-    "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "source_link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T15:00:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Meet Anthropic\u2019s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-    "description": "<p>Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/\">Meet Anthropic\u2019s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechP...",
-    "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-    "source_link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T11:12:27+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
