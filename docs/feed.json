@@ -1,17 +1,83 @@
 [
   {
+    "id": "hn-50260814",
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "description": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "source_link": "https://news.ycombinator.com/item?id=50260814",
+    "engagement": "\ud83d\udc4d 84",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T15:28:26+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source_link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T14:59:09+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source_link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+    "description": "<p>Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/\">Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T12:57:46+00:00"
+  },
+  {
+    "id": "hn-50257326",
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "description": "Wikipedia's Cleanup of AI-Generated Content",
+    "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "source_link": "https://news.ycombinator.com/item?id=50257326",
+    "engagement": "\ud83d\udc4d 278",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T11:08:15+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source_link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T11:00:00+00:00"
+  },
+  {
     "id": "hn-50255298",
     "title": "The Mythical Man-Month in the Age of AI",
     "description": "The Mythical Man-Month in the Age of AI",
     "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
     "source_link": "https://news.ycombinator.com/item?id=50255298",
-    "engagement": "\ud83d\udc4d 106",
+    "engagement": "\ud83d\udc4d 357",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-27T06:25:37+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work",
     "description": "<p>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra\u2019s medium-effort Agents\u2019 Last Exam score at $0.29 per task versus $4.82.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/\">OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
@@ -22,7 +88,7 @@
     "published": "2026-10-27T02:45:27+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent. ",
     "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -33,7 +99,7 @@
     "published": "2026-10-27T02:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
     "description": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.\n",
     "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
@@ -42,17 +108,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-27T01:12:21+00:00"
-  },
-  {
-    "id": "hn-50252159",
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "source_link": "https://news.ycombinator.com/item?id=50252159",
-    "engagement": "\ud83d\udc4d 135",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T22:41:48+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -66,20 +121,9 @@
     "published": "2026-10-26T20:04:16+00:00"
   },
   {
-    "id": "hn-50248124",
-    "title": "GPT-6.1 Terra",
-    "description": "GPT-6.1 Terra",
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "source_link": "https://news.ycombinator.com/item?id=50248124",
-    "engagement": "\ud83d\udc4d 586",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T18:01:17+00:00"
-  },
-  {
     "id": "rss-MIT Tech Review AI-0",
     "title": "Will the real Anthropic please stand up",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
     "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "source_link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "engagement": "\ud83d\udce1 MIT Tech Review AI",
@@ -88,7 +132,7 @@
     "published": "2026-10-26T17:45:43+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "description": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -99,7 +143,7 @@
     "published": "2026-10-26T16:49:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
     "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
@@ -110,7 +154,7 @@
     "published": "2026-10-26T16:46:36+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
     "description": "<p>Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/\">Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
     "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
@@ -119,17 +163,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T16:46:09+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Anthropic officially files for its public debut",
-    "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "source_link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T14:35:22+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-0",
@@ -154,7 +187,7 @@
     "published": "2026-10-26T09:01:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
     "description": "<p>Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/\">Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
@@ -165,18 +198,7 @@
     "published": "2026-10-26T07:56:45+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
-    "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source_link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-25T21:31:16+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
     "description": "<p>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/\">Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
@@ -187,29 +209,7 @@
     "published": "2026-10-25T21:15:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-    "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source_link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-25T16:57:32+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "source_link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-25T14:10:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
     "description": "<p>Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/\">Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</a> appear...",
     "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
@@ -220,7 +220,7 @@
     "published": "2026-10-25T12:12:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
     "description": "<p>Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scan...",
     "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
@@ -229,28 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-25T11:32:29+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "source_link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T20:15:33+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source_link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-24T19:00:00+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
@@ -339,17 +317,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-20T09:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-9",
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "source_link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-19T18:22:47+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
