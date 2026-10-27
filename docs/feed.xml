@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:27:34 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
       <link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
@@ -169,16 +169,6 @@
       <pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</title>
-      <link>https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</link>
-      <description>&lt;p&gt;&lt;p&gt;Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/"&gt;How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 25 Oct 2026 02:30:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
       <link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company&amp;#8217;s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 [&amp;#8230;]&lt;/p&gt;
@@ -265,14 +255,6 @@
       <pubDate>Mon, 26 Oct 2026 14:35:22 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT</title>
-      <link>https://github.com/FrigadeHQ/hob</link>
-      <description>&lt;p&gt;Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 124&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50246238</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 26 Oct 2026 16:12:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</title>
       <link>https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</link>
       <description>&lt;p&gt;&lt;p&gt;Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.&lt;/p&gt;
@@ -308,7 +290,7 @@
     <item>
       <title>[📰] GPT-6.1 Terra</title>
       <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
-      <description>&lt;p&gt;GPT-6.1 Terra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 530&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6.1 Terra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 586&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50248124</guid>
       <category>AI News</category>
       <pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
@@ -326,7 +308,7 @@
     <item>
       <title>[📰] Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)</title>
       <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
-      <description>&lt;p&gt;Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 89&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 135&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50252159</guid>
       <category>AI News</category>
       <pubDate>Mon, 26 Oct 2026 22:41:48 +0000</pubDate>
@@ -357,6 +339,14 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 02:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Mythical Man-Month in the Age of AI</title>
+      <link>https://j11g.com/the-mythical-man-month-in-the-age-of-ai</link>
+      <description>&lt;p&gt;The Mythical Man-Month in the Age of AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 106&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50255298</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 27 Oct 2026 06:25:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

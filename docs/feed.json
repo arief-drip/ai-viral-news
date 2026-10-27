@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-50255298",
+    "title": "The Mythical Man-Month in the Age of AI",
+    "description": "The Mythical Man-Month in the Age of AI",
+    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "source_link": "https://news.ycombinator.com/item?id=50255298",
+    "engagement": "\ud83d\udc4d 106",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-27T06:25:37+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work",
     "description": "<p>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra\u2019s medium-effort Agents\u2019 Last Exam score at $0.29 per task versus $4.82.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/\">OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -38,7 +49,7 @@
     "description": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
     "source_link": "https://news.ycombinator.com/item?id=50252159",
-    "engagement": "\ud83d\udc4d 89",
+    "engagement": "\ud83d\udc4d 135",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T22:41:48+00:00"
@@ -60,7 +71,7 @@
     "description": "GPT-6.1 Terra",
     "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
     "source_link": "https://news.ycombinator.com/item?id=50248124",
-    "engagement": "\ud83d\udc4d 530",
+    "engagement": "\ud83d\udc4d 586",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T18:01:17+00:00"
@@ -108,17 +119,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T16:46:09+00:00"
-  },
-  {
-    "id": "hn-50246238",
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "description": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "link": "https://github.com/FrigadeHQ/hob",
-    "source_link": "https://news.ycombinator.com/item?id=50246238",
-    "engagement": "\ud83d\udc4d 124",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T16:12:29+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -229,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-25T11:32:29+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-    "description": "<p>Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/\">How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-    "source_link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-25T02:30:18+00:00"
   },
   {
     "id": "rss-TechCrunch AI-8",
