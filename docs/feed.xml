@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:12:10 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
       <link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
@@ -145,21 +145,12 @@
       <pubDate>Thu, 22 Oct 2026 21:17:29 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</title>
-      <link>https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</link>
-      <description>&lt;p&gt;&lt;p&gt;Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/"&gt;Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster&lt;/a&gt; appear...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 25 Oct 2026 12:12:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
       <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
       <description>&lt;p&gt;&lt;p&gt;Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"&gt;Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 25 Oct 2026 21:15:21 +0000</pubDate>
     </item>
@@ -169,7 +160,7 @@
       <description>&lt;p&gt;&lt;p&gt;Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/"&gt;Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 26 Oct 2026 07:56:45 +0000</pubDate>
     </item>
@@ -194,7 +185,7 @@
       <link>https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</link>
       <description>&lt;p&gt;&lt;p&gt;Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/"&gt;Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;....&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 26 Oct 2026 16:46:09 +0000</pubDate>
     </item>
@@ -212,17 +203,9 @@
       <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/"&gt;OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 02:45:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Wikipedia's Cleanup of AI-Generated Content</title>
-      <link>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</link>
-      <description>&lt;p&gt;Wikipedia's Cleanup of AI-Generated Content&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 428&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50257326</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 27 Oct 2026 11:08:15 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</title>
@@ -230,47 +213,23 @@
       <description>&lt;p&gt;&lt;p&gt;Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&amp;#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/"&gt;Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 12:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Opera introduces a new web standard to let users deploy AI locally in their browser</title>
-      <link>https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/</link>
-      <description>&lt;p&gt;The new standard, WebAI, is designed to work with a variety of AI models.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace</title>
       <link>https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/</link>
       <description>&lt;p&gt;Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 14:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic trained Claude on illegally obtained Stanford professors' books</title>
-      <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
-      <description>&lt;p&gt;Anthropic trained Claude on illegally obtained Stanford professors' books&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 416&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50260814</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 27 Oct 2026 15:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Amazon Is Gutting Its AI Division After Sustained Failure</title>
-      <link>https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</link>
-      <description>&lt;p&gt;Amazon Is Gutting Its AI Division After Sustained Failure&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 203&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50261589</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 27 Oct 2026 16:25:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
       <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
       <description>&lt;p&gt;TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
     </item>
@@ -288,14 +247,14 @@
       <title>[📰] Disruptive raises $10B fund to make big bets on at least 10 companies</title>
       <link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
       <description>&lt;p&gt;Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Survival LLM: AI assistant and emergency library that runs on your own computer</title>
       <link>https://www.brangus.io/survival-llm</link>
-      <description>&lt;p&gt;Survival LLM: AI assistant and emergency library that runs on your own computer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Survival LLM: AI assistant and emergency library that runs on your own computer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 213&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50264853</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 19:55:06 +0000</pubDate>
@@ -303,7 +262,7 @@
     <item>
       <title>[📰] Early progress on accelerating drug development with Claude</title>
       <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-      <description>&lt;p&gt;Early progress on accelerating drug development with Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 73&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Early progress on accelerating drug development with Claude&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 153&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50265609</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 20:50:42 +0000</pubDate>
@@ -314,7 +273,7 @@
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/"&gt;Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 21:08:02 +0000</pubDate>
     </item>
@@ -332,7 +291,7 @@
       <title>[📰] Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
       <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
       <description>&lt;p&gt;The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
     </item>
@@ -347,12 +306,31 @@
       <pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB</title>
+      <link>https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/"&gt;Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 27 Oct 2026 21:54:37 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] The data center boom has an upside: innovation for the US grid</title>
       <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
       <description>&lt;p&gt;As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 27 Oct 2026 22:55:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <description>&lt;p&gt;A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
