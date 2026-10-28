@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+    "description": "<p>FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/\">Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+    "source_link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-28T08:18:03+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Meet Google DeepMind\u2019s Genie 4: Real-Time World Model With Native Audio",
+    "description": "<p>Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/\">Meet Google DeepMind&#8217;s Genie 4: Real-Time World Model With Native Audio</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-28T07:34:58+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
     "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.\n",
@@ -22,7 +44,7 @@
     "published": "2026-10-27T22:55:41+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
     "description": "<p>UC Berkeley\u2019s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/\">Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
@@ -66,7 +88,7 @@
     "published": "2026-10-27T21:31:14+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
     "description": "<p>Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/\">Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
@@ -82,7 +104,7 @@
     "description": "Early progress on accelerating drug development with Claude",
     "link": "https://www.anthropic.com/research/early-progress-drug-development",
     "source_link": "https://news.ycombinator.com/item?id=50265609",
-    "engagement": "\ud83d\udc4d 153",
+    "engagement": "\ud83d\udc4d 229",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-27T20:50:42+00:00"
@@ -93,7 +115,7 @@
     "description": "Survival LLM: AI assistant and emergency library that runs on your own computer",
     "link": "https://www.brangus.io/survival-llm",
     "source_link": "https://news.ycombinator.com/item?id=50264853",
-    "engagement": "\ud83d\udc4d 213",
+    "engagement": "\ud83d\udc4d 350",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-27T19:55:06+00:00"
@@ -143,7 +165,7 @@
     "published": "2026-10-27T14:59:09+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
     "description": "<p>Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/\">Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
@@ -154,7 +176,7 @@
     "published": "2026-10-27T12:57:46+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work",
     "description": "<p>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra\u2019s medium-effort Agents\u2019 Last Exam score at $0.29 per task versus $4.82.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/\">OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
@@ -176,7 +198,7 @@
     "published": "2026-10-26T17:45:43+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
     "description": "<p>Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/\">Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>....",
     "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
@@ -209,7 +231,7 @@
     "published": "2026-10-26T09:01:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-7",
     "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
     "description": "<p>Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/\">Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
@@ -218,17 +240,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-26T07:56:45+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-    "description": "<p>Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/\">Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-    "source_link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-25T21:15:21+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-2",
