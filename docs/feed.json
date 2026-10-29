@@ -1,5 +1,60 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+    "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem&#8230;",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source_link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-29T10:11:12+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+    "description": "<p>Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent\u2019s model and harness unchanged.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/\">Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+    "source_link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-29T08:24:52+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+    "description": "<p>Block\u2019s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/\">Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+    "source_link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-29T07:50:39+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
+    "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+    "description": "<p>NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/\">NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters</a> appeared first on <a href=\"h...",
+    "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+    "source_link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-29T04:41:24+00:00"
+  },
+  {
+    "id": "hn-50284255",
+    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+    "description": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+    "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "source_link": "https://news.ycombinator.com/item?id=50284255",
+    "engagement": "\ud83d\udc4d 390",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-29T03:33:42+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Google expands AI Search ads globally as core ad growth slows",
     "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
@@ -33,7 +88,7 @@
     "published": "2026-10-28T21:25:30+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "Creating AI value with enterprise context",
     "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -66,7 +121,7 @@
     "published": "2026-10-28T18:47:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-3",
     "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
     "description": "<p>Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/\">Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost...",
     "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
@@ -93,7 +148,7 @@
     "description": "Gemini 4 Carbon",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
     "source_link": "https://news.ycombinator.com/item?id=50276792",
-    "engagement": "\ud83d\udc4d 836",
+    "engagement": "\ud83d\udc4d 940",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-28T17:01:23+00:00"
@@ -137,13 +192,13 @@
     "description": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
     "link": "https://surgehq.ai/blog/dayjob-tax",
     "source_link": "https://news.ycombinator.com/item?id=50275626",
-    "engagement": "\ud83d\udc4d 214",
+    "engagement": "\ud83d\udc4d 237",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-28T15:46:30+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Pairing industrial AI autonomy and human\u00a0control",
     "description": "",
     "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -154,7 +209,7 @@
     "published": "2026-10-28T12:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-4",
     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
     "description": "<p>FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/\">Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
@@ -165,7 +220,7 @@
     "published": "2026-10-28T08:18:03+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-5",
     "title": "Meet Google DeepMind\u2019s Genie 4: Real-Time World Model With Native Audio",
     "description": "<p>Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/\">Meet Google DeepMind&#8217;s Genie 4: Real-Time World Model With Native Audio</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
@@ -176,7 +231,7 @@
     "published": "2026-10-28T07:34:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-6",
     "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
     "description": "<p>UC Berkeley\u2019s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/\">Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
@@ -187,7 +242,7 @@
     "published": "2026-10-27T21:54:37+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-7",
     "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
     "description": "<p>Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/\">Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
@@ -198,29 +253,18 @@
     "published": "2026-10-27T21:08:02+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
-    "description": "<p>Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/\">Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-    "source_link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
+    "id": "hn-50251200",
+    "title": "OpenAI's agents talked to each other through the CPU Cache",
+    "description": "OpenAI's agents talked to each other through the CPU Cache",
+    "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "source_link": "https://news.ycombinator.com/item?id=50251200",
+    "engagement": "\ud83d\udc4d 168",
+    "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-10-27T12:57:46+00:00"
+    "published": "2026-10-26T21:24:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
-    "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work",
-    "description": "<p>OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra\u2019s medium-effort Agents\u2019 Last Exam score at $0.29 per task versus $4.82.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/\">OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol\u2019s API Price for Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
-    "source_link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-27T02:45:27+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Will the real Anthropic please stand up",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
     "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
@@ -242,7 +286,7 @@
     "published": "2026-10-26T12:31:52+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "The focus on AI safety disasters ignores everyday harms",
     "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
     "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -253,7 +297,7 @@
     "published": "2026-10-26T09:01:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Designing an AI serving harness built to last",
     "description": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
     "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -264,7 +308,7 @@
     "published": "2026-10-22T21:17:29+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The Foundations of Scalable AI",
     "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
     "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
@@ -275,7 +319,7 @@
     "published": "2026-10-22T18:48:04+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Making the case for context-aware AI",
     "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
     "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -286,7 +330,7 @@
     "published": "2026-10-22T10:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-7",
+    "id": "rss-MIT Tech Review AI-8",
     "title": "AI\u2019s hidden storage bill: What inference leaves behind",
     "description": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s generated\u2014from billions of daily prompts, images, and videos\u2014needs&#8230;",
     "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
@@ -295,17 +339,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T08:41:18+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "The new economics of enterprise AI",
-    "description": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
-    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "source_link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-20T15:20:25+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
