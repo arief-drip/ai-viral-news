@@ -1,5 +1,60 @@
 [
   {
+    "id": "hn-50306008",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "description": "US tech stocks see sharp falls over AI cost fears",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "source_link": "https://news.ycombinator.com/item?id=50306008",
+    "engagement": "\ud83d\udc4d 73",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T16:13:02+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+    "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations. ",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source_link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T16:03:45+00:00"
+  },
+  {
+    "id": "hn-50305693",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "description": "AI isn't replacing SREs, it's deskilling them",
+    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source_link": "https://news.ycombinator.com/item?id=50305693",
+    "engagement": "\ud83d\udc4d 210",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T15:52:18+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+    "description": "DoorDash said that it is open to working with third-party agent makers.",
+    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "source_link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T13:54:25+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source_link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T13:00:00+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
     "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
     "description": "<p>Samaya AI\u2019s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1\u2019s 55.9% at $6.89.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/\">Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost</a> appeared first on <a href=\"htt...",
@@ -11,7 +66,18 @@
     "published": "2026-10-30T07:26:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-0",
+    "id": "hn-50300683",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "description": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "source_link": "https://news.ycombinator.com/item?id=50300683",
+    "engagement": "\ud83d\udc4d 408",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-30T07:09:12+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
     "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
     "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -22,7 +88,7 @@
     "published": "2026-10-30T01:20:48+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
     "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday. ",
     "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -33,29 +99,18 @@
     "published": "2026-10-29T23:42:22+00:00"
   },
   {
-    "id": "hn-50297697",
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "description": "Show HN: I Turned DOOM into a Transformer",
-    "link": "https://github.com/mottopanikeiku/doomformer",
-    "source_link": "https://news.ycombinator.com/item?id=50297697",
-    "engagement": "\ud83d\udc4d 94",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T23:25:46+00:00"
-  },
-  {
     "id": "hn-50296486",
     "title": "We ran AI agent swarms in Minecraft and Mindustry",
     "description": "We ran AI agent swarms in Minecraft and Mindustry",
     "link": "https://labs.ycombinator.com/projects/games/index.html",
     "source_link": "https://news.ycombinator.com/item?id=50296486",
-    "engagement": "\ud83d\udc4d 293",
+    "engagement": "\ud83d\udc4d 377",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-29T21:40:28+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
     "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
     "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
@@ -66,7 +121,7 @@
     "published": "2026-10-29T20:08:31+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Rivian expands joint venture with VW to include AI assistant",
     "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result. ",
     "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
@@ -75,28 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-29T20:05:47+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "source_link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T19:56:19+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "description": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "source_link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T19:14:36+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -110,89 +143,12 @@
     "published": "2026-10-29T18:28:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "source_link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T17:54:38+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.  ",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "source_link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T17:00:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-8",
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. ",
-    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "source_link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T16:42:32+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-    "description": "\n                        Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.\n                    ",
-    "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-    "source_link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T16:24:55+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-9",
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "description": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source_link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T16:21:00+00:00"
-  },
-  {
-    "id": "hn-50291116",
-    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-    "description": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-    "link": "https://news.ycombinator.com/item?id=50291116",
-    "source_link": "https://news.ycombinator.com/item?id=50291116",
-    "engagement": "\ud83d\udc4d 69",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T15:56:32+00:00"
-  },
-  {
-    "id": "hn-50290177",
-    "title": "LLM Voice",
-    "description": "LLM Voice",
-    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "source_link": "https://news.ycombinator.com/item?id=50290177",
-    "engagement": "\ud83d\udc4d 484",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T14:57:55+00:00"
-  },
-  {
     "id": "hn-50289418",
     "title": "We're releasing the weights of Mistral Large 4",
     "description": "We're releasing the weights of Mistral Large 4",
     "link": "https://mistral.ai/news/mistral-large-4-oss/",
     "source_link": "https://news.ycombinator.com/item?id=50289418",
-    "engagement": "\ud83d\udc4d 1,493",
+    "engagement": "\ud83d\udc4d 1,654",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-29T14:13:21+00:00"
