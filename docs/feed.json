@@ -1,5 +1,49 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+    "description": "<p>Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/\">Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+    "source_link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-01T08:10:07+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+    "description": "<p>DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek\u2019s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/\">DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+    "source_link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-01T07:47:17+00:00"
+  },
+  {
+    "id": "hn-50323088",
+    "title": "The AI cost of JavaScript frameworks",
+    "description": "The AI cost of JavaScript frameworks",
+    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source_link": "https://news.ycombinator.com/item?id=50323088",
+    "engagement": "\ud83d\udc4d 81",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-01T06:06:19+00:00"
+  },
+  {
+    "id": "hn-50320588",
+    "title": "ChatGPT and Codex usage limits merging",
+    "description": "ChatGPT and Codex usage limits merging",
+    "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "source_link": "https://news.ycombinator.com/item?id=50320588",
+    "engagement": "\ud83d\udc4d 140",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-10-31T21:49:07+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
     "description": "Apple's new CEO defended the company's current position in the AI landscape.",
@@ -33,7 +77,7 @@
     "published": "2026-10-31T16:12:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
     "description": "<p>Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory\u2019s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/\">Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
@@ -49,13 +93,13 @@
     "description": "Do the math: How we took over ChatGPT accounts",
     "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
     "source_link": "https://news.ycombinator.com/item?id=50314699",
-    "engagement": "\ud83d\udc4d 308",
+    "engagement": "\ud83d\udc4d 334",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-31T10:30:11+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
     "description": "<p>Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/\">Vercel Labs Open-Sources agent-desktop for Agent Computer Use</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
@@ -154,7 +198,7 @@
     "published": "2026-10-30T19:30:52+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
     "description": "<p>Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/\">AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
@@ -165,7 +209,7 @@
     "published": "2026-10-30T17:34:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
     "description": "<p>Samaya AI\u2019s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1\u2019s 55.9% at $6.89.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/\">Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost</a> appeared first on <a href=\"htt...",
     "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
@@ -176,7 +220,7 @@
     "published": "2026-10-30T07:26:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
     "description": "<p>Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek\u2019s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/\">Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
@@ -185,17 +229,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-29T18:28:57+00:00"
-  },
-  {
-    "id": "hn-50290652",
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "description": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "source_link": "https://news.ycombinator.com/item?id=50290652",
-    "engagement": "\ud83d\udc4d 193",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T15:29:48+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -207,28 +240,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-29T10:11:12+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
-    "description": "<p>Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent\u2019s model and harness unchanged.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/\">Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
-    "source_link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T08:24:52+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
-    "description": "<p>Block\u2019s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/\">Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
-    "source_link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T07:50:39+00:00"
   },
   {
     "id": "rss-HuggingFace Blog-0",

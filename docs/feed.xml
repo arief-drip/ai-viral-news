@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:54:34 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
       <link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
@@ -169,26 +169,6 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech</title>
-      <link>https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/"&gt;Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 29 Oct 2026 07:50:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents</title>
-      <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
-      <description>&lt;p&gt;&lt;p&gt;Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/"&gt;Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 29 Oct 2026 08:24:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] We urgently need to monitor AI agents’ actions in real time</title>
       <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
       <description>&lt;p&gt;This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -197,20 +177,12 @@
       <pubDate>Thu, 29 Oct 2026 10:11:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura</title>
-      <link>https://thedataexchange.media/leo-de-moura-lean-aws/</link>
-      <description>&lt;p&gt;AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 193&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50290652</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 29 Oct 2026 15:29:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass</title>
       <link>https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/</link>
       <description>&lt;p&gt;&lt;p&gt;Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/"&gt;Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 29 Oct 2026 18:28:57 +0000</pubDate>
     </item>
@@ -219,7 +191,7 @@
       <link>https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/</link>
       <description>&lt;p&gt;&lt;p&gt;Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/"&gt;Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost&lt;/a&gt; appeared first on &lt;a href="htt...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Fri, 30 Oct 2026 07:26:12 +0000</pubDate>
     </item>
@@ -229,7 +201,7 @@
       <description>&lt;p&gt;&lt;p&gt;Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/"&gt;AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 30 Oct 2026 17:34:15 +0000</pubDate>
     </item>
@@ -309,14 +281,14 @@
       <description>&lt;p&gt;&lt;p&gt;Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/"&gt;Vercel Labs Open-Sources agent-desktop for Agent Computer Use&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 31 Oct 2026 10:10:28 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Do the math: How we took over ChatGPT accounts</title>
       <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-      <description>&lt;p&gt;Do the math: How we took over ChatGPT accounts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 308&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Do the math: How we took over ChatGPT accounts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50314699</guid>
       <category>AI News</category>
       <pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
@@ -327,7 +299,7 @@
       <description>&lt;p&gt;&lt;p&gt;Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/"&gt;Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 31 Oct 2026 10:38:14 +0000</pubDate>
     </item>
@@ -354,6 +326,42 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ChatGPT and Codex usage limits merging</title>
+      <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+      <description>&lt;p&gt;ChatGPT and Codex usage limits merging&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 140&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50320588</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The AI cost of JavaScript frameworks</title>
+      <link>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</link>
+      <description>&lt;p&gt;The AI cost of JavaScript frameworks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 81&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50323088</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
+      <link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
+      <description>&lt;p&gt;&lt;p&gt;DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/"&gt;DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 01 Nov 2026 07:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</title>
+      <link>https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/"&gt;Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 01 Nov 2026 08:10:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
