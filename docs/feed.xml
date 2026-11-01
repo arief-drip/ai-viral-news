@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:25:53 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
       <link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
@@ -286,14 +286,6 @@
       <pubDate>Sat, 31 Oct 2026 10:10:28 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Do the math: How we took over ChatGPT accounts</title>
-      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-      <description>&lt;p&gt;Do the math: How we took over ChatGPT accounts&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 334&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50314699</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode</title>
       <link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
       <description>&lt;p&gt;&lt;p&gt;Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.&lt;/p&gt;
@@ -328,22 +320,6 @@
       <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] ChatGPT and Codex usage limits merging</title>
-      <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
-      <description>&lt;p&gt;ChatGPT and Codex usage limits merging&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 140&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50320588</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] The AI cost of JavaScript frameworks</title>
-      <link>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</link>
-      <description>&lt;p&gt;The AI cost of JavaScript frameworks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 81&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50323088</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
       <link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
       <description>&lt;p&gt;&lt;p&gt;DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.&lt;/p&gt;
@@ -362,6 +338,14 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Sun, 01 Nov 2026 08:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
+      <description>&lt;p&gt;AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 85&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50325662</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 01 Nov 2026 13:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
