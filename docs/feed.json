@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+    "description": "<p>NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/\">NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+    "source_link": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-02T07:47:12+00:00"
+  },
+  {
+    "id": "hn-50334038",
+    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+    "description": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+    "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+    "source_link": "https://news.ycombinator.com/item?id=50334038",
+    "engagement": "\ud83d\udc4d 61",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-02T07:27:28+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
     "description": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -22,7 +44,7 @@
     "published": "2026-11-01T20:57:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
     "description": "<p>Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/\">Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
@@ -33,7 +55,7 @@
     "published": "2026-11-01T08:10:07+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
     "description": "<p>DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek\u2019s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/\">DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
@@ -49,7 +71,7 @@
     "description": "The AI cost of JavaScript frameworks",
     "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
     "source_link": "https://news.ycombinator.com/item?id=50323088",
-    "engagement": "\ud83d\udc4d 316",
+    "engagement": "\ud83d\udc4d 388",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-01T06:06:19+00:00"
@@ -88,7 +110,7 @@
     "published": "2026-10-31T16:12:55+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
     "description": "<p>Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory\u2019s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/\">Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
@@ -99,7 +121,7 @@
     "published": "2026-10-31T10:38:14+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
     "description": "<p>Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/\">Vercel Labs Open-Sources agent-desktop for Agent Computer Use</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
@@ -176,7 +198,7 @@
     "published": "2026-10-30T19:30:52+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
     "description": "<p>Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/\">AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
@@ -187,7 +209,7 @@
     "published": "2026-10-30T17:34:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
     "description": "<p>Samaya AI\u2019s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1\u2019s 55.9% at $6.89.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/\">Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost</a> appeared first on <a href=\"htt...",
     "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
@@ -196,17 +218,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-30T07:26:12+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-    "description": "<p>Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek\u2019s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/\">Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-    "source_link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-29T18:28:57+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -328,17 +339,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-22T10:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-8",
-    "title": "AI\u2019s hidden storage bill: What inference leaves behind",
-    "description": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s generated\u2014from billions of daily prompts, images, and videos\u2014needs&#8230;",
-    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "source_link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-22T08:41:18+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
