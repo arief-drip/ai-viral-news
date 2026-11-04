@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:51:58 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
       <link>https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/</link>
@@ -81,18 +81,10 @@
       <pubDate>Mon, 26 Oct 2026 12:31:52 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Will the real Anthropic please stand up</title>
-      <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
-      <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&amp;#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Pairing industrial AI autonomy and human control</title>
       <link>https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-6</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-7</guid>
       <category>AI News</category>
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     </item>
@@ -100,7 +92,7 @@
       <title>[📰] Creating AI value with enterprise context</title>
       <link>https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/</link>
       <description>&lt;p&gt;Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-5</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 28 Oct 2026 20:32:02 +0000</pubDate>
     </item>
@@ -124,19 +116,9 @@
       <title>[📰] We urgently need to monitor AI agents’ actions in real time</title>
       <link>https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/</link>
       <description>&lt;p&gt;This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 29 Oct 2026 10:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</title>
-      <link>https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</link>
-      <description>&lt;p&gt;&lt;p&gt;Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/"&gt;Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 01 Nov 2026 08:10:07 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL</title>
@@ -152,14 +134,14 @@
       <title>[📰] Stop counting tokens, start counting what ships</title>
       <link>https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/</link>
       <description>&lt;p&gt;When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-3</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 02 Nov 2026 13:10:32 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
       <link>https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/</link>
-      <description>&lt;p&gt;Fujifilm to boost tape production 5x as AI fuels archiving demand&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 409&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fujifilm to boost tape production 5x as AI fuels archiving demand&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 518&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50336918</guid>
       <category>AI News</category>
       <pubDate>Mon, 02 Nov 2026 14:02:42 +0000</pubDate>
@@ -176,7 +158,7 @@
       <title>[📰] Raising the quality of insights in agentic analytics</title>
       <link>https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</link>
       <description>&lt;p&gt;In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-2</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
     </item>
@@ -202,7 +184,7 @@
       <title>[📰] Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test</title>
       <link>https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/</link>
       <description>&lt;p&gt;This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 04:18:47 +0000</pubDate>
     </item>
@@ -220,7 +202,7 @@
       <title>[📰] How “reverse game theory” could keep AI agents in check</title>
       <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
       <description>&lt;p&gt;A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 10:43:41 +0000</pubDate>
     </item>
@@ -241,14 +223,6 @@
       <pubDate>Tue, 03 Nov 2026 16:30:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Postman silently auto-installs AI plugins and attempts to share all API data</title>
-      <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
-      <description>&lt;p&gt;Postman silently auto-installs AI plugins and attempts to share all API data&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,099&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50354960</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 03 Nov 2026 17:22:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google will let schools skip AI tools, but they have to give up search, too</title>
       <link>https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/</link>
       <description>&lt;p&gt;
@@ -257,14 +231,6 @@
       <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 17:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How I use AI (Oct 2026)</title>
-      <link>https://ben.stolovitz.com/posts/how-use-ai-oct-2026/</link>
-      <description>&lt;p&gt;How I use AI (Oct 2026)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 106&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50355767</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 03 Nov 2026 18:11:11 +0000</pubDate>
     </item>
     <item>
       <title>[📰] NYT demands Brave shut down its paywall blocker and end deals with AI firms</title>
@@ -293,12 +259,12 @@
       <pubDate>Tue, 03 Nov 2026 19:34:43 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer</title>
-      <link>https://arxiv.org/abs/2605.29713</link>
-      <description>&lt;p&gt;The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 265&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50358582</guid>
+      <title>[📰] Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
+      <link>https://uncracked.city</link>
+      <description>&lt;p&gt;Show HN: Uncracked City, detective game where you question LLM suspects that lie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 102&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50358352</guid>
       <category>AI News</category>
-      <pubDate>Tue, 03 Nov 2026 21:40:53 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:20:03 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
@@ -325,6 +291,30 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</title>
+      <link>https://news.ycombinator.com/item?id=50363461</link>
+      <description>&lt;p&gt;Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 348&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50363461</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 04 Nov 2026 10:10:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI is forcing us to pay off 40 years of technical debt</title>
+      <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
+      <description>&lt;p&gt;AI is forcing us to pay off 40 years of technical debt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 460&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50364336</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 04 Nov 2026 11:52:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Securing the agentic enterprise with data lineage</title>
+      <link>https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/</link>
+      <description>&lt;p&gt;A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

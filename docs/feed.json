@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "Securing the agentic enterprise with data lineage",
+    "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it\u2019s&#8230;",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source_link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-04T13:00:00+00:00"
+  },
+  {
+    "id": "hn-50364336",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "description": "AI is forcing us to pay off 40 years of technical debt",
+    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "source_link": "https://news.ycombinator.com/item?id=50364336",
+    "engagement": "\ud83d\udc4d 460",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-04T11:52:17+00:00"
+  },
+  {
+    "id": "hn-50363461",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "description": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "link": "https://news.ycombinator.com/item?id=50363461",
+    "source_link": "https://news.ycombinator.com/item?id=50363461",
+    "engagement": "\ud83d\udc4d 348",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-04T10:10:27+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Anthropic is working on a system to prove AI models\u2019 identity",
     "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.\n",
@@ -33,15 +66,15 @@
     "published": "2026-11-03T21:43:08+00:00"
   },
   {
-    "id": "hn-50358582",
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "description": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "link": "https://arxiv.org/abs/2605.29713",
-    "source_link": "https://news.ycombinator.com/item?id=50358582",
-    "engagement": "\ud83d\udc4d 265",
+    "id": "hn-50358352",
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "description": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "link": "https://uncracked.city",
+    "source_link": "https://news.ycombinator.com/item?id=50358352",
+    "engagement": "\ud83d\udc4d 102",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-11-03T21:40:53+00:00"
+    "published": "2026-11-03T21:20:03+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -77,17 +110,6 @@
     "published": "2026-11-03T18:30:27+00:00"
   },
   {
-    "id": "hn-50355767",
-    "title": "How I use AI (Oct 2026)",
-    "description": "How I use AI (Oct 2026)",
-    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-    "source_link": "https://news.ycombinator.com/item?id=50355767",
-    "engagement": "\ud83d\udc4d 106",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-03T18:11:11+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-1",
     "title": "Google will let schools skip AI tools, but they have to give up search, too",
     "description": "\n                        Google will offer schools AI tools that purportedly don't give away the answers. \n                    ",
@@ -97,17 +119,6 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-03T17:54:43+00:00"
-  },
-  {
-    "id": "hn-50354960",
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "description": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "source_link": "https://news.ycombinator.com/item?id=50354960",
-    "engagement": "\ud83d\udc4d 1,099",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-03T17:22:37+00:00"
   },
   {
     "id": "rss-TechCrunch AI-4",
@@ -132,7 +143,7 @@
     "published": "2026-11-03T15:38:27+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "How \u201creverse game theory\u201d could keep AI agents in check",
     "description": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,&#8230;",
     "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
@@ -154,7 +165,7 @@
     "published": "2026-11-03T05:51:06+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That&#8230;",
     "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
@@ -187,7 +198,7 @@
     "published": "2026-11-02T18:41:41+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "Raising the quality of insights in agentic analytics",
     "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
     "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
@@ -214,13 +225,13 @@
     "description": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
     "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
     "source_link": "https://news.ycombinator.com/item?id=50336918",
-    "engagement": "\ud83d\udc4d 409",
+    "engagement": "\ud83d\udc4d 518",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-02T14:02:42+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Stop counting tokens, start counting what ships",
     "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
     "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -242,18 +253,7 @@
     "published": "2026-11-02T07:47:12+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
-    "description": "<p>Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/\">Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
-    "source_link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-01T08:10:07+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "We urgently need to monitor AI agents\u2019 actions in real time",
     "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It\u2019s a problem&#8230;",
     "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
@@ -286,7 +286,7 @@
     "published": "2026-10-29T00:00:00+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "Creating AI value with enterprise context",
     "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
     "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
@@ -297,7 +297,7 @@
     "published": "2026-10-28T20:32:02+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Pairing industrial AI autonomy and human\u00a0control",
     "description": "",
     "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
@@ -306,17 +306,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-10-28T12:00:00+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "Will the real Anthropic please stand up",
-    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019s unique view of the technology it&#8230;",
-    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "source_link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-10-26T17:45:43+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-1",
