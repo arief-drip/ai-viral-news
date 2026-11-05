@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:45:02 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
       <link>https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/</link>
@@ -153,16 +153,6 @@
       <pubDate>Tue, 03 Nov 2026 04:18:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%</title>
-      <link>https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/"&gt;OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 03 Nov 2026 05:51:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] How “reverse game theory” could keep AI agents in check</title>
       <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
       <description>&lt;p&gt;A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -188,30 +178,12 @@
       <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Ask HN: What's your current AI agentic setup?</title>
-      <link>https://news.ycombinator.com/item?id=50366117</link>
-      <description>&lt;p&gt;Ask HN: What's your current AI agentic setup?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 458&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50366117</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Texas was the new epicenter of the AI data center buildout. That might be kaput.</title>
       <link>https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</link>
       <description>&lt;p&gt;Texas is the fastest-growing data center market in the US and ground zero for Big Tech&amp;#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/</link>
-      <description>&lt;p&gt;
-                        Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 20:55:50 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1</title>
@@ -222,38 +194,6 @@
       <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 21:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Almost no one uses AI agents to book their Uber, company says</title>
-      <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
-      <description>&lt;p&gt;During its busiest week last quarter, Uber said only four people booked a ride using an AI agent. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-      <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
-      <description>&lt;p&gt;While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-      <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
-      <description>&lt;p&gt;AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Apple is reportedly cutting budgets for its internal AI usage</title>
-      <link>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</link>
-      <description>&lt;p&gt;The company is said to be significantly dropping the amount it's spending on AI for its engineering teams. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 05 Nov 2026 01:26:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers</title>
@@ -277,7 +217,7 @@
     <item>
       <title>[📰] GPT-6 Astra covertly underperforms on safety research</title>
       <link>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/</link>
-      <description>&lt;p&gt;GPT-6 Astra covertly underperforms on safety research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 114&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Astra covertly underperforms on safety research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 244&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50376313</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 07:44:30 +0000</pubDate>
@@ -292,19 +232,18 @@
       <pubDate>Thu, 05 Nov 2026 08:02:58 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] A YC startup is putting $1M behind five unsolved materials science problems for AI</title>
+      <title>[📰] A YC startup is putting $1M behind 5 unsolved materials science problems for AI</title>
       <link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/</link>
-      <description>&lt;p&gt;Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <description>&lt;p&gt;While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents</title>
+      <title>[📰] Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents</title>
       <link>https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/</link>
       <description>&lt;p&gt;Aina's ring can also take calls and help you dictate notes on your Mac.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 14:42:00 +0000</pubDate>
     </item>
@@ -312,9 +251,57 @@
       <title>[📰] Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
       <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
       <description>&lt;p&gt;The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Axiom Math wants to keep AI slop out of mathematics</title>
+      <link>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/</link>
+      <description>&lt;p&gt;As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 16:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude can now analyze your spending with its new Personal Finance tool</title>
+      <link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</link>
+      <description>&lt;p&gt;With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI president Greg Brockman says company could be IPO ready in 2027</title>
+      <link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/</link>
+      <description>&lt;p&gt;OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 18:02:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI released a new cybersecurity model. Is that enough?</title>
+      <link>https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/</link>
+      <description>&lt;p&gt;OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 19:06:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta warns that election backlash against data centers could make AI expansion harder</title>
+      <link>https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/</link>
+      <description>&lt;p&gt;Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 19:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta says US users can now video chat with their Muse AI avatar</title>
+      <link>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/</link>
+      <description>&lt;p&gt;Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 19:48:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
