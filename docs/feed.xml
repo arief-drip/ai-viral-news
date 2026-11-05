@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 04:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:57:10 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
       <link>https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/</link>
@@ -137,38 +137,12 @@
       <pubDate>Mon, 02 Nov 2026 14:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Basically no one is using AI agents for their DoorDash orders</title>
-      <link>https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/</link>
-      <description>&lt;p&gt;Basically no one is using AI agents for their DoorDash orders&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 91&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50338474</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 02 Nov 2026 15:48:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Raising the quality of insights in agentic analytics</title>
       <link>https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/</link>
       <description>&lt;p&gt;In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery</title>
-      <link>https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai&amp;#8217;s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights that report a FrontierScience-Research win over GPT-6-Astra. The weights ship under the MIT License. TL;DR What is [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 02 Nov 2026 18:41:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention</title>
-      <link>https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/</link>
-      <description>&lt;p&gt;&lt;p&gt;Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/"&gt;Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 03 Nov 2026 01:09:49 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test</title>
@@ -184,7 +158,7 @@
       <description>&lt;p&gt;&lt;p&gt;OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/"&gt;OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 05:51:06 +0000</pubDate>
     </item>
@@ -201,17 +175,9 @@
       <link>https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/"&gt;Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 03 Nov 2026 22:08:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI is forcing us to pay off 40 years of technical debt</title>
-      <link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
-      <description>&lt;p&gt;AI is forcing us to pay off 40 years of technical debt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,116&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50364336</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 11:52:17 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Securing the agentic enterprise with data lineage</title>
@@ -224,34 +190,10 @@
     <item>
       <title>[📰] Ask HN: What's your current AI agentic setup?</title>
       <link>https://news.ycombinator.com/item?id=50366117</link>
-      <description>&lt;p&gt;Ask HN: What's your current AI agentic setup?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 180&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ask HN: What's your current AI agentic setup?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 458&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50366117</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 14:37:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI to acquire Pierre Computer Company</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre/</link>
-      <description>&lt;p&gt;OpenAI to acquire Pierre Computer Company&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 211&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50366863</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 15:21:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Launch HN: Kino AI (YC S23) – AI media manager and video editor</title>
-      <link>https://news.ycombinator.com/item?id=50368804</link>
-      <description>&lt;p&gt;Launch HN: Kino AI (YC S23) – AI media manager and video editor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 76&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50368804</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 17:31:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs</title>
-      <link>https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/</link>
-      <description>&lt;p&gt;Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 18:44:57 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Texas was the new epicenter of the AI data center buildout. That might be kaput.</title>
@@ -260,30 +202,6 @@
       <guid isPermaLink="false">rss-MIT Tech Review AI-0</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</title>
-      <link>https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/</link>
-      <description>&lt;p&gt;DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 19:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Open source AI is booming. Hugging Face explains who profits.</title>
-      <link>https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/</link>
-      <description>&lt;p&gt;Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&amp;#160; On this episode of [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 19:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s</title>
-      <link>https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra</link>
-      <description>&lt;p&gt;Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 118&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50370654</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 19:55:14 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
@@ -301,31 +219,15 @@
       <description>&lt;p&gt;&lt;p&gt;Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/"&gt;Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 21:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta acquires AI coding startup Conductor</title>
-      <link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</link>
-      <description>&lt;p&gt;The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI is already trying to shape the 2028 election</title>
-      <link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
-      <description>&lt;p&gt;OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 21:25:44 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Almost no one uses AI agents to book their Uber, company says</title>
       <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
       <description>&lt;p&gt;During its busiest week last quarter, Uber said only four people booked a ride using an AI agent. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
     </item>
@@ -333,7 +235,7 @@
       <title>[📰] Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
       <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
       <description>&lt;p&gt;While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
     </item>
@@ -341,7 +243,7 @@
       <title>[📰] AI PACs spent millions trying to shape Congress — here’s how they fared</title>
       <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
       <description>&lt;p&gt;AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
     </item>
@@ -349,9 +251,70 @@
       <title>[📰] Apple is reportedly cutting budgets for its internal AI usage</title>
       <link>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</link>
       <description>&lt;p&gt;The company is said to be significantly dropping the amount it's spending on AI for its engineering teams. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 01:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers</title>
+      <link>https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/"&gt;Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers&lt;/a&gt; appeared first on &lt;a href="https://www.m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 05:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation</title>
+      <link>https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/"&gt;OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 07:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GPT-6 Astra covertly underperforms on safety research</title>
+      <link>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/</link>
+      <description>&lt;p&gt;GPT-6 Astra covertly underperforms on safety research&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 114&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50376313</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 07:44:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</title>
+      <link>https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/</link>
+      <description>&lt;p&gt;&lt;p&gt;Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/"&gt;Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;Ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 08:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] A YC startup is putting $1M behind five unsolved materials science problems for AI</title>
+      <link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/</link>
+      <description>&lt;p&gt;Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents</title>
+      <link>https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/</link>
+      <description>&lt;p&gt;Aina's ring can also take calls and help you dictate notes on your Mac.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 14:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure</title>
+      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
+      <description>&lt;p&gt;The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
