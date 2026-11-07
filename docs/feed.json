@@ -1,5 +1,49 @@
 [
   {
+    "id": "hn-50407882",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "description": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "source_link": "https://news.ycombinator.com/item?id=50407882",
+    "engagement": "\ud83d\udc4d 71",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-07T20:45:32+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+    "description": "<p>Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/\">How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "source_link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-07T19:22:44+00:00"
+  },
+  {
+    "id": "hn-50406563",
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "description": "The end of Microsoft Research's AI Frontiers group",
+    "link": "https://hunch.net/?p=13764006",
+    "source_link": "https://news.ycombinator.com/item?id=50406563",
+    "engagement": "\ud83d\udc4d 302",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-07T18:02:17+00:00"
+  },
+  {
+    "id": "hn-50405263",
+    "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+    "description": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+    "source_link": "https://news.ycombinator.com/item?id=50405263",
+    "engagement": "\ud83d\udc4d 52",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-07T15:16:01+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "description": "The deal highlights the challenges of developing massive AI data centers.",
@@ -88,7 +132,7 @@
     "published": "2026-11-06T15:54:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
     "description": "<p>Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/\">Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
@@ -99,7 +143,7 @@
     "published": "2026-11-05T22:58:21+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
     "description": "<p>Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/\">Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</a> appeared first on <a href=\"https://www.marktechpost.com\">Ma...",
     "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
@@ -110,7 +154,7 @@
     "published": "2026-11-05T08:02:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
     "description": "<p>OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/\">OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
@@ -121,7 +165,7 @@
     "published": "2026-11-05T07:03:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
     "description": "<p>Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/\">Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers</a> appeared first on <a href=\"https://www.m...",
     "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
@@ -130,17 +174,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-05T05:42:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
-    "description": "<p>Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/\">Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
-    "source_link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-04T21:01:06+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
