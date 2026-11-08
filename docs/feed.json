@@ -1,6 +1,28 @@
 [
   {
+    "id": "hn-50413822",
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "description": "OpenAI raises $11B at a $1.25T valuation",
+    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "source_link": "https://news.ycombinator.com/item?id=50413822",
+    "engagement": "\ud83d\udc4d 124",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-08T14:49:23+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+    "description": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+    "source_link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-08T10:46:18+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
     "description": "<p>A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/\">Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
@@ -11,7 +33,18 @@
     "published": "2026-11-08T10:27:27+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "hn-50411961",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "source_link": "https://news.ycombinator.com/item?id=50411961",
+    "engagement": "\ud83d\udc4d 189",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-08T10:22:04+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-2",
     "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
     "description": "<p>MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/\">MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
@@ -23,11 +56,11 @@
   },
   {
     "id": "hn-50410107",
-    "title": "Goodbye Claude, Hello Pi",
-    "description": "Goodbye Claude, Hello Pi",
+    "title": "Goodbye Claude, hello Pi",
+    "description": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "source_link": "https://news.ycombinator.com/item?id=50410107",
-    "engagement": "\ud83d\udc4d 336",
+    "engagement": "\ud83d\udc4d 553",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T03:11:48+00:00"
@@ -38,13 +71,13 @@
     "description": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "source_link": "https://news.ycombinator.com/item?id=50407882",
-    "engagement": "\ud83d\udc4d 408",
+    "engagement": "\ud83d\udc4d 502",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-07T20:45:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
     "description": "<p>Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/\">How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
@@ -53,17 +86,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-07T19:22:44+00:00"
-  },
-  {
-    "id": "hn-50406563",
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "description": "The end of Microsoft Research's AI Frontiers group",
-    "link": "https://hunch.net/?p=13764006",
-    "source_link": "https://news.ycombinator.com/item?id=50406563",
-    "engagement": "\ud83d\udc4d 463",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-07T18:02:17+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -154,7 +176,7 @@
     "published": "2026-11-06T15:54:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
     "description": "<p>Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/\">Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
@@ -163,17 +185,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-05T22:58:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
-    "description": "<p>Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/\">Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</a> appeared first on <a href=\"https://www.marktechpost.com\">Ma...",
-    "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-    "source_link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-05T08:02:58+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
