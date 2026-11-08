@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 03:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:55:17 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
       <link>https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/</link>
@@ -161,30 +161,11 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers</title>
-      <link>https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/"&gt;Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers&lt;/a&gt; appeared first on &lt;a href="https://www.m...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 05 Nov 2026 05:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation</title>
-      <link>https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/"&gt;OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 05 Nov 2026 07:03:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster</title>
       <link>https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/</link>
       <description>&lt;p&gt;&lt;p&gt;Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/"&gt;Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;Ma...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 08:02:58 +0000</pubDate>
     </item>
@@ -194,7 +175,7 @@
       <description>&lt;p&gt;&lt;p&gt;Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/"&gt;Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 05 Nov 2026 22:58:21 +0000</pubDate>
     </item>
@@ -267,7 +248,7 @@
     <item>
       <title>[📰] The end of Microsoft Research's AI Frontiers group</title>
       <link>https://hunch.net/?p=13764006</link>
-      <description>&lt;p&gt;The end of Microsoft Research's AI Frontiers group&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 417&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The end of Microsoft Research's AI Frontiers group&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 463&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50406563</guid>
       <category>AI News</category>
       <pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
@@ -278,17 +259,45 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/"&gt;How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 07 Nov 2026 19:22:44 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</title>
       <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-      <description>&lt;p&gt;Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 220&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 408&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50407882</guid>
       <category>AI News</category>
       <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Goodbye Claude, Hello Pi</title>
+      <link>https://caleb.software/posts/claude-to-pi.html</link>
+      <description>&lt;p&gt;Goodbye Claude, Hello Pi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 336&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50410107</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</title>
+      <link>https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/</link>
+      <description>&lt;p&gt;&lt;p&gt;MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/"&gt;MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 08 Nov 2026 06:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
+      <link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
+      <description>&lt;p&gt;&lt;p&gt;A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/"&gt;Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 08 Nov 2026 10:27:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
