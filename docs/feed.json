@@ -1,11 +1,55 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+    "description": "<p>Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI\u2019s Pando design and sustained 567 pushes per second on one 8-core server in the company\u2019s own test.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/\">Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+    "source_link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-09T08:20:20+00:00"
+  },
+  {
+    "id": "hn-50422628",
+    "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+    "description": "ChatGPT Desktop forwards your SSH agent to remote machines",
+    "link": "https://news.ycombinator.com/item?id=50422628",
+    "source_link": "https://news.ycombinator.com/item?id=50422628",
+    "engagement": "\ud83d\udc4d 54",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-09T08:17:49+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+    "description": "<p>0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/\">0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+    "source_link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-09T07:55:18+00:00"
+  },
+  {
+    "id": "hn-50418975",
+    "title": "I'm not convinced the AI bubble exists",
+    "description": "I'm not convinced the AI bubble exists",
+    "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source_link": "https://news.ycombinator.com/item?id=50418975",
+    "engagement": "\ud83d\udc4d 351",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-08T23:44:36+00:00"
+  },
+  {
     "id": "hn-50416363",
     "title": "How I Fight AI Brain Fry",
     "description": "How I Fight AI Brain Fry",
     "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
     "source_link": "https://news.ycombinator.com/item?id=50416363",
-    "engagement": "\ud83d\udc4d 179",
+    "engagement": "\ud83d\udc4d 270",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T19:37:42+00:00"
@@ -16,13 +60,13 @@
     "description": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
     "source_link": "https://news.ycombinator.com/item?id=50415628",
-    "engagement": "\ud83d\udc4d 652",
+    "engagement": "\ud83d\udc4d 795",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T18:16:07+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
     "description": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
@@ -33,7 +77,7 @@
     "published": "2026-11-08T10:46:18+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
     "description": "<p>A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/\">Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
@@ -49,13 +93,13 @@
     "description": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
     "link": "https://github.com/synchopate/llama-modchip",
     "source_link": "https://news.ycombinator.com/item?id=50411961",
-    "engagement": "\ud83d\udc4d 385",
+    "engagement": "\ud83d\udc4d 434",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T10:22:04+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
     "description": "<p>MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/\">MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
@@ -71,7 +115,7 @@
     "description": "Goodbye Claude, hello Pi",
     "link": "https://caleb.software/posts/claude-to-pi.html",
     "source_link": "https://news.ycombinator.com/item?id=50410107",
-    "engagement": "\ud83d\udc4d 713",
+    "engagement": "\ud83d\udc4d 778",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T03:11:48+00:00"
@@ -82,13 +126,13 @@
     "description": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "source_link": "https://news.ycombinator.com/item?id=50407882",
-    "engagement": "\ud83d\udc4d 595",
+    "engagement": "\ud83d\udc4d 609",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-07T20:45:32+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
     "description": "<p>Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/\">How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
@@ -174,28 +218,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-06T17:23:52+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "source_link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-06T15:54:47+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-    "description": "<p>Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/\">Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-    "source_link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-05T22:58:21+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",

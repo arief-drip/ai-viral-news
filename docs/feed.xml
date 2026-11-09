@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:20:52 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye</title>
       <link>https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/</link>
@@ -161,24 +161,6 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second</title>
-      <link>https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/"&gt;Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 05 Nov 2026 22:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Ramp data shows AI spending stalling just as Anthropic nears its IPO</title>
-      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
-      <description>&lt;p&gt;AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] After the midterms, is the AI industry in for a rough two years?</title>
       <link>https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</link>
       <description>&lt;p&gt;Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
@@ -242,14 +224,14 @@
       <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/"&gt;How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 07 Nov 2026 19:22:44 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</title>
       <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-      <description>&lt;p&gt;Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 595&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 609&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50407882</guid>
       <category>AI News</category>
       <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
@@ -257,7 +239,7 @@
     <item>
       <title>[📰] Goodbye Claude, hello Pi</title>
       <link>https://caleb.software/posts/claude-to-pi.html</link>
-      <description>&lt;p&gt;Goodbye Claude, hello Pi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 713&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Goodbye Claude, hello Pi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 778&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50410107</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
@@ -268,14 +250,14 @@
       <description>&lt;p&gt;&lt;p&gt;MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/"&gt;MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 06:18:33 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
       <link>https://github.com/synchopate/llama-modchip</link>
-      <description>&lt;p&gt;Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 385&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 434&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50411961</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
@@ -286,7 +268,7 @@
       <description>&lt;p&gt;&lt;p&gt;A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/"&gt;Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 10:27:27 +0000</pubDate>
     </item>
@@ -296,14 +278,14 @@
       <description>&lt;p&gt;&lt;p&gt;Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/"&gt;Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 10:46:18 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Goldman Sachs is pulling Claude Code from its bankers and traders</title>
       <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-      <description>&lt;p&gt;Goldman Sachs is pulling Claude Code from its bankers and traders&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 652&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Goldman Sachs is pulling Claude Code from its bankers and traders&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 795&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50415628</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
@@ -311,10 +293,46 @@
     <item>
       <title>[📰] How I Fight AI Brain Fry</title>
       <link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
-      <description>&lt;p&gt;How I Fight AI Brain Fry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 179&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How I Fight AI Brain Fry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 270&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50416363</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 19:37:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] I'm not convinced the AI bubble exists</title>
+      <link>https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists</link>
+      <description>&lt;p&gt;I'm not convinced the AI bubble exists&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 351&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50418975</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 08 Nov 2026 23:44:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</title>
+      <link>https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</link>
+      <description>&lt;p&gt;&lt;p&gt;0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/"&gt;0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 09 Nov 2026 07:55:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] ChatGPT Desktop forwards your SSH agent to remote machines</title>
+      <link>https://news.ycombinator.com/item?id=50422628</link>
+      <description>&lt;p&gt;ChatGPT Desktop forwards your SSH agent to remote machines&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 54&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50422628</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</title>
+      <link>https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/"&gt;Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 09 Nov 2026 08:20:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
