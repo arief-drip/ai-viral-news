@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:57:23 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -129,22 +129,12 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</title>
-      <link>https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/</link>
-      <description>&lt;p&gt;&lt;p&gt;Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/"&gt;How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 07 Nov 2026 19:22:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</title>
       <link>https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/</link>
       <description>&lt;p&gt;&lt;p&gt;MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/"&gt;MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 06:18:33 +0000</pubDate>
     </item>
@@ -154,7 +144,7 @@
       <description>&lt;p&gt;&lt;p&gt;A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/"&gt;Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 10:27:27 +0000</pubDate>
     </item>
@@ -164,7 +154,7 @@
       <description>&lt;p&gt;&lt;p&gt;Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/"&gt;Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sun, 08 Nov 2026 10:46:18 +0000</pubDate>
     </item>
@@ -174,7 +164,7 @@
       <description>&lt;p&gt;&lt;p&gt;0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/"&gt;0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 07:55:18 +0000</pubDate>
     </item>
@@ -184,7 +174,7 @@
       <description>&lt;p&gt;&lt;p&gt;Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/"&gt;Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 08:20:20 +0000</pubDate>
     </item>
@@ -205,22 +195,6 @@
       <pubDate>Mon, 09 Nov 2026 13:31:34 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Medium’s new TK app brings AI assistance directly into the writing process</title>
-      <link>https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/</link>
-      <description>&lt;p&gt;Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 16:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
-      <description>&lt;p&gt;Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Nancy Pelosi’s replacement is ready to regulate AI</title>
       <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/</link>
       <description>&lt;p&gt;As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&amp;#160; I spoke with Wiener on Friday, only a&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -229,38 +203,12 @@
       <pubDate>Mon, 09 Nov 2026 17:05:43 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code is accidentally exposing secrets all over GitHub</title>
-      <link>https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/</link>
-      <description>&lt;p&gt;
-                        "Do not ask again" prompt leads to passwords, API keys, and more being shared.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 17:24:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Claude Fable 5.2 and Mythos 5.2</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-      <description>&lt;p&gt;Claude Fable 5.2 and Mythos 5.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 366&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude Fable 5.2 and Mythos 5.2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 781&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50429068</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 18:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/</link>
-      <description>&lt;p&gt;Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 18:09:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Gemini routes personal Drive files and emails to human annotators</title>
-      <link>https://github.com/thisisme6598/gemini_files/</link>
-      <description>&lt;p&gt;Google Gemini routes personal Drive files and emails to human annotators&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 494&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50429426</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The backlash about data centers might really just be about electricity</title>
@@ -271,20 +219,12 @@
       <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far</title>
-      <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
-      <description>&lt;p&gt;Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 317&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50431144</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 20:04:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] A Sam Altman parody offers an amusing lesson in memory management</title>
       <link>https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/</link>
       <description>&lt;p&gt;
                         We verified the RAM numbers are real without sending any emails to OpenAI. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 20:49:09 +0000</pubDate>
     </item>
@@ -292,17 +232,113 @@
       <title>[📰] Anthropic reportedly plans to move forward with IPO plans</title>
       <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
       <description>&lt;p&gt;The AI company is expected to set its valuation range this week, the Wall Street Journal reported.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] CoreWeave bond yield tops 16% as AI credit stress rises</title>
-      <link>https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html</link>
-      <description>&lt;p&gt;CoreWeave bond yield tops 16% as AI credit stress rises&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 62&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50435660</guid>
+      <title>[📰] Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work</title>
+      <link>https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/"&gt;Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 03:20:06 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:36:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Otter AI can now follow conversations across 30+ languages</title>
+      <link>https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/</link>
+      <description>&lt;p&gt;Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Fireworks AI security breach impacts Notion and their customers</title>
+      <link>https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</link>
+      <description>&lt;p&gt;Fireworks AI security breach impacts Notion and their customers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 121&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50437106</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 07:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Ukraine’s fiber-optic drones get squeezed by AI data center demand</title>
+      <link>https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/</link>
+      <description>&lt;p&gt;
+                        Ukraine competes with Russia and data centers for China’s optical fiber supply.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 12:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns </title>
+      <link>https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/</link>
+      <description>&lt;p&gt;Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Spotify’s AI DJ gets new voices, personalities, and an option for less chatter</title>
+      <link>https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/</link>
+      <description>&lt;p&gt;Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era</title>
+      <link>https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/</link>
+      <description>&lt;p&gt;Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</title>
+      <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
+      <description>&lt;p&gt;Adobe is taking on Figma with a new prototype builder tool in Firefly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 14:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
+      <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
+      <description>&lt;p&gt;&lt;p&gt;Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/"&gt;Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 14:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"</title>
+      <link>https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/</link>
+      <description>&lt;p&gt;
+                        The new model is up to twice as successful at some tasks. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 15:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta’s AI agent Muse lands on Apple Watch and Android Wear OS</title>
+      <link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/</link>
+      <description>&lt;p&gt;Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 15:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google broadens its AI hardware portfolio with two new specialized chips</title>
+      <link>https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/</link>
+      <description>&lt;p&gt;Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 15:54:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
