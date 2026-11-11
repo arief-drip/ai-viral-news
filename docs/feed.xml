@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:35:53 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -129,32 +129,12 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
-      <link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
-      <description>&lt;p&gt;&lt;p&gt;A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/"&gt;Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 08 Nov 2026 10:27:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</title>
-      <link>https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/"&gt;Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sun, 08 Nov 2026 10:46:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</title>
       <link>https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</link>
       <description>&lt;p&gt;&lt;p&gt;0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/"&gt;0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 07:55:18 +0000</pubDate>
     </item>
@@ -164,7 +144,7 @@
       <description>&lt;p&gt;&lt;p&gt;Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/"&gt;Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 08:20:20 +0000</pubDate>
     </item>
@@ -206,14 +186,14 @@
       <description>&lt;p&gt;&lt;p&gt;Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/"&gt;Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 06:36:10 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI usage generates a fragile codebase</title>
       <link>https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/</link>
-      <description>&lt;p&gt;AI usage generates a fragile codebase&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 415&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI usage generates a fragile codebase&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 574&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50438318</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 10:25:58 +0000</pubDate>
@@ -224,17 +204,9 @@
       <description>&lt;p&gt;&lt;p&gt;Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/"&gt;Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 14:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Meta’s AI agent Muse lands on Apple Watch and Android Wear OS</title>
-      <link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/</link>
-      <description>&lt;p&gt;Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 15:29:30 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google broadens its AI hardware portfolio with two new specialized chips</title>
@@ -259,6 +231,14 @@
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Claude Whiteboards, Claude Sheets, and Claude Data</title>
+      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+      <description>&lt;p&gt;Claude Whiteboards, Claude Sheets, and Claude Data&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 240&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50443716</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 17:55:07 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
@@ -321,6 +301,14 @@
       <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Apple has new Mac app coming to make running local AI models easy</title>
+      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
+      <description>&lt;p&gt;Apple has new Mac app coming to make running local AI models easy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 287&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50446520</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
       <link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</link>
       <description>&lt;p&gt;
@@ -329,6 +317,16 @@
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
+      <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
+      <description>&lt;p&gt;&lt;p&gt;The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/"&gt;MBZUAI&amp;#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,16 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "MBZUAI\u2019s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+    "description": "<p>The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/\">MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+    "source_link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-11T07:38:57+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
     "description": "\n                        Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.\n                    ",
@@ -9,6 +20,17 @@
     "source": "Ars Technica AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T22:35:01+00:00"
+  },
+  {
+    "id": "hn-50446520",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "description": "Apple has new Mac app coming to make running local AI models easy",
+    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "source_link": "https://news.ycombinator.com/item?id=50446520",
+    "engagement": "\ud83d\udc4d 287",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-10T21:25:03+00:00"
   },
   {
     "id": "rss-TechCrunch AI-0",
@@ -88,6 +110,17 @@
     "published": "2026-11-10T18:49:52+00:00"
   },
   {
+    "id": "hn-50443716",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "description": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "source_link": "https://news.ycombinator.com/item?id=50443716",
+    "engagement": "\ud83d\udc4d 240",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-10T17:55:07+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-5",
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
@@ -121,18 +154,7 @@
     "published": "2026-11-10T15:54:08+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-8",
-    "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-    "description": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "source_link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-10T15:29:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
     "description": "<p>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/\">Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
@@ -148,13 +170,13 @@
     "description": "AI usage generates a fragile codebase",
     "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
     "source_link": "https://news.ycombinator.com/item?id=50438318",
-    "engagement": "\ud83d\udc4d 415",
+    "engagement": "\ud83d\udc4d 574",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T10:25:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
     "description": "<p>Meta Muse Ember is Meta\u2019s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/\">Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
@@ -209,7 +231,7 @@
     "published": "2026-11-09T13:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
     "description": "<p>Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI\u2019s Pando design and sustained 567 pushes per second on one 8-core server in the company\u2019s own test.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/\">Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
@@ -220,7 +242,7 @@
     "published": "2026-11-09T08:20:20+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
     "description": "<p>0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/\">0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
@@ -229,28 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-09T07:55:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-    "description": "<p>Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/\">Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-    "source_link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-08T10:46:18+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
-    "description": "<p>A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/\">Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
-    "source_link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-08T10:27:27+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
