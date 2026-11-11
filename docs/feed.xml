@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:01:59 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -129,22 +129,12 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP</title>
-      <link>https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/</link>
-      <description>&lt;p&gt;&lt;p&gt;0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/"&gt;0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 09 Nov 2026 07:55:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents</title>
       <link>https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/</link>
       <description>&lt;p&gt;&lt;p&gt;Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/"&gt;Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 09 Nov 2026 08:20:20 +0000</pubDate>
     </item>
@@ -186,17 +176,9 @@
       <description>&lt;p&gt;&lt;p&gt;Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/"&gt;Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 06:36:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] AI usage generates a fragile codebase</title>
-      <link>https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/</link>
-      <description>&lt;p&gt;AI usage generates a fragile codebase&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 574&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50438318</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 10:25:58 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
@@ -204,65 +186,15 @@
       <description>&lt;p&gt;&lt;p&gt;Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/"&gt;Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 14:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google broadens its AI hardware portfolio with two new specialized chips</title>
-      <link>https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/</link>
-      <description>&lt;p&gt;Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.  &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 15:54:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
-      <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <description>&lt;p&gt;The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 17:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-      <description>&lt;p&gt;As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Claude Whiteboards, Claude Sheets, and Claude Data</title>
-      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-      <description>&lt;p&gt;Claude Whiteboards, Claude Sheets, and Claude Data&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 240&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50443716</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 17:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
-      <link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</link>
-      <description>&lt;p&gt;OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 18:49:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop</title>
-      <link>https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/</link>
-      <description>&lt;p&gt;
-                        Spruce up your home screen with expanded custom icons and AI-generated widgets.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 19:00:26 +0000</pubDate>
     </item>
     <item>
       <title>[📰] PSI is trying to make a business out of AI-driven scientific discovery</title>
       <link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
       <description>&lt;p&gt;PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 19:03:52 +0000</pubDate>
     </item>
@@ -270,25 +202,15 @@
       <title>[📰] Oura to acquire AI-native primary care startup Counsel Health for $625M</title>
       <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</link>
       <description>&lt;p&gt;The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 19:23:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] What happens to mathematics when AI becomes an oracle?</title>
-      <link>https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/</link>
-      <description>&lt;p&gt;
-                        Mathematician Steven Strogatz discusses his new book, &lt;em&gt;Big Math: The Hidden Codes That Run Our World&lt;/em&gt;.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 20:30:01 +0000</pubDate>
     </item>
     <item>
       <title>[📰] OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
       <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
       <description>&lt;p&gt;New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
     </item>
@@ -296,17 +218,9 @@
       <title>[📰] OpenAI acquires Odessia, travel startup created by Sonder founder</title>
       <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
       <description>&lt;p&gt;OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Apple has new Mac app coming to make running local AI models easy</title>
-      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
-      <description>&lt;p&gt;Apple has new Mac app coming to make running local AI models easy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 287&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50446520</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
@@ -314,7 +228,7 @@
       <description>&lt;p&gt;
                         Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
     </item>
@@ -324,9 +238,87 @@
       <description>&lt;p&gt;&lt;p&gt;The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/"&gt;MBZUAI&amp;#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</title>
+      <link>https://pietromiotti.com/latest/maya-site/?maya</link>
+      <description>&lt;p&gt;Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 808&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50452455</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 12:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</title>
+      <link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</link>
+      <description>&lt;p&gt;Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google DeepMind just mathematically verified key parts of Signal</title>
+      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
+      <description>&lt;p&gt;
+                        The four-week project hints that AI could make formal verification far more practical.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth</title>
+      <link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/</link>
+      <description>&lt;p&gt;With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension</title>
+      <link>https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/</link>
+      <description>&lt;p&gt;&lt;p&gt;Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/"&gt;Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 15:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI’s quarterly revenue reportedly crosses $10B for the first time</title>
+      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
+      <description>&lt;p&gt;Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 16:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI, activity, and outcomes in software engineering</title>
+      <link>https://cabird.com/talks/shipping-faster/</link>
+      <description>&lt;p&gt;AI, activity, and outcomes in software engineering&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 58&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50455332</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 16:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Faster Retrieval for Better, More Efficient RAG</title>
+      <link>https://machinelearning.apple.com/research/faster-retrieval</link>
+      <description>&lt;p&gt;Faster Retrieval for Better, More Efficient RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 61&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50455633</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 16:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.</title>
+      <link>https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/</link>
+      <description>&lt;p&gt;
+                        Any amount of AI coding is too much for many Indie Game Festival judges.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 11 Nov 2026 17:37:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
