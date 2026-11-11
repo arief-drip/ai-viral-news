@@ -1,8 +1,19 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "description": "\n                        Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "source_link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-10T22:35:01+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
-    "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
-    "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "source_link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "engagement": "\ud83d\udce1 TechCrunch AI",
@@ -20,6 +31,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T20:52:13+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "What happens to mathematics when AI becomes an oracle?",
+    "description": "\n                        Mathematician Steven Strogatz discusses his new book, <em>Big Math: The Hidden Codes That Run Our World</em>.\n                    ",
+    "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "source_link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-10T20:30:01+00:00"
   },
   {
     "id": "rss-TechCrunch AI-2",
@@ -44,7 +66,7 @@
     "published": "2026-11-10T19:03:52+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-2",
     "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
     "description": "\n                        Spruce up your home screen with expanded custom icons and AI-generated widgets.\n                    ",
     "link": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
@@ -64,17 +86,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T18:49:52+00:00"
-  },
-  {
-    "id": "hn-50443716",
-    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "description": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "source_link": "https://news.ycombinator.com/item?id=50443716",
-    "engagement": "\ud83d\udc4d 110",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-10T17:55:07+00:00"
   },
   {
     "id": "rss-TechCrunch AI-5",
@@ -121,17 +132,6 @@
     "published": "2026-11-10T15:29:30+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-1",
-    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-    "description": "\n                        The new model is up to twice as successful at some tasks. \n                    ",
-    "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-    "source_link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-10T15:00:39+00:00"
-  },
-  {
     "id": "rss-MarkTechPost-0",
     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
     "description": "<p>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/\">Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
@@ -148,7 +148,7 @@
     "description": "AI usage generates a fragile codebase",
     "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
     "source_link": "https://news.ycombinator.com/item?id=50438318",
-    "engagement": "\ud83d\udc4d 281",
+    "engagement": "\ud83d\udc4d 415",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T10:25:58+00:00"
@@ -251,17 +251,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-08T10:27:27+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-    "description": "<p>MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/\">MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-    "source_link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-08T06:18:33+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
