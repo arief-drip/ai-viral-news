@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:40:43 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -161,22 +161,12 @@
       <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work</title>
-      <link>https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/"&gt;Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 06:36:10 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
       <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
       <description>&lt;p&gt;&lt;p&gt;Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/"&gt;Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 10 Nov 2026 14:59:09 +0000</pubDate>
     </item>
@@ -186,17 +176,9 @@
       <description>&lt;p&gt;&lt;p&gt;The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/"&gt;MBZUAI&amp;#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] My AI agents found an unmapped Maya site?</title>
-      <link>https://pietromiotti.com/latest/maya-site</link>
-      <description>&lt;p&gt;My AI agents found an unmapped Maya site?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 999&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50452455</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 12:05:22 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension</title>
@@ -204,102 +186,138 @@
       <description>&lt;p&gt;&lt;p&gt;Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/"&gt;Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 15:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Faster Retrieval for Better, More Efficient RAG</title>
-      <link>https://machinelearning.apple.com/research/faster-retrieval</link>
-      <description>&lt;p&gt;Faster Retrieval for Better, More Efficient RAG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 214&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50455633</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 16:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.</title>
-      <link>https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/</link>
-      <description>&lt;p&gt;
-                        Any amount of AI coding is too much for many Independent Games Festival judges.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 17:37:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</title>
-      <link>https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/</link>
-      <description>&lt;p&gt;
-                        Latest example of the AI boom’s circular financing comes as AI trade wobbles.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 18:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Gemini Decisions API</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <description>&lt;p&gt;Gemini Decisions API&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 452&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50456791</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] With $720M round, Britain’s Fractile gets a leg up in the race for AI chips</title>
-      <link>https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/</link>
-      <description>&lt;p&gt;Fractile has now become one of the top-funded players in the race for purpose-built AI chips. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 19:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] CoreWeave turns to customer prepayments, shorter contracts to fund AI growth</title>
-      <link>https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/</link>
-      <description>&lt;p&gt;CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 19:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] How backlash and red tape continue to slow data centers post-Blue Wave</title>
-      <link>https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/</link>
-      <description>&lt;p&gt;The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&amp;#160;Before those challenges even come into play, though, there&amp;#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&amp;#160;With billions of dollars in AI infrastructure [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 20:02:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why the data center you dread might never even be built</title>
-      <link>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</link>
-      <description>&lt;p&gt;The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&amp;#160;Before those challenges even come into play, though, there&amp;#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&amp;#160;With billions of dollars in AI infrastructure [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 20:15:15 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</title>
       <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
       <description>&lt;p&gt;&lt;p&gt;Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/"&gt;Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 21:21:42 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] United Airlines bans AI agents from booking flights on behalf of travelers</title>
-      <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</link>
-      <description>&lt;p&gt;United Airlines bans AI agents from booking flights on behalf of travelers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 569&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50458900</guid>
+      <title>[📰] Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
+      <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
+      <description>&lt;p&gt;
+                        The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 14:50:17 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <description>&lt;p&gt;The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <title>[📰] Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry</title>
+      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
+      <description>&lt;p&gt;Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 16:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Phota Labs uses AI to turn everyday photos into professional-looking shots</title>
+      <link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
+      <description>&lt;p&gt;Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</title>
+      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
+      <description>&lt;p&gt;SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 17:00:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] United Airlines blocks AI agents from booking flights, citing cybersecurity risks</title>
+      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
+      <description>&lt;p&gt;The airline said it will not allow customers to use AI agents to book flights and manage reservations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</title>
+      <link>https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/</link>
+      <description>&lt;p&gt;&lt;p&gt;AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/"&gt;AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 17:26:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
+      <description>&lt;p&gt;Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 17:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <description>&lt;p&gt;Gemini 4 Hydrogen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 276&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50471431</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Jensen Huang’s exit puts Nvidia’s support for open source in question</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
+      <description>&lt;p&gt;Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google faces calls for AI moratoriums in schools after Gemini pilot backlash</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/</link>
+      <description>&lt;p&gt;
+                        Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 18:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
+      <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
+      <description>&lt;p&gt;Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 19:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash</title>
+      <link>https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/</link>
+      <description>&lt;p&gt;
+                        Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 19:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google’s latest Search upgrade promises better answers to your most complicated questions</title>
+      <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
+      <description>&lt;p&gt;Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
-      <pubDate>Wed, 11 Nov 2026 23:50:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 19:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
