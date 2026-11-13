@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:48:25 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -71,14 +71,6 @@
       <guid isPermaLink="false">rss-Import AI (Jack Clark)-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 26 Oct 2026 12:31:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Stop counting tokens, start counting what ships</title>
-      <link>https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/</link>
-      <description>&lt;p&gt;When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-8</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 02 Nov 2026 13:10:32 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4</title>
@@ -161,22 +153,12 @@
       <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
-      <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
-      <description>&lt;p&gt;&lt;p&gt;Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/"&gt;Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 10 Nov 2026 14:59:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI</title>
       <link>https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/</link>
       <description>&lt;p&gt;&lt;p&gt;The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/"&gt;MBZUAI&amp;#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 07:38:57 +0000</pubDate>
     </item>
@@ -186,7 +168,7 @@
       <description>&lt;p&gt;&lt;p&gt;Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/"&gt;Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 15:51:14 +0000</pubDate>
     </item>
@@ -195,49 +177,15 @@
       <link>https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/</link>
       <description>&lt;p&gt;&lt;p&gt;Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/"&gt;Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Wed, 11 Nov 2026 21:21:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
-      <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
-      <description>&lt;p&gt;
-                        The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 14:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry</title>
-      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
-      <description>&lt;p&gt;Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 16:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Phota Labs uses AI to turn everyday photos into professional-looking shots</title>
-      <link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
-      <description>&lt;p&gt;Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</title>
-      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
-      <description>&lt;p&gt;SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 17:00:52 +0000</pubDate>
     </item>
     <item>
       <title>[📰] United Airlines blocks AI agents from booking flights, citing cybersecurity risks</title>
       <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
       <description>&lt;p&gt;The airline said it will not allow customers to use AI agents to book flights and manage reservations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
     </item>
@@ -247,7 +195,7 @@
       <description>&lt;p&gt;&lt;p&gt;AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/"&gt;AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 17:26:08 +0000</pubDate>
     </item>
@@ -255,14 +203,14 @@
       <title>[📰] Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
       <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
       <description>&lt;p&gt;Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 17:36:40 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Gemini 4 Hydrogen</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <description>&lt;p&gt;Gemini 4 Hydrogen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 276&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Gemini 4 Hydrogen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 451&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50471431</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
@@ -271,9 +219,17 @@
       <title>[📰] Jensen Huang’s exit puts Nvidia’s support for open source in question</title>
       <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
       <description>&lt;p&gt;Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 4 Hydrogen and Orchestrator</title>
+      <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</link>
+      <description>&lt;p&gt;Gemini 4 Hydrogen and Orchestrator&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 279&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50472260</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 18:52:01 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google faces calls for AI moratoriums in schools after Gemini pilot backlash</title>
@@ -281,7 +237,7 @@
       <description>&lt;p&gt;
                         Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 18:57:45 +0000</pubDate>
     </item>
@@ -297,7 +253,7 @@
       <title>[📰] Nectar launches an AI agent to automate creator discovery and outreach for brands</title>
       <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
       <description>&lt;p&gt;Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 19:11:00 +0000</pubDate>
     </item>
@@ -307,7 +263,7 @@
       <description>&lt;p&gt;
                         Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 19:23:03 +0000</pubDate>
     </item>
@@ -315,9 +271,88 @@
       <title>[📰] Google’s latest Search upgrade promises better answers to your most complicated questions</title>
       <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
       <description>&lt;p&gt;Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 19:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Elder Scrolls' most obscure adventure gets a 4K PC makeover</title>
+      <link>https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/</link>
+      <description>&lt;p&gt;
+                        N-Gage exclusive &lt;em&gt;Shadowkey&lt;/em&gt; gets an AI-coded glow-up with plenty of new features.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 19:49:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI is turning Apple's app review process into a nightmare for synth developers</title>
+      <link>https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</link>
+      <description>&lt;p&gt;AI is turning Apple's app review process into a nightmare for synth developers&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 69&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50474311</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 21:09:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nebius tests the neocloud playbook with $40 billion in planned spending</title>
+      <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
+      <description>&lt;p&gt;Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 21:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <description>&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 21:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</title>
+      <link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</link>
+      <description>&lt;p&gt;&lt;p&gt;CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/"&gt;CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 21:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Chinese frontier AI models carry the fingerprint of export-controlled GPUs</title>
+      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
+      <description>&lt;p&gt;Chinese frontier AI models carry the fingerprint of export-controlled GPUs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 129&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50474883</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 21:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Muse can now place calls to US businesses — if you pay</title>
+      <link>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/</link>
+      <description>&lt;p&gt;Muse's AI can now place outbound calls to U.S. businesses — but it's not free. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 22:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] FAA expands AI advice to manage air traffic congestion across entire US airspace</title>
+      <link>https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/</link>
+      <description>&lt;p&gt;
+                        Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 22:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</title>
+      <link>https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/"&gt;Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 12 Nov 2026 22:43:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
