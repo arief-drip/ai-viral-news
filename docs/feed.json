@@ -1,6 +1,50 @@
 [
   {
+    "id": "hn-50481220",
+    "title": "Claude Is Down",
+    "description": "Claude Is Down",
+    "link": "https://status.claude.com/history",
+    "source_link": "https://news.ycombinator.com/item?id=50481220",
+    "engagement": "\ud83d\udc4d 105",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-13T10:20:09+00:00"
+  },
+  {
+    "id": "hn-50481187",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "description": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "link": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source_link": "https://news.ycombinator.com/item?id=50481187",
+    "engagement": "\ud83d\udc4d 212",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-13T10:18:13+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+    "description": "<p>Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/\">Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+    "source_link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-13T09:45:48+00:00"
+  },
+  {
+    "id": "hn-50475713",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "description": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source_link": "https://news.ycombinator.com/item?id=50475713",
+    "engagement": "\ud83d\udc4d 271",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-12T23:06:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
     "description": "<p>Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/\">Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
@@ -33,18 +77,7 @@
     "published": "2026-11-12T22:22:28+00:00"
   },
   {
-    "id": "hn-50474883",
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "description": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "link": "https://unemploymentlabs.com/checkpoint-forensics",
-    "source_link": "https://news.ycombinator.com/item?id=50474883",
-    "engagement": "\ud83d\udc4d 129",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-12T21:56:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
     "description": "<p>CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/\">CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</a> appeared first on <a href=\"https://www.marktechpost.com\"...",
     "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
@@ -75,17 +108,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-12T21:27:10+00:00"
-  },
-  {
-    "id": "hn-50474311",
-    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "description": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-    "source_link": "https://news.ycombinator.com/item?id=50474311",
-    "engagement": "\ud83d\udc4d 69",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-12T21:09:49+00:00"
   },
   {
     "id": "rss-Ars Technica AI-1",
@@ -159,7 +181,7 @@
     "description": "Gemini 4 Hydrogen and Orchestrator",
     "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
     "source_link": "https://news.ycombinator.com/item?id=50472260",
-    "engagement": "\ud83d\udc4d 279",
+    "engagement": "\ud83d\udc4d 424",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-12T18:52:01+00:00"
@@ -181,7 +203,7 @@
     "description": "Gemini 4 Hydrogen",
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "source_link": "https://news.ycombinator.com/item?id=50471431",
-    "engagement": "\ud83d\udc4d 451",
+    "engagement": "\ud83d\udc4d 534",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-12T18:01:48+00:00"
@@ -198,7 +220,7 @@
     "published": "2026-11-12T17:36:40+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
     "description": "<p>AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/\">AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
@@ -220,7 +242,7 @@
     "published": "2026-11-12T17:17:58+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
     "description": "<p>Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/\">Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost<...",
     "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
@@ -231,7 +253,7 @@
     "published": "2026-11-11T21:21:42+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
     "description": "<p>Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/\">Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
@@ -242,7 +264,7 @@
     "published": "2026-11-11T15:51:14+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "MBZUAI\u2019s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
     "description": "<p>The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/\">MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
