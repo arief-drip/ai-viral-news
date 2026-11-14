@@ -1,6 +1,39 @@
 [
   {
+    "id": "rss-TechCrunch AI-0",
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source_link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-14T17:30:00+00:00"
+  },
+  {
     "id": "rss-MarkTechPost-0",
+    "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+    "description": "<p>Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model\u2019s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/\">Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+    "source_link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-14T16:45:48+00:00"
+  },
+  {
+    "id": "hn-50497589",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "description": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "source_link": "https://news.ycombinator.com/item?id=50497589",
+    "engagement": "\ud83d\udc4d 137",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-14T15:04:15+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
     "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
     "description": "<p>Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/\">Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
@@ -11,18 +44,7 @@
     "published": "2026-11-14T06:38:14+00:00"
   },
   {
-    "id": "hn-50493251",
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "description": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "source_link": "https://news.ycombinator.com/item?id=50493251",
-    "engagement": "\ud83d\udc4d 935",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-14T02:52:59+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-1",
     "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
     "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -44,7 +66,7 @@
     "published": "2026-11-13T21:20:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "AI agent startup LangChain hits $3B valuation",
     "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. ",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -55,7 +77,7 @@
     "published": "2026-11-13T19:37:57+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
     "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
@@ -77,7 +99,7 @@
     "published": "2026-11-13T17:25:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
     "description": "<p>The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15\u201330 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/\">Best AI Video Generation Models in 2026: Elo, Price per Second, O...",
     "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
@@ -88,7 +110,7 @@
     "published": "2026-11-13T17:23:51+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
     "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -99,7 +121,7 @@
     "published": "2026-11-13T16:00:12+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "The unfolding Jensen Huang scandal: a timeline",
     "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -121,7 +143,7 @@
     "published": "2026-11-13T14:05:22+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
+    "id": "rss-TechCrunch AI-6",
     "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
     "description": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
     "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
@@ -132,7 +154,7 @@
     "published": "2026-11-13T12:52:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
     "description": "<p>Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/\">Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
@@ -143,7 +165,7 @@
     "published": "2026-11-13T09:45:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
     "description": "<p>Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/\">Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
@@ -154,7 +176,7 @@
     "published": "2026-11-12T22:43:26+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
     "description": "<p>CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/\">CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</a> appeared first on <a href=\"https://www.marktechpost.com\"...",
     "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
@@ -176,7 +198,7 @@
     "published": "2026-11-12T19:07:35+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
     "description": "<p>AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/\">AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
@@ -192,7 +214,7 @@
     "description": "Generative AI uses more energy on non-English text",
     "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
     "source_link": "https://news.ycombinator.com/item?id=50441444",
-    "engagement": "\ud83d\udc4d 91",
+    "engagement": "\ud83d\udc4d 167",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-10T15:07:28+00:00"
