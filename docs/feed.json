@@ -1,5 +1,27 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+    "description": "<p>Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/\">Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "source_link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-14T06:38:14+00:00"
+  },
+  {
+    "id": "hn-50493251",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "description": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "source_link": "https://news.ycombinator.com/item?id=50493251",
+    "engagement": "\ud83d\udc4d 609",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-14T02:52:59+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
     "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -44,17 +66,6 @@
     "published": "2026-11-13T18:40:30+00:00"
   },
   {
-    "id": "hn-50486748",
-    "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-    "description": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "source_link": "https://news.ycombinator.com/item?id=50486748",
-    "engagement": "\ud83d\udc4d 316",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-13T17:30:10+00:00"
-  },
-  {
     "id": "rss-Ars Technica AI-1",
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
     "description": "\n                        Researcher traces a path from AI reward hacking to potential human extinction.\n                    ",
@@ -66,7 +77,7 @@
     "published": "2026-11-13T17:25:45+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
     "description": "<p>The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15\u201330 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/\">Best AI Video Generation Models in 2026: Elo, Price per Second, O...",
     "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
@@ -99,6 +110,17 @@
     "published": "2026-11-13T15:58:00+00:00"
   },
   {
+    "id": "hn-50484658",
+    "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+    "description": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "source_link": "https://news.ycombinator.com/item?id=50484658",
+    "engagement": "\ud83d\udc4d 304",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-13T15:08:44+00:00"
+  },
+  {
     "id": "rss-HuggingFace Blog-0",
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "description": "",
@@ -121,7 +143,7 @@
     "published": "2026-11-13T12:52:19+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
     "description": "<p>Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/\">Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
@@ -132,7 +154,7 @@
     "published": "2026-11-13T09:45:48+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
     "description": "<p>Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/\">Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
@@ -154,7 +176,7 @@
     "published": "2026-11-12T22:22:28+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
     "description": "<p>CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/\">CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</a> appeared first on <a href=\"https://www.marktechpost.com\"...",
     "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
@@ -176,7 +198,7 @@
     "published": "2026-11-12T19:07:35+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
     "description": "<p>AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/\">AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
@@ -187,7 +209,7 @@
     "published": "2026-11-12T17:26:08+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
     "description": "<p>Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/\">Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost<...",
     "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
