@@ -1,5 +1,16 @@
 [
   {
+    "id": "hn-50507303",
+    "title": "All AI-generated code should be Open Source",
+    "description": "All AI-generated code should be Open Source",
+    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source_link": "https://news.ycombinator.com/item?id=50507303",
+    "engagement": "\ud83d\udc4d 586",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-15T14:46:58+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -20,17 +31,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-14T16:45:48+00:00"
-  },
-  {
-    "id": "hn-50497589",
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "description": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "source_link": "https://news.ycombinator.com/item?id=50497589",
-    "engagement": "\ud83d\udc4d 240",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-14T15:04:15+00:00"
   },
   {
     "id": "rss-MarkTechPost-1",
@@ -86,17 +86,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-13T18:40:30+00:00"
-  },
-  {
-    "id": "rss-Ars Technica AI-1",
-    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-    "description": "\n                        Researcher traces a path from AI reward hacking to potential human extinction.\n                    ",
-    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "source_link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-13T17:25:45+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -187,26 +176,15 @@
     "published": "2026-11-12T19:07:35+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
-    "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-    "description": "<p>AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/\">AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-    "source_link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-12T17:26:08+00:00"
-  },
-  {
-    "id": "hn-50441444",
-    "title": "Generative AI uses more energy on non-English text",
-    "description": "Generative AI uses more energy on non-English text",
-    "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "source_link": "https://news.ycombinator.com/item?id=50441444",
-    "engagement": "\ud83d\udc4d 214",
+    "id": "hn-50463399",
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "description": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "source_link": "https://news.ycombinator.com/item?id=50463399",
+    "engagement": "\ud83d\udc4d 103",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-11-10T15:07:28+00:00"
+    "published": "2026-11-12T05:29:24+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
