@@ -1,6 +1,17 @@
 [
   {
     "id": "rss-TechCrunch AI-0",
+    "title": "Apple launches new app to study how people use AI for health",
+    "description": "Apple's new app for a study will answer everyday medical questions",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "source_link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-16T01:30:00+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
     "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
@@ -11,7 +22,7 @@
     "published": "2026-11-15T23:30:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-2",
     "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
     "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
     "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
@@ -22,18 +33,7 @@
     "published": "2026-11-15T21:56:35+00:00"
   },
   {
-    "id": "hn-50507303",
-    "title": "All AI-generated code should be Open Source",
-    "description": "All AI-generated code should be Open Source",
-    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "source_link": "https://news.ycombinator.com/item?id=50507303",
-    "engagement": "\ud83d\udc4d 1,039",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-15T14:46:58+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-3",
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -66,7 +66,7 @@
     "published": "2026-11-14T06:38:14+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-4",
     "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
     "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -88,7 +88,7 @@
     "published": "2026-11-13T21:20:47+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
+    "id": "rss-TechCrunch AI-5",
     "title": "AI agent startup LangChain hits $3B valuation",
     "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. ",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -97,17 +97,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-13T19:37:57+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
-    "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "source_link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-13T18:40:30+00:00"
   },
   {
     "id": "rss-MarkTechPost-2",
@@ -181,7 +170,7 @@
     "description": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
     "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
     "source_link": "https://news.ycombinator.com/item?id=50463399",
-    "engagement": "\ud83d\udc4d 299",
+    "engagement": "\ud83d\udc4d 369",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-12T05:29:24+00:00"
