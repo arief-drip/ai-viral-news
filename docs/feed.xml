@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:24:44 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI</title>
       <link>https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/</link>
@@ -153,49 +153,12 @@
       <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]</title>
-      <link>https://www.youtube.com/watch?v=WPj3aQ-xxpI</link>
-      <description>&lt;p&gt;Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 369&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50463399</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 05:29:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
       <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</title>
-      <link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</link>
-      <description>&lt;p&gt;&lt;p&gt;CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/"&gt;CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 21:45:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</title>
-      <link>https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</link>
-      <description>&lt;p&gt;&lt;p&gt;Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/"&gt;Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 12 Nov 2026 22:43:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</title>
-      <link>https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</link>
-      <description>&lt;p&gt;&lt;p&gt;Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/"&gt;Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 13 Nov 2026 09:45:48 +0000</pubDate>
     </item>
     <item>
       <title>[📰] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -206,11 +169,19 @@
       <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Artificial Intelligence for the Z80</title>
+      <link>https://www.dfsantos.com/en/libro-ia-z80</link>
+      <description>&lt;p&gt;Artificial Intelligence for the Z80&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 55&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50485275</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 13 Nov 2026 15:50:43 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights</title>
       <link>https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/"&gt;Best AI Video Generation Models in 2026: Elo, Price per Second, O...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Fri, 13 Nov 2026 17:23:51 +0000</pubDate>
     </item>
@@ -246,7 +217,7 @@
       <description>&lt;p&gt;&lt;p&gt;Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"&gt;Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 14 Nov 2026 06:38:14 +0000</pubDate>
     </item>
@@ -256,7 +227,7 @@
       <description>&lt;p&gt;&lt;p&gt;Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/"&gt;Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Sat, 14 Nov 2026 16:45:48 +0000</pubDate>
     </item>
@@ -291,6 +262,15 @@
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands</title>
+      <link>https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</link>
+      <description>&lt;p&gt;&lt;p&gt;Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/"&gt;Meet Meta&amp;#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Mon, 16 Nov 2026 10:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
