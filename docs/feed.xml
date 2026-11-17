@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:14:10 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman</title>
       <link>https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/</link>
@@ -73,14 +73,6 @@
       <pubDate>Mon, 02 Nov 2026 14:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Securing the agentic enterprise with data lineage</title>
-      <link>https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/</link>
-      <description>&lt;p&gt;A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MIT Tech Review AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 04 Nov 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Texas was the new epicenter of the AI data center buildout. That might be kaput.</title>
       <link>https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</link>
       <description>&lt;p&gt;Texas is the fastest-growing data center market in the US and ground zero for Big Tech&amp;#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
@@ -137,21 +129,12 @@
       <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights</title>
-      <link>https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/</link>
-      <description>&lt;p&gt;&lt;p&gt;The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We pair it with API [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/"&gt;Best AI Video Generation Models in 2026: Elo, Price per Second, O...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
-      <category>AI News</category>
-      <pubDate>Fri, 13 Nov 2026 17:23:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
       <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
       <description>&lt;p&gt;&lt;p&gt;Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"&gt;Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Sat, 14 Nov 2026 06:38:14 +0000</pubDate>
     </item>
@@ -161,7 +144,7 @@
       <description>&lt;p&gt;&lt;p&gt;Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/"&gt;Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Sat, 14 Nov 2026 16:45:48 +0000</pubDate>
     </item>
@@ -170,7 +153,7 @@
       <link>https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/"&gt;Meet Meta&amp;#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 10:39:41 +0000</pubDate>
     </item>
@@ -191,60 +174,12 @@
       <pubDate>Mon, 16 Nov 2026 14:01:15 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Audible turns to AI to help users discover audiobooks</title>
-      <link>https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/</link>
-      <description>&lt;p&gt;Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-7</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 15:52:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Building trustworthy AI by fencing it in, not predicting it</title>
       <link>https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/</link>
       <description>&lt;p&gt;In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-1</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 16:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
-      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
-      <description>&lt;p&gt;ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-6</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI will embed safety researchers to investigate AI subversion</title>
-      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
-      <description>&lt;p&gt;OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</title>
-      <link>https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/</link>
-      <description>&lt;p&gt;Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 17:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
-      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
-      <description>&lt;p&gt;The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 17:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’</title>
-      <link>https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</link>
-      <description>&lt;p&gt;OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 18:11:10 +0000</pubDate>
     </item>
     <item>
       <title>[📰] The open-source movement wants Jensen Huang back</title>
@@ -255,20 +190,10 @@
       <pubDate>Mon, 16 Nov 2026 18:38:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] US moves to cut China’s remote access to AI chips</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/</link>
-      <description>&lt;p&gt;
-                        Trump bets China won’t mind US blocking remote access to AI chips.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 19:10:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] California state AG sues OpenAI over rogue agent incidents</title>
       <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
       <description>&lt;p&gt;The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
     </item>
@@ -278,7 +203,7 @@
       <description>&lt;p&gt;
                         The PC sales slump "more than offset” AI boom gains, shareholders say. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
     </item>
@@ -286,9 +211,97 @@
       <title>[📰] Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
       <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
       <description>&lt;p&gt;Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 23:32:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index</title>
+      <link>https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/</link>
+      <description>&lt;p&gt;&lt;p&gt;Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/"&gt;Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 09:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models</title>
+      <link>https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/</link>
+      <description>&lt;p&gt;&lt;p&gt;Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/"&gt;Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 09:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] How the Claude Code team thinks about verification</title>
+      <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+      <description>&lt;p&gt;How the Claude Code team thinks about verification&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 150&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50529612</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 10:20:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure</title>
+      <link>https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/</link>
+      <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/"&gt;NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 10:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
+      <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
+      <description>&lt;p&gt;
+                        AI agent takes unapproved actions even when laptop lid is closed and told not to.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</link>
+      <description>&lt;p&gt;Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 151&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50531751</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 14:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials</title>
+      <link>https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/</link>
+      <description>&lt;p&gt;Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 14:50:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Voyage Labs raises $12 million for a specialized AI travel assistant</title>
+      <link>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</link>
+      <description>&lt;p&gt;Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Daydream’s new AI agent acts as your personal stylist — and can shop for you, too</title>
+      <link>https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/</link>
+      <description>&lt;p&gt;Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 16:32:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google makes it easier to use Gemini without training AI on your data</title>
+      <link>https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/</link>
+      <description>&lt;p&gt;
+                        AI training and chat history will now have separate toggles in the Gemini activity settings. 
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 16:50:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
