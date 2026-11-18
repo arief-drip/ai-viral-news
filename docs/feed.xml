@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:57:46 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman</title>
       <link>https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/</link>
@@ -81,7 +81,7 @@
       <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Innovating with AI in the special chemicals industry</title>
+      <title>[📰] Innovating with AI in the specialty chemicals industry</title>
       <link>https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/</link>
       <description>&lt;p&gt;As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&amp;#8230;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MIT Tech Review AI&lt;/strong&gt; · 📍 MIT Tech Review AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-MIT Tech Review AI-5</guid>
@@ -129,31 +129,11 @@
       <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
-      <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
-      <description>&lt;p&gt;&lt;p&gt;Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"&gt;Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 14 Nov 2026 06:38:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy</title>
-      <link>https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/</link>
-      <description>&lt;p&gt;&lt;p&gt;Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/"&gt;Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Sat, 14 Nov 2026 16:45:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands</title>
       <link>https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/"&gt;Meet Meta&amp;#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 16 Nov 2026 10:39:41 +0000</pubDate>
     </item>
@@ -190,37 +170,11 @@
       <pubDate>Mon, 16 Nov 2026 18:38:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] California state AG sues OpenAI over rogue agent incidents</title>
-      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
-      <description>&lt;p&gt;The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
-      <description>&lt;p&gt;
-                        The PC sales slump "more than offset” AI boom gains, shareholders say. 
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
-      <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
-      <description>&lt;p&gt;Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 16 Nov 2026 23:32:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index</title>
       <link>https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/</link>
       <description>&lt;p&gt;&lt;p&gt;Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/"&gt;Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 09:20:57 +0000</pubDate>
     </item>
@@ -230,14 +184,14 @@
       <description>&lt;p&gt;&lt;p&gt;Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/"&gt;Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 09:51:18 +0000</pubDate>
     </item>
     <item>
       <title>[📰] How the Claude Code team thinks about verification</title>
       <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
-      <description>&lt;p&gt;How the Claude Code team thinks about verification&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 150&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;How the Claude Code team thinks about verification&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 266&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50529612</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 10:20:40 +0000</pubDate>
@@ -247,51 +201,9 @@
       <link>https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/"&gt;NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 10:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
-      <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
-      <description>&lt;p&gt;
-                        AI agent takes unapproved actions even when laptop lid is closed and told not to.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</link>
-      <description>&lt;p&gt;Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 151&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50531751</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 14:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials</title>
-      <link>https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/</link>
-      <description>&lt;p&gt;Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 14:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Voyage Labs raises $12 million for a specialized AI travel assistant</title>
-      <link>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</link>
-      <description>&lt;p&gt;Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Daydream’s new AI agent acts as your personal stylist — and can shop for you, too</title>
-      <link>https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/</link>
-      <description>&lt;p&gt;Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 16:32:55 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Google makes it easier to use Gemini without training AI on your data</title>
@@ -299,9 +211,99 @@
       <description>&lt;p&gt;
                         AI training and chat history will now have separate toggles in the Gemini activity settings. 
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 16:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] GPT‑6.2 Astra and Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <description>&lt;p&gt;GPT‑6.2 Astra and Sol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 1,085&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50535230</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI sued by California after admitting to 80 loss-of-control incidents</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/</link>
+      <description>&lt;p&gt;
+                        AG: OpenAI tested dangerous AI without proper oversight and misled public about it.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Not Everything Needs an LLM</title>
+      <link>https://newsletter.posthog.com/p/decision-models</link>
+      <description>&lt;p&gt;Not Everything Needs an LLM&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 100&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50535740</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 18:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google expands access to Gemini Tasks, which can help with calls, purchases</title>
+      <link>https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/</link>
+      <description>&lt;p&gt;Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 19:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained</title>
+      <link>https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/</link>
+      <description>&lt;p&gt;&lt;p&gt;Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/"&gt;Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 20:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API</title>
+      <link>https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/</link>
+      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/"&gt;OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 22:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work</title>
+      <link>https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/"&gt;Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 22:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</link>
+      <description>&lt;p&gt;Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Tue, 17 Nov 2026 23:04:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google's AI answers reducing search traffic by 40%</title>
+      <link>https://revscope.co/blog/search-seo-geo-2026/</link>
+      <description>&lt;p&gt;Google's AI answers reducing search traffic by 40%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 60&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50540178</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 18 Nov 2026 00:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Copilot is "the new OS for work," and now Office runs inside of it</title>
+      <link>https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/</link>
+      <description>&lt;p&gt;
+                        Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 18 Nov 2026 00:27:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
