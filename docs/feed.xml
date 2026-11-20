@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:33:22 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman</title>
       <link>https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/</link>
@@ -153,41 +153,12 @@
       <pubDate>Mon, 16 Nov 2026 18:38:47 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure</title>
-      <link>https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/</link>
-      <description>&lt;p&gt;&lt;p&gt;NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/"&gt;NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPo...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 10:37:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained</title>
-      <link>https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/</link>
-      <description>&lt;p&gt;&lt;p&gt;Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/"&gt;Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 20:49:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API</title>
-      <link>https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/</link>
-      <description>&lt;p&gt;&lt;p&gt;OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/"&gt;OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 17 Nov 2026 22:07:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work</title>
       <link>https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/</link>
       <description>&lt;p&gt;&lt;p&gt;Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/"&gt;Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Tue, 17 Nov 2026 22:52:04 +0000</pubDate>
     </item>
@@ -197,7 +168,7 @@
       <description>&lt;p&gt;&lt;p&gt;Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/"&gt;Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 18 Nov 2026 06:53:28 +0000</pubDate>
     </item>
@@ -207,7 +178,7 @@
       <description>&lt;p&gt;&lt;p&gt;SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/"&gt;SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Wed, 18 Nov 2026 07:10:53 +0000</pubDate>
     </item>
@@ -228,44 +199,12 @@
       <pubDate>Wed, 18 Nov 2026 14:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Gemini 4 Neon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-      <description>&lt;p&gt;Gemini 4 Neon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 975&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50552424</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 18 Nov 2026 21:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Satya Nadella predicts AI agents will reshuffle the economics of the web</title>
-      <link>https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/</link>
-      <description>&lt;p&gt;Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 18 Nov 2026 22:58:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
-      <link>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</link>
-      <description>&lt;p&gt;The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 18 Nov 2026 23:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</title>
-      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</link>
-      <description>&lt;p&gt;Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 00:42:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index</title>
       <link>https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/</link>
       <description>&lt;p&gt;&lt;p&gt;Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/"&gt;Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Thu, 19 Nov 2026 06:52:26 +0000</pubDate>
     </item>
@@ -275,41 +214,118 @@
       <description>&lt;p&gt;&lt;p&gt;AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/"&gt;Not If, But How: Responding to Security Incidents in the Age of AI Attackers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Thu, 19 Nov 2026 10:45:57 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI still has a WebRTC Problem</title>
-      <link>https://moq.dev/blog/webrtc-is-still-the-problem/</link>
-      <description>&lt;p&gt;OpenAI still has a WebRTC Problem&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 58&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50560461</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 14:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic’s IPO puts AI’s circular financing boom to the test</title>
-      <link>https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/</link>
-      <description>&lt;p&gt;Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 14:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)</title>
+      <title>[📰] Pete warden on local AI, open models, voice interfaces, the future of hardware</title>
       <link>https://thedataexchange.media/pete-warden-moonshine/</link>
-      <description>&lt;p&gt;Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 59&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pete warden on local AI, open models, voice interfaces, the future of hardware&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 214&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50561508</guid>
       <category>AI News</category>
       <pubDate>Thu, 19 Nov 2026 15:38:12 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development</title>
-      <link>https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/</link>
-      <description>&lt;p&gt;In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <title>[📰] Claude solves two open problems in the physics of black holes</title>
+      <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+      <description>&lt;p&gt;Claude solves two open problems in the physics of black holes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 376&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50563148</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
+      <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
+      <description>&lt;p&gt;In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Perplexity Launches Orchestrator API for Failover and Model Routing</title>
+      <link>https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/</link>
+      <description>&lt;p&gt;&lt;p&gt;Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/"&gt;Perplexity Launches Orchestrator API for Failover and Model Routing&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkT...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 17:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google gives Gemini the ability to use your Mac for you</title>
+      <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
+      <description>&lt;p&gt;Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 18:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</title>
+      <link>https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/"&gt;13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 18:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
+      <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
+      <description>&lt;p&gt;Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 73&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50564366</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 18:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <description>&lt;p&gt;Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 20:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</link>
+      <description>&lt;p&gt;
+                        Lawsuit: Over 99% of school system’s AI gun alerts were false positives.
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 20:19:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] These tech outages are giving Y2K, AI agent style</title>
+      <link>https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</link>
+      <description>&lt;p&gt;Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 21:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Meta’s new Muse Charm device may cost $300</title>
+      <link>https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/</link>
+      <description>&lt;p&gt;Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 21:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Gemini 4 Neon is the new #1 on the Models Engineering Index</title>
+      <link>https://git-aarvin.github.io/mei/</link>
+      <description>&lt;p&gt;Gemini 4 Neon is the new #1 on the Models Engineering Index&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 76&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50568130</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 19 Nov 2026 23:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Apple may be developing its own AI agent that runs your Mac</title>
+      <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
+      <description>&lt;p&gt;The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 16:19:41 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
