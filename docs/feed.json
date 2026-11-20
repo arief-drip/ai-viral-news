@@ -1,28 +1,116 @@
 [
   {
+    "id": "rss-Ars Technica AI-0",
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "description": "\n                        Google search is making it even easier to access AI tools on the search page. \n                    ",
+    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "source_link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T21:58:29+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-1",
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "description": "\n                        Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?\n                    ",
+    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "source_link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T21:47:10+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-2",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "description": "\n                        Test using prompts with unique, trackable secrets proves that data doesn't stay private.\n                    ",
+    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source_link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T20:59:08+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-0",
+    "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source_link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T19:53:41+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+    "description": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too. ",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source_link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T19:32:08+00:00"
+  },
+  {
+    "id": "rss-MIT Tech Review AI-0",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding.\u00a0 The report is an update to the organization\u2019s time horizon plot, which was widely&#8230;",
+    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source_link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "engagement": "\ud83d\udce1 MIT Tech Review AI",
+    "source": "MIT Tech Review AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T18:15:15+00:00"
+  },
+  {
+    "id": "hn-50577901",
+    "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+    "description": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+    "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "source_link": "https://news.ycombinator.com/item?id=50577901",
+    "engagement": "\ud83d\udc4d 216",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T16:59:27+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+    "description": "<p>NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/\">NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B</a> appea...",
+    "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+    "source_link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T14:44:52+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "source_link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-20T14:00:00+00:00"
+  },
+  {
     "id": "hn-50572503",
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "description": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
     "link": "https://architectlabs.com/blog/frostbite",
     "source_link": "https://news.ycombinator.com/item?id=50572503",
-    "engagement": "\ud83d\udc4d 163",
+    "engagement": "\ud83d\udc4d 589",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-20T10:01:41+00:00"
   },
   {
-    "id": "hn-50569519",
-    "title": "What Comes After AGI?",
-    "description": "What Comes After AGI?",
-    "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-    "source_link": "https://news.ycombinator.com/item?id=50569519",
-    "engagement": "\ud83d\udc4d 84",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-20T02:44:13+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-0",
+    "id": "rss-TechCrunch AI-3",
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. ",
     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -33,7 +121,7 @@
     "published": "2026-11-20T00:56:01+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "Meta\u2019s new Muse Charm device may cost $300",
     "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
     "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
@@ -44,7 +132,7 @@
     "published": "2026-11-19T21:58:06+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "These tech outages are giving Y2K, AI agent style",
     "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
     "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
@@ -55,18 +143,7 @@
     "published": "2026-11-19T21:42:31+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
-    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-    "description": "\n                        Lawsuit: Over 99% of school system\u2019s AI gun alerts were false positives.\n                    ",
-    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "source_link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-    "engagement": "\ud83d\udce1 Ars Technica AI",
-    "source": "Ars Technica AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T20:19:28+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "The unfolding Jensen Huang scandal: a timeline",
     "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -77,7 +154,7 @@
     "published": "2026-11-19T20:18:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
     "description": "<p>We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/\">13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
@@ -88,18 +165,7 @@
     "published": "2026-11-19T18:13:21+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "source_link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T18:09:11+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
     "description": "<p>Perplexity\u2019s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/\">Perplexity Launches Orchestrator API for Failover and Model Routing</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
     "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
@@ -110,40 +176,7 @@
     "published": "2026-11-19T17:47:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. ",
-    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "source_link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T17:38:40+00:00"
-  },
-  {
-    "id": "hn-50563148",
-    "title": "Claude solves two open problems in the physics of black holes",
-    "description": "Claude solves two open problems in the physics of black holes",
-    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "source_link": "https://news.ycombinator.com/item?id=50563148",
-    "engagement": "\ud83d\udc4d 514",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T17:30:44+00:00"
-  },
-  {
-    "id": "hn-50561508",
-    "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-    "description": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-    "link": "https://thedataexchange.media/pete-warden-moonshine/",
-    "source_link": "https://news.ycombinator.com/item?id=50561508",
-    "engagement": "\ud83d\udc4d 257",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T15:38:12+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
     "description": "<p>AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/\">Not If, But How: Responding to Security Incidents in the Age of AI Attackers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
@@ -154,7 +187,7 @@
     "published": "2026-11-19T10:45:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
     "description": "<p>Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA\u2019s Coding Agent Index.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/\">Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
@@ -165,7 +198,7 @@
     "published": "2026-11-19T06:52:26+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-0",
+    "id": "rss-MIT Tech Review AI-1",
     "title": "The AI Hype Index: AI is everywhere",
     "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone\u2019s rooms. Go to the supermarket, and&#8230;",
     "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
@@ -176,7 +209,7 @@
     "published": "2026-11-18T14:42:44+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-1",
+    "id": "rss-MIT Tech Review AI-2",
     "title": "This smell startup says its AI nose is as good as a human\u2019s",
     "description": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d \u201cmarine\u201d\u2014are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world\u2019s first foundation&#8230;",
     "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
@@ -187,7 +220,7 @@
     "published": "2026-11-18T10:20:30+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
     "description": "<p>SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID\u2019s benchmark.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/\">SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
@@ -198,29 +231,7 @@
     "published": "2026-11-18T07:10:53+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
-    "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-    "description": "<p>Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/\">Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-    "source_link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-18T06:53:28+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-6",
-    "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
-    "description": "<p>Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other\u2019s work.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/\">Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
-    "source_link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-17T22:52:04+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-2",
+    "id": "rss-MIT Tech Review AI-3",
     "title": "The open-source movement wants Jensen Huang back",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
     "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
@@ -231,7 +242,7 @@
     "published": "2026-11-16T18:38:47+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-3",
+    "id": "rss-MIT Tech Review AI-4",
     "title": "Building trustworthy AI by fencing it in, not predicting it",
     "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had told the agents to do&#8230;",
     "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
@@ -253,7 +264,7 @@
     "published": "2026-11-16T14:01:15+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-4",
+    "id": "rss-MIT Tech Review AI-5",
     "title": "Building AI that can work across the enterprise",
     "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
     "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
@@ -264,29 +275,7 @@
     "published": "2026-11-16T13:00:00+00:00"
   },
   {
-    "id": "rss-HuggingFace Blog-0",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "description": "",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source_link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-13T14:05:22+00:00"
-  },
-  {
-    "id": "rss-HuggingFace Blog-1",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "description": "",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "source_link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "engagement": "\ud83d\udce1 HuggingFace Blog",
-    "source": "HuggingFace Blog",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-12T19:07:35+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-5",
+    "id": "rss-MIT Tech Review AI-6",
     "title": "The backlash about data centers might really just be about electricity",
     "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub. It\u2019s also where&#8230;",
     "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
@@ -297,7 +286,7 @@
     "published": "2026-11-09T19:35:33+00:00"
   },
   {
-    "id": "rss-MIT Tech Review AI-6",
+    "id": "rss-MIT Tech Review AI-7",
     "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
     "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
     "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -317,17 +306,6 @@
     "source": "Import AI (Jack Clark)",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-09T13:31:34+00:00"
-  },
-  {
-    "id": "rss-MIT Tech Review AI-7",
-    "title": "Innovating with AI in the specialty chemicals industry",
-    "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
-    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "source_link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "engagement": "\ud83d\udce1 MIT Tech Review AI",
-    "source": "MIT Tech Review AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-09T13:00:00+00:00"
   },
   {
     "id": "rss-Import AI (Jack Clark)-2",
