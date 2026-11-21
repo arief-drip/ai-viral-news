@@ -1,5 +1,38 @@
 [
   {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+    "description": "<p>Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/\">Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+    "source_link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-21T12:13:50+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+    "description": "<p>OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/\">OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+    "source_link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-21T11:46:17+00:00"
+  },
+  {
+    "id": "hn-50586292",
+    "title": "ClawDOS \u2013 An AI coding agent for DOS",
+    "description": "ClawDOS \u2013 An AI coding agent for DOS",
+    "link": "http://ricapar.net/ClawDOS/",
+    "source_link": "https://news.ycombinator.com/item?id=50586292",
+    "engagement": "\ud83d\udc4d 124",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-21T05:38:01+00:00"
+  },
+  {
     "id": "rss-Ars Technica AI-0",
     "title": "Google rolls out new search homepage with AI chat history and no search button",
     "description": "\n                        Google search is making it even easier to access AI tools on the search page. \n                    ",
@@ -66,7 +99,7 @@
     "published": "2026-11-20T18:15:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
     "description": "<p>NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/\">NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B</a> appea...",
     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
@@ -88,15 +121,15 @@
     "published": "2026-11-20T14:00:00+00:00"
   },
   {
-    "id": "hn-50572348",
-    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "description": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "link": "https://signal.org/blog/protecting-your-privacy/",
-    "source_link": "https://news.ycombinator.com/item?id=50572348",
-    "engagement": "\ud83d\udc4d 533",
+    "id": "hn-50574383",
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+    "description": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "source_link": "https://news.ycombinator.com/item?id=50574383",
+    "engagement": "\ud83d\udc4d 413",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
-    "published": "2026-11-20T09:42:16+00:00"
+    "published": "2026-11-20T13:29:59+00:00"
   },
   {
     "id": "rss-TechCrunch AI-3",
@@ -143,7 +176,7 @@
     "published": "2026-11-19T20:18:49+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
     "description": "<p>We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/\">13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
@@ -154,7 +187,7 @@
     "published": "2026-11-19T18:13:21+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
     "description": "<p>Perplexity\u2019s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/\">Perplexity Launches Orchestrator API for Failover and Model Routing</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
     "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
@@ -165,7 +198,7 @@
     "published": "2026-11-19T17:47:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
     "description": "<p>AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/\">Not If, But How: Responding to Security Incidents in the Age of AI Attackers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
@@ -176,7 +209,7 @@
     "published": "2026-11-19T10:45:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-6",
     "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
     "description": "<p>Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA\u2019s Coding Agent Index.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/\">Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
@@ -207,17 +240,6 @@
     "source": "MIT Tech Review AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-18T10:20:30+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-    "description": "<p>SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID\u2019s benchmark.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/\">SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-    "source_link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-18T07:10:53+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-3",
