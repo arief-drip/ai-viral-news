@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 04:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:47:48 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman</title>
       <link>https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/</link>
@@ -145,31 +145,12 @@
       <pubDate>Wed, 18 Nov 2026 14:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Not If, But How: Responding to Security Incidents in the Age of AI Attackers</title>
-      <link>https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/</link>
-      <description>&lt;p&gt;&lt;p&gt;AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/"&gt;Not If, But How: Responding to Security Incidents in the Age of AI Attackers&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 10:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Perplexity Launches Orchestrator API for Failover and Model Routing</title>
-      <link>https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/</link>
-      <description>&lt;p&gt;&lt;p&gt;Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/"&gt;Perplexity Launches Orchestrator API for Failover and Model Routing&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkT...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 19 Nov 2026 17:47:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</title>
       <link>https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/</link>
       <description>&lt;p&gt;&lt;p&gt;We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/"&gt;13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Thu, 19 Nov 2026 18:13:21 +0000</pubDate>
     </item>
@@ -194,7 +175,7 @@
       <link>https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/</link>
       <description>&lt;p&gt;&lt;p&gt;NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/"&gt;NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B&lt;/a&gt; appea...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Fri, 20 Nov 2026 14:44:52 +0000</pubDate>
     </item>
@@ -258,7 +239,7 @@
       <description>&lt;p&gt;&lt;p&gt;OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/"&gt;OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Sat, 21 Nov 2026 11:46:17 +0000</pubDate>
     </item>
@@ -268,7 +249,7 @@
       <description>&lt;p&gt;&lt;p&gt;Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/"&gt;Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Sat, 21 Nov 2026 12:13:50 +0000</pubDate>
     </item>
@@ -289,12 +270,56 @@
       <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] Pandex – Official European Law for AI Agents, over MCP</title>
+      <link>https://www.pandex.io</link>
+      <description>&lt;p&gt;Pandex – Official European Law for AI Agents, over MCP&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 121&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50593481</guid>
+      <category>AI News</category>
+      <pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
       <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
       <description>&lt;p&gt;Signal is limiting users' ability to take screenshots in both its Android and iOS apps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
       <category>AI News</category>
       <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The Mythology of Conscious AI</title>
+      <link>https://www.noemamag.com/the-mythology-of-conscious-ai/</link>
+      <description>&lt;p&gt;The Mythology of Conscious AI&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 112&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50595537</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 22 Nov 2026 02:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</title>
+      <link>https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</link>
+      <description>&lt;p&gt;&lt;p&gt;Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/"&gt;Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 22 Nov 2026 10:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
+      <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
+      <description>&lt;p&gt;&lt;p&gt;Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/"&gt;Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 22 Nov 2026 10:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Show HN: I built a game where you are an LLM's subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <description>&lt;p&gt;Show HN: I built a game where you are an LLM's subagent&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 56&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50599762</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

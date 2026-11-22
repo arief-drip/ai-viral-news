@@ -1,5 +1,49 @@
 [
   {
+    "id": "hn-50599762",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "description": "Show HN: I built a game where you are an LLM's subagent",
+    "link": "https://github.com/gulivan/worker755",
+    "source_link": "https://news.ycombinator.com/item?id=50599762",
+    "engagement": "\ud83d\udc4d 56",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-22T13:56:58+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "description": "<p>Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/\">Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+    "source_link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-22T10:36:17+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-1",
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+    "description": "<p>Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/\">Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
+    "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "source_link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-22T10:03:54+00:00"
+  },
+  {
+    "id": "hn-50595537",
+    "title": "The Mythology of Conscious AI",
+    "description": "The Mythology of Conscious AI",
+    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "source_link": "https://news.ycombinator.com/item?id=50595537",
+    "engagement": "\ud83d\udc4d 112",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-22T02:10:02+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
     "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
     "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -9,6 +53,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-21T21:37:10+00:00"
+  },
+  {
+    "id": "hn-50593481",
+    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+    "description": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+    "link": "https://www.pandex.io",
+    "source_link": "https://news.ycombinator.com/item?id=50593481",
+    "engagement": "\ud83d\udc4d 121",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-21T20:47:41+00:00"
   },
   {
     "id": "rss-TechCrunch AI-1",
@@ -33,7 +88,7 @@
     "published": "2026-11-21T16:00:00+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-2",
     "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
     "description": "<p>Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/\">Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
@@ -44,7 +99,7 @@
     "published": "2026-11-21T12:13:50+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-3",
     "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
     "description": "<p>OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/\">OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
@@ -121,7 +176,7 @@
     "published": "2026-11-20T18:15:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-4",
     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
     "description": "<p>NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/\">NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B</a> appea...",
     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
@@ -154,7 +209,7 @@
     "published": "2026-11-20T00:56:01+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-5",
     "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
     "description": "<p>We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/\">13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
@@ -163,28 +218,6 @@
     "source": "MarkTechPost",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-19T18:13:21+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-4",
-    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-    "description": "<p>Perplexity\u2019s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/\">Perplexity Launches Orchestrator API for Failover and Model Routing</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkT...",
-    "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-    "source_link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T17:47:00+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-5",
-    "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-    "description": "<p>AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/\">Not If, But How: Responding to Security Incidents in the Age of AI Attackers</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
-    "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-    "source_link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-    "engagement": "\ud83d\udce1 MarkTechPost",
-    "source": "MarkTechPost",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-19T10:45:57+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-1",
