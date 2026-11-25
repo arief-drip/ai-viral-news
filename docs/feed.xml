@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:55:00 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics</title>
       <link>https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/</link>
@@ -139,6 +139,14 @@
       <pubDate>Sun, 22 Nov 2026 10:36:17 +0000</pubDate>
     </item>
     <item>
+      <title>[📰] GPT-6.2 Astra is the first model to beat Googlers' code golf records</title>
+      <link>https://bjin.github.io/go-codegolf-benchmark/#leaderboard</link>
+      <description>&lt;p&gt;GPT-6.2 Astra is the first model to beat Googlers' code golf records&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 192&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50601280</guid>
+      <category>AI News</category>
+      <pubDate>Sun, 22 Nov 2026 16:44:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[📰] Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD</title>
       <link>https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.&lt;/p&gt;
@@ -213,82 +221,6 @@
       <pubDate>Tue, 24 Nov 2026 14:16:53 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta brings its Muse AI assistant directly into Instagram DMs</title>
-      <link>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</link>
-      <description>&lt;p&gt;The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Tidal announces ban on AI-generated music; 27 million tracks will be deleted</title>
-      <link>https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/</link>
-      <description>&lt;p&gt;
-                        AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 17:34:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] UK warns AI-driven cyberattacks are exposing years of weak security</title>
-      <link>https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/</link>
-      <description>&lt;p&gt;The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 18:02:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
-      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
-      <description>&lt;p&gt;Anthropic’s post-IPO slump could put pressure on AI startup valuations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] What's going on with the Riemann hypothesis?</title>
-      <link>https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/</link>
-      <description>&lt;p&gt;
-                        A new AI-assisted proof seems to be solid, but we're not sure what it tells us.
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 20:34:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
-      <description>&lt;p&gt;GPT-6 models demonstrate intrinsic protein-design capabilities&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 302&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50634658</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 21:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Maple raises $5.3M to build AI products that protect your data, even from itself</title>
-      <link>https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/</link>
-      <description>&lt;p&gt;The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 21:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Walmart teams up with Meta to bring Black Friday deals to AI agent Muse</title>
-      <link>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</link>
-      <description>&lt;p&gt;Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 21:32:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Even the best AI agents struggle with everyday life</title>
-      <link>https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</link>
-      <description>&lt;p&gt;As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
-      <category>AI News</category>
-      <pubDate>Tue, 24 Nov 2026 21:33:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking</title>
       <link>https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.&lt;/p&gt;
@@ -296,30 +228,6 @@
       <guid isPermaLink="false">rss-MarkTechPost-0</guid>
       <category>AI News</category>
       <pubDate>Tue, 24 Nov 2026 23:06:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] PenGPT: A Generative Transformer for Handwriting and Sketches</title>
-      <link>https://greydanus.github.io/2026/11/12/pengpt/</link>
-      <description>&lt;p&gt;PenGPT: A Generative Transformer for Handwriting and Sketches&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 306&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50637056</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 25 Nov 2026 00:54:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Top open problems in mathematics ranked by LLM-assessed importance</title>
-      <link>https://www.proofatlas.ai/open-problems/</link>
-      <description>&lt;p&gt;Top open problems in mathematics ranked by LLM-assessed importance&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 71&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50637871</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 25 Nov 2026 03:01:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Marginalia Search, Money, C++, Rust, AI, Stuff</title>
-      <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
-      <description>&lt;p&gt;Marginalia Search, Money, C++, Rust, AI, Stuff&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 164&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50638220</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 25 Nov 2026 03:47:42 +0000</pubDate>
     </item>
     <item>
       <title>[📰] AI is straining America’s open records systems</title>
@@ -330,14 +238,80 @@
       <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] AI may soon change what it means to be a theoretical physicist</title>
-      <link>https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/</link>
+      <title>[📰] Amazon and Meta reportedly in talks to lift blockade on AI agent Muse</title>
+      <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
+      <description>&lt;p&gt;Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 14:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AI data centers are becoming harder to build, and neoclouds are feeling it</title>
+      <link>https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/</link>
+      <description>&lt;p&gt;⁠Nvidia has made clear⁠ it won&amp;#8217;t backstop an AI data center until it&amp;#8217;s nearly ready to run, and that&amp;#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&amp;#8230;]&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-4</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 15:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Etsy clarifies AI terms after seller backlash</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/</link>
       <description>&lt;p&gt;
-                        Frontier AI is already solving problems that once took top physicists a full day.
+                        One veteran illustrator dismisses revisions as "sugar coating."
+                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 17:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
+      <description>&lt;p&gt;The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-3</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 17:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Want to buy your kid an AI toy this Christmas? Not in New York</title>
+      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
+      <description>&lt;p&gt;New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-2</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 18:11:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Where scientists draw the line on AI agents</title>
+      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
+      <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+      <description>&lt;p&gt;Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-1</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 19:44:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+      <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+      <description>&lt;p&gt;OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 TechCrunch AI&lt;/strong&gt; · 📍 TechCrunch AI&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-TechCrunch AI-0</guid>
+      <category>AI News</category>
+      <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] Google search alternative Kagi launches Gmail rival</title>
+      <link>https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/</link>
+      <description>&lt;p&gt;
+                        The pitch is an unusual combination of privacy promises and AI features.
                     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
       <guid isPermaLink="false">rss-Ars Technica AI-0</guid>
       <category>AI News</category>
-      <pubDate>Wed, 25 Nov 2026 12:00:28 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 20:57:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
