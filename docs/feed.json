@@ -1,6 +1,83 @@
 [
   {
+    "id": "hn-50637056",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "description": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "source_link": "https://news.ycombinator.com/item?id=50637056",
+    "engagement": "\ud83d\udc4d 82",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-25T00:54:49+00:00"
+  },
+  {
+    "id": "rss-MarkTechPost-0",
+    "title": "Meet Facebook\u2019s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+    "description": "<p>Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/\">Meet Facebook&#8217;s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking</a> appeared first on <a href=\"https://www.marktechpost.com\">...",
+    "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+    "source_link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+    "engagement": "\ud83d\udce1 MarkTechPost",
+    "source": "MarkTechPost",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T23:06:17+00:00"
+  },
+  {
     "id": "rss-TechCrunch AI-0",
+    "title": "Even the best AI agents struggle with everyday life",
+    "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "source_link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T21:33:29+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-1",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source_link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T21:32:38+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-2",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "source_link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "engagement": "\ud83d\udce1 TechCrunch AI",
+    "source": "TechCrunch AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T21:19:52+00:00"
+  },
+  {
+    "id": "hn-50634658",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "description": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "source_link": "https://news.ycombinator.com/item?id=50634658",
+    "engagement": "\ud83d\udc4d 185",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T21:02:22+00:00"
+  },
+  {
+    "id": "rss-Ars Technica AI-0",
+    "title": "What's going on with the Riemann hypothesis?",
+    "description": "\n                        A new AI-assisted proof seems to be solid, but we're not sure what it tells us.\n                    ",
+    "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "source_link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "engagement": "\ud83d\udce1 Ars Technica AI",
+    "source": "Ars Technica AI",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-24T20:34:53+00:00"
+  },
+  {
+    "id": "rss-TechCrunch AI-3",
     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
     "description": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
@@ -11,7 +88,7 @@
     "published": "2026-11-24T18:30:42+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-1",
+    "id": "rss-TechCrunch AI-4",
     "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
     "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
     "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
@@ -22,7 +99,7 @@
     "published": "2026-11-24T18:02:59+00:00"
   },
   {
-    "id": "rss-Ars Technica AI-0",
+    "id": "rss-Ars Technica AI-1",
     "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
     "description": "\n                        AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.\n                    ",
     "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
@@ -33,7 +110,7 @@
     "published": "2026-11-24T17:34:34+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-2",
+    "id": "rss-TechCrunch AI-5",
     "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
     "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent. ",
     "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
@@ -44,7 +121,7 @@
     "published": "2026-11-24T17:00:00+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-3",
+    "id": "rss-TechCrunch AI-6",
     "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
     "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
     "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
@@ -53,28 +130,6 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-24T16:46:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-4",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "source_link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-24T16:10:00+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-5",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "source_link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-24T16:02:37+00:00"
   },
   {
     "id": "rss-MIT Tech Review AI-0",
@@ -88,7 +143,7 @@
     "published": "2026-11-24T15:15:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-0",
+    "id": "rss-MarkTechPost-1",
     "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
     "description": "<p>OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/\">OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTe...",
     "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
@@ -104,13 +159,13 @@
     "description": "LLM agents work for their parent companies, not for you",
     "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
     "source_link": "https://news.ycombinator.com/item?id=50627340",
-    "engagement": "\ud83d\udc4d 732",
+    "engagement": "\ud83d\udc4d 931",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-24T12:40:15+00:00"
   },
   {
-    "id": "rss-MarkTechPost-1",
+    "id": "rss-MarkTechPost-2",
     "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
     "description": "<p>Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/\">Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
@@ -121,29 +176,7 @@
     "published": "2026-11-24T00:02:39+00:00"
   },
   {
-    "id": "rss-TechCrunch AI-6",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "source_link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-23T22:05:50+00:00"
-  },
-  {
-    "id": "rss-TechCrunch AI-7",
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "source_link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "engagement": "\ud83d\udce1 TechCrunch AI",
-    "source": "TechCrunch AI",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-23T22:02:05+00:00"
-  },
-  {
-    "id": "rss-MarkTechPost-2",
+    "id": "rss-MarkTechPost-3",
     "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
     "description": "<p>Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/\">Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
@@ -176,7 +209,7 @@
     "published": "2026-11-23T14:11:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-3",
+    "id": "rss-MarkTechPost-4",
     "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
     "description": "<p>AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million global [&#8230;]</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/\">27 Cybersecurity Terms to Prepare You for the Age of AI</a> appeared first on <a href=\"h...",
     "link": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
@@ -187,7 +220,7 @@
     "published": "2026-11-23T10:40:16+00:00"
   },
   {
-    "id": "rss-MarkTechPost-4",
+    "id": "rss-MarkTechPost-5",
     "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
     "description": "<p>Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/\">Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
@@ -198,7 +231,7 @@
     "published": "2026-11-23T10:05:47+00:00"
   },
   {
-    "id": "rss-MarkTechPost-5",
+    "id": "rss-MarkTechPost-6",
     "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
     "description": "<p>Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/\">Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
@@ -209,7 +242,7 @@
     "published": "2026-11-23T08:24:57+00:00"
   },
   {
-    "id": "rss-MarkTechPost-6",
+    "id": "rss-MarkTechPost-7",
     "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
     "description": "<p>Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/\">Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
@@ -220,7 +253,7 @@
     "published": "2026-11-22T10:36:17+00:00"
   },
   {
-    "id": "rss-MarkTechPost-7",
+    "id": "rss-MarkTechPost-8",
     "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
     "description": "<p>Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.</p>\n<p>The post <a href=\"https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/\">Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</a> appeared first on <a href=\"https://www.marktechpost.com\">MarkTechPost</a>.</p>\n",
     "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
