@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:59:02 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics</title>
       <link>https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/</link>
@@ -141,7 +141,7 @@
     <item>
       <title>[📰] GPT-6.2 Astra is the first model to beat Googlers' code golf records</title>
       <link>https://bjin.github.io/go-codegolf-benchmark/#leaderboard</link>
-      <description>&lt;p&gt;GPT-6.2 Astra is the first model to beat Googlers' code golf records&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 330&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6.2 Astra is the first model to beat Googlers' code golf records&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 445&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50601280</guid>
       <category>AI News</category>
       <pubDate>Sun, 22 Nov 2026 16:44:48 +0000</pubDate>
@@ -283,7 +283,7 @@
       <title>[📰] Where scientists draw the line on AI agents</title>
       <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
       <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
+      <guid isPermaLink="false">rss-HuggingFace Blog-1</guid>
       <category>AI News</category>
       <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
     </item>
@@ -316,18 +316,26 @@
     <item>
       <title>[📰] The New York Times warns photographers not to update Photoshop over AI features</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-      <description>&lt;p&gt;The New York Times warns photographers not to update Photoshop over AI features&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 291&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;The New York Times warns photographers not to update Photoshop over AI features&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 567&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50647673</guid>
       <category>AI News</category>
       <pubDate>Wed, 25 Nov 2026 21:18:02 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
-      <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-      <description>&lt;p&gt;OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 98&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50651117</guid>
+      <title>[📰] Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 HuggingFace Blog&lt;/strong&gt; · 📍 HuggingFace Blog&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-HuggingFace Blog-0</guid>
       <category>AI News</category>
-      <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] AMD Specific Patches for Llama.cpp</title>
+      <link>https://devnull.land/amd-specific-llama-cpp</link>
+      <description>&lt;p&gt;AMD Specific Patches for Llama.cpp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 52&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50657265</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
