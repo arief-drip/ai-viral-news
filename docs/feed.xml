@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI-Viral-News v1.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:20:17 +0000</lastBuildDate>
     <item>
       <title>[📰] Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics</title>
       <link>https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/</link>
@@ -129,22 +129,12 @@
       <pubDate>Fri, 20 Nov 2026 18:15:15 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD</title>
-      <link>https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/</link>
-      <description>&lt;p&gt;&lt;p&gt;Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/"&gt;Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
-      <category>AI News</category>
-      <pubDate>Mon, 23 Nov 2026 08:24:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI</title>
       <link>https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/</link>
       <description>&lt;p&gt;&lt;p&gt;Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/"&gt;Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-7</guid>
       <category>AI News</category>
       <pubDate>Mon, 23 Nov 2026 10:05:47 +0000</pubDate>
     </item>
@@ -153,7 +143,7 @@
       <link>https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/</link>
       <description>&lt;p&gt;&lt;p&gt;AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&amp;#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million global [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/"&gt;27 Cybersecurity Terms to Prepare You for the Age of AI&lt;/a&gt; appeared first on &lt;a href="h...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-6</guid>
       <category>AI News</category>
       <pubDate>Mon, 23 Nov 2026 10:40:16 +0000</pubDate>
     </item>
@@ -179,7 +169,7 @@
       <description>&lt;p&gt;&lt;p&gt;Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/"&gt;Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-5</guid>
       <category>AI News</category>
       <pubDate>Mon, 23 Nov 2026 19:11:40 +0000</pubDate>
     </item>
@@ -189,7 +179,7 @@
       <description>&lt;p&gt;&lt;p&gt;Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"&gt;Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-4</guid>
       <category>AI News</category>
       <pubDate>Tue, 24 Nov 2026 00:02:39 +0000</pubDate>
     </item>
@@ -198,7 +188,7 @@
       <link>https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/</link>
       <description>&lt;p&gt;&lt;p&gt;OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed "shields" that block exploit paths on running systems while teams test and roll out real patches.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/"&gt;OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTe...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-3</guid>
       <category>AI News</category>
       <pubDate>Tue, 24 Nov 2026 14:16:53 +0000</pubDate>
     </item>
@@ -207,7 +197,7 @@
       <link>https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/</link>
       <description>&lt;p&gt;&lt;p&gt;Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/"&gt;Meet Facebook&amp;#8217;s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;...&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-2</guid>
       <category>AI News</category>
       <pubDate>Tue, 24 Nov 2026 23:06:17 +0000</pubDate>
     </item>
@@ -234,16 +224,6 @@
       <guid isPermaLink="false">rss-TechCrunch AI-5</guid>
       <category>AI News</category>
       <pubDate>Wed, 25 Nov 2026 15:41:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[📰] Etsy clarifies AI terms after seller backlash</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/</link>
-      <description>&lt;p&gt;
-                        One veteran illustrator dismisses revisions as "sugar coating."
-                    &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 Ars Technica AI&lt;/strong&gt; · 📍 Ars Technica AI&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-Ars Technica AI-1</guid>
-      <category>AI News</category>
-      <pubDate>Wed, 25 Nov 2026 17:12:57 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
@@ -296,17 +276,9 @@
       <pubDate>Wed, 25 Nov 2026 20:57:09 +0000</pubDate>
     </item>
     <item>
-      <title>[📰] OpenAI may be in cost control mode</title>
-      <link>https://micjm.com/blog/openai-is-in-cost-control-mode/</link>
-      <description>&lt;p&gt;OpenAI may be in cost control mode&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 280&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
-      <guid isPermaLink="false">hn-50652527</guid>
-      <category>AI News</category>
-      <pubDate>Thu, 26 Nov 2026 07:33:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[📰] Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
       <link>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</link>
-      <description>&lt;p&gt;Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 251&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 358&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50653477</guid>
       <category>AI News</category>
       <pubDate>Thu, 26 Nov 2026 09:44:23 +0000</pubDate>
@@ -322,10 +294,18 @@
     <item>
       <title>[📰] AMD-specific fork of llama.cpp</title>
       <link>https://devnull.land/amd-specific-llama-cpp</link>
-      <description>&lt;p&gt;AMD-specific fork of llama.cpp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 291&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AMD-specific fork of llama.cpp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 389&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50657265</guid>
       <category>AI News</category>
       <pubDate>Thu, 26 Nov 2026 17:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] An introduction to uncertainty in machine learning</title>
+      <link>https://chrhenning.com/blog/2026/introduction-to-uncertainty/</link>
+      <description>&lt;p&gt;An introduction to uncertainty in machine learning&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 100&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50658498</guid>
+      <category>AI News</category>
+      <pubDate>Thu, 26 Nov 2026 19:04:50 +0000</pubDate>
     </item>
     <item>
       <title>[📰] Nvidia hits pause on chip shipments to Southeast Asia</title>
@@ -338,7 +318,7 @@
     <item>
       <title>[📰] AI made self-hosting fun again</title>
       <link>https://janlukas.blog/posts/ai-self-hosting</link>
-      <description>&lt;p&gt;AI made self-hosting fun again&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 333&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <description>&lt;p&gt;AI made self-hosting fun again&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 830&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
       <guid isPermaLink="false">hn-50660180</guid>
       <category>AI News</category>
       <pubDate>Thu, 26 Nov 2026 21:47:45 +0000</pubDate>
@@ -349,9 +329,27 @@
       <description>&lt;p&gt;&lt;p&gt;Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/"&gt;Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
-      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <guid isPermaLink="false">rss-MarkTechPost-1</guid>
       <category>AI News</category>
       <pubDate>Thu, 26 Nov 2026 22:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in</title>
+      <link>https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/</link>
+      <description>&lt;p&gt;&lt;p&gt;nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/"&gt;nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in&lt;/a&gt; appeared first on &lt;a href="https://www.marktechpost.com"&gt;MarkTechPost&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;📡 MarkTechPost&lt;/strong&gt; · 📍 MarkTechPost&lt;/p&gt;</description>
+      <guid isPermaLink="false">rss-MarkTechPost-0</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 27 Nov 2026 03:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[📰] The group chat where your AI talks behind your back</title>
+      <link>https://construct22.com/</link>
+      <description>&lt;p&gt;The group chat where your AI talks behind your back&lt;/p&gt;&lt;p&gt;&lt;strong&gt;👍 398&lt;/strong&gt; · 📍 Hacker News&lt;/p&gt;</description>
+      <guid isPermaLink="false">hn-50663595</guid>
+      <category>AI News</category>
+      <pubDate>Fri, 27 Nov 2026 06:44:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
