@@ -1,11 +1,11 @@
 [
   {
     "id": "hn-50663595",
-    "title": "The group chat where your AI talks behind your back",
-    "description": "The group chat where your AI talks behind your back",
+    "title": "Group chat where your AI talks behind your back",
+    "description": "Group chat where your AI talks behind your back",
     "link": "https://construct22.com/",
     "source_link": "https://news.ycombinator.com/item?id=50663595",
-    "engagement": "\ud83d\udc4d 398",
+    "engagement": "\ud83d\udc4d 678",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-27T06:44:34+00:00"
@@ -38,7 +38,7 @@
     "description": "AI made self-hosting fun again",
     "link": "https://janlukas.blog/posts/ai-self-hosting",
     "source_link": "https://news.ycombinator.com/item?id=50660180",
-    "engagement": "\ud83d\udc4d 830",
+    "engagement": "\ud83d\udc4d 1,094",
     "source": "Hacker News",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-26T21:47:45+00:00"
@@ -55,28 +55,6 @@
     "published": "2026-11-26T20:03:54+00:00"
   },
   {
-    "id": "hn-50658498",
-    "title": "An introduction to uncertainty in machine learning",
-    "description": "An introduction to uncertainty in machine learning",
-    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "source_link": "https://news.ycombinator.com/item?id=50658498",
-    "engagement": "\ud83d\udc4d 100",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-26T19:04:50+00:00"
-  },
-  {
-    "id": "hn-50657265",
-    "title": "AMD-specific fork of llama.cpp",
-    "description": "AMD-specific fork of llama.cpp",
-    "link": "https://devnull.land/amd-specific-llama-cpp",
-    "source_link": "https://news.ycombinator.com/item?id=50657265",
-    "engagement": "\ud83d\udc4d 389",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-26T17:11:29+00:00"
-  },
-  {
     "id": "rss-HuggingFace Blog-0",
     "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
     "description": "",
@@ -86,17 +64,6 @@
     "source": "HuggingFace Blog",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-26T11:37:17+00:00"
-  },
-  {
-    "id": "hn-50653477",
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "description": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "source_link": "https://news.ycombinator.com/item?id=50653477",
-    "engagement": "\ud83d\udc4d 358",
-    "source": "Hacker News",
-    "icon": "\ud83d\udcf0",
-    "published": "2026-11-26T09:44:23+00:00"
   },
   {
     "id": "rss-Ars Technica AI-0",
@@ -174,6 +141,17 @@
     "source": "TechCrunch AI",
     "icon": "\ud83d\udcf0",
     "published": "2026-11-25T15:41:43+00:00"
+  },
+  {
+    "id": "hn-50643158",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "description": "GPT 6.2 Astra Solves a Historical Mystery",
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "source_link": "https://news.ycombinator.com/item?id=50643158",
+    "engagement": "\ud83d\udc4d 238",
+    "source": "Hacker News",
+    "icon": "\ud83d\udcf0",
+    "published": "2026-11-25T15:16:53+00:00"
   },
   {
     "id": "rss-TechCrunch AI-6",
